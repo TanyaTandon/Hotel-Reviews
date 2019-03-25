@@ -1,0 +1,665 @@
+,City,Date,TempHigh,TempLow,Summary
+0,London,2016-09-18,66.3,57.84,Mostly cloudy throughout the day.
+1,London,2016-09-04,67.65,60.34,Mostly cloudy until evening.
+2,London,2016-08-28,68.99,62.0,Mostly cloudy throughout the day.
+3,London,2016-08-25,81.89,66.22,Mostly cloudy until afternoon.
+4,London,2016-08-23,85.39,56.51,Partly cloudy in the evening.
+5,London,2016-08-18,75.61,59.08,"Partly cloudy starting in the afternoon, continuing until evening."
+6,London,2016-08-16,74.33,52.06,Partly cloudy throughout the day.
+7,London,2016-08-13,75.95,58.79,Mostly cloudy throughout the day.
+8,London,2016-08-04,70.4,59.39,Partly cloudy throughout the day.
+9,London,2016-08-03,73.49,62.02,Mostly cloudy throughout the day.
+10,London,2016-07-27,75.0,62.63,Mostly cloudy throughout the day.
+11,London,2016-07-19,89.92,60.56,Partly cloudy overnight.
+12,London,2016-07-17,79.6,64.99,Mostly cloudy until evening.
+13,London,2016-07-07,73.31,57.58,Partly cloudy throughout the day.
+14,London,2016-07-05,69.31,58.88,Mostly cloudy until evening.
+15,London,2016-07-02,66.15,50.83,Partly cloudy until evening.
+16,London,2016-06-28,69.41,52.19,Light rain in the evening.
+17,London,2016-06-27,70.28,58.19,Mostly cloudy throughout the day.
+18,London,2016-06-21,69.56,57.99,Mostly cloudy throughout the day.
+19,London,2016-06-14,63.54,56.36,Mostly cloudy throughout the day.
+20,London,2016-06-11,71.77,58.55,Partly cloudy throughout the day.
+21,London,2016-06-10,74.73,54.66,Mostly cloudy throughout the day.
+22,London,2016-06-06,73.71,52.12,Partly cloudy starting in the evening.
+23,London,2016-06-04,66.14,53.38,Mostly cloudy throughout the day.
+24,London,2016-06-01,55.17,52.77,Overcast throughout the day.
+25,London,2016-05-29,66.52,49.14,Mostly cloudy throughout the day.
+26,London,2016-05-22,65.93,52.66,Partly cloudy throughout the day.
+27,London,2016-05-21,64.35,55.06,Mostly cloudy throughout the day.
+28,London,2016-05-20,66.51,55.35,Mostly cloudy throughout the day.
+29,London,2016-05-18,55.72,52.08,Rain in the afternoon.
+30,London,2016-05-16,64.54,46.8,Partly cloudy until evening.
+31,London,2016-05-13,64.75,49.08,Mostly cloudy throughout the day.
+32,London,2016-05-11,65.62,58.09,Light rain in the morning.
+33,London,2016-05-06,72.57,44.15,Partly cloudy throughout the day.
+34,London,2016-05-03,59.33,40.15,Partly cloudy throughout the day.
+35,London,2016-05-01,61.78,34.06,Mostly cloudy starting in the evening.
+36,London,2016-04-29,51.35,40.95,Partly cloudy until afternoon.
+37,London,2016-04-27,51.97,34.41,Partly cloudy throughout the day.
+38,London,2016-04-26,48.08,35.74,Partly cloudy until evening.
+39,London,2016-04-25,52.27,38.49,Mostly cloudy throughout the day.
+40,London,2016-04-24,49.32,38.13,Mostly cloudy throughout the day.
+41,London,2016-04-21,60.12,42.43,Partly cloudy throughout the day.
+42,London,2016-04-18,53.67,37.33,Mostly cloudy throughout the day.
+43,London,2016-04-17,53.28,33.76,Partly cloudy until evening.
+44,London,2016-04-10,54.39,34.34,Partly cloudy starting in the afternoon.
+45,London,2016-04-09,52.98,39.54,Mostly cloudy until evening.
+46,London,2016-04-08,55.44,39.23,Partly cloudy throughout the day.
+47,London,2016-04-07,50.82,40.62,Mostly cloudy throughout the day.
+48,London,2016-04-05,58.46,45.52,Partly cloudy until evening.
+49,London,2016-04-03,60.65,45.15,Mostly cloudy throughout the day.
+50,London,2016-04-01,55.29,33.25,Partly cloudy throughout the day.
+51,London,2016-03-29,54.09,40.78,Light rain in the evening.
+52,London,2016-03-28,53.44,42.13,Light rain in the morning.
+53,London,2016-03-24,52.57,41.57,Light rain overnight.
+54,London,2016-03-22,56.1,33.4,Mostly cloudy starting in the afternoon.
+55,London,2016-03-21,53.14,40.8,Mostly cloudy throughout the day.
+56,London,2016-03-20,50.75,41.2,Mostly cloudy throughout the day.
+57,London,2016-03-18,45.22,36.15,Overcast throughout the day.
+58,London,2016-03-15,47.07,36.12,Mostly cloudy throughout the day.
+59,London,2016-03-13,50.14,36.98,Foggy in the morning.
+60,London,2016-03-12,52.36,37.02,Foggy in the morning.
+61,London,2016-03-09,49.11,42.88,Rain in the morning.
+62,London,2016-03-08,47.89,29.15,Mostly cloudy throughout the day.
+63,London,2016-03-07,44.77,32.38,Mostly cloudy throughout the day.
+64,London,2016-03-05,42.44,31.68,Mostly cloudy until evening.
+65,London,2016-03-04,47.0,34.45,Partly cloudy starting in the afternoon.
+66,London,2016-03-03,48.83,38.4,Light rain overnight.
+67,London,2016-03-01,54.51,39.96,Light rain until afternoon.
+68,London,2016-02-28,45.48,36.71,Mostly cloudy throughout the day.
+69,London,2016-02-27,42.61,37.43,Mostly cloudy throughout the day.
+70,London,2016-02-24,45.8,28.58,Partly cloudy until afternoon.
+71,London,2016-02-23,47.48,32.18,Partly cloudy until afternoon.
+72,London,2016-02-22,53.05,41.3,Light rain in the morning.
+73,London,2016-02-21,57.54,52.24,Mostly cloudy throughout the day.
+74,London,2016-02-20,53.78,47.28,Mostly cloudy throughout the day.
+75,London,2016-02-18,45.66,33.75,Mostly cloudy until afternoon.
+76,London,2016-02-16,46.09,27.93,Partly cloudy overnight.
+77,London,2016-02-13,40.05,34.86,Mostly cloudy throughout the day.
+78,London,2016-02-12,41.65,35.14,Mostly cloudy throughout the day.
+79,London,2016-02-11,46.94,30.93,Partly cloudy until evening.
+80,London,2016-02-09,45.52,39.64,Partly cloudy throughout the day.
+81,London,2016-02-08,48.94,43.44,Mostly cloudy throughout the day.
+82,London,2016-02-07,49.25,40.78,Rain starting in the evening.
+83,London,2016-02-05,51.39,49.22,Mostly cloudy throughout the day.
+84,London,2016-02-03,47.55,36.8,Mostly cloudy until afternoon.
+85,London,2016-02-01,56.66,49.67,Mostly cloudy throughout the day.
+86,London,2016-01-31,55.4,39.36,Mostly cloudy throughout the day.
+87,London,2016-01-26,52.04,42.84,Mostly cloudy throughout the day.
+88,London,2016-01-24,57.54,47.68,Mostly cloudy throughout the day.
+89,London,2016-01-21,45.79,29.2,Mostly cloudy throughout the day.
+90,London,2016-01-19,39.87,26.66,Partly cloudy until afternoon.
+91,London,2016-01-18,40.25,29.1,Mostly cloudy throughout the day.
+92,London,2016-01-16,40.14,32.06,Mostly cloudy starting in the afternoon.
+93,London,2016-01-12,44.33,39.54,Mostly cloudy throughout the day.
+94,London,2016-01-10,46.06,40.29,Partly cloudy throughout the day.
+95,London,2016-01-03,49.62,41.71,Rain in the afternoon.
+96,London,2016-01-02,51.21,46.52,Mostly cloudy throughout the day.
+97,London,2015-12-30,55.44,49.78,Rain starting in the evening.
+98,London,2015-12-29,53.42,49.11,Partly cloudy throughout the day.
+99,London,2015-12-27,57.51,53.63,Mostly cloudy throughout the day.
+100,London,2015-12-26,58.49,56.6,Mostly cloudy throughout the day.
+101,London,2015-12-25,57.61,41.2,Mostly cloudy throughout the day.
+102,London,2015-12-24,54.8,43.15,Light rain in the afternoon.
+103,London,2015-12-22,58.27,51.28,Light rain overnight.
+104,London,2015-12-18,56.41,51.63,Mostly cloudy throughout the day.
+105,London,2015-12-16,58.49,54.69,Mostly cloudy throughout the day.
+106,London,2015-12-15,55.05,48.68,Light rain in the evening.
+107,London,2015-12-01,57.4,50.84,Foggy in the morning.
+108,London,2015-11-28,50.69,36.93,Mostly cloudy throughout the day.
+109,London,2015-11-27,55.25,43.37,Mostly cloudy throughout the day.
+110,London,2015-11-24,49.5,43.69,Light rain in the morning.
+111,London,2015-11-10,61.0,56.98,Mostly cloudy throughout the day.
+112,London,2015-11-07,61.6,51.63,Light rain until afternoon.
+113,London,2015-11-03,55.67,49.59,Foggy overnight.
+114,London,2015-11-01,54.19,43.9,Foggy throughout the day.
+115,London,2015-10-29,58.18,49.91,Mostly cloudy throughout the day.
+116,London,2015-10-28,60.02,49.97,Rain in the morning.
+117,London,2015-10-24,57.18,46.89,Light rain in the evening.
+118,London,2015-10-08,61.33,43.01,Partly cloudy starting in the afternoon.
+119,London,2015-10-01,64.41,48.39,Mostly cloudy overnight.
+120,London,2015-09-16,58.62,51.46,"Rain starting in the afternoon, continuing until evening."
+121,London,2015-08-25,64.58,52.53,Light rain in the afternoon.
+122,London,2015-08-18,65.72,57.37,Mostly cloudy throughout the day.
+123,London,2017-08-01,71.4,54.08,Partly cloudy throughout the day.
+124,London,2017-07-26,70.2,58.4,Mostly cloudy throughout the day.
+125,London,2017-07-16,76.69,64.11,Mostly cloudy throughout the day.
+126,London,2017-07-07,83.96,63.56,Partly cloudy starting in the evening.
+127,London,2017-06-20,85.66,63.03,Partly cloudy starting in the evening.
+128,London,2017-06-18,87.24,62.83,Partly cloudy until afternoon.
+129,London,2017-06-12,66.75,54.18,Mostly cloudy until evening.
+130,London,2017-06-10,73.42,56.24,Partly cloudy in the morning.
+131,London,2017-05-23,69.84,52.97,Mostly cloudy until evening.
+132,London,2017-05-11,67.9,43.34,Partly cloudy starting in the evening.
+133,London,2017-05-10,63.3,39.89,Mostly cloudy in the morning.
+134,London,2017-05-01,54.4,47.56,Mostly cloudy throughout the day.
+135,London,2017-04-28,56.7,44.82,Mostly cloudy throughout the day.
+136,London,2017-04-26,48.49,36.25,Mostly cloudy until evening.
+137,London,2017-04-25,51.29,34.06,Partly cloudy until evening.
+138,London,2017-04-20,58.7,41.62,Mostly cloudy throughout the day.
+139,London,2017-03-20,54.7,44.27,Mostly cloudy until evening.
+140,London,2017-03-13,59.35,42.79,Mostly cloudy starting in the evening.
+141,London,2017-03-12,54.04,47.62,Mostly cloudy throughout the day.
+142,London,2017-03-06,50.4,37.56,Partly cloudy until afternoon.
+143,London,2017-02-21,55.63,50.43,Mostly cloudy throughout the day.
+144,London,2017-02-20,62.61,49.79,Mostly cloudy throughout the day.
+145,London,2017-02-18,53.77,41.61,Foggy in the morning.
+146,London,2017-02-16,52.34,43.66,Partly cloudy throughout the day.
+147,London,2017-02-15,52.4,45.79,Mostly cloudy throughout the day.
+148,London,2017-02-11,36.41,32.98,Foggy until afternoon.
+149,London,2017-02-06,45.74,32.67,Light rain starting in the evening.
+150,London,2017-01-26,32.19,29.03,Foggy starting in the evening.
+151,London,2017-01-21,39.87,27.7,Clear throughout the day.
+152,London,2017-01-17,41.06,29.9,Clear throughout the day.
+153,London,2017-01-12,44.29,33.93,"Mixed precipitation starting in the afternoon, continuing until evening."
+154,London,2017-01-10,47.55,38.36,Mostly cloudy throughout the day.
+155,London,2017-01-08,50.23,46.21,Foggy overnight.
+156,London,2016-12-20,43.7,38.24,Mostly cloudy until evening.
+157,London,2016-12-15,51.26,43.36,Mostly cloudy throughout the day.
+158,London,2016-12-12,50.68,37.08,Foggy in the morning.
+159,London,2016-12-06,50.29,35.61,Foggy until evening.
+160,London,2016-11-30,43.62,24.95,Partly cloudy starting in the evening.
+161,London,2016-11-29,43.81,28.53,Clear throughout the day.
+162,London,2016-11-22,52.0,43.8,Mostly cloudy throughout the day.
+163,London,2016-11-10,51.28,39.22,Mostly cloudy throughout the day.
+164,London,2016-11-07,47.07,36.8,Partly cloudy until evening.
+165,London,2016-11-04,52.04,40.45,"Light rain starting in the afternoon, continuing until evening."
+166,London,2016-10-28,61.58,51.62,Mostly cloudy throughout the day.
+167,London,2016-10-25,57.4,48.67,Foggy overnight.
+168,London,2016-10-05,61.56,52.05,Partly cloudy overnight.
+169,London,2016-10-02,61.67,46.05,Mostly cloudy until evening.
+170,London,2016-09-26,64.32,49.46,Partly cloudy in the afternoon.
+171,London,2016-09-24,72.16,51.64,Partly cloudy throughout the day.
+172,London,2016-09-16,65.86,57.1,Rain in the morning.
+173,London,2016-09-03,68.9,53.69,Light rain in the evening.
+174,London,2016-09-01,75.35,54.3,Partly cloudy throughout the day.
+175,London,2016-08-24,90.21,63.17,Partly cloudy starting in the afternoon.
+176,London,2016-08-22,75.97,62.28,Mostly cloudy until evening.
+177,London,2016-08-21,71.08,59.71,Mostly cloudy throughout the day.
+178,London,2016-08-20,68.38,58.45,Mostly cloudy throughout the day.
+179,London,2016-08-19,66.32,60.72,Mostly cloudy until evening.
+180,London,2016-08-14,72.85,59.39,Mostly cloudy until evening.
+181,London,2016-08-11,72.67,58.45,Mostly cloudy throughout the day.
+182,London,2016-08-07,78.02,62.96,Mostly cloudy until afternoon.
+183,London,2016-08-01,65.82,54.0,Rain overnight.
+184,London,2016-07-14,69.07,53.08,Partly cloudy until evening.
+185,London,2016-07-12,64.61,54.69,"Light rain starting in the afternoon, continuing until evening."
+186,London,2016-07-10,71.7,61.58,Mostly cloudy throughout the day.
+187,London,2016-07-09,72.9,58.67,Partly cloudy until afternoon.
+188,London,2016-07-08,73.31,59.1,Mostly cloudy until evening.
+189,London,2016-07-03,68.92,50.49,Partly cloudy throughout the day.
+190,London,2016-06-29,62.37,52.31,Mostly cloudy throughout the day.
+191,London,2016-06-22,71.26,58.14,Rain overnight.
+192,London,2016-06-20,71.01,59.1,Rain until afternoon.
+193,London,2016-06-07,75.19,52.44,"Partly cloudy starting in the afternoon, continuing until evening."
+194,London,2016-05-31,56.44,51.94,Rain until afternoon.
+195,London,2016-05-27,69.57,50.78,Partly cloudy until evening.
+196,London,2016-05-26,68.1,44.5,Partly cloudy until afternoon.
+197,London,2016-05-25,54.12,48.32,Mostly cloudy throughout the day.
+198,London,2016-05-19,64.49,50.17,Mostly cloudy throughout the day.
+199,London,2016-05-17,63.86,45.97,Partly cloudy throughout the day.
+200,London,2016-05-14,56.37,45.78,Mostly cloudy until evening.
+201,London,2016-05-12,73.73,53.57,Foggy in the morning.
+202,London,2016-05-09,74.94,57.28,Partly cloudy throughout the day.
+203,London,2016-04-22,51.87,42.84,Mostly cloudy throughout the day.
+204,London,2016-04-19,60.02,46.3,Mostly cloudy until afternoon.
+205,London,2016-04-14,61.61,44.3,Partly cloudy in the morning.
+206,London,2016-04-12,61.84,45.87,Partly cloudy until evening.
+207,London,2016-04-04,54.55,47.12,Partly cloudy throughout the day.
+208,London,2016-04-02,59.05,46.12,Light rain in the evening.
+209,London,2016-03-27,51.01,42.75,Rain overnight.
+210,London,2016-03-25,58.68,45.46,Mostly cloudy in the morning.
+211,London,2016-03-19,47.71,42.3,Mostly cloudy throughout the day.
+212,London,2016-03-17,52.58,35.09,"Partly cloudy starting in the afternoon, continuing until evening."
+213,London,2016-03-14,50.59,39.49,Mostly cloudy until evening.
+214,London,2016-03-11,50.47,32.27,Foggy in the morning.
+215,London,2016-03-10,47.76,37.63,Foggy overnight.
+216,London,2016-03-06,44.43,32.98,Partly cloudy throughout the day.
+217,London,2016-03-02,46.61,38.94,Mostly cloudy throughout the day.
+218,London,2016-02-26,45.97,31.68,Mostly cloudy throughout the day.
+219,London,2016-02-25,42.34,28.66,Mostly cloudy throughout the day.
+220,London,2016-02-19,49.05,30.95,Mostly cloudy starting in the afternoon.
+221,London,2016-02-17,44.02,36.39,Light rain starting in the evening.
+222,London,2016-02-14,43.42,35.58,Partly cloudy until evening.
+223,London,2016-02-06,53.53,47.46,Light rain starting in the evening.
+224,London,2016-02-04,56.25,38.86,Mostly cloudy throughout the day.
+225,London,2016-01-30,51.66,40.89,Partly cloudy until afternoon.
+226,London,2016-01-23,50.07,40.44,Mostly cloudy throughout the day.
+227,London,2016-01-17,38.95,33.35,Foggy in the morning.
+228,London,2016-01-15,41.96,33.95,Partly cloudy starting in the evening.
+229,London,2016-01-14,40.71,35.53,Mostly cloudy until evening.
+230,London,2016-01-11,44.44,39.75,Rain in the morning.
+231,London,2016-01-07,49.69,38.43,Rain until afternoon.
+232,London,2015-12-17,58.96,53.04,Mostly cloudy throughout the day.
+233,London,2015-12-14,49.98,45.35,Mostly cloudy throughout the day.
+234,London,2015-12-13,54.44,43.55,Mostly cloudy throughout the day.
+235,London,2015-12-12,55.27,40.95,Mostly cloudy throughout the day.
+236,London,2015-12-07,56.13,51.85,Mostly cloudy until evening.
+237,London,2015-12-02,55.46,53.19,Mostly cloudy throughout the day.
+238,London,2015-11-17,59.98,54.25,Rain in the afternoon.
+239,London,2015-11-15,60.97,56.36,Mostly cloudy throughout the day.
+240,London,2015-10-30,60.26,55.12,Mostly cloudy throughout the day.
+241,London,2015-10-25,53.69,37.78,Partly cloudy until evening.
+242,London,2015-10-20,58.99,44.73,Partly cloudy starting in the evening.
+243,London,2015-10-18,58.65,51.56,Mostly cloudy throughout the day.
+244,London,2015-10-12,56.63,46.12,Mostly cloudy throughout the day.
+245,London,2015-10-11,58.81,48.6,Mostly cloudy starting in the afternoon.
+246,London,2015-10-09,62.54,41.77,"Partly cloudy starting in the afternoon, continuing until evening."
+247,London,2015-10-06,65.1,58.25,Mostly cloudy throughout the day.
+248,London,2015-10-03,61.1,45.3,Foggy in the morning.
+249,London,2015-09-30,64.71,49.19,Clear throughout the day.
+250,London,2015-09-27,64.6,45.29,Partly cloudy until evening.
+251,London,2015-09-22,57.32,48.27,Rain in the morning.
+252,London,2015-09-20,67.23,46.21,"Partly cloudy starting in the afternoon, continuing until evening."
+253,London,2015-09-17,63.89,49.31,"Partly cloudy starting in the afternoon, continuing until evening."
+254,London,2015-09-06,66.64,41.92,Partly cloudy in the afternoon.
+255,London,2015-09-04,59.74,50.08,Mostly cloudy throughout the day.
+256,London,2015-09-01,64.0,54.24,Partly cloudy until evening.
+257,London,2015-08-16,67.95,50.72,Partly cloudy throughout the day.
+258,London,2015-08-09,78.95,53.64,"Partly cloudy starting in the afternoon, continuing until evening."
+259,London,2017-07-05,82.13,57.88,Partly cloudy in the morning.
+260,London,2017-07-03,74.55,58.43,Mostly cloudy until evening.
+261,London,2017-07-01,71.33,57.83,Mostly cloudy throughout the day.
+262,London,2017-06-14,77.64,54.92,Partly cloudy until evening.
+263,London,2017-05-25,77.4,55.37,Partly cloudy until afternoon.
+264,London,2017-05-22,75.8,50.85,Partly cloudy in the morning.
+265,London,2017-05-17,65.38,55.15,Rain in the morning and evening.
+266,London,2017-05-16,74.87,59.93,Rain overnight.
+267,London,2017-05-14,66.91,51.9,Partly cloudy until evening.
+268,London,2017-05-04,55.79,48.91,Mostly cloudy throughout the day.
+269,London,2017-04-27,51.2,31.92,Mostly cloudy starting in the afternoon.
+270,London,2017-04-21,59.28,46.81,Overcast throughout the day.
+271,London,2017-04-19,56.43,35.14,Partly cloudy starting in the evening.
+272,London,2017-04-05,58.19,41.79,Mostly cloudy throughout the day.
+273,London,2017-03-07,51.8,40.26,Mostly cloudy throughout the day.
+274,London,2017-03-05,49.73,42.13,Light rain in the morning and evening.
+275,London,2017-03-01,48.61,42.02,Mostly cloudy throughout the day.
+276,London,2017-02-27,48.48,38.08,Light rain in the morning and afternoon.
+277,London,2017-02-24,48.46,37.01,Partly cloudy throughout the day.
+278,London,2017-02-07,50.44,38.53,Foggy in the morning.
+279,London,2017-01-29,48.89,37.27,Rain in the evening.
+280,London,2017-01-22,42.66,24.57,Foggy starting in the evening.
+281,London,2016-12-31,46.41,38.59,Foggy in the morning.
+282,London,2016-12-25,55.39,49.84,Overcast throughout the day.
+283,London,2016-12-24,50.13,41.77,Mostly cloudy throughout the day.
+284,London,2016-12-23,51.49,41.48,Mostly cloudy throughout the day.
+285,London,2016-12-14,55.8,44.36,Foggy in the morning.
+286,London,2016-12-05,45.81,29.77,Foggy starting in the evening.
+287,London,2016-12-04,45.23,33.82,"Partly cloudy starting in the afternoon, continuing until evening."
+288,London,2016-12-01,45.6,29.27,Mostly cloudy starting in the evening.
+289,London,2016-11-24,50.97,45.34,Mostly cloudy until evening.
+290,London,2016-11-01,53.77,44.61,Foggy in the morning.
+291,London,2016-10-29,59.88,49.88,Foggy overnight.
+292,London,2016-10-14,57.37,47.1,Mostly cloudy starting in the afternoon.
+293,London,2016-10-13,55.08,47.04,Mostly cloudy throughout the day.
+294,London,2016-10-11,59.25,41.89,Partly cloudy throughout the day.
+295,London,2016-10-10,56.56,42.85,"Partly cloudy starting in the afternoon, continuing until evening."
+296,London,2016-10-09,58.65,46.54,Partly cloudy starting in the afternoon.
+297,London,2016-10-06,58.83,48.29,Mostly cloudy throughout the day.
+298,London,2016-10-04,64.44,48.88,Partly cloudy until afternoon.
+299,London,2016-10-03,64.25,40.84,Partly cloudy until afternoon.
+300,London,2016-10-01,59.5,49.37,Partly cloudy throughout the day.
+301,London,2016-09-30,64.7,50.94,"Partly cloudy starting in the afternoon, continuing until evening."
+302,London,2016-09-23,67.12,46.62,Partly cloudy until afternoon.
+303,London,2016-09-15,82.53,60.29,Mostly cloudy starting in the evening.
+304,London,2016-09-10,67.45,59.6,Mostly cloudy throughout the day.
+305,London,2016-09-06,74.04,67.15,Mostly cloudy throughout the day.
+306,London,2016-08-31,74.07,53.66,Partly cloudy until evening.
+307,London,2016-08-30,79.35,53.43,Clear throughout the day.
+308,London,2016-08-27,77.39,59.68,Partly cloudy in the morning.
+309,London,2016-08-09,67.8,51.46,"Partly cloudy starting in the afternoon, continuing until evening."
+310,London,2016-08-08,69.53,58.54,Partly cloudy until evening.
+311,London,2016-08-05,74.95,55.36,Partly cloudy until afternoon.
+312,London,2016-08-02,68.98,57.44,Mostly cloudy throughout the day.
+313,London,2016-07-28,71.9,58.01,Partly cloudy in the morning.
+314,London,2016-07-26,71.43,55.87,Partly cloudy throughout the day.
+315,London,2016-07-25,74.51,58.32,Partly cloudy throughout the day.
+316,London,2016-07-23,81.31,57.89,"Partly cloudy starting in the afternoon, continuing until evening."
+317,London,2016-07-22,74.68,63.43,Partly cloudy until afternoon.
+318,London,2016-07-20,85.62,68.4,Partly cloudy until afternoon.
+319,London,2016-07-13,64.77,53.74,Partly cloudy throughout the day.
+320,London,2016-07-06,71.3,50.98,Partly cloudy throughout the day.
+321,London,2016-07-01,66.29,54.74,Mostly cloudy until evening.
+322,London,2016-06-26,68.32,53.8,Mostly cloudy throughout the day.
+323,London,2016-06-15,65.36,52.8,Partly cloudy throughout the day.
+324,London,2016-06-12,67.6,57.73,Light rain until afternoon.
+325,London,2016-06-09,71.39,54.69,Mostly cloudy throughout the day.
+326,London,2016-05-24,62.14,45.54,Partly cloudy until evening.
+327,London,2016-05-15,62.97,38.32,Partly cloudy throughout the day.
+328,London,2016-05-04,64.28,38.55,"Partly cloudy starting in the afternoon, continuing until evening."
+329,London,2016-05-02,62.11,49.13,Mostly cloudy until evening.
+330,London,2016-04-20,57.28,37.91,Partly cloudy in the afternoon.
+331,London,2016-04-16,47.26,38.96,Mostly cloudy until evening.
+332,London,2016-04-06,54.32,42.39,Mostly cloudy until afternoon.
+333,London,2016-03-31,54.05,40.03,Partly cloudy until evening.
+334,London,2016-03-23,50.72,42.7,Mostly cloudy throughout the day.
+335,London,2016-02-29,47.66,32.62,Partly cloudy throughout the day.
+336,London,2016-02-15,43.12,32.7,Partly cloudy until evening.
+337,London,2016-02-02,49.68,40.38,"Partly cloudy starting in the afternoon, continuing until evening."
+338,London,2016-01-28,48.82,35.95,Mostly cloudy starting in the afternoon.
+339,London,2016-01-27,54.86,46.37,Light rain in the afternoon.
+340,London,2016-01-13,44.05,36.56,Light rain overnight.
+341,London,2016-01-04,49.15,42.5,Partly cloudy throughout the day.
+342,London,2016-01-01,46.8,34.33,Mostly cloudy throughout the day.
+343,London,2015-12-31,51.43,41.74,Light rain in the evening.
+344,London,2015-12-28,55.6,49.09,Partly cloudy throughout the day.
+345,London,2015-12-21,54.52,44.94,Mostly cloudy throughout the day.
+346,London,2015-12-19,60.73,55.33,Mostly cloudy in the morning.
+347,London,2015-12-09,52.91,39.28,Mostly cloudy starting in the evening.
+348,London,2015-12-08,55.63,45.07,Mostly cloudy until afternoon.
+349,London,2015-12-06,57.1,54.38,Mostly cloudy throughout the day.
+350,London,2015-11-30,55.57,47.35,Mostly cloudy throughout the day.
+351,London,2015-11-21,42.15,32.21,Light rain in the morning.
+352,London,2015-11-20,48.47,40.87,Partly cloudy throughout the day.
+353,London,2015-11-08,60.64,47.67,Mostly cloudy throughout the day.
+354,London,2015-11-05,59.33,55.73,"Light rain starting in the afternoon, continuing until evening."
+355,London,2015-11-02,55.09,47.11,Foggy until evening.
+356,London,2015-10-31,61.5,48.14,Foggy starting in the evening.
+357,London,2015-10-27,64.57,53.05,Foggy in the morning.
+358,London,2015-10-14,55.13,42.19,Mostly cloudy throughout the day.
+359,London,2015-10-13,54.51,45.68,Mostly cloudy throughout the day.
+360,London,2015-10-05,62.69,55.48,Light rain starting in the evening.
+361,London,2015-09-28,64.79,45.58,Partly cloudy throughout the day.
+362,London,2015-09-23,62.79,46.59,Mostly cloudy starting in the evening.
+363,London,2015-09-15,63.95,50.39,Partly cloudy throughout the day.
+364,London,2015-09-10,69.44,51.74,Partly cloudy in the morning.
+365,London,2015-09-09,66.12,54.57,Mostly cloudy throughout the day.
+366,London,2015-09-08,61.25,50.47,Mostly cloudy throughout the day.
+367,London,2015-09-07,64.51,46.8,Mostly cloudy until evening.
+368,London,2015-08-30,67.57,59.62,Mostly cloudy throughout the day.
+369,London,2015-08-27,66.61,56.19,Partly cloudy until evening.
+370,London,2015-08-21,78.92,64.87,Mostly cloudy until afternoon.
+371,London,2015-08-15,67.92,57.01,Mostly cloudy throughout the day.
+372,London,2015-08-13,68.58,61.35,Rain in the afternoon.
+373,London,2015-08-11,70.31,57.39,Partly cloudy until afternoon.
+374,London,2015-08-07,75.83,52.23,Partly cloudy until evening.
+375,London,2015-08-04,69.26,55.66,Partly cloudy throughout the day.
+376,London,2017-07-11,66.07,58.2,Rain starting in the evening.
+377,London,2017-06-19,87.8,63.21,Partly cloudy starting in the evening.
+378,London,2017-06-13,73.75,50.31,Partly cloudy starting in the afternoon.
+379,London,2017-06-04,66.57,49.82,Mostly cloudy throughout the day.
+380,London,2017-06-01,76.4,53.18,Partly cloudy until afternoon.
+381,London,2017-05-30,67.7,58.8,Mostly cloudy until evening.
+382,London,2017-05-24,77.41,54.38,"Partly cloudy starting in the afternoon, continuing until evening."
+383,London,2017-05-15,64.9,49.0,Mostly cloudy throughout the day.
+384,London,2017-05-08,53.1,45.99,Mostly cloudy throughout the day.
+385,London,2017-05-07,62.87,47.63,Mostly cloudy throughout the day.
+386,London,2017-05-02,62.16,42.12,Mostly cloudy starting in the afternoon.
+387,London,2017-04-30,61.09,48.76,Mostly cloudy starting in the evening.
+388,London,2017-04-18,54.65,39.54,Partly cloudy until afternoon.
+389,London,2017-04-16,58.36,42.88,Mostly cloudy throughout the day.
+390,London,2017-04-11,60.76,41.89,Partly cloudy starting in the evening.
+391,London,2017-04-10,56.53,47.78,Mostly cloudy throughout the day.
+392,London,2017-04-07,63.14,40.28,Clear throughout the day.
+393,London,2017-04-01,59.28,48.29,Mostly cloudy throughout the day.
+394,London,2017-03-29,58.6,52.01,Mostly cloudy throughout the day.
+395,London,2017-03-28,62.54,41.66,Foggy in the morning.
+396,London,2017-03-23,51.61,43.08,Mostly cloudy throughout the day.
+397,London,2017-03-21,51.91,39.88,Partly cloudy until evening.
+398,London,2017-03-19,59.04,53.25,Mostly cloudy throughout the day.
+399,London,2017-03-18,58.14,50.4,Mostly cloudy throughout the day.
+400,London,2017-03-17,51.9,40.0,Mostly cloudy throughout the day.
+401,London,2017-03-14,58.3,45.62,Mostly cloudy until evening.
+402,London,2017-03-10,53.88,43.93,Mostly cloudy throughout the day.
+403,London,2017-03-04,52.75,44.74,Mostly cloudy throughout the day.
+404,London,2017-02-23,51.53,41.95,Mostly cloudy throughout the day.
+405,London,2017-02-05,42.82,38.42,Mostly cloudy throughout the day.
+406,London,2017-01-31,47.27,41.68,Light rain starting in the evening.
+407,London,2017-01-19,43.66,28.44,Clear throughout the day.
+408,London,2017-01-11,51.62,41.82,Mostly cloudy until evening.
+409,London,2017-01-07,50.48,43.03,Foggy in the morning.
+410,London,2017-01-06,42.7,29.13,Foggy overnight.
+411,London,2017-01-04,45.1,34.13,Mostly cloudy until evening.
+412,London,2017-01-02,40.98,31.1,Clear throughout the day.
+413,London,2017-01-01,48.73,39.66,"Light rain starting in the afternoon, continuing until evening."
+414,London,2016-12-09,57.33,51.29,Mostly cloudy throughout the day.
+415,London,2016-11-21,53.99,41.52,Light rain in the afternoon.
+416,London,2016-11-20,48.58,41.41,Rain in the morning and overnight.
+417,London,2016-11-18,44.82,37.68,Partly cloudy in the afternoon.
+418,London,2016-11-11,50.69,38.44,Mostly cloudy until afternoon.
+419,London,2016-11-09,46.81,39.69,Rain in the morning.
+420,London,2016-11-06,45.06,34.87,Mostly cloudy throughout the day.
+421,London,2016-10-19,55.66,47.49,Partly cloudy until evening.
+422,London,2016-10-18,56.0,47.97,Partly cloudy throughout the day.
+423,London,2016-10-17,61.51,49.63,"Partly cloudy starting in the afternoon, continuing until evening."
+424,London,2016-09-20,64.87,58.41,Mostly cloudy throughout the day.
+425,London,2016-09-13,88.6,61.0,Partly cloudy throughout the day.
+426,London,2016-09-02,68.37,57.74,Mostly cloudy throughout the day.
+427,London,2016-08-17,77.64,54.32,Partly cloudy in the morning.
+428,London,2016-08-12,80.07,57.77,Partly cloudy in the morning.
+429,London,2016-08-06,78.03,55.19,Mostly cloudy overnight.
+430,London,2016-07-30,71.02,60.25,Mostly cloudy until evening.
+431,London,2016-07-29,71.2,61.87,Mostly cloudy throughout the day.
+432,London,2016-07-18,85.06,59.55,Partly cloudy in the afternoon.
+433,London,2016-07-16,78.82,62.5,Mostly cloudy until evening.
+434,London,2016-07-11,69.34,59.41,Mostly cloudy throughout the day.
+435,London,2016-07-04,69.62,51.54,Mostly cloudy starting in the afternoon.
+436,London,2016-06-23,70.13,64.39,Rain in the morning and evening.
+437,London,2016-06-19,68.54,53.64,Mostly cloudy throughout the day.
+438,London,2016-06-16,65.2,55.05,Mostly cloudy throughout the day.
+439,London,2016-06-02,55.01,50.04,Mostly cloudy throughout the day.
+440,London,2016-05-30,62.07,53.41,Mostly cloudy throughout the day.
+441,London,2016-05-10,61.92,58.64,"Rain until afternoon, starting again overnight."
+442,London,2016-05-08,79.37,53.53,"Partly cloudy starting in the afternoon, continuing until evening."
+443,London,2016-04-30,55.26,34.63,Partly cloudy until evening.
+444,London,2016-04-11,58.28,48.45,Mostly cloudy starting in the afternoon.
+445,London,2016-03-30,54.4,40.54,Partly cloudy throughout the day.
+446,London,2016-03-16,47.81,41.31,Mostly cloudy throughout the day.
+447,London,2016-02-10,47.09,35.5,Mostly cloudy until evening.
+448,London,2016-01-29,53.08,48.95,Light rain overnight.
+449,London,2016-01-20,42.03,24.76,Foggy overnight.
+450,London,2016-01-09,50.81,43.63,Rain starting in the evening.
+451,London,2016-01-05,48.8,42.04,Mostly cloudy throughout the day.
+452,London,2015-12-23,53.06,47.24,Mostly cloudy starting in the evening.
+453,London,2015-12-20,58.1,48.02,Partly cloudy until evening.
+454,London,2015-12-10,52.89,48.84,Light rain starting in the evening.
+455,London,2015-11-29,55.65,49.7,Mostly cloudy throughout the day.
+456,London,2015-11-26,50.78,43.86,Mostly cloudy throughout the day.
+457,London,2015-11-25,50.6,43.98,Partly cloudy throughout the day.
+458,London,2015-11-23,44.45,31.5,Mostly cloudy throughout the day.
+459,London,2015-11-22,42.84,28.67,Partly cloudy until evening.
+460,London,2015-11-18,59.24,51.33,Partly cloudy throughout the day.
+461,London,2015-11-06,62.77,56.61,Mostly cloudy throughout the day.
+462,London,2015-10-26,60.1,42.09,Foggy overnight.
+463,London,2015-10-22,57.34,51.22,Mostly cloudy throughout the day.
+464,London,2015-10-21,57.71,46.21,Light rain until afternoon.
+465,London,2015-10-19,57.31,50.0,Mostly cloudy throughout the day.
+466,London,2015-10-17,55.0,50.56,Mostly cloudy throughout the day.
+467,London,2015-10-15,54.11,48.41,Mostly cloudy throughout the day.
+468,London,2015-10-02,65.1,44.8,Partly cloudy overnight.
+469,London,2015-09-29,65.5,48.54,Mostly cloudy starting in the afternoon.
+470,London,2015-09-21,58.71,52.2,"Light rain starting in the afternoon, continuing until evening."
+471,London,2015-09-03,61.04,48.46,Partly cloudy throughout the day.
+472,London,2015-09-02,63.39,48.45,Partly cloudy throughout the day.
+473,London,2015-08-29,71.27,57.15,Partly cloudy throughout the day.
+474,London,2015-08-23,71.24,56.95,Light rain in the afternoon.
+475,London,2015-08-17,69.6,52.73,Mostly cloudy throughout the day.
+476,London,2015-08-06,74.13,58.07,Partly cloudy throughout the day.
+477,London,2017-07-14,68.97,58.18,Mostly cloudy throughout the day.
+478,London,2017-07-12,69.32,57.73,Rain in the morning.
+479,London,2017-07-08,79.32,63.91,Mostly cloudy until afternoon.
+480,London,2017-07-04,74.6,55.37,Mostly cloudy throughout the day.
+481,London,2017-07-02,73.77,59.2,Mostly cloudy in the morning.
+482,London,2017-06-28,61.66,55.86,Overcast throughout the day.
+483,London,2017-06-22,73.29,65.2,Mostly cloudy throughout the day.
+484,London,2017-06-21,89.93,60.84,Partly cloudy starting in the afternoon.
+485,London,2017-06-16,74.42,53.48,Mostly cloudy until evening.
+486,London,2017-06-15,74.77,57.59,"Partly cloudy starting in the afternoon, continuing until evening."
+487,London,2017-06-09,68.0,54.12,Partly cloudy until evening.
+488,London,2017-06-08,64.23,55.91,Mostly cloudy throughout the day.
+489,London,2017-06-06,60.76,50.01,Rain until afternoon.
+490,London,2017-05-29,70.74,56.36,Mostly cloudy throughout the day.
+491,London,2017-05-28,75.51,53.27,Rain overnight.
+492,London,2017-05-19,58.48,49.37,Mostly cloudy throughout the day.
+493,London,2017-05-03,51.27,45.34,Mostly cloudy throughout the day.
+494,London,2017-04-17,53.94,46.37,Mostly cloudy until evening.
+495,London,2017-04-15,58.05,47.56,Partly cloudy throughout the day.
+496,London,2017-04-13,57.04,43.32,Mostly cloudy throughout the day.
+497,London,2017-04-12,61.67,42.82,Mostly cloudy throughout the day.
+498,London,2017-04-08,68.92,40.61,Foggy in the morning.
+499,London,2017-04-06,63.65,40.74,Clear throughout the day.
+500,London,2017-04-02,60.16,43.69,Partly cloudy until evening.
+501,London,2017-03-30,69.81,53.19,Partly cloudy throughout the day.
+502,London,2017-03-25,57.86,39.53,Partly cloudy in the morning.
+503,London,2017-03-24,54.41,43.27,Mostly cloudy until afternoon.
+504,London,2017-03-15,63.78,46.29,Foggy in the morning.
+505,London,2017-02-22,55.64,51.34,Mostly cloudy throughout the day.
+506,London,2017-02-08,40.27,36.67,Mostly cloudy throughout the day.
+507,London,2017-02-02,51.95,48.69,Mostly cloudy throughout the day.
+508,London,2017-02-01,51.08,47.57,Foggy in the morning.
+509,London,2017-01-28,49.53,39.65,Mostly cloudy until evening.
+510,London,2017-01-14,40.23,32.76,Mostly cloudy until evening.
+511,London,2016-12-27,44.05,31.45,Partly cloudy until evening.
+512,London,2016-12-17,45.51,39.92,Foggy throughout the day.
+513,London,2016-11-26,46.83,36.54,Mostly cloudy throughout the day.
+514,London,2016-11-25,51.58,41.04,Partly cloudy starting in the evening.
+515,London,2016-11-19,45.94,34.86,Rain overnight.
+516,London,2016-10-27,59.26,49.21,Foggy in the morning.
+517,London,2016-10-12,58.43,48.59,Mostly cloudy throughout the day.
+518,London,2016-09-22,67.11,56.54,Partly cloudy throughout the day.
+519,London,2016-09-11,70.65,48.03,Partly cloudy in the morning.
+520,London,2016-09-09,71.68,59.07,Mostly cloudy throughout the day.
+521,London,2016-09-08,73.49,59.47,Partly cloudy starting in the afternoon.
+522,London,2016-09-05,71.73,58.07,Mostly cloudy throughout the day.
+523,London,2016-08-29,74.23,58.92,Partly cloudy until afternoon.
+524,London,2016-08-26,80.51,64.1,Partly cloudy in the morning.
+525,London,2016-08-15,73.89,50.96,Partly cloudy starting in the evening.
+526,London,2016-08-10,67.15,50.88,Partly cloudy throughout the day.
+527,London,2016-07-24,75.11,58.01,Mostly cloudy throughout the day.
+528,London,2016-07-21,76.83,58.08,Partly cloudy throughout the day.
+529,London,2016-06-30,67.78,56.2,Mostly cloudy throughout the day.
+530,London,2016-06-25,66.74,53.04,Partly cloudy throughout the day.
+531,London,2016-06-24,71.19,54.1,Partly cloudy throughout the day.
+532,London,2016-06-05,74.37,53.47,Mostly cloudy until afternoon.
+533,London,2016-06-03,56.37,48.44,Mostly cloudy throughout the day.
+534,London,2016-05-28,68.13,50.95,Partly cloudy until evening.
+535,London,2016-05-23,65.39,48.86,Partly cloudy starting in the afternoon.
+536,London,2016-05-07,74.37,53.29,Partly cloudy until afternoon.
+537,London,2016-04-28,53.55,33.13,Partly cloudy throughout the day.
+538,London,2016-01-25,55.16,46.24,Partly cloudy until evening.
+539,London,2016-01-22,50.48,40.76,Light rain in the afternoon.
+540,London,2016-01-08,48.29,34.81,Partly cloudy throughout the day.
+541,London,2015-12-11,50.71,41.8,Partly cloudy throughout the day.
+542,London,2015-12-03,54.72,52.73,Light rain overnight.
+543,London,2015-11-19,55.03,48.32,Partly cloudy until evening.
+544,London,2015-11-16,56.53,52.93,Light rain overnight.
+545,London,2015-11-14,57.9,45.41,"Light rain starting in the afternoon, continuing until evening."
+546,London,2015-11-12,60.01,50.98,Mostly cloudy throughout the day.
+547,London,2015-11-11,59.17,55.5,Mostly cloudy throughout the day.
+548,London,2015-11-04,57.72,52.22,Light rain in the morning.
+549,London,2015-10-16,55.28,51.46,Mostly cloudy throughout the day.
+550,London,2015-09-24,64.36,52.99,Light rain in the morning.
+551,London,2015-09-19,65.62,51.18,Mostly cloudy in the morning.
+552,London,2015-09-13,64.03,48.58,Partly cloudy throughout the day.
+553,London,2015-08-28,68.99,49.66,Partly cloudy starting in the afternoon.
+554,London,2015-08-24,61.8,55.0,Rain until evening.
+555,London,2015-08-20,69.95,59.46,Mostly cloudy throughout the day.
+556,London,2015-08-12,71.12,58.92,Mostly cloudy throughout the day.
+557,London,2015-08-10,72.71,62.96,Mostly cloudy throughout the day.
+558,London,2015-08-08,78.33,56.66,Partly cloudy until afternoon.
+559,London,2017-07-31,71.42,55.44,Partly cloudy until afternoon.
+560,London,2017-07-30,68.65,58.65,Mostly cloudy until evening.
+561,London,2017-07-24,63.46,57.27,Mostly cloudy throughout the day.
+562,London,2017-07-17,79.06,59.08,Partly cloudy starting in the afternoon.
+563,London,2017-07-13,71.93,53.99,Partly cloudy throughout the day.
+564,London,2017-07-09,80.68,62.72,Partly cloudy until evening.
+565,London,2017-06-29,63.62,53.64,Mostly cloudy throughout the day.
+566,London,2017-06-26,74.96,54.71,Partly cloudy starting in the evening.
+567,London,2017-06-17,84.05,58.45,Partly cloudy until evening.
+568,London,2017-06-02,76.36,55.09,Partly cloudy throughout the day.
+569,London,2017-05-27,72.86,59.27,Partly cloudy until evening.
+570,London,2017-04-22,58.81,47.76,Mostly cloudy throughout the day.
+571,London,2017-04-14,58.15,45.8,Mostly cloudy throughout the day.
+572,London,2017-03-03,51.5,42.22,Mostly cloudy throughout the day.
+573,London,2017-02-25,50.28,41.26,Mostly cloudy throughout the day.
+574,London,2017-02-17,54.63,43.26,Mostly cloudy throughout the day.
+575,London,2017-01-20,43.93,28.19,Clear throughout the day.
+576,London,2016-12-29,46.01,29.73,Foggy overnight.
+577,London,2016-12-11,49.9,39.83,Foggy overnight.
+578,London,2016-11-17,54.69,44.51,Mostly cloudy until evening.
+579,London,2016-11-15,60.18,54.51,Mostly cloudy throughout the day.
+580,London,2016-10-20,57.02,48.27,Mostly cloudy throughout the day.
+581,London,2016-09-17,60.05,55.47,Overcast throughout the day.
+582,London,2016-09-12,76.86,52.64,Partly cloudy throughout the day.
+583,London,2016-09-07,80.98,65.47,Mostly cloudy until evening.
+584,London,2016-07-31,70.66,55.5,Partly cloudy throughout the day.
+585,London,2016-07-15,67.92,51.59,Mostly cloudy throughout the day.
+586,London,2016-06-17,65.3,55.31,Light rain overnight.
+587,London,2016-05-05,68.63,43.22,Partly cloudy throughout the day.
+588,London,2016-04-23,50.09,38.67,Partly cloudy throughout the day.
+589,London,2016-04-15,53.89,47.54,"Light rain starting in the afternoon, continuing until evening."
+590,London,2016-03-26,55.89,44.58,Rain in the evening.
+591,London,2016-01-06,45.69,41.88,Foggy in the morning.
+592,London,2015-12-05,54.65,52.62,Mostly cloudy throughout the day.
+593,London,2015-10-23,56.47,49.37,Mostly cloudy throughout the day.
+594,London,2015-10-07,58.18,51.82,Mostly cloudy throughout the day.
+595,London,2015-09-18,63.74,52.0,Partly cloudy until evening.
+596,London,2015-09-12,69.37,53.85,Partly cloudy throughout the day.
+597,London,2015-09-11,70.2,52.26,Mostly cloudy starting in the evening.
+598,London,2015-08-22,85.76,57.32,Partly cloudy until afternoon.
+599,London,2015-08-19,69.52,55.75,Light rain overnight.
+600,London,2015-08-14,68.79,60.65,Foggy in the morning.
+601,London,2015-08-05,70.33,58.52,Partly cloudy until afternoon.
+602,Paris,2017-06-29,70.11,58.21,Mostly cloudy throughout the day.
+603,Paris,2017-04-25,51.47,42.99,Overcast throughout the day.
+604,Paris,2017-04-18,52.63,36.55,Mostly cloudy in the morning.
+605,Paris,2016-11-11,49.86,33.72,Mostly cloudy until afternoon.
+606,Paris,2016-08-28,81.85,67.74,Mostly cloudy throughout the day.
+607,Paris,2016-07-29,77.65,65.89,Mostly cloudy throughout the day.
+608,Paris,2016-07-27,77.5,57.9,Mostly cloudy throughout the day.
+609,Paris,2016-04-22,62.35,52.09,Mostly cloudy throughout the day.
+610,Paris,2016-02-22,53.58,49.56,Overcast throughout the day.
+611,Paris,2016-01-14,45.49,38.01,Mostly cloudy until evening.
+612,Paris,2016-01-07,52.8,42.73,Light rain in the morning.
+613,Paris,2015-10-27,69.61,50.91,Light rain overnight.
+614,Paris,2015-10-26,59.97,46.85,Foggy in the morning.
+615,Paris,2015-10-04,58.92,46.18,Foggy in the morning.
+616,Paris,2015-10-03,70.2,47.17,Mostly cloudy until evening.
+617,Paris,2017-07-09,84.06,66.16,Rain overnight.
+618,Paris,2017-04-23,58.17,37.18,Mostly cloudy until evening.
+619,Paris,2017-04-06,57.73,42.47,Partly cloudy until evening.
+620,Paris,2017-02-24,48.36,34.66,Partly cloudy throughout the day.
+621,Paris,2016-12-05,48.31,31.1,Partly cloudy in the morning.
+622,Paris,2016-07-14,68.5,53.29,Mostly cloudy until evening.
+623,Paris,2016-04-19,60.77,36.8,"Partly cloudy starting in the afternoon, continuing until evening."
+624,Paris,2016-04-10,63.96,36.61,Foggy in the morning.
+625,Paris,2016-04-08,54.76,43.16,Mostly cloudy throughout the day.
+626,Paris,2015-12-19,58.89,49.07,Mostly cloudy throughout the day.
+627,Paris,2015-11-02,49.55,43.19,Foggy until afternoon.
+628,Paris,2015-09-27,67.64,48.61,Clear throughout the day.
+629,Paris,2015-09-10,73.67,52.05,Clear throughout the day.
+630,Paris,2015-09-03,67.03,48.62,Mostly cloudy starting in the afternoon.
+631,Paris,2015-08-30,91.62,68.34,Mostly cloudy throughout the day.
+632,Paris,2015-08-26,84.5,60.28,Mostly cloudy throughout the day.
+633,Paris,2015-08-14,77.03,64.34,Mostly cloudy throughout the day.
+634,Paris,2017-06-11,85.49,57.74,Mostly cloudy throughout the day.
+635,Paris,2017-05-17,83.66,60.25,Mostly cloudy throughout the day.
+636,Paris,2017-02-07,51.78,39.17,Light rain in the morning.
+637,Paris,2016-09-06,73.64,65.46,Mostly cloudy throughout the day.
+638,Paris,2016-08-13,83.69,58.53,Partly cloudy throughout the day.
+639,Paris,2016-08-04,71.7,62.38,Mostly cloudy throughout the day.
+640,Paris,2016-06-16,65.21,55.64,Mostly cloudy throughout the day.
+641,Paris,2016-03-24,51.67,43.31,Mostly cloudy throughout the day.
+642,Paris,2016-03-19,44.47,40.69,Overcast throughout the day.
+643,Paris,2016-01-21,40.03,23.19,Foggy in the morning.
+644,Paris,2015-11-03,61.07,46.81,Mostly cloudy throughout the day.
+645,Paris,2015-11-01,65.85,42.56,Foggy in the morning.
+646,Paris,2015-10-06,67.49,60.08,Rain in the morning.
+647,Paris,2017-05-21,70.99,45.4,Partly cloudy throughout the day.
+648,Paris,2017-02-10,37.1,32.96,Mostly cloudy throughout the day.
+649,Paris,2015-09-13,64.92,54.96,Foggy in the morning.
+650,London,2016-06-18,61.3,53.58,Mostly cloudy throughout the day.
+651,London,2016-06-08,75.48,58.57,"Partly cloudy starting in the afternoon, continuing until evening."
+652,London,2015-12-04,54.61,42.59,Mostly cloudy throughout the day.
+653,London,2015-11-13,56.78,45.37,Partly cloudy until afternoon.
+654,London,2015-10-10,60.6,46.75,Partly cloudy until evening.
+655,London,2015-10-04,63.88,43.91,Mostly cloudy in the morning.
+656,London,2015-09-25,62.75,46.32,"Partly cloudy starting in the afternoon, continuing until evening."
+657,London,2015-09-14,64.39,52.56,Rain in the morning.
+658,London,2015-09-05,59.65,47.86,Mostly cloudy throughout the day.
+659,London,2015-08-31,61.15,57.35,Light rain in the morning and afternoon.
+660,London,2015-08-26,65.4,58.12,Rain in the afternoon.
+661,London,2016-04-13,63.52,39.15,Partly cloudy overnight.
+662,London,2015-11-09,58.12,48.98,Mostly cloudy throughout the day.
+663,London,2015-09-26,63.31,41.79,Partly cloudy starting in the afternoon.

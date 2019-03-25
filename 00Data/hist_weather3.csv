@@ -1,0 +1,1001 @@
+,City,Date,TempHigh,TempLow,Summary
+0,Paris,2017-05-18,70.18,51.67,Rain in the evening.
+1,Paris,2017-04-29,61.89,37.35,Foggy in the morning.
+2,Paris,2017-04-28,56.15,37.79,Mostly cloudy throughout the day.
+3,Paris,2017-04-10,61.32,49.03,Mostly cloudy throughout the day.
+4,Paris,2017-03-19,56.63,51.92,Overcast throughout the day.
+5,Paris,2017-02-27,53.61,43.11,Mostly cloudy throughout the day.
+6,Paris,2017-02-12,45.94,32.08,Mostly cloudy throughout the day.
+7,Paris,2017-02-01,54.21,47.75,Mostly cloudy throughout the day.
+8,Paris,2016-10-29,56.81,50.04,Mostly cloudy throughout the day.
+9,Paris,2016-10-26,56.05,46.68,Foggy in the morning.
+10,Paris,2016-10-13,51.97,42.02,Mostly cloudy throughout the day.
+11,Paris,2016-10-12,57.54,38.36,Partly cloudy starting in the afternoon.
+12,Paris,2016-10-07,57.87,49.19,Overcast throughout the day.
+13,Paris,2016-10-06,60.04,42.64,Partly cloudy starting in the evening.
+14,Paris,2016-09-01,80.17,57.45,Partly cloudy throughout the day.
+15,Paris,2016-08-22,83.09,59.99,Mostly cloudy in the morning.
+16,Paris,2016-08-10,65.5,51.59,Mostly cloudy throughout the day.
+17,Paris,2016-06-21,72.09,61.43,Mostly cloudy throughout the day.
+18,Paris,2016-06-18,66.17,55.05,Mostly cloudy throughout the day.
+19,Paris,2016-05-26,70.59,51.42,Mostly cloudy throughout the day.
+20,Paris,2016-04-05,60.27,48.88,Mostly cloudy throughout the day.
+21,Paris,2016-03-29,57.05,42.82,Mostly cloudy throughout the day.
+22,Paris,2015-12-29,53.65,43.68,Mostly cloudy throughout the day.
+23,Paris,2015-11-24,44.97,33.81,Foggy in the afternoon.
+24,Paris,2015-11-23,43.13,33.83,Mostly cloudy throughout the day.
+25,Paris,2015-11-17,62.05,57.15,Mostly cloudy throughout the day.
+26,Paris,2015-11-13,59.58,49.84,Mostly cloudy throughout the day.
+27,Paris,2015-11-10,58.94,49.64,Mostly cloudy throughout the day.
+28,Paris,2015-10-13,53.28,43.41,Mostly cloudy throughout the day.
+29,Paris,2015-09-20,65.96,46.5,"Partly cloudy starting in the afternoon, continuing until evening."
+30,Paris,2015-08-23,73.72,63.54,Mostly cloudy throughout the day.
+31,Paris,2015-08-20,73.65,62.36,Mostly cloudy throughout the day.
+32,Paris,2015-08-09,78.69,65.07,Mostly cloudy throughout the day.
+33,Paris,2015-08-05,86.8,57.96,Mostly cloudy until evening.
+34,London,2017-07-15,70.85,58.72,Mostly cloudy throughout the day.
+35,London,2017-04-24,57.04,43.92,Mostly cloudy until evening.
+36,London,2017-07-28,69.39,56.6,Mostly cloudy throughout the day.
+37,London,2017-07-23,65.14,51.76,Partly cloudy throughout the day.
+38,Paris,2017-06-10,81.28,55.82,Partly cloudy in the morning.
+39,Paris,2017-05-30,72.28,62.85,Mostly cloudy throughout the day.
+40,Paris,2017-05-22,78.21,51.84,Mostly cloudy throughout the day.
+41,Paris,2017-05-13,67.2,52.19,Mostly cloudy throughout the day.
+42,Paris,2017-04-13,60.0,45.4,Mostly cloudy throughout the day.
+43,Paris,2017-03-12,63.49,41.1,Mostly cloudy throughout the day.
+44,Paris,2017-03-06,46.04,40.08,Rain until afternoon.
+45,Paris,2017-03-02,54.14,41.96,Mostly cloudy throughout the day.
+46,Paris,2017-02-26,54.29,43.17,Mostly cloudy throughout the day.
+47,Paris,2017-02-20,53.2,46.38,Overcast throughout the day.
+48,Paris,2017-01-21,37.06,19.65,Clear throughout the day.
+49,Paris,2017-01-10,45.78,37.68,Mostly cloudy throughout the day.
+50,Paris,2017-01-09,46.1,41.0,Foggy in the morning.
+51,Paris,2017-01-07,35.03,22.91,Foggy starting in the evening.
+52,Paris,2017-01-02,36.26,32.4,Foggy starting in the evening.
+53,Paris,2016-11-08,45.28,36.04,Mostly cloudy throughout the day.
+54,Paris,2016-11-07,39.17,35.57,Overcast throughout the day.
+55,Paris,2016-10-04,67.49,46.81,Partly cloudy in the morning.
+56,Paris,2016-09-19,66.97,58.96,Mostly cloudy throughout the day.
+57,Paris,2016-09-18,70.59,54.35,Foggy in the morning.
+58,Paris,2016-09-03,82.44,59.22,Mostly cloudy throughout the day.
+59,Paris,2016-08-31,82.82,57.72,Partly cloudy until evening.
+60,Paris,2016-08-29,74.63,64.23,Mostly cloudy throughout the day.
+61,Paris,2016-08-18,72.6,64.62,Mostly cloudy throughout the day.
+62,Paris,2016-08-12,81.46,57.76,Mostly cloudy until evening.
+63,Paris,2016-08-11,72.6,48.62,Mostly cloudy throughout the day.
+64,Paris,2016-06-08,73.91,59.28,Mostly cloudy throughout the day.
+65,Paris,2016-05-23,58.73,51.63,Light rain in the morning and afternoon.
+66,Paris,2016-05-09,69.58,60.41,Mostly cloudy throughout the day.
+67,Paris,2016-05-02,65.92,37.89,Mostly cloudy throughout the day.
+68,Paris,2016-04-16,57.98,48.73,Mostly cloudy throughout the day.
+69,Paris,2015-11-08,70.0,55.87,Mostly cloudy throughout the day.
+70,Paris,2015-10-14,50.24,37.38,Mostly cloudy throughout the day.
+71,Paris,2015-10-02,67.99,44.01,Mostly cloudy overnight.
+72,Paris,2015-09-02,68.81,50.76,Mostly cloudy throughout the day.
+73,Paris,2015-08-08,81.75,61.6,Mostly cloudy throughout the day.
+74,Paris,2015-08-04,79.5,63.21,Mostly cloudy throughout the day.
+75,Paris,2017-06-16,73.97,56.11,Partly cloudy throughout the day.
+76,Paris,2017-05-20,64.15,44.12,Mostly cloudy throughout the day.
+77,Paris,2017-05-12,69.59,52.3,Mostly cloudy throughout the day.
+78,Paris,2017-04-17,54.79,46.3,Mostly cloudy throughout the day.
+79,Paris,2017-04-07,65.39,37.31,Partly cloudy until afternoon.
+80,Paris,2017-03-30,74.08,47.9,Mostly cloudy starting in the afternoon.
+81,Paris,2017-03-15,59.47,47.66,Mostly cloudy until evening.
+82,Paris,2017-02-22,54.13,50.46,Overcast throughout the day.
+83,Paris,2016-12-31,27.61,25.47,Foggy throughout the day.
+84,Paris,2016-12-19,43.66,36.83,Overcast throughout the day.
+85,Paris,2016-12-16,51.84,39.64,Mostly cloudy until evening.
+86,Paris,2016-12-09,51.8,35.87,Mostly cloudy until evening.
+87,Paris,2016-11-26,50.62,46.7,Overcast throughout the day.
+88,Paris,2016-11-17,56.45,50.73,Mostly cloudy throughout the day.
+89,Paris,2016-11-06,47.61,38.3,Mostly cloudy throughout the day.
+90,Paris,2016-11-03,52.85,31.99,Mostly cloudy throughout the day.
+91,Paris,2016-10-23,55.14,41.05,Light rain in the evening.
+92,Paris,2016-10-18,60.74,46.86,Mostly cloudy throughout the day.
+93,Paris,2016-10-09,60.24,39.99,"Partly cloudy starting in the afternoon, continuing until evening."
+94,Paris,2016-09-28,74.56,60.5,Mostly cloudy throughout the day.
+95,Paris,2016-09-26,68.11,49.05,Mostly cloudy throughout the day.
+96,Paris,2016-09-13,89.98,70.29,Mostly cloudy throughout the day.
+97,Paris,2016-09-05,68.01,59.93,Overcast throughout the day.
+98,Paris,2016-08-25,97.51,67.33,Partly cloudy starting in the evening.
+99,Paris,2016-07-19,94.93,66.35,Partly cloudy overnight.
+100,Paris,2016-07-10,86.86,64.51,Mostly cloudy throughout the day.
+101,Paris,2016-07-09,83.52,61.5,Partly cloudy until evening.
+102,Paris,2016-07-08,83.33,58.93,Partly cloudy until evening.
+103,Paris,2016-07-06,75.26,52.59,Partly cloudy throughout the day.
+104,Paris,2016-06-10,74.86,57.12,Mostly cloudy throughout the day.
+105,Paris,2016-06-06,75.65,57.85,Foggy in the morning.
+106,Paris,2016-05-31,58.05,54.44,Rain in the morning.
+107,Paris,2016-04-25,51.82,36.16,Mostly cloudy throughout the day.
+108,Paris,2016-04-12,61.57,41.36,Mostly cloudy throughout the day.
+109,Paris,2015-11-22,44.18,34.33,Mostly cloudy starting in the afternoon.
+110,Paris,2015-10-10,63.85,47.9,Foggy in the morning.
+111,Paris,2015-09-23,64.18,49.29,Mostly cloudy throughout the day.
+112,Paris,2015-09-19,67.44,53.73,Mostly cloudy throughout the day.
+113,Paris,2015-09-15,66.05,53.39,Rain overnight.
+114,Paris,2015-08-19,77.87,55.69,Mostly cloudy throughout the day.
+115,Paris,2015-08-17,70.19,59.11,Mostly cloudy throughout the day.
+116,Paris,2017-07-15,78.77,53.56,Mostly cloudy throughout the day.
+117,Paris,2017-05-31,75.86,52.39,Partly cloudy throughout the day.
+118,Paris,2016-12-23,43.83,34.98,Foggy in the morning.
+119,Paris,2016-05-19,62.28,48.76,Mostly cloudy throughout the day.
+120,Paris,2016-04-28,53.77,32.56,Mostly cloudy throughout the day.
+121,Paris,2015-10-31,64.77,46.73,Foggy in the morning.
+122,Paris,2015-10-20,56.04,48.55,Foggy in the morning.
+123,Paris,2015-09-06,63.12,49.84,Mostly cloudy until evening.
+124,Paris,2015-08-29,87.27,58.84,Partly cloudy throughout the day.
+125,Paris,2017-07-01,69.03,57.82,Light rain in the afternoon.
+126,Paris,2017-03-24,56.69,45.77,Mostly cloudy until evening.
+127,Paris,2017-02-06,47.79,40.84,Mostly cloudy throughout the day.
+128,Paris,2017-01-31,54.71,49.55,Foggy in the morning.
+129,Paris,2016-11-12,43.33,31.83,Foggy starting in the evening.
+130,Paris,2016-10-03,65.75,42.44,Partly cloudy until afternoon.
+131,Paris,2016-06-12,65.88,59.15,Light rain in the evening.
+132,Paris,2016-05-07,74.49,55.38,Mostly cloudy throughout the day.
+133,Paris,2016-03-16,45.92,38.52,Mostly cloudy throughout the day.
+134,Paris,2015-12-03,51.46,44.21,Mostly cloudy throughout the day.
+135,Paris,2015-12-01,56.28,53.32,Overcast throughout the day.
+136,Paris,2015-11-30,55.04,51.11,Mostly cloudy throughout the day.
+137,Paris,2015-10-08,59.94,51.04,Mostly cloudy throughout the day.
+138,Paris,2015-08-31,81.86,67.42,Mostly cloudy throughout the day.
+139,Paris,2017-06-15,83.39,65.43,Mostly cloudy throughout the day.
+140,Paris,2017-05-09,62.38,41.74,Mostly cloudy in the morning.
+141,Paris,2017-04-15,59.52,45.73,Mostly cloudy throughout the day.
+142,Paris,2016-12-27,45.79,30.36,Partly cloudy starting in the evening.
+143,Paris,2016-11-15,54.7,46.66,Foggy starting in the evening.
+144,Paris,2016-10-22,55.31,43.58,Foggy until afternoon.
+145,Paris,2016-09-24,76.17,51.85,Partly cloudy starting in the afternoon.
+146,Paris,2016-09-07,83.09,58.54,Mostly cloudy in the morning.
+147,Paris,2016-07-30,73.99,61.66,Mostly cloudy throughout the day.
+148,Paris,2016-06-23,88.38,68.81,Mostly cloudy throughout the day.
+149,Paris,2016-06-11,69.88,60.74,Mostly cloudy throughout the day.
+150,Paris,2016-04-03,68.74,49.14,Mostly cloudy starting in the afternoon.
+151,Paris,2016-03-31,45.53,43.16,Light rain in the morning and afternoon.
+152,Paris,2016-02-05,51.15,47.28,Overcast throughout the day.
+153,Paris,2016-01-06,49.61,44.73,Mostly cloudy throughout the day.
+154,Paris,2015-10-22,58.26,50.95,Overcast throughout the day.
+155,Paris,2015-10-12,58.76,46.84,Mostly cloudy until evening.
+156,Paris,2015-10-11,60.31,47.27,Mostly cloudy throughout the day.
+157,Paris,2015-10-05,62.22,55.21,"Rain starting in the afternoon, continuing until evening."
+158,Paris,2015-09-18,63.73,51.8,Mostly cloudy throughout the day.
+159,Paris,2015-09-14,64.36,55.78,Mostly cloudy throughout the day.
+160,Paris,2015-09-12,65.31,58.2,Rain in the afternoon.
+161,Paris,2015-08-27,69.41,57.14,Light rain starting in the afternoon.
+162,Paris,2015-08-16,69.69,54.61,Mostly cloudy throughout the day.
+163,Paris,2017-05-27,86.77,62.53,Mostly cloudy throughout the day.
+164,Paris,2017-05-25,80.13,58.28,Clear throughout the day.
+165,Paris,2017-01-28,48.81,39.91,Mostly cloudy throughout the day.
+166,Paris,2016-09-02,83.28,57.33,Mostly cloudy throughout the day.
+167,Paris,2016-08-15,82.51,58.77,Clear throughout the day.
+168,Paris,2016-08-06,76.92,55.18,Partly cloudy until evening.
+169,Paris,2016-07-11,71.92,63.96,Mostly cloudy throughout the day.
+170,Paris,2016-04-20,66.88,43.69,Mostly cloudy throughout the day.
+171,Paris,2016-04-02,50.91,35.87,Mostly cloudy throughout the day.
+172,Paris,2016-03-30,51.17,45.66,Mostly cloudy throughout the day.
+173,Paris,2016-03-20,44.58,40.92,Overcast throughout the day.
+174,Paris,2016-03-08,47.83,34.03,Mostly cloudy throughout the day.
+175,Paris,2016-03-01,49.42,31.08,Mostly cloudy throughout the day.
+176,Paris,2016-02-21,54.76,50.98,Overcast throughout the day.
+177,Paris,2016-01-19,33.95,27.05,Mostly cloudy throughout the day.
+178,Paris,2015-12-27,55.5,45.46,Mostly cloudy throughout the day.
+179,Paris,2015-12-25,57.18,48.41,Mostly cloudy throughout the day.
+180,Paris,2015-12-24,55.37,47.53,Mostly cloudy throughout the day.
+181,Paris,2015-12-15,52.33,44.55,Rain in the evening.
+182,Paris,2015-12-13,45.96,40.69,Foggy starting in the evening.
+183,Paris,2015-12-12,52.5,45.94,Mostly cloudy throughout the day.
+184,Paris,2015-11-09,62.92,54.95,Partly cloudy throughout the day.
+185,Paris,2015-11-05,64.44,54.33,Mostly cloudy throughout the day.
+186,Paris,2015-10-29,58.94,48.82,Mostly cloudy throughout the day.
+187,Paris,2015-10-24,59.49,47.95,Mostly cloudy throughout the day.
+188,Paris,2015-10-23,57.36,51.68,Overcast throughout the day.
+189,Paris,2015-10-18,52.0,43.85,Mostly cloudy until evening.
+190,Paris,2015-09-28,66.42,48.07,Partly cloudy starting in the afternoon.
+191,Paris,2015-09-26,63.94,48.78,Mostly cloudy throughout the day.
+192,Paris,2015-09-05,65.79,54.23,Mostly cloudy throughout the day.
+193,Paris,2015-08-15,70.28,59.91,Mostly cloudy throughout the day.
+194,Paris,2015-08-10,84.34,60.26,Mostly cloudy throughout the day.
+195,Paris,2017-04-26,49.07,34.76,Mostly cloudy throughout the day.
+196,Paris,2017-03-01,52.62,43.05,Mostly cloudy throughout the day.
+197,Paris,2017-02-28,47.75,40.22,Mostly cloudy throughout the day.
+198,Paris,2017-01-29,45.35,37.39,Foggy in the morning.
+199,Paris,2016-11-14,48.02,43.55,Overcast throughout the day.
+200,Paris,2016-07-18,88.01,63.52,Partly cloudy until evening.
+201,Paris,2016-07-03,64.22,57.11,Overcast throughout the day.
+202,Paris,2016-07-01,71.67,62.8,Mostly cloudy throughout the day.
+203,Paris,2016-05-28,71.83,56.98,Mostly cloudy throughout the day.
+204,Paris,2016-05-11,63.27,55.94,Foggy in the morning.
+205,Paris,2016-04-13,61.88,48.75,Mostly cloudy throughout the day.
+206,Paris,2016-03-25,57.21,44.84,Mostly cloudy until evening.
+207,Paris,2016-01-31,56.27,44.63,Overcast throughout the day.
+208,Paris,2015-12-26,56.41,47.45,Mostly cloudy throughout the day.
+209,Paris,2015-11-12,58.26,50.96,Foggy in the morning.
+210,Paris,2015-11-04,61.21,54.98,Mostly cloudy throughout the day.
+211,Paris,2015-09-16,64.05,56.72,Rain in the afternoon.
+212,Paris,2015-08-28,71.28,57.77,Mostly cloudy throughout the day.
+213,Paris,2017-06-09,72.56,60.03,Mostly cloudy throughout the day.
+214,Paris,2017-02-21,54.75,50.64,Overcast throughout the day.
+215,Paris,2017-01-13,41.67,34.56,Mostly cloudy throughout the day.
+216,Paris,2016-12-20,43.22,36.11,Mostly cloudy throughout the day.
+217,Paris,2016-12-15,47.91,32.87,Mostly cloudy starting in the afternoon.
+218,Paris,2016-07-22,80.34,63.21,Mostly cloudy throughout the day.
+219,Paris,2016-06-01,62.53,56.62,Foggy in the morning.
+220,Paris,2016-04-11,58.19,47.96,Mostly cloudy throughout the day.
+221,Paris,2016-04-07,52.53,41.52,Mostly cloudy throughout the day.
+222,Paris,2016-02-18,39.4,29.21,Mostly cloudy throughout the day.
+223,Paris,2016-01-12,46.06,41.79,Mostly cloudy throughout the day.
+224,Paris,2015-12-06,54.48,44.36,Mostly cloudy throughout the day.
+225,Paris,2015-11-18,59.44,52.51,Mostly cloudy throughout the day.
+226,Paris,2015-10-15,45.16,40.06,Overcast throughout the day.
+227,Paris,2015-10-01,62.61,45.88,Clear throughout the day.
+228,Paris,2017-04-08,70.04,42.21,Clear throughout the day.
+229,Paris,2017-03-21,51.91,42.39,Mostly cloudy throughout the day.
+230,Paris,2016-12-03,44.56,34.71,Mostly cloudy until afternoon.
+231,Paris,2016-08-01,75.66,57.21,Mostly cloudy throughout the day.
+232,Paris,2016-05-16,61.31,42.97,Mostly cloudy throughout the day.
+233,Paris,2017-01-08,45.97,35.97,Foggy in the morning.
+234,Paris,2016-12-14,49.88,36.55,Partly cloudy throughout the day.
+235,Paris,2016-11-22,53.82,47.62,Mostly cloudy throughout the day.
+236,Paris,2016-10-15,63.53,46.2,Mostly cloudy throughout the day.
+237,Paris,2016-09-21,72.03,48.48,"Partly cloudy starting in the afternoon, continuing until evening."
+238,Paris,2016-08-07,85.71,56.35,Partly cloudy in the morning.
+239,Paris,2017-02-19,53.15,30.6,Foggy in the morning.
+240,Paris,2017-01-05,43.13,31.97,Partly cloudy throughout the day.
+241,Paris,2016-06-04,63.45,54.73,Overcast throughout the day.
+242,Paris,2015-12-11,50.72,35.21,Mostly cloudy throughout the day.
+243,Paris,2017-07-16,83.74,63.25,Mostly cloudy until evening.
+244,Paris,2016-08-26,92.19,67.87,Mostly cloudy starting in the afternoon.
+245,Paris,2016-06-24,76.43,65.07,Mostly cloudy throughout the day.
+246,Paris,2016-02-28,44.34,33.21,Mostly cloudy throughout the day.
+247,Paris,2015-12-18,55.27,52.59,Mostly cloudy throughout the day.
+248,Paris,2015-11-28,49.78,38.75,Mostly cloudy starting in the afternoon.
+249,Paris,2015-11-21,45.52,38.73,Mostly cloudy throughout the day.
+250,Paris,2017-07-29,82.34,64.71,Mostly cloudy throughout the day.
+251,Paris,2017-03-26,64.27,44.26,"Partly cloudy starting in the afternoon, continuing until evening."
+252,Paris,2017-01-26,37.32,22.83,Mostly cloudy in the morning.
+253,Paris,2016-12-24,49.24,43.65,Mostly cloudy throughout the day.
+254,Paris,2016-11-19,48.97,40.14,Mostly cloudy in the morning.
+255,Paris,2016-08-03,77.6,64.66,Mostly cloudy throughout the day.
+256,Paris,2016-02-27,46.35,32.54,Mostly cloudy throughout the day.
+257,Paris,2016-01-08,46.68,36.71,Foggy overnight.
+258,Paris,2017-07-21,77.5,55.71,Mostly cloudy throughout the day.
+259,Paris,2016-11-23,58.19,47.88,Mostly cloudy throughout the day.
+260,Paris,2016-11-10,51.01,44.06,Mostly cloudy throughout the day.
+261,Paris,2016-10-25,58.28,53.38,Foggy in the morning.
+262,Paris,2016-08-08,71.91,62.71,Mostly cloudy throughout the day.
+263,Paris,2016-08-02,72.65,61.21,Mostly cloudy throughout the day.
+264,Paris,2016-04-09,55.73,38.97,Mostly cloudy throughout the day.
+265,Paris,2016-03-05,45.16,34.92,Mostly cloudy throughout the day.
+266,Paris,2016-02-20,53.98,43.66,Overcast throughout the day.
+267,Paris,2016-01-05,48.58,42.29,Mostly cloudy throughout the day.
+268,Paris,2015-12-10,40.9,35.74,Foggy in the morning.
+269,Paris,2015-11-19,60.89,55.0,Mostly cloudy throughout the day.
+270,London,2017-07-27,69.16,57.11,Partly cloudy throughout the day.
+271,London,2017-04-29,59.19,40.16,Partly cloudy throughout the day.
+272,Paris,2017-05-24,75.03,58.57,Mostly cloudy throughout the day.
+273,Paris,2016-12-06,51.31,31.63,Partly cloudy until evening.
+274,Paris,2016-11-05,51.87,44.4,Mostly cloudy throughout the day.
+275,Paris,2016-08-20,75.96,58.94,Mostly cloudy throughout the day.
+276,Paris,2016-04-15,60.12,49.16,Mostly cloudy throughout the day.
+277,Paris,2016-03-13,52.1,34.67,Clear throughout the day.
+278,Paris,2016-03-07,43.38,35.8,Mostly cloudy throughout the day.
+279,Paris,2016-02-25,44.39,31.98,Mostly cloudy starting in the afternoon.
+280,Paris,2016-01-17,39.34,32.74,Mostly cloudy throughout the day.
+281,Paris,2015-09-11,74.42,47.41,Mostly cloudy starting in the afternoon.
+282,Paris,2017-06-02,81.22,63.01,Mostly cloudy throughout the day.
+283,Paris,2017-01-17,32.6,26.89,Partly cloudy in the morning.
+284,Paris,2017-01-12,46.99,41.05,Mostly cloudy throughout the day and breezy starting in the evening.
+285,Paris,2016-11-29,40.63,29.54,Clear throughout the day.
+286,Paris,2016-04-18,58.53,35.15,Clear throughout the day.
+287,Paris,2016-04-14,62.28,44.72,Mostly cloudy throughout the day.
+288,Paris,2016-03-18,52.52,33.87,Foggy in the morning.
+289,Paris,2016-03-14,48.09,36.88,Mostly cloudy until evening.
+290,Paris,2016-03-06,45.64,35.89,Mostly cloudy throughout the day.
+291,Paris,2016-02-14,46.22,37.4,Mostly cloudy throughout the day.
+292,Paris,2015-10-21,56.71,42.14,Mostly cloudy throughout the day.
+293,Paris,2017-02-02,54.84,45.45,Overcast throughout the day.
+294,Paris,2016-12-08,50.93,33.4,Partly cloudy in the morning.
+295,Paris,2016-07-16,78.93,58.74,Mostly cloudy throughout the day.
+296,Paris,2016-02-15,44.54,36.07,Mostly cloudy until evening.
+297,Paris,2016-01-10,46.73,40.18,Mostly cloudy throughout the day.
+298,Paris,2015-12-31,53.01,45.75,Mostly cloudy starting in the afternoon.
+299,Paris,2015-10-28,58.43,49.28,Mostly cloudy throughout the day.
+300,Paris,2015-10-07,61.07,55.31,Mostly cloudy throughout the day.
+301,Paris,2015-08-24,67.62,55.96,Mostly cloudy throughout the day and breezy in the evening.
+302,Paris,2017-01-16,38.01,33.06,Mostly cloudy throughout the day.
+303,Paris,2016-12-01,45.04,23.8,Mostly cloudy overnight.
+304,Paris,2016-08-27,93.47,68.37,Partly cloudy in the morning.
+305,Paris,2016-03-26,59.13,42.84,Light rain overnight.
+306,Paris,2016-03-12,53.24,34.37,Partly cloudy in the afternoon.
+307,Paris,2015-12-08,52.16,44.77,"Light rain starting in the afternoon, continuing until evening."
+308,Paris,2015-12-05,49.21,36.73,Mostly cloudy throughout the day.
+309,Paris,2015-12-21,55.45,49.87,Mostly cloudy throughout the day.
+310,Paris,2015-11-16,59.7,53.47,Overcast throughout the day.
+311,Paris,2017-06-04,68.1,47.97,Partly cloudy in the morning.
+312,Paris,2017-02-14,55.37,39.01,Mostly cloudy throughout the day.
+313,Paris,2016-06-17,68.84,54.79,Mostly cloudy throughout the day.
+314,Paris,2016-02-10,46.62,37.42,Mostly cloudy throughout the day.
+315,Paris,2016-10-20,56.79,48.5,Mostly cloudy throughout the day.
+316,Paris,2015-12-17,60.94,52.4,Mostly cloudy throughout the day.
+317,Paris,2017-06-19,92.06,61.12,Partly cloudy starting in the afternoon.
+318,Paris,2016-04-01,53.51,39.93,Mostly cloudy throughout the day.
+319,Paris,2016-11-30,43.21,24.73,Mostly cloudy in the morning.
+320,Paris,2016-02-19,49.08,32.74,Mostly cloudy throughout the day.
+321,Paris,2016-01-29,48.76,36.97,Mostly cloudy throughout the day.
+322,Paris,2015-12-09,51.36,39.11,Foggy starting in the evening.
+323,Paris,2017-01-18,33.81,24.94,Mostly cloudy in the morning.
+324,Paris,2016-02-06,57.33,44.69,Mostly cloudy throughout the day.
+325,Paris,2016-08-21,70.76,57.93,Mostly cloudy throughout the day.
+326,Paris,2016-10-11,56.27,42.17,Foggy in the morning.
+327,Paris,2016-09-04,71.15,64.66,Mostly cloudy throughout the day.
+328,Paris,2016-02-04,51.45,38.75,Mostly cloudy throughout the day.
+329,Paris,2015-09-21,66.55,45.11,Mostly cloudy throughout the day.
+330,Paris,2016-03-21,50.38,40.24,Mostly cloudy throughout the day.
+331,Paris,2016-03-04,47.01,39.99,Light rain in the morning.
+332,Paris,2016-02-17,38.59,25.47,Mostly cloudy until evening.
+333,Paris,2016-01-30,48.8,43.93,Rain in the afternoon.
+334,Paris,2016-01-02,51.84,45.51,Mostly cloudy throughout the day.
+335,Paris,2015-11-25,48.9,42.1,Mostly cloudy throughout the day.
+336,Paris,2015-11-06,64.7,59.02,Overcast throughout the day.
+337,Paris,2016-11-18,53.31,44.14,Mostly cloudy throughout the day.
+338,Paris,2016-09-30,64.43,56.72,Mostly cloudy throughout the day.
+339,Paris,2016-04-27,49.76,35.04,Mostly cloudy throughout the day.
+340,Paris,2015-11-07,69.68,59.39,Mostly cloudy throughout the day.
+341,Paris,2016-10-28,58.15,43.57,Foggy in the morning.
+342,Paris,2016-03-10,48.33,40.19,Overcast throughout the day.
+343,Paris,2016-02-29,46.15,33.6,Mostly cloudy starting in the afternoon.
+344,Paris,2016-08-05,73.57,56.92,Mostly cloudy throughout the day.
+345,Paris,2016-12-02,43.78,30.73,Foggy in the morning.
+346,Paris,2017-02-08,46.19,36.96,Mostly cloudy throughout the day.
+347,Paris,2017-01-19,33.68,24.81,Clear throughout the day.
+348,Paris,2016-11-25,48.91,45.69,Overcast throughout the day.
+349,Paris,2017-07-05,89.65,61.08,Partly cloudy throughout the day.
+350,Paris,2016-03-17,55.62,35.72,Partly cloudy in the morning.
+351,Paris,2016-01-28,51.8,37.27,Mostly cloudy until evening.
+352,Paris,2015-12-14,44.38,38.74,Foggy until afternoon.
+353,Paris,2017-01-14,40.52,32.49,Mostly cloudy throughout the day.
+354,Paris,2016-09-23,74.34,56.95,Mostly cloudy until afternoon.
+355,Paris,2017-02-09,42.26,35.24,Mostly cloudy throughout the day.
+356,Paris,2016-12-17,46.82,33.54,Foggy starting in the evening.
+357,Paris,2016-06-22,82.53,65.71,Mostly cloudy throughout the day.
+358,Paris,2015-09-04,63.51,51.26,Mostly cloudy throughout the day.
+359,Paris,2015-10-09,61.15,44.64,"Partly cloudy starting in the afternoon, continuing until evening."
+360,Paris,2016-09-10,79.97,53.38,Mostly cloudy throughout the day.
+361,Paris,2016-05-14,56.33,49.08,Mostly cloudy throughout the day.
+362,Paris,2015-08-07,83.79,60.14,Mostly cloudy throughout the day.
+363,Paris,2017-05-26,82.62,59.63,Clear throughout the day.
+364,Paris,2016-05-06,76.72,47.45,Mostly cloudy throughout the day.
+365,Paris,2016-02-26,44.35,30.26,Mostly cloudy throughout the day.
+366,Paris,2015-12-23,56.03,46.27,Mostly cloudy throughout the day.
+367,Paris,2016-12-30,29.37,26.56,Foggy throughout the day.
+368,Paris,2015-12-07,57.81,48.08,Mostly cloudy throughout the day.
+369,Paris,2016-03-11,52.28,38.28,Foggy in the morning.
+370,Paris,2016-01-11,47.91,41.0,Mostly cloudy throughout the day.
+371,Paris,2017-02-03,52.36,44.01,Mostly cloudy throughout the day.
+372,Paris,2017-07-30,77.13,68.09,Mostly cloudy throughout the day.
+373,Paris,2017-05-04,60.68,45.49,Foggy in the morning.
+374,Paris,2016-03-02,50.59,36.53,Mixed precipitation in the evening.
+375,Paris,2016-02-03,46.73,40.45,Mostly cloudy throughout the day.
+376,Paris,2017-04-03,67.29,42.8,Partly cloudy starting in the afternoon.
+377,Paris,2017-03-09,57.52,50.73,Mostly cloudy throughout the day.
+378,Paris,2017-03-05,49.32,40.48,Mostly cloudy throughout the day.
+379,Paris,2016-09-14,82.31,63.56,Light rain overnight.
+380,Paris,2016-02-12,40.36,36.65,Overcast throughout the day.
+381,Paris,2015-12-02,54.14,48.3,Overcast throughout the day.
+382,Paris,2015-11-11,58.85,49.12,Foggy in the morning.
+383,Paris,2015-10-17,56.14,45.06,Mostly cloudy throughout the day.
+384,Paris,2017-03-08,56.42,40.81,Overcast throughout the day.
+385,Paris,2016-01-15,42.24,34.82,Mostly cloudy until evening.
+386,Paris,2015-11-26,49.4,36.26,"Partly cloudy starting in the afternoon, continuing until evening."
+387,Paris,2015-11-20,59.22,45.68,Light rain until afternoon.
+388,Paris,2015-11-14,53.56,43.93,Mostly cloudy throughout the day.
+389,Paris,2015-11-27,42.23,32.9,Foggy until afternoon.
+390,Paris,2017-04-09,77.75,41.69,Clear throughout the day.
+391,Paris,2016-10-30,62.86,44.59,Partly cloudy starting in the afternoon.
+392,Paris,2016-09-11,76.39,65.61,Mostly cloudy throughout the day.
+393,Paris,2016-04-23,54.55,43.97,Mostly cloudy throughout the day.
+394,Paris,2016-03-03,47.43,40.67,Mostly cloudy throughout the day.
+395,Paris,2017-02-23,53.57,46.43,Mostly cloudy throughout the day.
+396,Paris,2015-10-19,54.07,38.77,Mostly cloudy throughout the day.
+397,Paris,2015-09-07,67.42,45.0,Mostly cloudy starting in the afternoon.
+398,Paris,2015-12-28,52.17,40.36,Mostly cloudy throughout the day.
+399,Paris,2016-09-12,88.12,61.38,Mostly cloudy throughout the day.
+400,Paris,2016-04-29,57.22,40.99,Mostly cloudy throughout the day.
+401,Paris,2016-02-24,44.83,31.58,Mostly cloudy throughout the day.
+402,Paris,2016-04-04,62.27,49.78,Mostly cloudy throughout the day.
+403,Paris,2015-12-04,53.39,42.04,Mostly cloudy until afternoon.
+404,Paris,2016-01-22,44.17,29.72,Mostly cloudy throughout the day.
+405,Paris,2016-02-01,55.52,52.73,Overcast throughout the day.
+406,Paris,2016-02-13,48.11,38.78,Light rain in the evening.
+407,Paris,2016-01-18,33.42,28.47,Mostly cloudy throughout the day.
+408,Paris,2017-04-02,63.85,44.24,Mostly cloudy throughout the day.
+409,Barcelona,2017-07-02,79.76,63.08,Clear throughout the day.
+410,Barcelona,2017-04-14,72.66,55.13,Clear throughout the day.
+411,Barcelona,2017-04-05,67.07,53.53,Light rain overnight.
+412,Barcelona,2016-07-17,83.38,67.07,Clear throughout the day.
+413,Barcelona,2016-06-30,80.37,71.86,Partly cloudy starting in the evening.
+414,Barcelona,2016-06-22,83.95,67.91,Clear throughout the day.
+415,Barcelona,2016-06-20,75.44,61.33,Clear throughout the day.
+416,Barcelona,2016-05-20,69.89,60.09,Partly cloudy until evening.
+417,Barcelona,2016-05-11,68.47,55.28,Partly cloudy until afternoon.
+418,Barcelona,2016-05-03,66.24,52.21,Clear throughout the day.
+419,Barcelona,2016-04-19,66.71,49.91,Clear throughout the day.
+420,Barcelona,2016-04-12,67.29,54.12,Mostly cloudy in the morning.
+421,Barcelona,2016-04-10,65.11,49.19,Partly cloudy until evening.
+422,Barcelona,2016-03-31,68.57,54.74,Foggy in the morning.
+423,Barcelona,2016-02-09,65.8,53.75,Clear throughout the day.
+424,Barcelona,2016-02-07,55.5,51.03,Light rain in the morning.
+425,Barcelona,2016-01-24,57.62,47.46,Mostly cloudy throughout the day.
+426,Barcelona,2016-01-19,55.03,42.42,Partly cloudy starting in the evening.
+427,Barcelona,2015-12-29,64.99,53.46,Mostly cloudy starting in the evening.
+428,Barcelona,2015-10-30,70.52,55.65,Partly cloudy until afternoon.
+429,Barcelona,2015-10-16,65.02,53.52,Partly cloudy throughout the day.
+430,Barcelona,2015-10-11,75.3,58.88,Mostly cloudy in the morning.
+431,Barcelona,2015-08-29,85.76,72.15,Partly cloudy until afternoon.
+432,Barcelona,2015-08-24,87.49,73.35,Clear throughout the day.
+433,Barcelona,2017-03-14,70.53,50.87,Clear throughout the day.
+434,Barcelona,2017-03-04,58.15,43.87,Light rain in the morning.
+435,Barcelona,2017-01-30,59.55,44.86,Partly cloudy in the afternoon.
+436,Barcelona,2017-01-03,53.59,40.41,Mostly cloudy throughout the day.
+437,Barcelona,2016-12-29,57.26,40.02,Clear throughout the day.
+438,Barcelona,2016-12-21,61.85,48.31,Mostly cloudy until evening.
+439,Barcelona,2016-12-16,58.83,47.76,"Rain starting in the afternoon, continuing until evening."
+440,Barcelona,2016-12-12,61.46,45.0,Mostly cloudy in the afternoon.
+441,Barcelona,2016-12-05,62.76,53.95,Mostly cloudy until evening.
+442,Barcelona,2016-10-30,68.33,54.96,Foggy in the morning.
+443,Barcelona,2016-07-29,86.16,72.64,Partly cloudy in the morning.
+444,Barcelona,2016-06-07,81.24,64.76,Clear throughout the day.
+445,Barcelona,2016-05-29,79.29,63.61,"Partly cloudy starting in the afternoon, continuing until evening."
+446,Barcelona,2016-05-21,73.93,59.48,Clear throughout the day.
+447,Barcelona,2016-02-23,63.63,50.3,Clear throughout the day.
+448,Barcelona,2016-02-14,63.48,49.73,Rain overnight.
+449,Barcelona,2016-02-13,72.17,57.62,Rain overnight.
+450,Barcelona,2016-02-08,65.01,46.75,Clear throughout the day.
+451,Barcelona,2016-02-04,57.42,42.96,Clear throughout the day.
+452,Barcelona,2016-01-15,52.91,48.15,Mostly cloudy until afternoon.
+453,Barcelona,2016-01-03,57.55,46.93,Mostly cloudy overnight.
+454,Barcelona,2015-12-02,60.23,42.53,Clear throughout the day.
+455,Barcelona,2015-10-15,63.56,50.95,Partly cloudy until evening.
+456,Barcelona,2015-10-12,73.06,65.34,Mostly cloudy throughout the day.
+457,Barcelona,2015-10-07,74.29,62.65,Partly cloudy starting in the afternoon.
+458,Barcelona,2015-09-27,72.89,63.88,Partly cloudy until afternoon.
+459,Barcelona,2015-09-21,75.23,63.69,Mostly cloudy in the morning.
+460,Barcelona,2015-08-11,84.76,70.87,Mostly cloudy overnight.
+461,Barcelona,2017-08-02,90.36,75.92,Humid throughout the day.
+462,Barcelona,2017-08-01,84.89,76.05,Humid and partly cloudy throughout the day.
+463,Barcelona,2017-07-26,79.18,69.5,Partly cloudy until evening.
+464,Barcelona,2017-07-23,82.19,71.41,Rain in the evening.
+465,Barcelona,2017-07-20,82.82,76.07,Partly cloudy overnight.
+466,Barcelona,2017-07-07,86.23,71.94,Partly cloudy in the morning.
+467,Barcelona,2017-06-26,88.87,73.01,Partly cloudy in the morning.
+468,Barcelona,2017-06-20,86.87,72.82,Clear throughout the day.
+469,Barcelona,2017-06-09,77.81,66.82,Partly cloudy in the morning.
+470,Barcelona,2017-06-07,69.97,67.0,Mostly cloudy throughout the day.
+471,Barcelona,2017-05-31,78.17,64.06,Clear throughout the day.
+472,Barcelona,2017-05-29,80.12,62.98,Clear throughout the day.
+473,Barcelona,2017-05-23,78.88,62.15,Clear throughout the day.
+474,Barcelona,2017-05-20,71.62,56.55,Clear throughout the day.
+475,Barcelona,2017-05-15,77.32,62.4,Clear throughout the day.
+476,Barcelona,2017-05-13,79.01,61.89,Clear throughout the day.
+477,Barcelona,2017-05-12,76.78,59.43,Clear throughout the day.
+478,Barcelona,2017-04-23,69.16,51.77,Clear throughout the day.
+479,Barcelona,2017-04-18,67.42,56.15,Mostly cloudy throughout the day.
+480,Barcelona,2017-03-28,64.2,47.11,Clear throughout the day.
+481,Barcelona,2017-03-27,61.25,48.98,Partly cloudy until evening.
+482,Barcelona,2017-03-20,68.55,51.9,Clear throughout the day.
+483,Barcelona,2017-03-17,70.47,48.27,Clear throughout the day.
+484,Barcelona,2017-03-13,66.78,54.23,Partly cloudy until afternoon.
+485,Barcelona,2017-03-11,68.63,52.75,Clear throughout the day.
+486,Barcelona,2017-03-09,65.33,52.15,Partly cloudy until evening.
+487,Barcelona,2017-03-08,65.65,50.9,Mostly cloudy in the morning.
+488,Barcelona,2017-03-05,63.01,43.28,Clear throughout the day.
+489,Barcelona,2017-02-26,60.93,43.98,Mostly cloudy overnight.
+490,Barcelona,2017-02-23,64.6,52.09,Clear throughout the day.
+491,Barcelona,2017-02-13,58.78,56.0,Rain starting in the afternoon.
+492,Barcelona,2017-02-10,55.4,43.95,Partly cloudy throughout the day.
+493,Barcelona,2017-02-04,66.36,51.69,Partly cloudy throughout the day.
+494,Barcelona,2017-01-22,52.77,48.6,Light rain in the evening.
+495,Barcelona,2017-01-20,51.21,48.06,Mostly cloudy throughout the day.
+496,Barcelona,2017-07-30,87.65,72.33,Partly cloudy starting in the evening.
+497,Barcelona,2017-07-21,83.29,72.71,Partly cloudy until evening.
+498,Barcelona,2017-07-13,84.33,74.39,Humid and mostly cloudy throughout the day.
+499,Barcelona,2017-07-12,86.76,72.85,Humid throughout the day and partly cloudy starting in the evening.
+500,Barcelona,2017-07-11,83.22,73.79,Mostly cloudy in the morning.
+501,Barcelona,2017-06-25,81.81,74.33,Partly cloudy until evening.
+502,Barcelona,2017-06-21,87.51,73.63,"Partly cloudy starting in the afternoon, continuing until evening."
+503,Barcelona,2017-06-19,83.39,70.41,Partly cloudy until evening.
+504,Barcelona,2017-06-08,78.31,66.52,Mostly cloudy until afternoon.
+505,Barcelona,2017-06-06,79.7,64.62,Mostly cloudy starting in the evening.
+506,Barcelona,2017-06-05,75.97,63.08,Partly cloudy throughout the day.
+507,Barcelona,2017-06-03,81.42,70.45,Partly cloudy until evening.
+508,Barcelona,2017-05-30,74.59,64.29,Light rain in the morning.
+509,Barcelona,2017-05-18,74.43,60.37,Partly cloudy throughout the day.
+510,Barcelona,2017-05-08,69.08,55.9,Clear throughout the day.
+511,Barcelona,2017-04-22,65.64,48.01,Clear throughout the day.
+512,Barcelona,2017-04-21,63.54,44.72,Clear throughout the day.
+513,Barcelona,2017-04-16,69.13,53.71,Clear throughout the day.
+514,Barcelona,2017-04-13,71.95,53.96,Partly cloudy starting in the evening.
+515,Barcelona,2017-04-10,72.0,52.12,Partly cloudy in the evening.
+516,Barcelona,2017-04-09,69.89,50.91,Clear throughout the day.
+517,Barcelona,2017-04-06,68.67,50.27,Partly cloudy in the evening.
+518,Barcelona,2017-04-02,62.82,45.93,Light rain in the evening.
+519,Barcelona,2017-03-10,72.3,51.23,Clear throughout the day.
+520,Barcelona,2017-03-06,73.77,52.15,Clear throughout the day.
+521,Barcelona,2017-02-12,57.79,55.0,Mostly cloudy throughout the day.
+522,Barcelona,2017-01-28,56.57,49.85,Light rain in the morning.
+523,Amsterdam,2017-08-01,72.84,57.99,Partly cloudy throughout the day.
+524,Amsterdam,2017-06-09,65.03,58.67,Rain until afternoon.
+525,Amsterdam,2017-05-23,65.55,56.66,Partly cloudy starting in the afternoon.
+526,Amsterdam,2017-05-19,59.58,52.47,Mostly cloudy throughout the day.
+527,Amsterdam,2017-05-07,59.16,48.86,Mostly cloudy throughout the day.
+528,Amsterdam,2017-04-22,50.44,42.76,Mostly cloudy throughout the day.
+529,Amsterdam,2017-04-01,55.49,47.25,Mostly cloudy throughout the day.
+530,Amsterdam,2017-03-31,69.4,53.57,Mostly cloudy throughout the day.
+531,Amsterdam,2017-03-15,55.9,42.02,Partly cloudy until evening.
+532,Amsterdam,2017-03-14,54.39,41.65,Mostly cloudy throughout the day.
+533,Amsterdam,2017-02-28,42.36,37.34,Light rain in the morning.
+534,Amsterdam,2017-01-09,43.43,39.74,Rain overnight.
+535,Amsterdam,2017-01-07,39.21,30.4,Foggy in the morning.
+536,Amsterdam,2017-01-02,42.8,36.06,"Mostly cloudy starting in the afternoon, continuing until evening."
+537,Amsterdam,2016-11-18,47.29,38.9,Partly cloudy throughout the day.
+538,Amsterdam,2016-11-09,39.7,35.37,"Light rain starting in the afternoon, continuing until evening."
+539,Amsterdam,2016-11-03,51.92,40.63,Partly cloudy throughout the day.
+540,Amsterdam,2016-09-01,72.03,59.78,Partly cloudy until evening.
+541,Amsterdam,2016-08-25,89.61,66.19,Partly cloudy in the morning.
+542,Amsterdam,2016-08-16,69.48,56.34,Partly cloudy until evening.
+543,Amsterdam,2016-06-23,79.55,64.79,Rain in the morning and afternoon.
+544,Amsterdam,2016-06-22,76.6,56.56,Partly cloudy throughout the day.
+545,Amsterdam,2016-05-05,66.41,45.87,Mostly cloudy throughout the day.
+546,Amsterdam,2016-04-27,47.8,40.19,Partly cloudy throughout the day.
+547,Amsterdam,2016-04-18,53.58,39.79,Partly cloudy throughout the day.
+548,Amsterdam,2016-02-28,43.99,32.39,Partly cloudy in the morning.
+549,Amsterdam,2015-12-09,50.28,44.24,Partly cloudy overnight.
+550,Amsterdam,2015-11-23,45.02,32.95,Partly cloudy throughout the day.
+551,Amsterdam,2015-11-08,61.5,47.82,Foggy in the morning.
+552,Amsterdam,2015-11-02,57.5,41.6,Foggy in the morning.
+553,Amsterdam,2015-10-09,60.95,49.31,Mostly cloudy starting in the evening.
+554,Amsterdam,2015-10-08,59.91,53.3,Mostly cloudy throughout the day.
+555,Amsterdam,2015-10-07,61.03,57.32,"Light rain starting in the afternoon, continuing until evening."
+556,Amsterdam,2015-09-27,63.18,45.57,Mostly cloudy overnight.
+557,Amsterdam,2015-09-13,65.91,55.23,Mostly cloudy starting in the afternoon.
+558,Amsterdam,2015-08-10,73.88,64.54,Partly cloudy until evening.
+559,Amsterdam,2017-07-29,70.68,60.93,Heavy rain in the morning and evening.
+560,Amsterdam,2017-07-15,70.16,55.31,Partly cloudy throughout the day.
+561,Amsterdam,2017-06-26,66.48,57.49,Partly cloudy until evening.
+562,Amsterdam,2017-05-17,83.55,61.99,Mostly cloudy throughout the day.
+563,Amsterdam,2017-05-05,52.29,46.68,Mostly cloudy throughout the day.
+564,Amsterdam,2017-04-30,65.24,42.15,Mostly cloudy throughout the day.
+565,Amsterdam,2017-03-28,66.59,39.2,Mostly cloudy starting in the afternoon.
+566,Amsterdam,2017-01-20,39.24,25.99,Mostly cloudy starting in the afternoon.
+567,Amsterdam,2016-12-31,40.92,37.69,Foggy throughout the day.
+568,Amsterdam,2016-12-09,51.03,47.68,Foggy until afternoon.
+569,Amsterdam,2016-11-10,40.88,38.15,Rain starting in the evening.
+570,Amsterdam,2016-09-15,83.21,65.87,Mostly cloudy starting in the evening.
+571,Amsterdam,2016-09-06,73.02,59.43,Mostly cloudy until evening.
+572,Amsterdam,2016-07-31,67.68,58.48,Partly cloudy until evening.
+573,Amsterdam,2016-07-18,77.76,60.37,Mostly cloudy in the morning.
+574,Amsterdam,2016-07-04,71.81,53.69,Partly cloudy throughout the day.
+575,Amsterdam,2016-06-24,70.41,61.23,Foggy in the morning.
+576,Amsterdam,2016-06-18,60.19,53.16,Mostly cloudy throughout the day.
+577,Amsterdam,2016-06-02,62.01,54.83,Mostly cloudy throughout the day.
+578,Amsterdam,2016-05-25,57.8,50.25,Mostly cloudy throughout the day.
+579,Amsterdam,2016-05-16,54.8,43.99,Mostly cloudy throughout the day.
+580,Amsterdam,2016-05-09,77.4,59.47,Mostly cloudy starting in the afternoon.
+581,Amsterdam,2016-04-28,46.85,36.36,Light rain in the afternoon.
+582,Amsterdam,2016-03-14,48.46,32.32,Mostly cloudy throughout the day.
+583,Amsterdam,2016-02-26,41.27,33.46,Mostly cloudy throughout the day.
+584,Amsterdam,2016-02-19,46.24,31.98,Foggy in the morning.
+585,Amsterdam,2016-02-17,38.1,26.89,Mostly cloudy overnight.
+586,Amsterdam,2016-02-13,37.89,31.52,Mostly cloudy throughout the day.
+587,Amsterdam,2016-01-31,49.2,41.69,Light rain in the evening and overnight.
+588,Amsterdam,2016-01-20,40.96,32.94,Mostly cloudy throughout the day.
+589,Amsterdam,2015-12-23,55.28,46.83,Mostly cloudy starting in the evening.
+590,Amsterdam,2015-12-19,56.33,50.68,Mostly cloudy throughout the day.
+591,Amsterdam,2015-10-24,56.03,50.44,Overcast throughout the day.
+592,Amsterdam,2015-09-21,64.17,55.33,Light rain starting in the evening.
+593,Milan,2017-08-01,92.7,73.27,Clear throughout the day.
+594,Milan,2017-07-14,81.76,69.6,Partly cloudy until afternoon.
+595,Milan,2017-07-12,86.46,68.35,Partly cloudy until afternoon.
+596,Milan,2017-07-10,87.65,72.25,Partly cloudy throughout the day.
+597,Milan,2017-07-05,88.41,69.54,Partly cloudy in the morning.
+598,Milan,2017-07-04,85.29,67.31,Partly cloudy in the morning.
+599,Milan,2017-06-23,92.85,72.55,Clear throughout the day.
+600,Milan,2017-06-16,93.18,70.89,Partly cloudy until afternoon.
+601,Milan,2017-06-15,85.72,70.08,Partly cloudy throughout the day.
+602,Milan,2017-06-11,86.23,68.11,Partly cloudy overnight.
+603,Milan,2017-06-08,77.24,59.67,Partly cloudy until evening.
+604,Milan,2017-06-06,73.95,63.49,Partly cloudy until evening.
+605,Milan,2017-06-03,86.97,66.3,Partly cloudy starting in the evening.
+606,Milan,2017-05-31,86.55,67.6,Clear throughout the day.
+607,Milan,2017-05-26,80.45,65.91,Partly cloudy in the morning.
+608,Milan,2017-05-22,81.2,58.24,Clear throughout the day.
+609,Milan,2017-05-21,79.88,54.34,Clear throughout the day.
+610,Milan,2017-05-16,80.78,59.87,Partly cloudy in the morning.
+611,Milan,2017-05-15,79.18,57.5,Partly cloudy overnight.
+612,Milan,2017-05-07,64.89,51.52,Mostly cloudy until evening.
+613,Milan,2017-05-02,65.2,41.61,Rain starting in the evening.
+614,Milan,2017-04-06,71.09,48.02,Partly cloudy in the morning.
+615,Milan,2017-08-03,95.85,75.56,Clear throughout the day.
+616,Milan,2017-07-25,85.63,66.08,Partly cloudy overnight.
+617,Milan,2017-07-24,78.04,72.14,Mostly cloudy until evening.
+618,Milan,2017-07-22,87.95,69.66,Partly cloudy in the morning.
+619,Milan,2017-07-21,88.03,70.89,Light rain overnight.
+620,Milan,2017-07-18,88.14,67.76,Partly cloudy overnight.
+621,Milan,2017-07-15,85.63,67.45,"Partly cloudy starting in the afternoon, continuing until evening."
+622,Milan,2017-07-13,90.4,69.77,Partly cloudy overnight.
+623,Milan,2017-07-11,81.82,67.9,Partly cloudy until evening.
+624,Milan,2017-07-09,87.73,75.11,Partly cloudy throughout the day.
+625,Milan,2017-07-08,93.55,73.14,Partly cloudy starting in the evening.
+626,Milan,2017-06-28,78.6,63.94,Rain in the evening.
+627,Milan,2017-06-26,86.72,69.25,Rain in the evening.
+628,Milan,2017-06-22,92.94,72.81,Partly cloudy starting in the evening.
+629,Milan,2017-06-02,85.64,66.06,"Partly cloudy starting in the afternoon, continuing until evening."
+630,Milan,2017-05-05,70.87,47.34,Foggy in the morning.
+631,Milan,2017-04-24,61.92,55.58,Mostly cloudy throughout the day.
+632,Milan,2017-04-23,71.92,48.84,Mostly cloudy throughout the day.
+633,Milan,2017-04-19,59.29,45.05,"Partly cloudy starting in the afternoon, continuing until evening."
+634,Milan,2017-04-18,59.37,48.15,Partly cloudy in the morning.
+635,Milan,2017-04-11,76.07,54.13,Partly cloudy in the evening.
+636,Milan,2017-04-08,72.47,47.85,Clear throughout the day.
+637,Milan,2017-03-28,68.17,42.21,Clear throughout the day.
+638,Milan,2017-03-25,69.34,47.96,Rain overnight.
+639,Milan,2017-03-18,69.37,50.11,Clear throughout the day.
+640,Milan,2017-03-14,66.21,40.52,Partly cloudy in the morning.
+641,Amsterdam,2017-08-02,71.67,60.96,Light rain overnight.
+642,Amsterdam,2017-07-28,68.14,60.45,Partly cloudy throughout the day.
+643,Amsterdam,2017-07-21,73.05,56.54,Mostly cloudy starting in the evening.
+644,Amsterdam,2017-07-14,63.92,52.4,Rain until afternoon.
+645,Amsterdam,2017-06-22,81.79,63.58,Rain in the evening.
+646,Amsterdam,2017-06-16,63.85,58.39,Mostly cloudy throughout the day.
+647,Amsterdam,2017-06-15,77.33,59.74,Mostly cloudy until afternoon.
+648,Amsterdam,2017-06-08,70.98,54.27,Mostly cloudy throughout the day.
+649,Amsterdam,2017-06-07,62.41,54.76,Light rain in the morning.
+650,Amsterdam,2017-06-02,77.19,56.62,Mostly cloudy throughout the day.
+651,Amsterdam,2017-06-01,72.14,49.61,Mostly cloudy in the morning.
+652,Amsterdam,2017-05-28,74.63,59.93,Mostly cloudy throughout the day.
+653,Amsterdam,2017-05-24,69.28,52.61,Mostly cloudy throughout the day.
+654,Amsterdam,2017-05-13,62.58,53.69,Mostly cloudy throughout the day.
+655,Amsterdam,2017-05-08,57.66,45.46,Mostly cloudy until afternoon.
+656,Amsterdam,2017-04-15,51.45,46.3,Light rain in the morning.
+657,Amsterdam,2017-04-12,51.74,48.49,Light rain overnight.
+658,Amsterdam,2017-03-27,63.93,39.51,Mostly cloudy until afternoon.
+659,Amsterdam,2017-03-21,48.16,41.72,Partly cloudy throughout the day.
+660,Amsterdam,2017-02-22,49.14,45.56,Rain in the morning and afternoon.
+661,Amsterdam,2017-01-26,32.58,25.58,Clear throughout the day.
+662,Amsterdam,2017-01-23,37.26,28.37,Foggy throughout the day.
+663,Amsterdam,2017-01-18,29.1,23.4,Foggy until afternoon.
+664,Amsterdam,2017-01-16,36.13,26.66,Mostly cloudy throughout the day.
+665,Amsterdam,2017-01-15,39.16,31.59,Partly cloudy throughout the day.
+666,Amsterdam,2017-01-01,38.21,32.67,Foggy until evening.
+667,Amsterdam,2016-12-23,46.09,40.91,Foggy until afternoon.
+668,Amsterdam,2016-12-05,38.81,26.52,Mostly cloudy starting in the evening.
+669,Amsterdam,2016-12-01,49.31,45.39,Mostly cloudy throughout the day.
+670,Amsterdam,2016-11-22,55.3,47.03,Mostly cloudy throughout the day.
+671,Amsterdam,2016-11-21,55.78,45.43,Light rain in the morning and evening.
+672,Amsterdam,2016-10-28,58.51,52.49,Mostly cloudy throughout the day.
+673,Amsterdam,2016-10-10,55.28,42.31,Partly cloudy throughout the day.
+674,Amsterdam,2016-09-30,63.93,55.5,Partly cloudy throughout the day.
+675,Amsterdam,2016-09-24,74.33,51.59,Partly cloudy until afternoon.
+676,Amsterdam,2016-09-21,69.26,57.92,Mostly cloudy throughout the day.
+677,Amsterdam,2016-09-08,80.39,59.87,Clear throughout the day.
+678,Amsterdam,2016-08-30,74.54,53.92,Partly cloudy starting in the afternoon.
+679,Amsterdam,2016-08-17,73.99,56.17,Clear throughout the day.
+680,Amsterdam,2016-08-11,60.92,49.51,Light rain throughout the day.
+681,Amsterdam,2016-08-06,70.58,58.13,Partly cloudy until afternoon.
+682,Amsterdam,2016-08-04,69.03,61.89,Partly cloudy throughout the day.
+683,Amsterdam,2016-08-01,68.7,57.75,Partly cloudy throughout the day.
+684,Amsterdam,2016-07-25,70.69,61.87,Mostly cloudy throughout the day.
+685,Amsterdam,2016-07-21,77.46,64.9,Partly cloudy throughout the day.
+686,Amsterdam,2016-07-12,67.71,59.24,Partly cloudy throughout the day.
+687,Amsterdam,2016-07-11,69.71,61.67,Partly cloudy throughout the day.
+688,Amsterdam,2016-07-10,76.47,62.38,Mostly cloudy throughout the day.
+689,Amsterdam,2016-07-06,65.56,52.31,Partly cloudy throughout the day.
+690,Amsterdam,2016-07-03,66.01,52.86,Partly cloudy until evening.
+691,Amsterdam,2016-06-21,67.63,57.64,Mostly cloudy throughout the day.
+692,Amsterdam,2016-06-15,63.06,53.91,Mostly cloudy throughout the day.
+693,Amsterdam,2016-06-08,67.68,56.14,Partly cloudy throughout the day.
+694,Amsterdam,2016-05-08,79.17,59.61,Clear throughout the day.
+695,Amsterdam,2016-05-02,61.97,39.6,Light rain overnight.
+696,Amsterdam,2016-04-16,49.97,42.14,Mostly cloudy throughout the day.
+697,Amsterdam,2016-04-06,51.37,44.49,"Light rain starting in the afternoon, continuing until evening."
+698,Amsterdam,2016-04-03,65.04,52.46,Rain overnight.
+699,Amsterdam,2016-04-02,55.22,45.77,Mostly cloudy throughout the day.
+700,Amsterdam,2016-03-07,44.35,33.37,Partly cloudy throughout the day.
+701,Amsterdam,2016-02-18,36.59,30.4,Light rain in the evening.
+702,Amsterdam,2016-01-29,50.38,42.37,Overcast throughout the day.
+703,Amsterdam,2016-01-24,50.18,41.65,Foggy until afternoon.
+704,Amsterdam,2016-01-14,41.51,36.14,Rain throughout the day.
+705,Amsterdam,2016-01-07,45.27,35.97,"Rain starting in the afternoon, continuing until evening."
+706,Amsterdam,2016-01-04,42.69,39.82,Light rain in the morning and evening.
+707,Amsterdam,2015-11-30,53.15,44.67,Rain starting in the afternoon.
+708,Amsterdam,2015-11-16,56.72,53.07,Rain overnight.
+709,Amsterdam,2015-11-07,64.64,58.12,Mostly cloudy throughout the day.
+710,Amsterdam,2015-09-08,62.67,56.0,Mostly cloudy throughout the day.
+711,Amsterdam,2015-08-29,73.27,55.23,Mostly cloudy until afternoon.
+712,Amsterdam,2015-08-19,70.62,56.77,Partly cloudy until evening.
+713,Amsterdam,2017-07-25,66.42,58.81,Mostly cloudy throughout the day.
+714,Amsterdam,2017-07-18,76.3,56.98,Mostly cloudy throughout the day.
+715,Amsterdam,2017-07-05,74.65,57.66,Partly cloudy until evening.
+716,Amsterdam,2017-06-28,70.42,61.56,"Light rain starting in the afternoon, continuing until evening."
+717,Amsterdam,2017-06-27,71.91,54.06,Light rain overnight.
+718,Amsterdam,2017-06-18,80.02,56.66,"Partly cloudy starting in the afternoon, continuing until evening."
+719,Amsterdam,2017-06-14,74.22,51.91,Mostly cloudy in the evening.
+720,Amsterdam,2017-06-11,79.93,57.96,Mostly cloudy throughout the day.
+721,Amsterdam,2017-05-31,69.35,57.5,Partly cloudy throughout the day.
+722,Amsterdam,2017-04-17,50.01,41.43,Light rain in the morning.
+723,Amsterdam,2017-04-08,57.86,46.69,Mostly cloudy until evening.
+724,Amsterdam,2017-04-07,57.33,44.09,Mostly cloudy throughout the day.
+725,Amsterdam,2017-03-30,69.59,52.52,Mostly cloudy throughout the day.
+726,Amsterdam,2017-03-24,55.43,40.14,Mostly cloudy throughout the day.
+727,Amsterdam,2017-03-12,58.18,40.97,Mostly cloudy throughout the day.
+728,Amsterdam,2017-03-01,46.74,38.97,Light rain starting in the evening.
+729,Amsterdam,2017-01-17,30.97,24.94,Foggy in the morning.
+730,Amsterdam,2017-01-12,44.84,36.02,Rain starting in the afternoon.
+731,Amsterdam,2017-01-11,48.97,42.95,Mostly cloudy throughout the day.
+732,Amsterdam,2016-12-08,50.14,44.59,Light rain in the evening.
+733,Amsterdam,2016-11-04,49.92,45.14,Light rain overnight.
+734,Amsterdam,2016-10-29,59.31,45.85,Partly cloudy in the morning.
+735,Amsterdam,2016-10-27,57.59,49.92,Foggy in the morning.
+736,Amsterdam,2016-10-20,54.16,47.0,Light rain in the afternoon.
+737,Amsterdam,2016-10-17,61.03,51.9,Partly cloudy until evening.
+738,Amsterdam,2016-10-02,57.66,49.89,Rain starting in the afternoon.
+739,Amsterdam,2016-09-29,64.01,58.97,"Rain starting in the afternoon, continuing until evening."
+740,Amsterdam,2016-09-22,69.3,53.09,Mostly cloudy throughout the day.
+741,Amsterdam,2016-08-23,80.52,62.09,Mostly cloudy until afternoon.
+742,Amsterdam,2016-08-22,69.99,61.02,Light rain in the morning.
+743,Amsterdam,2016-08-21,67.06,58.87,Rain until afternoon.
+744,Amsterdam,2016-08-10,62.41,51.31,Partly cloudy until evening.
+745,Amsterdam,2016-08-03,68.91,64.66,Mostly cloudy throughout the day.
+746,Amsterdam,2016-06-20,61.08,58.46,Rain until evening.
+747,Amsterdam,2016-06-07,76.39,59.21,Mostly cloudy throughout the day.
+748,Amsterdam,2016-05-26,64.71,47.63,Partly cloudy throughout the day.
+749,Amsterdam,2016-05-24,57.08,50.2,Mostly cloudy throughout the day.
+750,Amsterdam,2016-05-23,55.35,51.76,Rain until afternoon.
+751,Amsterdam,2016-04-29,50.91,40.42,Light rain in the morning.
+752,Amsterdam,2016-04-04,57.71,52.05,Light rain in the afternoon.
+753,Amsterdam,2016-03-30,50.75,43.98,Mostly cloudy throughout the day.
+754,Amsterdam,2016-03-28,52.6,45.34,Mostly cloudy throughout the day.
+755,Amsterdam,2016-03-22,49.22,42.41,Mostly cloudy throughout the day.
+756,Amsterdam,2016-03-21,47.89,43.17,Mostly cloudy throughout the day.
+757,Amsterdam,2016-02-23,45.33,37.55,Partly cloudy throughout the day.
+758,Amsterdam,2016-02-21,51.37,47.42,Light rain in the morning.
+759,Amsterdam,2016-02-06,50.59,47.93,Mostly cloudy throughout the day.
+760,Amsterdam,2016-01-09,45.24,35.78,Mostly cloudy throughout the day.
+761,Amsterdam,2015-12-27,54.58,51.77,Mostly cloudy throughout the day.
+762,Amsterdam,2015-12-20,55.07,51.56,Mostly cloudy throughout the day.
+763,Amsterdam,2015-12-01,53.79,44.12,Mostly cloudy throughout the day.
+764,Amsterdam,2015-08-15,68.33,61.87,Mostly cloudy throughout the day.
+765,Amsterdam,2017-07-30,69.38,62.03,Partly cloudy throughout the day.
+766,Amsterdam,2017-07-27,68.71,62.41,Partly cloudy throughout the day.
+767,Amsterdam,2017-07-20,72.62,61.17,Mostly cloudy throughout the day.
+768,Amsterdam,2017-07-16,68.74,61.42,Light rain overnight.
+769,Amsterdam,2017-07-13,66.43,51.83,Partly cloudy throughout the day.
+770,Amsterdam,2017-06-23,68.98,62.04,Mostly cloudy throughout the day.
+771,Amsterdam,2017-06-21,80.24,57.13,Mostly cloudy throughout the day.
+772,Amsterdam,2017-06-06,64.14,54.14,"Rain until afternoon, starting again in the evening."
+773,Amsterdam,2017-05-30,66.07,61.04,Mostly cloudy throughout the day.
+774,Amsterdam,2017-05-26,79.42,55.74,Clear throughout the day.
+775,Amsterdam,2017-05-10,57.22,42.66,Mostly cloudy until afternoon.
+776,Amsterdam,2017-04-21,56.36,48.56,Mostly cloudy throughout the day.
+777,Amsterdam,2017-04-13,52.99,44.84,Partly cloudy until evening.
+778,Amsterdam,2017-04-09,69.2,41.72,Partly cloudy overnight.
+779,Amsterdam,2017-03-11,54.19,39.25,Mostly cloudy throughout the day.
+780,Amsterdam,2017-02-27,50.31,42.78,"Rain starting in the afternoon, continuing until evening."
+781,Amsterdam,2017-02-26,50.1,44.57,Mostly cloudy throughout the day.
+782,Amsterdam,2017-02-25,46.98,36.44,Mostly cloudy throughout the day.
+783,Amsterdam,2017-02-24,45.68,36.47,Partly cloudy in the morning.
+784,Amsterdam,2017-02-23,49.43,40.17,Rain in the morning and overnight.
+785,Amsterdam,2017-02-19,48.65,40.05,Mostly cloudy throughout the day.
+786,Amsterdam,2017-02-01,41.42,33.78,Foggy in the morning.
+787,Amsterdam,2017-01-31,40.46,38.0,Overcast throughout the day.
+788,Amsterdam,2017-01-13,41.82,32.69,Rain in the morning and evening.
+789,Amsterdam,2017-01-05,39.58,27.54,Mostly cloudy starting in the evening.
+790,Amsterdam,2016-12-24,49.11,44.79,Mostly cloudy throughout the day.
+791,Amsterdam,2016-12-22,45.65,40.74,Mostly cloudy throughout the day.
+792,Amsterdam,2016-12-18,48.39,39.68,Foggy starting in the evening.
+793,Amsterdam,2016-11-25,45.29,36.13,Overcast throughout the day.
+794,Amsterdam,2016-11-16,56.27,49.53,Light rain in the morning and evening.
+795,Amsterdam,2016-11-11,43.04,31.09,Mostly cloudy in the morning.
+796,Amsterdam,2016-11-08,40.23,30.09,Mostly cloudy throughout the day.
+797,Amsterdam,2016-11-05,48.8,42.71,Foggy in the morning.
+798,Amsterdam,2016-11-01,56.4,45.56,Foggy in the morning.
+799,Amsterdam,2016-10-23,53.63,36.52,Foggy in the morning.
+800,Amsterdam,2016-10-22,50.42,40.58,Partly cloudy until evening.
+801,Amsterdam,2016-10-15,57.06,48.37,Light rain in the morning.
+802,Amsterdam,2016-10-08,58.01,49.94,Partly cloudy throughout the day.
+803,Amsterdam,2016-10-07,58.27,51.7,Mostly cloudy throughout the day.
+804,Amsterdam,2016-09-26,65.57,52.24,Partly cloudy throughout the day.
+805,Amsterdam,2016-09-25,73.45,55.55,Mostly cloudy starting in the afternoon.
+806,Amsterdam,2016-09-23,66.75,52.46,Partly cloudy in the afternoon.
+807,Amsterdam,2016-09-20,66.44,52.51,Partly cloudy in the morning.
+808,Amsterdam,2016-09-17,69.43,58.94,Mostly cloudy throughout the day.
+809,Amsterdam,2016-09-16,69.57,61.5,Mostly cloudy throughout the day.
+810,Amsterdam,2016-09-05,71.39,60.18,Partly cloudy until evening.
+811,Amsterdam,2016-09-03,71.35,61.38,Rain overnight.
+812,Amsterdam,2016-08-20,71.15,59.56,Partly cloudy until afternoon.
+813,Amsterdam,2016-08-12,70.26,61.56,Mostly cloudy until evening.
+814,Amsterdam,2016-07-28,71.62,60.44,Light rain in the afternoon.
+815,Amsterdam,2016-07-24,75.65,64.41,Mostly cloudy throughout the day.
+816,Amsterdam,2016-07-01,63.28,60.03,Light rain in the evening.
+817,Amsterdam,2016-06-30,63.39,58.28,Light rain in the morning and afternoon.
+818,Amsterdam,2016-06-25,66.03,55.36,Partly cloudy throughout the day.
+819,Amsterdam,2016-06-14,64.4,58.15,Light rain in the afternoon.
+820,Amsterdam,2016-06-13,63.17,58.35,Mostly cloudy throughout the day.
+821,Amsterdam,2016-06-11,67.29,55.52,Partly cloudy throughout the day.
+822,Amsterdam,2016-05-27,68.68,52.68,Mostly cloudy throughout the day.
+823,Amsterdam,2016-05-20,61.53,52.96,Mostly cloudy throughout the day.
+824,Amsterdam,2016-05-15,52.25,44.29,Partly cloudy throughout the day.
+825,Amsterdam,2016-05-10,71.98,61.05,Mostly cloudy throughout the day.
+826,Amsterdam,2016-05-04,60.4,40.93,Mostly cloudy throughout the day.
+827,Amsterdam,2016-04-20,54.76,38.75,Mostly cloudy in the morning.
+828,Amsterdam,2016-03-24,49.74,43.73,Mostly cloudy throughout the day.
+829,Amsterdam,2016-03-18,44.65,38.29,Mostly cloudy throughout the day.
+830,Amsterdam,2016-02-14,37.12,35.56,Light rain throughout the day.
+831,Amsterdam,2016-01-28,47.97,41.82,Mostly cloudy starting in the evening.
+832,Amsterdam,2016-01-21,33.53,29.24,Foggy throughout the day.
+833,Amsterdam,2015-12-17,58.38,54.32,Mostly cloudy throughout the day.
+834,Amsterdam,2015-12-11,48.39,42.65,Light rain in the morning.
+835,Amsterdam,2015-11-22,41.61,35.46,Partly cloudy until evening.
+836,Amsterdam,2015-11-09,61.2,54.2,"Rain starting in the afternoon, continuing until evening."
+837,Amsterdam,2015-11-04,57.65,48.79,Mostly cloudy throughout the day.
+838,Amsterdam,2015-10-16,49.58,44.66,Light rain overnight.
+839,Amsterdam,2015-10-12,50.64,37.34,Mostly cloudy throughout the day.
+840,Amsterdam,2015-10-06,64.01,55.81,Light rain in the morning.
+841,Amsterdam,2015-10-03,63.29,46.19,Foggy overnight.
+842,Amsterdam,2015-09-22,59.61,51.61,Partly cloudy throughout the day.
+843,Amsterdam,2015-09-17,59.5,55.35,Rain until afternoon.
+844,Amsterdam,2015-09-14,64.18,54.67,"Rain starting in the afternoon, continuing until evening."
+845,Amsterdam,2015-09-10,67.22,51.21,Partly cloudy until afternoon.
+846,Amsterdam,2015-08-31,76.78,64.46,Rain in the morning and evening.
+847,Amsterdam,2015-08-24,70.35,60.16,Rain starting in the afternoon.
+848,Amsterdam,2015-08-21,77.48,62.09,Partly cloudy throughout the day.
+849,Amsterdam,2015-08-13,81.8,60.44,Rain overnight.
+850,Amsterdam,2015-08-07,77.33,58.67,Mostly cloudy starting in the evening.
+851,Amsterdam,2017-07-01,66.57,57.68,Light rain in the morning.
+852,Amsterdam,2017-06-04,65.74,57.0,Partly cloudy throughout the day.
+853,Amsterdam,2017-05-18,71.32,56.31,Light rain in the morning.
+854,Amsterdam,2017-05-12,67.64,57.24,"Light rain until afternoon, starting again in the evening."
+855,Amsterdam,2017-05-06,63.68,45.66,Mostly cloudy starting in the evening.
+856,Amsterdam,2017-04-25,48.16,40.4,Partly cloudy until evening.
+857,Amsterdam,2017-04-23,50.28,40.26,Partly cloudy throughout the day.
+858,Amsterdam,2017-03-23,55.44,38.86,Partly cloudy until evening.
+859,Amsterdam,2017-03-09,52.74,39.91,Foggy in the morning.
+860,Amsterdam,2017-03-05,50.56,41.95,"Light rain starting in the afternoon, continuing until evening."
+861,Amsterdam,2017-03-02,46.0,40.32,Rain in the morning.
+862,Amsterdam,2017-02-21,50.49,45.74,Mostly cloudy throughout the day.
+863,Amsterdam,2017-02-18,47.34,38.42,Foggy until afternoon.
+864,Amsterdam,2017-02-16,47.7,41.81,Mostly cloudy throughout the day.
+865,Amsterdam,2017-02-07,39.57,33.42,"Foggy starting in the afternoon, continuing until evening."
+866,Amsterdam,2017-01-28,47.6,37.28,Mostly cloudy throughout the day.
+867,Amsterdam,2016-12-30,38.54,27.34,Foggy until evening.
+868,Amsterdam,2016-11-29,39.39,24.56,Partly cloudy overnight.
+869,Amsterdam,2016-11-26,41.06,30.99,Mostly cloudy throughout the day.
+870,Amsterdam,2016-10-16,66.14,49.21,Mostly cloudy starting in the evening.
+871,Amsterdam,2016-10-14,54.27,46.12,Rain overnight.
+872,Amsterdam,2016-10-05,57.31,47.24,Clear throughout the day.
+873,Amsterdam,2016-09-14,88.41,66.86,Clear throughout the day.
+874,Amsterdam,2016-09-13,89.08,66.17,Clear throughout the day.
+875,Amsterdam,2016-09-04,66.88,62.24,Rain in the morning.
+876,Amsterdam,2016-09-02,69.38,57.3,Mostly cloudy throughout the day.
+877,Amsterdam,2016-08-19,75.34,56.09,Rain overnight.
+878,Amsterdam,2016-07-15,68.92,54.73,Partly cloudy throughout the day.
+879,Amsterdam,2016-06-28,69.19,53.73,Light rain overnight.
+880,Amsterdam,2016-05-31,72.43,59.34,Foggy overnight.
+881,Amsterdam,2016-05-18,63.29,48.69,Light rain in the evening.
+882,Amsterdam,2016-05-12,77.5,59.7,Overcast in the morning.
+883,Amsterdam,2016-04-11,64.36,47.39,Mostly cloudy starting in the evening.
+884,Amsterdam,2016-04-08,52.28,42.01,Partly cloudy throughout the day.
+885,Amsterdam,2016-03-10,47.51,33.53,Overcast in the morning.
+886,Amsterdam,2016-03-09,46.62,38.05,Mostly cloudy throughout the day.
+887,Amsterdam,2016-02-24,41.53,33.64,Partly cloudy throughout the day.
+888,Amsterdam,2016-02-11,46.15,36.85,Partly cloudy in the afternoon.
+889,Amsterdam,2016-01-01,46.24,37.47,Partly cloudy throughout the day.
+890,Amsterdam,2015-12-28,53.6,44.66,Mostly cloudy starting in the evening.
+891,Amsterdam,2015-12-21,52.67,47.34,Light rain in the evening.
+892,Amsterdam,2015-12-12,52.28,42.8,Rain starting in the evening.
+893,Amsterdam,2015-12-07,53.18,48.86,Foggy in the morning.
+894,Amsterdam,2015-12-06,53.79,47.21,Foggy in the evening.
+895,Amsterdam,2015-12-02,53.45,50.25,Mostly cloudy throughout the day.
+896,Amsterdam,2015-11-27,44.54,40.65,Light rain overnight.
+897,Amsterdam,2015-11-25,45.46,41.94,Light rain in the afternoon and evening.
+898,Amsterdam,2015-11-20,50.08,42.99,Light rain overnight.
+899,Amsterdam,2015-11-05,58.31,52.48,Light rain overnight.
+900,Amsterdam,2015-10-31,58.68,45.93,Clear throughout the day.
+901,Amsterdam,2015-10-11,52.88,40.61,Clear throughout the day.
+902,Amsterdam,2015-09-24,58.41,53.75,"Light rain starting in the afternoon, continuing until evening."
+903,Amsterdam,2015-09-02,63.65,53.9,Partly cloudy until evening.
+904,Amsterdam,2015-08-05,77.65,55.89,Partly cloudy until afternoon.
+905,Vienna,2017-07-24,72.63,62.86,Rain in the morning and afternoon.
+906,Vienna,2017-07-13,75.82,62.2,Partly cloudy until afternoon.
+907,Vienna,2017-07-12,84.23,66.83,Light rain starting in the evening.
+908,Vienna,2017-07-04,78.32,57.31,Mostly cloudy throughout the day.
+909,Vienna,2017-07-01,78.14,61.36,Partly cloudy throughout the day.
+910,Vienna,2017-06-04,80.05,62.23,Rain in the evening.
+911,Vienna,2017-05-07,65.49,54.8,Mostly cloudy throughout the day.
+912,Vienna,2017-05-01,63.75,49.25,Mostly cloudy throughout the day.
+913,Vienna,2017-04-18,48.84,38.94,Light rain starting in the evening.
+914,Vienna,2017-03-24,53.83,43.38,Mostly cloudy throughout the day.
+915,Vienna,2017-03-06,53.31,39.8,Mostly cloudy throughout the day.
+916,Vienna,2017-02-28,52.88,35.53,Mostly cloudy throughout the day.
+917,Vienna,2017-02-27,56.1,30.87,Partly cloudy throughout the day.
+918,Vienna,2017-02-23,64.58,46.74,Mostly cloudy throughout the day.
+919,Vienna,2017-02-21,52.09,44.53,Light rain until afternoon.
+920,Vienna,2017-02-14,43.2,27.2,Foggy in the morning.
+921,Vienna,2017-02-13,40.32,28.33,Partly cloudy in the morning.
+922,Vienna,2017-02-07,37.96,29.18,Mostly cloudy until evening.
+923,Vienna,2017-02-06,38.25,35.37,"Rain until afternoon, starting again in the evening."
+924,Vienna,2017-01-10,23.95,14.6,Mostly cloudy until evening.
+925,Vienna,2016-12-30,35.88,22.24,Clear throughout the day.
+926,Vienna,2016-12-17,31.09,24.96,Foggy until evening.
+927,Vienna,2016-12-13,35.19,23.93,Mostly cloudy throughout the day.
+928,Vienna,2016-12-07,38.48,26.95,Foggy overnight.
+929,Vienna,2016-12-05,33.29,26.26,Partly cloudy throughout the day.
+930,Vienna,2017-07-29,83.58,59.0,Mostly cloudy starting in the afternoon.
+931,Vienna,2017-07-05,89.22,57.92,Partly cloudy starting in the afternoon.
+932,Vienna,2017-07-03,75.75,61.22,Mostly cloudy until evening.
+933,Vienna,2017-05-14,74.71,52.19,Mostly cloudy starting in the afternoon.
+934,Vienna,2017-04-11,57.63,47.79,Mostly cloudy throughout the day.
+935,Vienna,2017-03-27,59.1,31.85,Clear throughout the day.
+936,Vienna,2017-03-19,54.19,42.89,Light rain in the morning.
+937,Vienna,2017-03-17,66.71,36.49,Rain starting in the evening.
+938,Vienna,2017-03-16,61.82,40.34,Partly cloudy throughout the day.
+939,Vienna,2017-03-03,58.39,38.38,Mostly cloudy throughout the day.
+940,Vienna,2017-03-02,54.89,37.21,Mostly cloudy until evening.
+941,Vienna,2017-02-20,47.75,32.56,Light rain overnight.
+942,Vienna,2017-01-18,29.1,20.43,Mostly cloudy until evening.
+943,Vienna,2016-12-09,50.64,28.74,Mostly cloudy throughout the day.
+944,Milan,2017-07-02,83.28,60.3,Partly cloudy until afternoon.
+945,Milan,2017-07-01,76.81,57.51,Partly cloudy starting in the afternoon.
+946,Milan,2017-06-19,87.82,67.15,Partly cloudy in the morning.
+947,Milan,2017-06-18,84.47,70.34,Partly cloudy in the morning.
+948,Milan,2017-06-12,89.26,69.45,Partly cloudy in the morning.
+949,Milan,2017-05-18,78.46,64.94,Partly cloudy throughout the day.
+950,Milan,2017-04-21,63.1,41.88,Clear throughout the day.
+951,Milan,2017-04-10,76.62,54.8,Partly cloudy starting in the evening.
+952,Milan,2017-04-07,66.15,51.32,Partly cloudy until evening.
+953,Milan,2017-04-03,75.28,49.28,Clear throughout the day.
+954,Milan,2017-03-26,59.44,48.81,Light rain in the morning.
+955,Milan,2017-03-07,61.51,43.6,Partly cloudy in the morning.
+956,Milan,2017-02-10,40.93,37.7,Mostly cloudy throughout the day.
+957,Milan,2017-01-09,41.63,24.31,Mostly cloudy overnight.
+958,Milan,2016-11-10,52.5,35.15,Mostly cloudy starting in the evening.
+959,Milan,2016-11-07,56.76,38.65,Mostly cloudy in the morning.
+960,Milan,2016-10-24,56.04,51.91,Light rain in the evening.
+961,Milan,2016-10-22,58.1,47.88,Partly cloudy throughout the day.
+962,Milan,2016-10-18,66.77,52.94,Foggy in the morning.
+963,Milan,2016-10-14,53.53,48.8,Heavy rain throughout the day.
+964,Milan,2016-10-11,57.91,47.17,Partly cloudy until afternoon.
+965,Milan,2016-10-03,75.31,58.47,Partly cloudy overnight.
+966,Milan,2016-09-19,81.73,59.44,Partly cloudy until afternoon.
+967,Milan,2016-09-12,86.96,69.78,Partly cloudy in the morning.
+968,Milan,2016-08-31,84.66,69.1,Partly cloudy until afternoon.
+969,Milan,2016-08-24,85.07,65.36,Clear throughout the day.
+970,Milan,2016-08-10,80.45,64.64,Rain in the morning.
+971,Milan,2016-08-09,84.63,68.18,Partly cloudy throughout the day.
+972,Milan,2016-08-06,84.14,63.53,Clear throughout the day.
+973,Milan,2016-08-03,87.01,68.98,Clear throughout the day.
+974,Milan,2016-07-30,89.69,72.32,Partly cloudy in the morning.
+975,Milan,2016-07-21,88.72,75.19,Partly cloudy throughout the day.
+976,Milan,2016-07-02,85.31,69.44,Rain in the evening.
+977,Milan,2016-06-17,76.78,60.84,Partly cloudy starting in the afternoon.
+978,Milan,2016-06-11,74.97,63.92,Rain in the morning.
+979,Milan,2016-05-22,79.23,58.67,Partly cloudy overnight.
+980,Milan,2016-04-26,61.95,45.2,Partly cloudy throughout the day.
+981,Milan,2016-04-12,69.69,51.36,Partly cloudy throughout the day.
+982,Milan,2016-04-07,69.62,57.3,Partly cloudy until evening.
+983,Milan,2016-03-23,58.62,46.63,Partly cloudy in the morning.
+984,Milan,2016-03-07,49.46,35.35,Foggy in the morning.
+985,Milan,2016-02-29,53.73,46.23,Rain in the morning.
+986,Milan,2016-02-20,54.69,36.68,Partly cloudy in the morning.
+987,Milan,2016-02-10,55.14,41.43,Partly cloudy in the morning.
+988,Milan,2016-02-03,49.62,46.62,"Rain starting in the afternoon, continuing until evening."
+989,Milan,2016-01-12,55.96,36.49,Foggy in the morning.
+990,Milan,2016-01-07,43.76,32.27,Mostly cloudy starting in the afternoon.
+991,Milan,2015-12-19,54.44,37.29,Foggy in the morning.
+992,Milan,2015-11-15,55.13,47.92,Foggy until afternoon.
+993,Milan,2015-11-07,68.71,47.44,Clear throughout the day.
+994,Milan,2015-10-13,60.42,57.41,"Rain until afternoon, starting again overnight."
+995,Milan,2015-10-12,69.63,55.8,Rain overnight.
+996,Milan,2015-10-05,70.32,54.44,Light rain overnight.
+997,Milan,2015-09-01,83.78,68.97,Partly cloudy throughout the day.
+998,Milan,2015-08-23,71.94,65.41,Rain overnight.
+999,Milan,2015-08-16,77.51,62.51,Partly cloudy throughout the day.

@@ -1,0 +1,1495 @@
+,key_update,key_update,key_update,key_update,key_update,key_update,key_update,key_update
+key_type,access_type,accessibility,free,other_room_types,room_type,time_of_stay,trip_type,view_type
+hotel_id,,,,,,,,
+ s Gravesandestraat 55 Oost 1092 AA Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+1 15 Templeton Place Earl s Court Kensington and Chelsea London SW5 9NB United Kingdom,none,none,none,none,twin_room,stayed_less_than_a_week,family_trip,none
+1 2 Serjeant s Inn Fleet Street City of London London EC4Y 1LL United Kingdom,lounge_access,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+1 3 Queens Garden Westminster Borough London W2 3BA United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+1 3 Rue d Argentine 16th arr 75116 Paris France,none,none,none,none,balcony_room,stayed_more_than_a_week,business_trip,none
+1 5 Passage Ruelle 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+1 8 Russell Square Camden London WC1B 5BE United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+1 Addington Street Lambeth London SE1 7RY United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+1 Aldwych Westminster Borough London WC2B 4BZ United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+1 Avenue Carnot 17th arr 75017 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,room_with_view
+1 Bis Rue De Vaugirard 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+1 Hamilton Place Park Lane Westminster Borough London W1J 7QY United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+1 Impasse Marteau 18th arr 75018 Paris France,none,none,none,suite,none,stayed_less_than_a_week,family_trip,none
+1 Inverness Terrace Westminster Borough London W2 3JP United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+1 Kensington Court Kensington and Chelsea London W8 5DL United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+1 Kings Cross Road Islington London WC1X 9HX United Kingdom,none,accessibility,none,none,king_room,stayed_less_than_a_week,group_trip,none
+1 Place De La Sorbonne 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,park_view
+1 Place Vend me 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+1 Rue De Libourne 12th arr 75012 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+1 Rue Du G n ral Blaise 11th arr 75011 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+1 Rue Sainte Opportune 1st arr 75001 Paris France,none,none,none,suite,single_room,stayed_less_than_a_week,solo,none
+1 Rue Scribe 9th arr 75009 Paris France,spa_access,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,none
+1 Shortlands Hammersmith and Fulham London W6 8DR United Kingdom,none,none,none,suite,superior_room,stayed_less_than_a_week,group_trip,none
+1 Suffolk Place Westminster Borough London SW1Y 4HX United Kingdom,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+1 Waterview Drive Greenwich London SE10 0TW United Kingdom,lounge_access,none,none,none,king_room,stayed_less_than_a_week,family_trip,river_view
+1 rue Geoffroy Marie 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+10 12 rue Cognacq Jay 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+10 12 rue de Charonne 11th arr 75011 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+10 Avenue D I na 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,paris_view
+10 Avenue Emile Zola 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+10 Beaufort Gardens Kensington and Chelsea London SW3 1PT United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+10 Berners Street Westminster Borough London W1T 3NP United Kingdom,none,none,none,apartment,economy,stayed_more_than_a_week,family_trip,none
+10 Bina Gardens South Kensington Kensington and Chelsea London SW5 0LA United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+10 Bis rue du D barcad re 17th arr 75017 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+10 Carlisle Street Westminster Borough London W1D 3BR United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+10 Godliman Street City of London London EC4V 5AJ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+10 Harrington Road Kensington and Chelsea London SW7 3ER United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+10 Monmouth Street Camden London WC2H 9HB United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+10 Palace Place Westminster Borough London SW1E 5BW United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+10 Pepys Street City of London London EC3N 2NR United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+10 Place De La R publique 11th arr 75011 Paris France,lounge_access,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+10 Place De Mexico 16th arr 75016 Paris France,pool_access,none,none,suite,double_room,stayed_less_than_a_week,family_trip,paris_view
+10 Rue Gabriel Laumain 10th arr 75010 Paris France,none,none,none,suite,other_room,stayed_more_than_a_week,family_trip,none
+10 Rue Kepler 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+10 Rue de la Tour d Auvergne 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+10 Wardour Street Leicester Square Westminster Borough London W1D 6QF United Kingdom,none,none,none,suite,other_room,stayed_more_than_a_week,group_trip,none
+10 West Temple Sheen London SW14 7RT United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+10 avenue Carnot 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,paris_view
+10 rue Chateaubriand 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,room_with_view
+10 rue Gager Gabillot 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+10 rue Lamartine 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+10 rue Saint Hyacinthe 1st arr 75001 Paris France,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+10 rue Saint Philippe du Roule 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+10 rue d Ormesson 4th arr 75004 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+10 rue de Bruxelles 9th arr 75009 Paris France,private_access,none,none,none,none,stayed_more_than_a_week,couple,none
+10 rue de Vaugirard 6th arr 75006 Paris France,none,none,none,none,superior_room,stayed_less_than_a_week,family_trip,none
+100 110 Euston Road Camden London NW1 2AJ United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+100 Cromwell Road Kensington and Chelsea London SW7 4ER United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+100 Queen s Gate Kensington and Chelsea London SW7 5AG United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+100 Shoreditch High Street Hackney London E1 6JQ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+100 Vauxhall Walk Lambeth London SE11 5AL United Kingdom,none,accessibility,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+101 Buckingham Palace Road Westminster Borough London SW1W 0SJ United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+101 Knightsbridge Westminster Borough London SW1X 7RN United Kingdom,none,none,none,none,economy,stayed_more_than_a_week,group_trip,none
+102 Avenue Victor Hugo 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+102 Avenue de Villiers 17th arr 75017 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,park_view
+102 Bd De Grenelle 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,paris_view
+104 Bayswater Rd Westminster Borough London W2 3HL United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+108 Baker Street Westminster Borough London W1U 6LJ United Kingdom,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+108 Rue Saint Lazare 8th arr 75008 Paris France,lounge_access,none,none,none,deluxe_room,stayed_less_than_a_week,family_trip,none
+109 113 Queen s Gate Kensington and Chelsea London SW7 5LR United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+10a Chestnut Plaza Westfield Stratford City Olympic Park Newham London E20 1GL United Kingdom,none,accessibility,none,none,king_room,stayed_less_than_a_week,family_trip,none
+10b Chestnut Plaza Westfield Stratford City Olympic Park Newham London E20 1GL United Kingdom,none,accessibility,none,suite,more_than_one_room,stayed_more_than_a_week,family_trip,none
+11 12 Poplar Mews Shepherd s Bush Hammersmith and Fulham London W12 7JS United Kingdom,none,accessibility,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+11 13 Bayley Street Bedford Square Camden London WC1B 3HD United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+11 15 Rue De Lyon 12th arr 75012 Paris France,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+11 Bis Rue Jules Chaplain 6th arr 75006 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+11 Bis rue Mazagran 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+11 Cadogan Gardens Sloane Square Kensington and Chelsea London SW3 2RJ United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+11 Knightsbridge Westminster Borough London SW1X 7LY United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,group_trip,park_view
+11 Rue Du Temple 4th arr 75004 Paris France,none,none,none,suite,single_room,stayed_less_than_a_week,group_trip,none
+11 Rue d Astorg 8th arr 75008 Paris France,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+11 Rue de l Arcade 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+11 Thurloe Place Knightsbridge Kensington and Chelsea London SW7 2RS United Kingdom,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+11 rue Paul Baudry 8th arr 75008 Paris France,free_access,none,none,none,more_than_one_room,stayed_less_than_a_week,group_trip,none
+11 rue de Tr vise 9th arr 75009 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,group_trip,none
+11 rue du 8 Mai 1945 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+110 rue Blomet 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+111 Cromwell Road Kensington and Chelsea London SW7 4DP United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+111 Westminster Bridge Road Lambeth London SE1 7JD United Kingdom,none,accessibility,none,suite,deluxe_room,stayed_more_than_a_week,group_trip,none
+111 avenue de la Bourdonnais 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+112 boulevard de S bastopol 3rd arr 75003 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+113 Lambeth Rd Lambeth London SE1 7LS United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+116 Piccadilly Westminster Borough London W1J 7BJ United Kingdom,none,none,none,apartment,superior_room,stayed_more_than_a_week,group_trip,park_view
+117 129 Cromwell Road Kensington and Chelsea London SW7 4DS United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+117 Poplar High Street Tower Hamlets London E14 0AE United Kingdom,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,city_view
+117 Rue Lauriston 16th arr 75116 Paris France,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+11bis Rue Godot de Mauroy 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+12 14 Rue Joseph De Maistre 18th arr 75018 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,paris_view
+12 Boulevard Haussmann 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+12 Folgate Street City of London London E1 6BX United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+12 Lancaster Gate Lancaster Gate Westminster Borough London W2 3LG United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+12 Osborn Street Aldgate East Tower Hamlets London E1 6TE United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+12 Rue Jean Goujon 8th arr 75008 Paris France,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+12 Rue de Louvois 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+12 Upper Woburn Place Camden London WC1H 0HX United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+12 boulevard Malesherbes 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+12 rue Saint Didier 16th arr 75016 Paris France,none,none,none,suite,economy,stayed_more_than_a_week,family_trip,none
+12 rue Saint Roch 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+12 rue de Marignan 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,paris_view
+12 rue de Parme 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+12 rue de la Montagne Sainte Genevi ve 5th arr 75005 Paris France,pool_access,none,none,none,balcony_room,stayed_less_than_a_week,family_trip,none
+12 rue des Saussaies 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+123 Rue Du Faubourg Saint Honor 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+123 boulevard S bastopol 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+124 Clerkenwell Rd Camden London EC1R 5DJ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+128 King Henry s Road Camden London NW3 3ST United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+128 avenue de Wagram 17th arr 75017 Paris France,spa_access,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+129 Bayswater Road London W2 4RJ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,room_with_view
+13 15 Gower Street Camden London WC1E 6HE United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+13 Boulevard Du Temple 3rd arr 75003 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,solo,none
+13 Rue De La Paix 2nd arr 75002 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+13 Rue Fran ois Ory 92120 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+13 Rue Jules Cesar 12th arr 75012 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+13 rue Geoffroy Marie 9th arr 75009 Paris France,none,none,none,none,economy,stayed_less_than_a_week,solo,none
+13 rue Saint Sulpice 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+13 rue des Beaux Arts 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,couple,none
+130 134 Southampton Row Camden London WC1B 5AF United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+130 135 Minories City of London London EC3N 1NU United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+130 Tottenham Court Road Camden London W1T 5AY United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+132 Boulevard Haussmann 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,business_trip,none
+134 George Street Westminster Borough London W1H 5DN United Kingdom,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+14 15 Langham Place Westminster Borough London W1B 2QS United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+14 16 Craven Hill Lancaster Gate Westminster Borough London W2 3DU United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+14 Henrietta Street Westminster Borough London WC2E 8QH United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,city_view
+14 Rue Beaujon 8th arr 75008 Paris France,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+14 Rue St Simon 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+14 Rue Stanislas 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+14 Rue de la Sorbonne 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+14 Rue du Chevalier de Saint George 1st arr 75001 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+14 rue de la Tremoille 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+140 Gloucester Road Kensington and Chelsea London SW7 4QH United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+140 Park Lane Westminster Borough London W1K 7AA United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,park_view
+141 rue St Honor 1st arr 75001 Paris France,none,none,breakfast_included,none,economy,stayed_more_than_a_week,group_trip,none
+142 Minories City of London London EC3N 1LS United Kingdom,none,accessibility,none,suite,superior_room,stayed_more_than_a_week,couple,none
+142 To 144 Warwick Way Victoria Westminster Borough London SW1V 4JE United Kingdom,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+143 Avenue De Malakoff 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+143 Boulevard Saint Germain 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+144 Praed St Paddington Westminster Borough London W2 1HU United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+146 Praed Street Westminster Borough London W2 1EE United Kingdom,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+147 Cromwell Road Kensington and Chelsea London SW5 0TH United Kingdom,lounge_access,none,none,none,queen_room,stayed_more_than_a_week,group_trip,none
+15 16 Prince Of Wales Terrace Kensington and Chelsea London W8 5PQ United Kingdom,none,none,none,none,single_room,stayed_less_than_a_week,business_trip,none
+15 17 Charlotte Street Hotel Westminster Borough London W1T 1RJ United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+15 Beeston Place Westminster Borough London SW1W 0JW United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,park_view
+15 Boulevard Romain Rolland 14th arr 75014 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+15 Cromwell Place Kensington and Chelsea London SW7 2LA United Kingdom,none,none,none,suite,deluxe_room,stayed_more_than_a_week,family_trip,none
+15 Montague St Bloomsbury Camden London WC1B 5BJ United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+15 Place Vend me 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+15 Quai Saint Michel 5th arr 75005 Paris France,none,none,none,penthouse_suite,double_room,stayed_more_than_a_week,family_trip,none
+15 Rue Boissy d Anglas 8th arr 75008 Paris France,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+15 Rue De La Grande Chaumi re 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+15 Rue Des Pyramides 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+15 Rue Dupleix 15th arr 75015 Paris France,none,none,none,none,economy,stayed_less_than_a_week,group_trip,none
+15 Rue Jacob 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+15 Rue de Bassano 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+15 Seymour Street Westminster Borough London W1H 7JW United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+15 rue Edouard Manet 13th arr 75013 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+15 rue de Constantinople 8th arr 75008 Paris France,none,none,breakfast_included,suite,double_room,stayed_more_than_a_week,family_trip,none
+150 Bayswater Road Kensington and Chelsea London W2 4RT United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+150 Piccadilly Westminster Borough London W1J 9BR United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+151 157 City Road Shoreditch Islington London EC1V 1JS United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+151 bis Rue de Rennes 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+152 Cricklewood Broadway Cricklewood London NW2 3ED United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+153 Boulevard Saint Germain 6th arr 75006 Paris France,none,none,none,none,superior_room,stayed_more_than_a_week,family_trip,none
+153 Hammersmith Road Hammersmith and Fulham London W14 0QL United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+153 Rue De Vaugirard 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+16 22 Great Russell Street Camden London WC1B 3NN United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+16 Avenue de l Opera 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+16 London Street Paddington Westminster Borough London W2 1HL United Kingdom,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+16 Sumner Place Kensington and Chelsea London SW7 3EG United Kingdom,none,none,none,none,superior_room,stayed_more_than_a_week,solo,none
+16 avenue de Tourville 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+16 boulevard Haussmann 9th arr 75009 Paris France,lounge_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+16 rue d Edimbourg 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+16 rue de Berri 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+16 rue de S ze 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+160 Cromwell Road Kensington Kensington and Chelsea London SW5 0TL United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+160 Rue La Fayette 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+163 Marsh Wall Docklands Tower Hamlets London E14 9SJ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+165 rue de Rome 17th arr 75017 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,couple,none
+166 Boulevard Berthier 17th arr 75017 Paris France,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+167 rue de Rome 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+17 18 Upper Woburn Place Camden London WC1H 0HT United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+17 19 Egerton Terrace Knightsbridge Kensington and Chelsea London SW3 2BX United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+17 25 Sloane Street Knightsbridge Kensington and Chelsea London SW1X 9NU United Kingdom,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+17 Avenue Kl ber 16th arr 75016 Paris France,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+17 Boulevard Saint Jacques 14th arr 75014 Paris France,none,none,none,suite,deluxe_room,stayed_less_than_a_week,business_trip,none
+17 Nottingham Place Westminster Borough London W1U 5LG United Kingdom,none,none,none,suite,single_room,stayed_less_than_a_week,family_trip,none
+17 Rue Du Cotentin 15th arr 75015 Paris France,none,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,none
+17 Rue de Caumartin 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+17 bis rue Am lie 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+17 rue Duhesme 18th arr 75018 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+17 rue de Richelieu 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+17 rue de l Arcade 8th arr 75008 Paris France,none,none,none,apartment,economy,stayed_more_than_a_week,family_trip,room_with_view
+17 rue g t le coeur 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+171 Knightsbridge Westminster Borough London SW7 1DW United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+173 185 Greenwich High Rd Greenwich London SE10 8JA United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+173 Gloucester Place Westminster Borough London NW1 6DX United Kingdom,none,none,none,none,deluxe_room,stayed_more_than_a_week,group_trip,none
+177 Boulevard Haussmann 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+177 rue du faubourg Saint Honor 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+18 21 Charterhouse Square Islington London EC1M 6AH United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+18 30 Lexham Gardens Kensington and Chelsea London W8 5JE United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+18 Albert Embankment Lambeth London SE1 7TJ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,river_view
+18 Avenue De Suffren Entr e au 22 rue Jean Rey 15th arr 75015 Paris France,none,none,none,suite,more_than_one_room,stayed_more_than_a_week,family_trip,paris_view
+18 Lodge Road Near Baker Street And Marylebone Westminster Borough London NW8 7JT United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+18 Rue d Antin 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+18 Rue du Cirque 8th arr 75008 Paris France,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+18 rue Bachaumont 2nd arr 75002 Paris France,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+18 rue Clement Marrot 8th arr 75008 Paris France,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+18 rue de Constantinople 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,solo,none
+181 Cromwell Road Kensington and Chelsea London SW5 0SF United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,solo,none
+181 Tooley Street Southwark London SE1 2JR United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+185 Boulevard Brune 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+19 21 Gt Marlborough St Westminster Borough London W1F 7HL United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+19 21 Penywern Road Kensington and Chelsea London SW5 9TT United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+19 25 Granville Place Marble Arch Westminster Borough London W1H 6PA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+19 Boulevard De La Tour Maubourg 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+19 Brent Street Brent Cross London NW4 2EU United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,business_trip,none
+19 New Bridge Street City of London London EC4V 6DB United Kingdom,none,none,none,none,economy,stayed_more_than_a_week,group_trip,none
+19 Rue Copernic 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+19 Rue Cujas 5th arr 75005 Paris France,none,none,none,none,superior_room,stayed_less_than_a_week,family_trip,none
+19 Rue De Caumartin 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+19 Rue Des Pretres Saint Germain L Auxerrois 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+19 Rue Du Pont Neuf 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+19 Rue Tronchet 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+19 Rue Vernet 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+19 Rue du Commandant Ren Mouchotte 14th arr 75014 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,paris_view
+19 avenue Kleber 16th arr 75116 Paris France,spa_access,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,none
+19 place du Panth on 5th arr 75005 Paris France,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,none
+190 Queen s Gate Kensington and Chelsea London SW7 5EX United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+199 206 High Holborn Camden London WC1V 7BD United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+1a Lexham Gardens Kensington and Chelsea London W8 5JJ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,solo,none
+2 24 Kensington High St Kensington and Chelsea London W8 4PT United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+2 4 Boundary Street Hackney London E2 7DD United Kingdom,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,none
+2 4bis Cit Rougemont 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 5 Montague Street Bloomsbury Camden London WC1B 5BU United Kingdom,none,none,none,none,twin_room,stayed_less_than_a_week,family_trip,none
+2 8 Great Suffolk Street Southwark London SE1 0UG United Kingdom,lounge_access,accessibility,none,none,king_room,stayed_more_than_a_week,family_trip,none
+2 8 Hanger Lane Ealing Common London W5 3HN United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 Bd Garibaldi 15th arr 75015 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,paris_view
+2 Bridge Place Victoria Westminster Borough London SW1V 1QA United Kingdom,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+2 Caxton Street Westminster Borough London SW1H 0QW United Kingdom,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+2 Montagu Place Westminster Borough London W1H 2ER United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+2 Rue Boulard 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+2 Rue De Parme 9th arr 75009 Paris France,spa_access,none,none,none,double_room,stayed_less_than_a_week,couple,none
+2 Rue Duperr 9th arr 75009 Paris France,spa_access,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+2 Rue Edouard VII 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+2 Rue Hector Malot 12th arr 75012 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+2 Rue Racine 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+2 Rue Saint Sulpice 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 Rue Scribe 9th arr 75009 Paris France,lounge_access,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 Rue d Artois 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+2 Rue du Colonel Pierre Avia 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+2 Spring Gardens Trafalgar Square Westminster Borough London SW1A 2TS United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+2 Stanhope Row Park Lane Westminster Borough London W1J 7BS United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+2 Sylvester Path Hackney London E8 1EN United Kingdom,none,none,none,none,single_room,stayed_less_than_a_week,family_trip,none
+2 The Avenue Ealing London W13 8PH United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 Wallenberg Place Westminster Borough London W1H 7TN United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 Warrington Crescent Westminster Borough London W9 1ER United Kingdom,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+2 Whitehall Court Westminster Borough London SW1A 2EJ United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,city_view
+2 avenue la Porte Molitor 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,pool_view
+2 place Louis Armand 12th arr 75012 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+2 place des Pyramides 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+2 rue Geoffroy Marie 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+2 rue de Gramont 2nd arr 75002 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+2 rue des Guillemites 4th arr 75004 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,city_view
+20 28 Bolsover Street Westminster Borough London W1W 5NB United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+20 Chesham Place Kensington and Chelsea London SW1X 8HQ United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+20 Lavington Street Southwark London SE1 0NZ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+20 Mercer Street Covent Garden Camden London WC2H 9HD United Kingdom,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+20 Nevern Square Kensington and Chelsea London SW5 9PD United Kingdom,none,none,none,suite,luxury_room,stayed_more_than_a_week,family_trip,none
+20 Pembridge Gardens Kensington and Chelsea London W2 4DU United Kingdom,none,none,none,none,executive_room,stayed_more_than_a_week,family_trip,none
+20 Rue De La Ga t 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+20 Rue Jean Rey 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+20 Rue La Fayette 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+20 Upper Ground Southwark London SE1 9PD United Kingdom,private_access,none,none,studio,economy,stayed_more_than_a_week,family_trip,river_view
+20 Warwick Street Westminster Borough London W1B 5NF United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+20 bis rue de la Ga t 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+20 rue Berthollet 5th arr 75005 Paris France,none,none,none,suite,other_room,stayed_less_than_a_week,couple,none
+20 rue de l Ing nieur Robert Keller 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+20 rue du Sommerard 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+202 220 Cromwell Road Kensington and Chelsea London SW5 0SW United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+202 rue de Rivoli 1st arr 75001 Paris France,spa_access,none,none,none,more_than_one_room,stayed_more_than_a_week,family_trip,none
+207 Boulevard Raspail 14th arr 75014 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+209 211 rue de Charenton 12th arr 75012 Paris France,none,none,none,none,twin_room,stayed_less_than_a_week,group_trip,none
+21 Avenue De La Grande Arm e 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,courtyard_view
+21 Avonmore Road Kensington Hammersmith and Fulham London W14 8RP United Kingdom,none,none,none,suite,twin_room,stayed_less_than_a_week,group_trip,none
+21 Boulevard De Clichy 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+21 Gower Street Camden London WC1E 6HG United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+21 Piccadilly Westminster Borough London W1J 0BH United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+21 rue F licien David 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+21 rue Lavoisier 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+21 rue Moli re 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+21 rue de Dunkerque 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+213 rue de la Croix Nivert 15th arr 75015 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+214 High Street Acton London London W3 9NX United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+214 rue Saint Jacques 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+214 rue du Faubourg Saint Honor 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+216 Avenue Jean Jaures 19th arr 75019 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+218 220 rue du Faubourg St Honor 8th arr 75008 Paris France,none,none,none,apartment,economy,stayed_less_than_a_week,family_trip,none
+218 rue de Rivoli 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,paris_view
+22 24 Rue Faidherbe 11th arr 75011 Paris France,pool_access,none,none,none,king_room,stayed_more_than_a_week,business_trip,none
+22 25 Finsbury Square City Islington London EC2A 1DX United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+22 28 Broadway Westminster Borough London SW1H 0BH United Kingdom,lounge_access,accessibility,none,none,king_room,stayed_more_than_a_week,family_trip,none
+22 Avenue du professeur lemierre 20th arr 75020 Paris France,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+22 Hertsmere Road Tower Hamlets London E14 4ED United Kingdom,lounge_access,none,none,none,king_room,stayed_less_than_a_week,family_trip,room_with_view
+22 Park Lane Westminster Borough London W1K 1BE United Kingdom,lounge_access,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+22 Portman Square Westminster Borough London W1H 7BG United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+22 Rue Danielle Casanova 1st arr 75002 Paris France,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+22 Rue Tronchet 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+22 Rue de La Parcheminerie 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+22 Stanley Gardens Kensington and Chelsea London W11 2NG United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+22 avenue de Villiers 17th arr 75017 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,business_trip,none
+22 rue d Antin 2nd arr 75002 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+22 rue de Buci 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,room_with_view
+221 Rue Saint Honore 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+222 Marylebone Road Westminster Borough London NW1 6JQ United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+225 Edgware Road Westminster Borough London W2 1JU United Kingdom,lounge_access,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+225 High Street Kensington Kensington and Chelsea London W8 6SA United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,solo,none
+225 Ladbroke Grove Kensington and Chelsea London W10 6HQ United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,group_trip,none
+228 Rue De Rivoli 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,solo,none
+23 25 rue de Pont Neuf 1st arr 75001 Paris France,spa_access,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,none
+23 Leinster Gardens Westminster Borough London W2 3AN United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+23 Mecklenburgh Square Camden London WC1N 2AD United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+23 Rue Damr mont 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+23 Rue Vignon 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+23 rue du Faubourg Montmartre 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+230 A Mile End Road Tower Hamlets London E1 4LJ United Kingdom,none,none,none,studio,none,stayed_less_than_a_week,family_trip,none
+232 Boulevard Raspail 14th arr 75014 Paris France,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+234 Diputacio Eixample 08007 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+239 Vauxhall Bridge Road Westminster Borough London SW1V 1EQ United Kingdom,none,none,none,studio,double_room,stayed_less_than_a_week,family_trip,none
+24 27 Bedford Place Bloomsbury Camden London WC1B 5JH United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+24 Egerton Gardens Kensington and Chelsea London SW3 2DB United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+24 Ludgate Hill City of London London EC4M 7DR United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+24 Rue De Miromesnil 8th arr 75008 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+24 Rue d Amsterdam 9th arr 75009 Paris France,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+24 rue Bassano 16th arr 75016 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+24 rue Cadet 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+24 rue de Ponthieu 8th arr 75008 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+25 Avenue Montaigne 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+25 Boulevard Auguste Blanqui 13th arr 75013 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+25 Courtfield Gardens Kensington and Chelsea London SW5 0PG United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+25 Rue Theodore de Banville 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+25 Rue Vernet 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+25 avenue du General Leclerc 14th arr 75014 Paris France,none,none,free_wifi,none,more_than_one_room,stayed_more_than_a_week,family_trip,none
+25 rue des Saints P res 6th arr 75006 Paris France,spa_access,none,none,none,more_than_one_room,stayed_more_than_a_week,family_trip,none
+251 rue Saint Honor 1st arr 75001 Paris France,none,none,none,suite,other_room,stayed_less_than_a_week,family_trip,none
+252 High Holborn Holborn Camden London WC1V 7EN United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+257 Rue De Vaugirard 15th arr 75015 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,paris_view
+26 28 Trebovir Rd Kensington and Chelsea London SW5 9NJ United Kingdom,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+26 33 Queens Gardens Westminster Borough London W2 3BE United Kingdom,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+26 42 Bond Street Ealing London W5 5AA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+26 Cadogan Gardens Kensington and Chelsea London SW3 2RP United Kingdom,none,none,none,none,single_room,stayed_less_than_a_week,family_trip,park_view
+265 Rotherhithe Street Southwark London SE16 5HW United Kingdom,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,river_view
+27 33 Harrington Gardens Kensington and Chelsea London SW7 4JX United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,business_trip,none
+27 Devonshire Terrace Westminster Borough London W2 3DP United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+27 avenue des Ternes 17th arr 75017 Paris France,none,none,none,suite,twin_room,stayed_less_than_a_week,group_trip,none
+277 Carrer de Proven a Eixample 08037 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+28 30 Seymour Street Westminster Borough London W1H 7JB United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,business_trip,none
+28 Basil Street Kensington and Chelsea London SW3 1AS United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+28 Ebury Street Westminster Borough London SW1W 0LU United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+28 Rue de l Arc de Triomphe 17th arr 75017 Paris France,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+28 av Corentin Cariou 19th arr 75019 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+28 place des Vosges 3rd arr 75003 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+28 rue Saint Roch 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+284 To 302 Waterloo Road Southwark London SE1 8RQ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,city_view
+29 31 Draycott Place Kensington and Chelsea London SW3 2SH United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+29 31 Gower Street Camden London WC1E 6HG United Kingdom,none,none,none,none,triple_room,stayed_more_than_a_week,family_trip,none
+29 31 rue de Poitou 3rd arr 75003 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,solo,none
+29 31 rue des Ecoles 5th arr 75005 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+29 Avenue De Tourville 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+29 Rue Jacob 6th arr 75006 Paris France,none,none,none,none,other_room,stayed_more_than_a_week,family_trip,none
+29 rue Caumartin 9th arr 75009 Paris France,none,none,none,none,luxury_room,stayed_less_than_a_week,family_trip,none
+29 rue Victor Mass 9th arr 75009 Paris France,none,none,none,none,economy,stayed_less_than_a_week,group_trip,room_with_view
+291 Greenwich High Road Greenwich Greenwich London SE10 8NA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+2e Hugo de Grootstraat 2 6 Westerpark 1052 LC Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+3 5 rue du Mont Thabor 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+3 Berkeley Street Westminster Borough London W1J 8NE United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+3 Bis Place Saint Sulpice 6th arr 75006 Paris France,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+3 Boulevard Montmartre 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+3 Boulevard Saint Michel 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+3 Devonshire Terrace Westminster Borough London W2 3DN United Kingdom,none,none,none,none,deluxe_room,stayed_more_than_a_week,group_trip,none
+3 Kingdom Street Sheldon Square Westminster Borough London W2 6BD United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+3 Place du G n ral Koenig 17th arr 75017 Paris France,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,paris_view
+3 Rue Abb De L Ep e 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+3 Rue Cambon 1st arr 75001 Paris France,private_access,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+3 Rue Caulaincourt 18th arr 75018 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+3 Rue Christine 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+3 Rue De Boulainvilliers 16th arr 75016 Paris France,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+3 Rue Pergolese 16th arr 75116 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+3 Rue Rouget De Lisle 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+3 Rue Verniquet 17th arr 75017 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+3 Rue de Montalembert 7th arr 75007 Paris France,free_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+3 South Place City of London London EC2M 2AF United Kingdom,none,none,none,studio,double_room,stayed_more_than_a_week,group_trip,none
+3 Westbourne Terrace Lancaster Gate Westminster Borough London W2 3UL United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+3 avenue Mac Mahon 17th arr 75017 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+3 rue Clauzel 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+3 rue Lepic 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+3 rue de Bourgogne 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+3 rue de Castiglione 1st arr 75001 Paris France,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,room_with_view
+3 rue de Ponthieu 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+3 rue du Pr aux Clercs 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+30 32 Boulevard Poissonni re 9th arr 75009 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+30 Barkston Gardens Kensington and Chelsea London SW5 0EN United Kingdom,none,none,none,none,deluxe_room,stayed_more_than_a_week,family_trip,none
+30 Jamestown Road Camden London NW1 7BY United Kingdom,none,none,none,penthouse_suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+30 John Islip St Westminster Borough London SW1P 4DD United Kingdom,lounge_access,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+30 Leinster Gardens Bayswater Westminster Borough London W2 3AN United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+30 Portman Square Westminster Borough London W1H 7BH United Kingdom,lounge_access,none,none,none,king_room,stayed_more_than_a_week,family_trip,room_with_view
+30 Rathbone Street West End Westminster Borough London W1T 1LB United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+30 Rue Duret 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+30 Rue Jean Mermoz 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+30 Rue La P rouse 16th arr 75016 Paris France,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+30 Rue de Bassano 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+30 rue Pernety 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+31 33 Argyle Street Camden London WC1H 8EP United Kingdom,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+31 34 Queen s Gate Kensington and Chelsea London SW7 5JA United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+31 35 Langham Street Westminster Borough London W1W 6BU United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+31 36 Leicester Square Westminster Borough London WC2H 7LH United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+31 Avenue George V 8th arr 75008 Paris France,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+31 Great Cumberland Place Westminster Borough London W1H 7TA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+31 Rue de Surene 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+31 St Thomas Street Southwark London SE1 9QU United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,city_view
+31 rue de la Folie M ricourt 11th arr 75011 Paris France,none,none,none,duplex,double_room,stayed_more_than_a_week,family_trip,none
+32 Rue Greuze 16th arr 75016 Paris France,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,none
+32 rue des Ecoles 5th arr 75005 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+32 rue des Saints P res 7th arr 75007 Paris France,spa_access,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+33 37 Hogarth Road Kensington and Chelsea London SW5 0QQ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+33 Albemarle Street Mayfair Westminster Borough London W1S 4BP United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+33 Avenue Du Docteur Arnold Netter 12th arr 75012 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+33 Beaufort Gardens Kensington and Chelsea London SW3 1PP United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+33 Boulevard du Montparnasse 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,couple,none
+33 Roland Gardens Kensington and Chelsea London SW7 3PF United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+33 Rue Cambon 1st arr 75001 Paris France,none,none,none,suite,superior_room,stayed_more_than_a_week,family_trip,none
+33 Rue Dauphine 6th arr 75006 Paris France,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,none
+33 avenue George V 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+33 avenue de Friedland 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+33 place de la Madeleine 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+33 rue Marbeuf 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+33 rue Raymond Losserand 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+335 337 High Street Stratford Newham London E15 2TF United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+335 337 Old Street Hackney London EC1V 9LL United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+336 337 Strand London Westminster Borough London WC2R 1HA United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,city_view
+34 37 Bedford Place Bloomsbury Camden London WC1B 5JR United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+34 44 Barkston Gardens Kensington and Chelsea London SW5 0EW United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+34 Avenue Porte d Asni res 17th arr 75017 Paris France,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+34 Lombard Road Battersea London SW11 3RF United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+34 Norfolk Place Paddington Westminster Borough London W2 1QW United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+34 Rue Fontaine 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+34 Rue Viala 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,paris_view
+34 Rue de Buci 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+34 rue Jean Mermoz 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+34 rue de Moscou 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+346 348 Edgware Road Westminster Borough London W2 1EA United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+35 39 St Georges Drive Westminster Borough London SW1V 4DG United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+35 Boulevard de la tour Maubourg 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+35 Charles Street Mayfair Westminster Borough London W1J 5EB United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+35 Ixworth Place Kensington and Chelsea London SW3 3QX United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+35 Rue Benjamin Franklin 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+35 Rue Caumartin 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+35 Rue De Berri 8th arr 75008 Paris France,none,none,none,suite,executive_room,stayed_less_than_a_week,group_trip,none
+35 Rue Jean Goujon 8th arr 75008 Paris France,none,none,none,suite,twin_room,stayed_less_than_a_week,group_trip,none
+35 Rue La Bruy re 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+35 St James s Place Westminster Borough London SW1A 1NY United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+350 Oxford Street Westminster Borough London W1C 1BY United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+354 Queenstown Road Battersea London SW8 4AE United Kingdom,none,accessibility,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+36 37 Lancaster Gate Westminster Borough London W2 3NA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+36 38 Rue Du Moulin 92170 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,business_trip,none
+36 Great st Helens City of London London EC3A 6AP United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+36 Rue Saint Marc 2nd arr 75002 Paris France,pool_access,none,none,none,more_than_one_room,stayed_less_than_a_week,business_trip,none
+36 rue Pierre Demours 17th arr 75017 Paris France,pool_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+36 rue Saint Ferdinand 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+36 rue de Saint Quentin 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+36 rue du Grenier Saint Lazare 3rd arr 75003 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+368 370 Green Lanes London N4 1DA United Kingdom,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,none
+37 Avenue De La Motte Picquet 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+37 Avenue Hoche 8th arr 75008 Paris France,spa_access,none,none,none,none,stayed_less_than_a_week,family_trip,none
+37 Eccleston Square Westminster Borough London SW1V 1PB United Kingdom,none,none,none,none,queen_room,stayed_less_than_a_week,group_trip,none
+37 Nottingham Place Westminster Borough London W1U 5LT United Kingdom,none,none,none,studio,economy,stayed_more_than_a_week,group_trip,none
+37 rue Fran ois 1er 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+372 Strand Westminster Borough London WC2R 0JJ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+38 Rue Du Faubourg Saint Honore 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,paris_view
+38 rue de l Echiquier 10th arr 75010 Paris France,none,none,none,suite,queen_room,stayed_less_than_a_week,group_trip,none
+380 Kensington High Street Kensington and Chelsea London W14 8NL United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+39 40 Bedford Place Bloomsbury Camden London WC1B 5JT United Kingdom,none,none,none,studio,double_room,stayed_less_than_a_week,family_trip,none
+39 40 Cleveland Square Westminster Borough London W2 6DA United Kingdom,none,none,none,suite,single_room,stayed_more_than_a_week,family_trip,none
+39 40 Dorset Square Hotel Westminster Borough London NW1 6QN United Kingdom,none,none,none,suite,superior_room,stayed_more_than_a_week,business_trip,none
+39 Avenue de Wagram 17th arr 75017 Paris France,none,none,free_wifi,none,none,stayed_less_than_a_week,family_trip,courtyard_view
+39 Avenue de l Op ra 2nd arr 75002 Paris France,none,none,none,suite,superior_room,stayed_more_than_a_week,family_trip,none
+39 Buckingham Palace Road Westminster Borough London SW1W 0PS United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,room_with_view
+39 Coventry Street Westminster Borough London W1D 6BZ United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+4 18 Harrington Gardens Kensington and Chelsea London SW7 4LH United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+4 Boulevard Brune 14th arr 75014 Paris France,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+4 Boulevard Raspail 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+4 Broad Court Bow Street Covent Garden Westminster Borough London WC2B 5QZ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+4 Bryanston St Marble Arch Westminster Borough London W1H 7BY United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+4 Portal Way Gypsy Corner A40 London W3 6RT United Kingdom,none,accessibility,none,none,economy,stayed_more_than_a_week,family_trip,none
+4 Richmond Mews Westminster Borough London W1D 3DH United Kingdom,none,none,none,suite,luxury_room,stayed_more_than_a_week,family_trip,none
+4 Rue De Valois 1st arr 75001 Paris France,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,none
+4 Rue Du Mont Thabor 1st arr 75001 Paris France,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+4 Rue La Boetie 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+4 Rue de L Isly 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+4 Rue des Petites Ecuries 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+4 rue Amsterdam 9th arr 75009 Paris France,none,none,none,suite,twin_room,stayed_less_than_a_week,family_trip,none
+4 rue Cadet 9th arr 75009 Paris France,free_access,none,none,none,none,stayed_less_than_a_week,family_trip,none
+4 rue Danton 6th arr 75006 Paris France,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,paris_view
+4 rue Salomon de Caus 3rd arr 75003 Paris France,none,none,none,suite,economy,stayed_more_than_a_week,group_trip,none
+4 rue d Alger 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+4 rue d Anjou 8th arr 75008 Paris France,none,none,none,suite,superior_room,stayed_less_than_a_week,group_trip,none
+4 rue d Artois 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+4 rue de la P pini re 8th arr 75008 Paris France,spa_access,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+40 Liverpool Street City of London London EC2M 7QN United Kingdom,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+40 Marsh Wall Tower Hamlets London E14 9TP United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+40 Rue Rene Boulanger 10th arr 75010 Paris France,spa_access,none,none,none,none,stayed_more_than_a_week,business_trip,none
+40 Rue du Commandant Ren Mouchotte 14th arr 75014 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+40 avenue de Friedland 8th arr 75008 Paris France,none,none,none,suite,economy,stayed_more_than_a_week,family_trip,none
+40 rue Liancourt 14th arr 75014 Paris France,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+40 rue de Lille 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+40 trinity square City of London London EC3N 4DJ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+407 Goldhawk Rd Chiswick London W6 0SA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+41 43 Brook Street Westminster Borough London W1K 4HJ United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+41 51 Inverness Terrace Westminster Borough London W2 3JN United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+41 54 Buckingham Gate Westminster Borough London SW1E 6AF United Kingdom,none,none,none,studio,king_room,stayed_more_than_a_week,family_trip,none
+41 Avenue Marceau 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+41 Avenue Pierre 1er de Serbie 8th arr 75008 Paris France,none,none,none,suite,superior_room,stayed_more_than_a_week,group_trip,none
+41 Buckingham Palace Road Westminster Borough London SW1W 0PS United Kingdom,lounge_access,none,none,none,none,stayed_less_than_a_week,family_trip,none
+41 Great Cumberland Place Westminster Borough London W1H 7LG United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+41 Queens Gate Gardens Kensington and Chelsea London SW7 5NB United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+41 Rue Des Ecoles 5th arr 75005 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+41 boulevard Saint Michel 5th arr 75005 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+41 rue Jean Baptiste Pigalle 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+41 rue de Clichy 9th arr 75009 Paris France,spa_access,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+419 437 Hackney Road London E2 8PP United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+42 46 Chiswell Street City of London London EC1Y 4SB United Kingdom,none,none,none,studio,double_room,stayed_less_than_a_week,family_trip,none
+42 Rue Des Petites Ecuries 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+42 rue Croix des Petits Champs 1st arr 75001 Paris France,none,none,none,studio,double_room,stayed_less_than_a_week,family_trip,none
+43 51 Wembley Hill Road Brent London HA9 8AU United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+43 Rue De l Abb Gr goire 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+43 Rue des Mathurins 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+43 Worple Road Wimbledon London SW19 4JZ United Kingdom,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+43 rue Monsieur le Prince 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+44 Grosvenor Square Westminster Borough London W1K 2HP United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+44 Rue Madame 6th arr 75006 Paris France,none,none,none,none,economy,stayed_more_than_a_week,solo,none
+44 rue de Bourgogne 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+45 Curtain Road Hackney London EC2A 4PJ United Kingdom,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,none
+45 Park Lane Westminster Borough London W1K 1PN United Kingdom,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,park_view
+45 Prescot Street City of London London E1 8GP United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+45 Rue des Acacias 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+45 St Martin s Lane Westminster Borough London WC2N 4HX United Kingdom,none,none,none,suite,economy,stayed_more_than_a_week,family_trip,none
+46 Avenue George V 8th arr 75008 Paris France,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,none
+46 Blackfriars Road Southwark London SE1 8NZ United Kingdom,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+46 Rue De Tr vise 9th arr 75009 Paris France,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+46 Westferry Circus Tower Hamlets London E14 8RS United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,river_view
+47 Welbeck Street Westminster Borough London W1G 8DN United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+48 Rue De L arbre Sec 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+49 50 St John s Square Islington London EC1V 4JJ United Kingdom,none,none,none,suite,other_room,stayed_less_than_a_week,family_trip,none
+49 53 New Road Tower Hamlets London E1 1HH United Kingdom,none,none,none,apartment,twin_room,stayed_more_than_a_week,family_trip,none
+49 Avenue Marceau 16th arr 75116 Paris France,none,none,none,suite,single_room,stayed_more_than_a_week,group_trip,none
+49 Gloucester Place Marble Arch Westminster Borough London W1U 8JE United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+49 Rue La Fayette 9th arr 75009 Paris France,none,none,none,suite,economy,stayed_more_than_a_week,family_trip,none
+49 rue Pierre Charron 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+5 7 Princes Square Kensington and Chelsea London W2 4NP United Kingdom,none,none,none,none,deluxe_room,stayed_more_than_a_week,group_trip,none
+5 7 Rue De Montalembert 7th arr 75007 Paris France,none,none,none,suite,superior_room,stayed_more_than_a_week,family_trip,city_view
+5 7 Rue Th r se 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+5 7 rue Rampon 11th arr 75011 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+5 Cavell Street Tower Hamlets London E1 2BP United Kingdom,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+5 Curzon St Westminster Borough London W1J 5HL United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+5 Fairmont Avenue Canary Wharf Tower Hamlets London E14 9JB United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,river_view
+5 More London Place Tooley Street Southwark London SE1 2BY United Kingdom,lounge_access,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+5 Olympic Way Wembley Brent London HA9 0NP United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+5 Rue Belidor 17th arr 75017 Paris France,spa_access,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,none
+5 Rue De Malte 11th arr 75011 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+5 Rue Marivaux 2nd arr 75002 Paris France,none,none,breakfast_included,duplex,double_room,stayed_less_than_a_week,family_trip,none
+5 Rue Saint Roch 1st arr 75001 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+5 Rue de Montyon 9th arr 75009 Paris France,none,none,none,none,single_room,stayed_less_than_a_week,family_trip,none
+5 Threadneedle Street City of London London EC2R 8AY United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,business_trip,none
+5 bis rue Massenet 16th arr 75016 Paris France,none,none,none,none,superior_room,stayed_less_than_a_week,family_trip,none
+5 place de l Od on 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+5 rue Louis Codet 7th arr 75007 Paris France,none,none,none,duplex,double_room,stayed_less_than_a_week,group_trip,none
+5 rue de Berri 8th arr 75008 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+5 rue de Ponthieu 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+5 rue de la Paix 2nd arr 75002 Paris France,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+5 rue des Arquebusiers 3rd arr 75003 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+5 rue des Capucines 1st arr 75001 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+5 rue du 8 Mai 1945 10th arr 75010 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+50 Berners Street Westminster Borough London W1T 3NG United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+50 Great Cumberland Place Westminster Borough London W1H 7FD United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+50 Lancaster Gate Westminster Borough London W2 3NA United Kingdom,none,none,none,apartment,double_room,stayed_less_than_a_week,group_trip,none
+50 rue de Richelieu 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+50 rue des Bernardins 5th arr 75005 Paris France,none,none,none,apartment,economy,stayed_more_than_a_week,family_trip,none
+51 57 rue de Courcelles 8th arr 75008 Paris France,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,park_view
+51 Gloucester Terrace Westminster Borough London W2 3DQ United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+51 Rue Lauriston 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+51 Rue de Malte 11th arr 75011 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+51 rue Letort 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,room_with_view
+52 54 Upper Richmond Road Wandsworth London SW15 2RN United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+52 56 Inverness Terrace Westminster Borough London W2 3LB United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+52 Chiswell Street City of London London EC1Y 4SD United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+52 Rue Oradour sur Glane 15th arr 75015 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+52 rue Francois 1er 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+52 rue Jenner 13th arr 75013 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+53 59 Kilburn High Road Maida Vale London Camden London NW6 5SB United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+53 61 Southwark Bridge Road Southwark London SE1 9HH United Kingdom,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+53 Park Lane Westminster Borough London W1K 1QA United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+53 Rue Richard Lenoir 11th arr 75011 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+53 Upper Street Islington London N1 0UY United Kingdom,lounge_access,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+54 Queens Gate Kensington and Chelsea London SW7 5JW United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+54 Rue Saint Louis En L Ile 4th arr 75004 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+54 Upper Berkeley Street Westminster Borough London W1H 7QR United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+54 Uxbridge Road Shepherds Bush Hammersmith and Fulham London W12 8LP United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,solo,none
+54 rue Pierre Charron 8th arr 75008 Paris France,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+55 57 Avenue Raymond Poincare 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,park_view
+55 61 Westbourne Terrace Westminster Borough London W2 3UY United Kingdom,none,none,none,none,deluxe_room,stayed_more_than_a_week,family_trip,none
+55 Bld Rochechouart 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+55 rue Monge 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+56 57 Frith Street Westminster Borough London W1D 3JG United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,solo,none
+56 rue de Montorgueil 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+57 59 Welbeck Street Westminster Borough London W1G 9BL United Kingdom,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+58 Shepherds Bush Green Hammersmith and Fulham London W12 8QE United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+59 Leinster Square Kensington and Chelsea London W2 4PS United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+6 8 Rue Duphot 1st arr 75001 Paris France,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+6 Avenue Fr miet 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,couple,none
+6 Avenue Montaigne 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,city_view
+6 Avenue Victor Hugo 16th arr 75116 Paris France,none,none,none,none,twin_room,stayed_less_than_a_week,family_trip,none
+6 Boulevard Vincent Auriol 13th arr 75013 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+6 Frith Street Soho Westminster Borough London W1D 3JA United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+6 Hercules Road Lambeth London SE1 7DP United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+6 Holywell Lane Hackney London EC2A 3ET United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+6 Rue Blaise Desgoffe 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+6 Rue Constance 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+6 Rue De La Tour 16th arr 75016 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+6 Rue Lecluse 17th arr 75017 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+6 Rue Pierre Demours 17th arr 75017 Paris France,none,none,none,none,economy,stayed_less_than_a_week,group_trip,park_view
+6 Rue Saint Lambert 15th arr 75015 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,none
+6 Rue Saint Placide 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+6 Rue de l Arcade 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+6 Via Aristotile Fioravanti Garibaldi Station 20154 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+6 Waterloo Place Westminster Borough London SW1Y 4AN United Kingdom,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,room_with_view
+6 rue Balzac 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+6 rue Buffault 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+6 rue Chauveau Lagarde 8th arr 75008 Paris France,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+6 rue Gustave Charpentier 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+6 rue du General Lanrezac 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+6 rue du Helder 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+60 Hyde Park gate Kensington and Chelsea London SW7 5BB United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+60 Pentonville Road Islington London N1 9LA United Kingdom,lounge_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+60 rue Richer 9th arr 75009 Paris France,none,none,none,apartment,deluxe_room,stayed_more_than_a_week,family_trip,none
+61 Gloucester Road Kensington and Chelsea London SW7 4PE United Kingdom,none,none,none,studio,queen_room,stayed_less_than_a_week,family_trip,none
+61 Lincoln s Inn Fields Camden London WC2A 3JW United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+61 Quai De Grenelle 15th arr 75015 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+61 rue de la Voute 12th arr 75012 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+62 Rue Des Mathurins 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+62 Rue Saint Dominique 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+626 Chiswick High St Chiswick London W4 5RY United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+628 Western Avenue London W3 0TA United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,business_trip,none
+63 rue de Richelieu 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+64 76 Hendon Way London NW2 2NL United Kingdom,none,none,none,none,triple_room,stayed_more_than_a_week,family_trip,none
+64 Avenue Marceau 8th arr 75008 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,business_trip,none
+64 Boulevard de Grenelle 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+64 Rue Crozatier 12th arr 75012 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+64 Rue de l Arbre Sec 1st arr 75001 Paris France,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+65 73 Shaftesbury Avenue Westminster Borough London W1D 6EX United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+65 rue Blanche 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+65 rue des Saints P res 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+66 Boulevard Barb s 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+66 Great Queen Street Covent Garden Camden London WC2B 5BX United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+66 Knightsbridge Westminster Borough London SW1X 7LA United Kingdom,none,none,none,suite,none,stayed_more_than_a_week,family_trip,courtyard_view
+67 rue Blanche 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+68 86 Cromwell Road Kensington Kensington and Chelsea London SW7 5BT United Kingdom,none,none,none,suite,economy,stayed_more_than_a_week,family_trip,none
+68 Boulevard De Clichy 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+68 Regent Street West End Mayfair Westminster Borough London W1B 4DY United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+69 Boulevard Victor 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+69 Vincent Square Westminster Borough London SW1P 2PA United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+7 11 Queensberry Place Kensington and Chelsea London SW7 2DL United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+7 11 Rue Saint Benoit 6th arr 75006 Paris France,spa_access,none,none,none,more_than_one_room,stayed_more_than_a_week,family_trip,none
+7 8 Park Place Westminster Borough London SW1A 1LP United Kingdom,none,none,none,suite,superior_room,stayed_more_than_a_week,family_trip,none
+7 9 Copthall Avenue City of London London EC2R 7NJ United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+7 9 High Street Kensington Kensington and Chelsea London W8 5NP United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+7 9 Rue Pierre Chausson 10th arr 75010 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+7 9 rue du Conservatoire 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+7 Boulevard Bourdon 4th arr 75004 Paris France,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+7 Gracechurch Street City of London London EC3V 0DR United Kingdom,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+7 Montague Street Bloomsbury Camden London WC1B 5BP United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+7 Pepys Street City of London London EC3N 4AF United Kingdom,lounge_access,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+7 Rue De L h tel Colbert 5th arr 75005 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,room_with_view
+7 Rue Du Bourg L abb 3rd arr 75003 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+7 Rue Magellan 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+7 Rue Paul Albert 18th arr 75018 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+7 Rue Rennequin 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+7 Rue des Petits H tels 10th arr 75010 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+7 Western Gateway Royal Victoria Dock Newham London E16 1AA United Kingdom,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+7 rue Casimir Delavigne 6th arr 75006 Paris France,none,accessibility,none,duplex,double_room,stayed_more_than_a_week,family_trip,none
+7 rue Cl ment Marot 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+7 rue d Argenson 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+7 rue de Berri 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+7 rue du G n ral de Larminat 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,paris_view
+70 avenue des Champs Elysees 8th arr 75008 Paris France,none,none,none,none,deluxe_room,stayed_less_than_a_week,family_trip,city_view
+71 79 Southwark Street Southwark London SE1 0JA United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+71 Rue de Charonne 11th arr 75011 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+71 Vincent Square Westminster Borough London SW1P 2PA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+74 rue Amelot 11th arr 75011 Paris France,none,none,none,suite,economy,stayed_more_than_a_week,group_trip,none
+75 Gower Street Camden London WC1E 6HJ United Kingdom,none,none,none,none,single_room,stayed_more_than_a_week,family_trip,none
+78 82 Westbourne Terrace Westminster Borough London W2 6QA United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+78 84 Sussex Gardens Westminster Borough London W2 1UH United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+78 Bis Avenue Marceau 8th arr 75008 Paris France,none,none,none,none,luxury_room,stayed_more_than_a_week,family_trip,paris_view
+78 Rue Blomet 15th arr 75015 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+79 81 avenue du Maine 14th arr 75014 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,solo,none
+79 rue Saint Dominique 7th arr 75007 Paris France,none,none,none,none,single_room,stayed_less_than_a_week,family_trip,none
+8 10 Queensberry Place Kensington and Chelsea London SW7 2EA United Kingdom,none,none,none,suite,balcony_room,stayed_more_than_a_week,group_trip,none
+8 10 Rue F licien David 16th arr 75016 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+8 12 Manchester Street Westminster Borough London W1U 4DG United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,business_trip,none
+8 14 Talbot Sq Paddington Westminster Borough London W2 1TS United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+8 18 London Bridge St Southwark London SE1 9SG United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+8 Avenue Rapp 7th arr 75007 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+8 Balderton Street Brown Hart Gardens Westminster Borough London W1K 6TF United Kingdom,none,none,none,studio,king_room,stayed_less_than_a_week,family_trip,none
+8 Boulevard Beaumarchais 11th arr 75011 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+8 Northumberland Avenue Westminster Borough London WC2N 5BY United Kingdom,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+8 Pembridge Garden Kensington and Chelsea London W2 4DU United Kingdom,spa_access,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+8 Place Marguerite de Navarre 1st arr 75001 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+8 Rue Cambon 1st arr 75001 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+8 Rue De Bellechasse 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,couple,none
+8 Rue Francois 1Er 8th arr 75008 Paris France,none,none,none,suite,economy,stayed_more_than_a_week,group_trip,none
+8 Rue Jean Goujon 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+8 bis Avenue de la Soeur Rosalie 13th arr 75013 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+8 rue Chambiges 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+8 rue Fr d ric Bastiat 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+8 rue Laferriere 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+8 rue d Anjou 8th arr 75008 Paris France,none,none,none,suite,none,stayed_less_than_a_week,family_trip,none
+8 rue de Verneuil 7th arr 75007 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+80 86 Belgrave Road Westminster Borough London SW1V 2BJ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+81 103 Euston Street Camden London NW1 2EZ United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+81 Great Eastern Street Islington London EC2A 3HU United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+81 Jermyn Street Westminster Borough London SW1Y 6JF United Kingdom,none,none,breakfast_included,none,double_room,stayed_more_than_a_week,group_trip,none
+81 boulevard Gouvion Saint Cyr 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+82 Dalston Lane Hackney London E8 3AH United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+82 Gloucester Place Westminster Borough London W1U 6HN United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+83 avenue Kl ber 16th arr 75016 Paris France,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+84 King Street Hammersmith and Fulham London W6 0QW United Kingdom,none,accessibility,none,none,double_room,stayed_more_than_a_week,group_trip,none
+85 87 RUE DES ARCHIVES 3rd arr 75003 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+85 Rue De Bercy 12th arr 75012 Paris France,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+86 88 Clerkenwell Road Islington London EC1M 5RJ United Kingdom,none,none,none,studio,economy,stayed_less_than_a_week,business_trip,none
+86 Park Lane Westminster Borough London W1K 7TN United Kingdom,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+86 Quai D Austerlitz 13th arr 75013 Paris France,none,none,none,none,none,stayed_less_than_a_week,solo,room_with_view
+86 Rue Saint Denis 1st arr 75001 Paris France,none,none,none,none,single_room,stayed_less_than_a_week,family_trip,courtyard_view
+88 Bis Avenue Kl ber 16th arr 75016 Paris France,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+88 Holland Road Kensington and Chelsea London W14 8BN United Kingdom,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+88 Queens Gate Kensington and Chelsea London SW7 5AB United Kingdom,none,none,none,suite,single_room,stayed_more_than_a_week,family_trip,none
+88 rue du Faubourg Poissoni re 10th arr 75010 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+9 11 Sydney Street Kensington and Chelsea London SW3 6PU United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,solo,none
+9 11 rue Balzac 8th arr 75008 Paris France,none,none,none,suite,executive_room,stayed_more_than_a_week,family_trip,none
+9 13 Bloomsbury Street Nr Covent Garden Camden London WC1B 3QD United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+9 Carrefour de l Od on 6th arr 75006 Paris France,none,none,none,suite,twin_room,stayed_more_than_a_week,family_trip,none
+9 Knaresborough Place Kensington and Chelsea London SW5 0TP United Kingdom,none,none,none,none,single_room,stayed_less_than_a_week,group_trip,none
+9 Place Boulnois 17th arr 75017 Paris France,none,none,none,none,single_room,stayed_less_than_a_week,business_trip,none
+9 Rue De Li ge 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+9 Rue Littr 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+9 Rue Sainte Beuve 6th arr 75006 Paris France,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+9 Rue de Constantinople 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+9 Rue de Washington 8th arr 75008 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+9 Rue du Sommerard 5th arr 75005 Paris France,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+9 Villa de Saxe 7th arr 75007 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+9 rue Git le Coeur 6th arr 75006 Paris France,spa_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+9 rue Gr goire de Tours 6th arr 75006 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+9 rue de la Michodi re 2nd arr 75002 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+9 rue frochot 9th arr 75009 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+90 92 Lancaster Gate Westminster Borough London W2 3NR United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+92 Rue Du Cherche Midi 6th arr 75006 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,park_view
+92 Rue La Boetie 8th arr 75008 Paris France,none,none,none,suite,economy,stayed_less_than_a_week,group_trip,none
+92 Southampton Row Camden London WC1B 4BH United Kingdom,none,accessibility,none,apartment,double_room,stayed_less_than_a_week,family_trip,none
+92 rue de Vaugirard 6th arr 75006 Paris France,none,accessibility,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+93 Rue de Lille 7th arr 75007 Paris France,none,none,none,suite,other_room,stayed_less_than_a_week,family_trip,none
+95 Rue de Richelieu 2nd arr 75002 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+97 Cromwell Road Kensington and Chelsea London SW7 4DN United Kingdom,lounge_access,accessibility,none,none,king_room,stayed_less_than_a_week,family_trip,none
+97 Great Russell Street Bloomsbury Camden London WC1B 3LB United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+97 avenue des Ternes 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,solo,none
+97 rue La Bo tie 8th arr 75008 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+97 rue Lauriston 16th arr 75016 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+98 Avenue d Italie 13th arr 75013 Paris France,none,none,none,none,double_room,stayed_more_than_a_week,solo,none
+98 Rue De Clery 2nd arr 75002 Paris France,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+99 Bis Rue De Rome 17th arr 75017 Paris France,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Albany Street London NW1 3UP United Kingdom,lounge_access,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+Albert Cuypstraat 2 6 Oud Zuid 1072 CT Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Aldwych Westminster Borough London WC2B 4DD United Kingdom,lounge_access,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+Aletta Jacobslaan 7 Slotervaart 1066 BP Amsterdam Netherlands,spa_access,none,none,none,queen_room,stayed_more_than_a_week,group_trip,none
+Althanstra e 5 09 Alsergrund 1090 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Alzaia Naviglio Grande 8 Navigli 20144 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,courtyard_view
+Am Heumarkt 35 37 03 Landstra e 1030 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Am Hof 2 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,room_with_view
+Am Stadtpark 1 03 Landstra e 1030 Vienna Austria,lounge_access,none,none,none,twin_room,stayed_more_than_a_week,family_trip,city_view
+Ample 1 Pla a Duc de Medinaceli Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Amstelstraat 17 Amsterdam City Center 1017 DA Amsterdam Netherlands,none,none,none,apartment,double_room,stayed_more_than_a_week,group_trip,none
+Angli 60 Sarri St Gervasi 08017 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Anna van den Vondelstraat 6 Oud West 1054 GZ Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Annagasse 16 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Annagasse 7 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Apollolaan 101 105 Oud Zuid 1077 AN Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Apollolaan 123 125 Oud Zuid 1077 AP Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Apollolaan 138 Oud Zuid 1077 BG Amsterdam Netherlands,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,canal_view
+Apollolaan 2 Oud Zuid 1077 BA Amsterdam Netherlands,none,none,none,none,economy,stayed_less_than_a_week,family_trip,canal_view
+Arcs 10 Ciutat Vella 08002 Barcelona Spain,private_access,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Arend Janszoon Ernststraat 577 Zuideramstel 1082 LD Amsterdam Netherlands,none,none,none,studio,more_than_one_room,stayed_more_than_a_week,family_trip,none
+Aribau 33 Eixample 08011 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Aribau 54 Eixample 08011 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Arlandaweg 10 Westpoort 1043 EW Amsterdam Netherlands,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Aspernbr ckengasse 1 02 Leopoldstadt 1020 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Auerspergstra e 9 08 Josefstadt 1080 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Ausi s Marc 34 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Bogatell 64 68 Sant Mart 08005 Barcelona Spain,spa_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Avenida Diagonal 1 Sant Mart 08019 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,sea_view
+Avenida Diagonal 201 Sant Mart 08018 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,city_view
+Avenida Diagonal 205 Sant Mart 08018 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Avenida Diagonal 555 Les Corts 08029 Barcelona Spain,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+Avenida Diagonal 568 Sarri St Gervasi 08021 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Avenida Diagonal 570 Sarri St Gervasi 08021 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,room_with_view
+Avenida Diagonal 589 591 Les Corts 08014 Barcelona Spain,lounge_access,none,none,none,twin_room,stayed_more_than_a_week,family_trip,city_view
+Avenida Diagonal 596 Sarri St Gervasi 08021 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,room_with_view
+Avenida Diagonal 661 671 Les Corts 08028 Barcelona Spain,none,none,none,suite,twin_room,stayed_more_than_a_week,family_trip,none
+Avenida Litoral 10 Ciutat Vella 08005 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,sea_view
+Avenida Marqu s de l Argentera 4 Ciutat Vella 08003 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Meridiana 151 Sant Mart 08026 Barcelona Spain,spa_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Paralelo 57 59 Sants Montju c 08004 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Pearson 1 3 Les Corts 08034 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Rius y Taulet 1 3 Sants Montju c 08004 Barcelona Spain,lounge_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Roma 2 4 Sants Montju c 08014 Barcelona Spain,spa_access,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Avenida Roma 22 30 Eixample 08015 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Avenida Roma 23 Eixample 08029 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Avenida Roma 93 95 Eixample 08029 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Avenida Sarri 50 Les Corts 08029 Barcelona Spain,lounge_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,city_view
+Avenida Tibidabo 1 Sarri St Gervasi 08022 Barcelona Spain,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+Avinguda Catedral 7 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,balcony_room,stayed_more_than_a_week,family_trip,room_with_view
+Avinguda Icaria 195 Sant Mart 08005 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Avinguda Paral lel 76 78 Ciutat Vella 08001 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Avinyo 30 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Bail n 4 6 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Ballester 77 81 Gr cia 08023 Barcelona Spain,none,none,none,none,twin_room,stayed_more_than_a_week,group_trip,none
+Balmes 103 105 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Balmes 117 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Balmes 142 146 Eixample 08008 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Basil Street Knightsbridge Kensington and Chelsea London SW3 1AT United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Baumgasse 83 03 Landstra e 1030 Vienna Austria,none,none,breakfast_included,apartment,double_room,stayed_less_than_a_week,family_trip,none
+Belgrove Street Camden London WC1H 8AB United Kingdom,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Bellamyplein 47 Oud West 1053 AT Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,courtyard_view
+Beltran i R zpide 7 9 Les Corts 08034 Barcelona Spain,none,none,none,suite,none,stayed_less_than_a_week,family_trip,none
+Bergara 11 Eixample 08002 Barcelona Spain,spa_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Bergara 2 4 Eixample 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Bergara 8 Eixample 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Berruguete 126 Horta Guinard 08035 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Bloomsbury Way Camden London WC1A 2SD United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Boltzmanngasse 8 09 Alsergrund 1090 Vienna Austria,none,none,none,none,single_room,stayed_more_than_a_week,family_trip,none
+Bond Street Mayfair Westminster Borough London W1S 2YF United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+Boquer a 10 Ciutat Vella 08002 Barcelona Spain,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,none
+Boria 24 26 Ciutat Vella 08003 Barcelona Spain,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,none
+Breite Gasse 9 07 Neubau 1070 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Bridges Court Road Battersea London SW11 3BE United Kingdom,none,accessibility,none,suite,king_room,stayed_more_than_a_week,family_trip,river_view
+Bryanston Street Marble Arch Westminster Borough London W1H 7EH United Kingdom,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Buckingham Gate Westminster Borough London SW1E 6AF United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+Burggasse 2 07 Neubau 1070 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+C rcega 368 Eixample 08037 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+C rsega 289 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Cadogan Place Kensington and Chelsea London SW1X 9PY United Kingdom,none,none,none,suite,superior_room,stayed_more_than_a_week,family_trip,park_view
+Calabria 115 117 Eixample 08015 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Calabria 90 92 Eixample 08015 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,solo,none
+Calle K s n Entrada principal Mercabarna Sants Montju c 08040 Barcelona Spain,none,none,free_shuttle,none,double_room,stayed_less_than_a_week,family_trip,none
+Calvet 40 42 Sarri St Gervasi 08021 Barcelona Spain,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,none
+Capellans 4 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Capitan Arenas 20 Les Corts 08034 Barcelona Spain,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+Carburton Street Westminster Borough London W1W 5EE United Kingdom,none,accessibility,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Cardenal Reig 11 Les Corts 08028 Barcelona Spain,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+Cardington Street Euston Camden London NW1 2LP United Kingdom,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+Carlos Place Westminster Borough London W1K 2AL United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,business_trip,none
+Carrer de Arag 271 Eixample 08007 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Carretera Vallvidrera Tibidabo 83 93 Horta Guinard 08035 Barcelona Spain,none,none,none,suite,balcony_room,stayed_more_than_a_week,family_trip,room_with_view
+Caspe 103 Eixample 08013 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Catherine Grove Greenwich Greenwich London SE10 8BB United Kingdom,none,accessibility,none,suite,queen_room,stayed_less_than_a_week,group_trip,none
+Chassestraat 62 64 De Baarsjes 1057 JJ Amsterdam Netherlands,none,none,none,suite,king_room,stayed_more_than_a_week,group_trip,none
+Chelsea Harbour Hammersmith and Fulham London SW10 0XG United Kingdom,none,none,none,suite,more_than_one_room,stayed_more_than_a_week,family_trip,river_view
+Coburgbastei 4 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,none,stayed_less_than_a_week,family_trip,none
+Comte Borrell 208 Eixample 08029 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Comte d Urgell 232 Eixample 08036 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Consell de Cent 498 500 Eixample 08013 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Consell de Cent 51 53 Sants Montju c 08014 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Coopers Row City of London London EC3N 2BQ United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Coram Street Camden London WC1N 1HT United Kingdom,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Corcega 255 Eixample 08036 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Corso Buenos Aires 3 Milan City Center 20124 Milan Italy,spa_access,none,none,none,single_room,stayed_more_than_a_week,group_trip,none
+Corso Buenos Aires 33 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Corso Buenos Aires 42 5 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Corso Concordia 1 Milan City Center 20129 Milan Italy,spa_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Corso Di Porta Nuova 1 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Corso Europa 9 Milan City Center 20122 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Corso Garibaldi 84 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Corso Giacomo Matteotti 4 6 Milan City Center 20121 Milan Italy,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+Corso Magenta 19 Milan City Center 20123 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Corso Sempione 69 Fiera Milano City 20149 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Corso Sempione 91 Fiera Milano City 20149 Milan Italy,spa_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Corso di Porta Romana 48 Milan City Center 20122 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Corso di Porta Romana 64 Milan City Center 20122 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Corso di Porta Vigentina 46 Milan City Center 20122 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Crist bal de Moura 138 Sant Mart 08019 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+D u i Mata 66 99 Les Corts 08029 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Dam 9 Amsterdam City Center 1012 JS Amsterdam Netherlands,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Damrak 1 5 Amsterdam City Center 1012 LG Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,room_with_view
+Damrak 93 94 Amsterdam City Center 1012 LP Amsterdam Netherlands,none,none,none,none,king_room,stayed_more_than_a_week,group_trip,none
+Damrak 96 Amsterdam City Center 1012 LP Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,city_view
+Daungasse 1 6 7 08 Josefstadt 1080 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+De Boelelaan 2 Zuideramstel 1083 HJ Amsterdam Netherlands,none,none,none,none,economy,stayed_less_than_a_week,group_trip,city_view
+De Passage 90 Noord Holland Zuidoost 1101 AX Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Delflandlaan 15 Slotervaart 1062 EA Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Dels Lledo 7 Ciutat Vella 08003 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Desider Friedmann Platz 2 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Diagonal Pere IV 272 Sant Mart 08005 Barcelona Spain,none,none,none,none,none,stayed_more_than_a_week,group_trip,city_view
+Dijsselhofplantsoen 7 Oud Zuid 1077 BJ Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Diputaci 195 Eixample 08011 Barcelona Spain,none,none,none,apartment,more_than_one_room,stayed_more_than_a_week,family_trip,none
+Diputaci 257 Eixample 08007 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Diputaci 262 264 Eixample 08007 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Diputacion 250 Eixample 08007 Barcelona Spain,spa_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Distelkade 21 Amsterdam Noord 1031 XP Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Doctor Carulla 25 Sarri St Gervasi 08017 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Doctor Trueta 164 Sant Mart 08005 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Donau City Stra e 7 22 Donaustadt 1220 Vienna Austria,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Dorotheergasse 3 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Duc De Medinaceli 8 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Eerste Constantijn Huygensstraat 10A Oud West 1054 BR Amsterdam Netherlands,none,none,none,penthouse_suite,double_room,stayed_less_than_a_week,family_trip,none
+Eerste Constantijn huygensstraat 26G Oud West 1054 BR Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,solo,none
+Elisabets 11 Ciutat Vella 08001 Barcelona Spain,none,none,none,suite,other_room,stayed_less_than_a_week,family_trip,none
+Empire Way Wembley Brent London HA9 8DS United Kingdom,none,accessibility,none,suite,queen_room,stayed_less_than_a_week,family_trip,none
+Engerthstra e 173 175 02 Leopoldstadt 1020 Vienna Austria,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+Enric Granados 62 64 Eixample 08008 Barcelona Spain,none,none,none,none,balcony_room,stayed_less_than_a_week,family_trip,none
+Enrique Granados 83 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Epping Forest 30 Oak Hill London IG8 9NY United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Espronceda 6 Sant Mart 08005 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,sea_view
+Europaboulevard 10 Zuideramstel 1083 AD Amsterdam Netherlands,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+Euston Road Camden London NW1 2AR United Kingdom,lounge_access,none,none,none,deluxe_room,stayed_less_than_a_week,family_trip,none
+Excel 2 Festoon Way Royal Victoria Dock Newham London E16 1RH United Kingdom,none,accessibility,none,suite,queen_room,stayed_less_than_a_week,family_trip,room_with_view
+F hrichgasse 10 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,room_with_view
+Favoritenstra e 12 04 Wieden 1040 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Felberstra e 4 15 Rudolfsheim F nfhaus 1150 Vienna Austria,none,none,none,none,economy,stayed_less_than_a_week,family_trip,none
+Ferdinand Bolstraat 194 Oud Zuid 1072 LW Amsterdam Netherlands,none,none,none,none,twin_room,stayed_less_than_a_week,group_trip,none
+Ferdinand Bolstraat 333 Oud Zuid 1072 LH Amsterdam Netherlands,none,none,free_parking,suite,double_room,stayed_more_than_a_week,family_trip,city_view
+Filmteichstra e 5 10 Favoriten 1100 Vienna Austria,none,none,none,none,single_room,stayed_less_than_a_week,group_trip,none
+Fizeaustraat 2 Oost 1097 SC Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Fleischmarkt 1a 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Frankenberggasse 10 04 Wieden 1040 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Freytaggasse 25 27 21 Floridsdorf 1210 Vienna Austria,none,none,none,studio,none,stayed_more_than_a_week,family_trip,none
+Fulham Road Stamford Bridge Hammersmith and Fulham London SW6 1HS United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Galleria Del Corso 3 Milan City Center 20122 Milan Italy,none,none,none,suite,twin_room,stayed_less_than_a_week,family_trip,none
+George Gershwinlaan 101 Zuideramstel 1082 MT Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+George Street Westminster Borough London W1H 5BJ United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Getreidemarkt 5 06 Mariahilf 1060 Vienna Austria,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Girona 158 Eixample 08037 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Gr nentorgasse 30 09 Alsergrund 1090 Vienna Austria,none,none,none,studio,double_room,stayed_less_than_a_week,group_trip,none
+Gran V a De Les Corts Catalanes 570 Eixample 08011 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Gran V a de Les Corts Catalanes 647 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Gran V a de les Corts Catalanes 322 Sants Montju c 08004 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Gran V a de les Corts Catalanes 670 Eixample 08010 Barcelona Spain,none,none,none,none,balcony_room,stayed_less_than_a_week,family_trip,city_view
+Gran Via 550 Eixample 08011 Barcelona Spain,private_access,none,none,suite,twin_room,stayed_less_than_a_week,family_trip,room_with_view
+Gran Via 559 Eixample 08012 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Gran Via 605 Eixample 08007 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Gran Via Corts Catalanes 656 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Gran Via de las Corts Catalanes 629 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,pool_view
+Gran Via de les Corts Catalanes 644 Eixample 08007 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Gran Via de les Corts Catalanes 668 Eixample 08010 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Gran Via de les Corts Catalanes 678 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Gran Via de les Corts Catalanes 700 Eixample 08010 Barcelona Spain,private_access,none,none,suite,balcony_room,stayed_more_than_a_week,family_trip,city_view
+Great Cumberland Place Westminster Borough London W1H 7DL United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Grieshofgasse 11 12 Meidling 1120 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Gro e Stadtgutgasse 31 02 Leopoldstadt 1020 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Grosvenor Square Westminster Borough London W1K 6JP United Kingdom,lounge_access,none,none,none,deluxe_room,stayed_more_than_a_week,family_trip,room_with_view
+Gudrunstra e 184 10 Favoriten 1100 Vienna Austria,none,none,breakfast_included,none,twin_room,stayed_more_than_a_week,group_trip,none
+Guillem Tell 49 Sarri St Gervasi 08006 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Gutheil Schoder Gasse 7B 10 Favoriten 1100 Vienna Austria,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+Habsburgergasse 5 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Hafnersteig 7 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Half Moon Street Westminster Borough London W1J 7BH United Kingdom,none,none,none,apartment,double_room,stayed_more_than_a_week,group_trip,none
+Half Moon Street Westminster Borough London W1J 7BN United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Halkin Street Westminster Borough London SW1X 7DJ United Kingdom,none,none,none,suite,other_room,stayed_less_than_a_week,business_trip,none
+Hamilton Place Park Lane Westminster Borough London W1J 7DR United Kingdom,none,none,none,none,queen_room,stayed_more_than_a_week,family_trip,none
+Handelskai 269 02 Leopoldstadt 1020 Vienna Austria,lounge_access,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,river_view
+Hanger Lane Ealing London W5 3HL United Kingdom,none,none,none,suite,deluxe_room,stayed_more_than_a_week,group_trip,room_with_view
+Harmoniegasse 5 7 09 Alsergrund 1090 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Hasenauerstra e 12 19 D bling 1190 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,park_view
+Hendrikje Stoffelstraat 1 Slotervaart 1058 GC Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Herengracht 255 Amsterdam City Center 1016 BJ Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,river_view
+Herengracht 341 Amsterdam City Center 1016 AZ Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,canal_view
+Herengracht 519 525 Amsterdam City Center 1017 BV Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,canal_view
+Herengracht 542 556 Amsterdam City Center 1017 CG Amsterdam Netherlands,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,canal_view
+Hernalser Hauptstra e 105 17 Hernals 1170 Vienna Austria,none,none,none,none,other_room,stayed_more_than_a_week,family_trip,none
+Hernalser Hauptstra e 187 17 Hernals 1170 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Herrengasse 10 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+Herrengasse 12 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Hertha Firnberg Stra e 5 10 Favoriten 1100 Vienna Austria,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,park_view
+Hietzinger Hauptstra e 10 14 13 Hietzing 1130 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Hietzinger Hauptstra e 134 13 Hietzing 1130 Vienna Austria,none,none,breakfast_included,none,double_room,stayed_more_than_a_week,family_trip,none
+Hintschiggasse 1 10 Favoriten 1100 Vienna Austria,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Hobbemakade 50 Oud Zuid 1071 XL Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,room_with_view
+Hoffingergasse 26 28 12 Meidling 1120 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,park_view
+Holland Park Avenue Kensington and Chelsea London W11 4UL United Kingdom,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Hollandstra e 3 02 Leopoldstadt 1020 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Hoogoorddreef 1 Zuidoost 1101 BA Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Hoogoorddreef 66 Zuidoost 1101 BE Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Hyde Park Corner Westminster Borough London SW1X 7TA United Kingdom,none,none,none,suite,superior_room,stayed_less_than_a_week,family_trip,none
+IJdock 6 Amsterdam City Center 1013 MM Amsterdam Netherlands,none,none,none,suite,queen_room,stayed_less_than_a_week,group_trip,none
+Ijburglaan 539 Zeeburg 1087 BE Amsterdam Netherlands,none,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,room_with_view
+Imperial Road Hammersmith and Fulham London SW6 2GA United Kingdom,none,accessibility,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Jaime I 14 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Jan Luijkenstraat 76 Oud Zuid 1071 CT Amsterdam Netherlands,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+Jan Luykenstraat 58 Oud Zuid 1071 CS Amsterdam Netherlands,none,none,free_wifi,none,double_room,stayed_less_than_a_week,group_trip,none
+Jaume I 6 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,solo,none
+Joan G ell 207 211 Les Corts 08028 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Joan Muyskenweg 10 Oost 1096 CJ Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Johann H rbiger Gasse 30 23 Liesing 1230 Vienna Austria,none,none,none,none,single_room,stayed_less_than_a_week,solo,none
+Johann Staud Stra e 32 16 Ottakring 1160 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Johannesgasse 28 03 Landstra e 1030 Vienna Austria,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+John M Keynesplein 2 Slotervaart 1066 EP Amsterdam Netherlands,none,none,none,none,twin_room,stayed_more_than_a_week,group_trip,none
+Josefsgasse 4 6 08 Josefstadt 1080 Vienna Austria,none,none,none,apartment,king_room,stayed_more_than_a_week,group_trip,none
+Josefst dter Stra e 10 12 08 Josefstadt 1080 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Josefst dter Stra e 22 08 Josefstadt 1080 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Josep Pla 69 Sant Mart 08019 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+K llnerhofgasse 6 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+K rntner Ring 1 01 Innere Stadt 1015 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,room_with_view
+K rntner Ring 16 01 Innere Stadt 1015 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+K rntner Ring 8 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,other_room,stayed_more_than_a_week,family_trip,none
+K rntner Ring 9 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+K rntner Stra e 22 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,city_view
+K rntner Stra e 32 34 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+K rntnerstra e 18 Eingang Neuer Markt 3 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+Karl Popper Stra e 22 10 Favoriten 1100 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,courtyard_view
+Karspeldreef 2 Zuidoost 1101 CJ Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Kattengat 1 Amsterdam City Center 1012 SZ Amsterdam Netherlands,lounge_access,none,free_wifi,none,deluxe_room,stayed_less_than_a_week,family_trip,none
+Keizersgracht 148 Amsterdam City Center 1015 CX Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Keizersgracht 164 Amsterdam City Center 1015 CZ Amsterdam Netherlands,spa_access,none,none,suite,double_room,stayed_less_than_a_week,family_trip,canal_view
+Keizersgracht 384 Amsterdam City Center 1016 GB Amsterdam Netherlands,none,none,none,duplex,double_room,stayed_more_than_a_week,family_trip,canal_view
+King William Walk Greenwich London SE10 9JW United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+King s Cross St Pancras International Station Pancras Road Camden London N1C 4TB United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Kirchberggasse 6 07 Neubau 1070 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Kirchengasse 41 07 Neubau 1070 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Kleine Stadtgutgasse 4 02 Leopoldstadt 1020 Vienna Austria,none,none,none,penthouse_suite,double_room,stayed_less_than_a_week,family_trip,park_view
+Koninginneweg 34 36 Oud Zuid 1075 CZ Amsterdam Netherlands,none,none,none,suite,queen_room,stayed_more_than_a_week,group_trip,none
+La Rambla 105 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+La Rambla 109 Ciutat Vella 08002 Barcelona Spain,spa_access,none,none,none,more_than_one_room,stayed_more_than_a_week,family_trip,none
+La Rambla 128 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,room_with_view
+La Rambla 22 24 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,room_with_view
+Lakeside Way Brent London HA9 0BU United Kingdom,lounge_access,none,none,none,king_room,stayed_less_than_a_week,family_trip,room_with_view
+Lancaster Gate Westminster Borough London W2 3LG United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Lancaster Terrace Hyde Park Westminster Borough London W2 3PF United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Lancaster Terrace Westminster Borough London W2 2TY United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,city_view
+Landstra er G rtel 5 03 Landstra e 1030 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Landstra er Hauptstra e 120 03 Landstra e 1030 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Landstra er Hauptstra e 155 03 Landstra e 1030 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Landstra er Hauptstra e 28 03 Landstra e 1030 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Lange Gasse 13 08 Josefstadt 1080 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Largo Augusto 10 Milan City Center 20122 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Largo Rio de Janeiro 12 Citt Studi 20133 Milan Italy,none,none,none,none,single_room,stayed_less_than_a_week,business_trip,none
+Las Ramblas 117 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,economy,stayed_less_than_a_week,family_trip,room_with_view
+Leeuwendalersweg 21 Bos en Lommer 1055 JE Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Leidsekade 97 Amsterdam City Center 1017 PN Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Lepanto 406 Horta Guinard 08025 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Lerchenfelder Stra e 1 3 07 Neubau 1070 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,city_view
+Lichtensteg 3 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Linnaeusstraat 89 Oost 1093 EK Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Linzer Stra e 165 14 Penzing 1140 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Llan 24 Eixample 08015 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Llull 340 Sant Mart 08019 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+London County Hall Westminster Bridge Road Lambeth London SE1 7PB United Kingdom,lounge_access,none,none,none,king_room,stayed_more_than_a_week,family_trip,room_with_view
+Lope de Vega 141 Sant Mart 08005 Barcelona Spain,none,none,none,none,none,stayed_less_than_a_week,couple,sea_view
+Lope de Vega 4 Sant Mart 08005 Barcelona Spain,none,none,none,none,twin_room,stayed_more_than_a_week,family_trip,sea_view
+Loreto 21 25 Les Corts 08029 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Loreto 28 Les Corts 08029 Barcelona Spain,none,none,none,duplex,double_room,stayed_less_than_a_week,family_trip,none
+Lowndes Street Kensington and Chelsea London SW1X 9ES United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Magdalenes 13 15 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Mallorca 1 23 Sants Montju c 08014 Barcelona Spain,none,none,none,none,balcony_room,stayed_less_than_a_week,family_trip,none
+Mallorca 178 Eixample 08036 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Mallorca 181 Eixample 08036 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Mallorca 216 Eixample 08008 Barcelona Spain,pool_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Mallorca 251 Eixample 08008 Barcelona Spain,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,pool_view
+Mallorca 269 271 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Mallorca 288 Eixample 08037 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Mandeville Place Westminster Borough London W1U 2BE United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Manor Road London IG8 8AE United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Manuel Girona 7 21 Sarri St Gervasi 08034 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Margareteng rtel 142 05 Margareten 1050 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Margaretenstra e 53 05 Margareten 1050 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,park_view
+Margaretenstra e 92 05 Margareten 1050 Vienna Austria,none,none,none,suite,economy,stayed_less_than_a_week,solo,none
+Mariahilfer Stra e 122 Ecke Kaiserstra e 1 3 07 Neubau 1070 Vienna Austria,none,none,none,apartment,double_room,stayed_more_than_a_week,group_trip,courtyard_view
+Mariahilfer Stra e 15 06 Mariahilf 1060 Vienna Austria,none,none,none,studio,double_room,stayed_less_than_a_week,family_trip,none
+Mariahilfer Stra e 32 34 07 Neubau 1070 Vienna Austria,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Mariahilfer Stra e 57 59 06 Mariahilf 1060 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Mariahilfer Stra e 78 07 Neubau 1070 Vienna Austria,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,none
+Mariano Cubi 62 64 Sarri St Gervasi 08006 Barcelona Spain,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,none
+Marina 19 21 08005 Barcelona Spain,lounge_access,none,none,penthouse_suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Matrosengasse 6 8 06 Mariahilf 1060 Vienna Austria,none,none,free_wifi,none,double_room,stayed_less_than_a_week,family_trip,none
+Mautner Markhof Gasse 50 11 Simmering 1110 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Molenwerf 1 1014 AG Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Moll de Barcelona WTC Ciutat Vella 08039 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,city_view
+Mommsengasse 5 04 Wieden 1040 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Muntaner 212 Eixample 08036 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Muntaner 352 Sarri St Gervasi 08021 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Muntaner 505 Sarri St Gervasi 08022 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Naritaweg 1 Westpoort 1043 BP Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Ndsm Plein 28 Amsterdam Noord 1033 WB Amsterdam Netherlands,none,accessibility,none,none,queen_room,stayed_more_than_a_week,group_trip,river_view
+Nes 49 Amsterdam City Center 1012 KD Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Neubaug rtel 26 28 07 Neubau 1070 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Neubaug rtel 34 36 07 Neubau 1070 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Neustift am Walde 97 99 19 D bling 1190 Vienna Austria,none,none,none,apartment,economy,stayed_less_than_a_week,family_trip,none
+Nicaragua 47 Sants Montju c 08029 Barcelona Spain,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+Nieuwe Doelenstraat 2 14 Amsterdam City Center 1012 CP Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,river_view
+Nieuwe Doelenstraat 24 Amsterdam City Center 1012 CP Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Nieuwezijds Voorburgwal 176 180 Amsterdam City Center 1012 SJ Amsterdam Netherlands,none,none,none,suite,twin_room,stayed_less_than_a_week,group_trip,none
+Nieuwezijds Voorburgwal 67 Amsterdam City Center 1012 RE Amsterdam Netherlands,none,none,none,none,king_room,stayed_more_than_a_week,group_trip,none
+Nieuwezijdskolk 19 Amsterdam City Center 1012 PV Amsterdam Netherlands,none,none,none,suite,twin_room,stayed_less_than_a_week,group_trip,none
+No 1 Seething Lane City of London London EC3N 4AX United Kingdom,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+Noorderstraat 46 Amsterdam City Center 1017 TV Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Nou de la Rambla 36 Ciutat Vella 08001 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Numancia 32 Sants Montju c 08029 Barcelona Spain,private_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Numancia 74 Les Corts 08029 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Old Park Lane Westminster Borough London W1K 1LB United Kingdom,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,park_view
+One Eastern Gateway Royal Victoria Dock Newham London E16 1FR United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,river_view
+One Ham Yard Westminster Borough London W1D 7DT United Kingdom,none,none,none,suite,luxury_room,stayed_less_than_a_week,family_trip,none
+Oosterdoksstraat 4 Amsterdam City Center 1011 DK Amsterdam Netherlands,none,none,none,none,queen_room,stayed_more_than_a_week,group_trip,room_with_view
+Opernring 11 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Ottakringer Stra e 34 36 17 Hernals 1170 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Oude Haagseweg 20 Slotervaart 1066 BW Amsterdam Netherlands,none,none,none,suite,twin_room,stayed_more_than_a_week,group_trip,none
+Oudeschans 75 Amsterdam City Center 1011 KW Amsterdam Netherlands,none,none,none,suite,more_than_one_room,stayed_more_than_a_week,group_trip,canal_view
+Oudezijds Voorburgwal 197 Amsterdam City Center 1012 EX Amsterdam Netherlands,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,city_view
+Overhoeksplein 7 Amsterdam Noord 1031 KS Amsterdam Netherlands,none,none,none,none,economy,stayed_less_than_a_week,group_trip,city_view
+Palaud ries 26 Sants Montju c 08004 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Pallars 121 125 Sant Mart 08018 Barcelona Spain,spa_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Pallars 128 130 Sant Mart 08018 Barcelona Spain,spa_access,none,none,none,more_than_one_room,stayed_less_than_a_week,family_trip,none
+Panama Laan 188 196 Zeeburg 1019 AZ Amsterdam Netherlands,none,none,none,none,king_room,stayed_more_than_a_week,group_trip,none
+Papagenogasse 6 06 Mariahilf 1060 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Paragonstra e 1 11 Simmering 1110 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Paral lel 115 Sants Montju c 08004 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Park Lane Westminster Borough London W1K 7TN United Kingdom,lounge_access,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+Parkring 12 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,balcony_room,stayed_more_than_a_week,family_trip,room_with_view
+Parkring 12a 01 Innere Stadt 1010 Vienna Austria,lounge_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,park_view
+Pas de Sota Muralla 9 Ciutat Vella 08003 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,room_with_view
+Paseo Garc a Faria 37 47 Sant Mart 08019 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Paseo Garc a I Faria 69 71 Sant Mart 08019 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Paseo Taulat 278 Sant Mart 08019 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,sea_view
+Paseo de Gracia 46 Eixample 08007 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Paseo de Gracia 73 Eixample 08008 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Paseo de Gracia 75 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Passeig Colom 12 Ciutat Vella 08002 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Passeig de Colom 9 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Passeig de Gr cia 29 Eixample 08007 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,room_with_view
+Passeig de Gr cia 38 40 Eixample 08007 Barcelona Spain,none,none,none,suite,deluxe_room,stayed_more_than_a_week,family_trip,none
+Passeig de Gracia 132 Gr cia 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Passeig de Gracia 62 Eixample 08007 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Passeig de Gracia 68 Eixample 08007 Barcelona Spain,none,none,none,apartment,double_room,stayed_less_than_a_week,family_trip,city_view
+Passeig de Gracia 84 Eixample 08008 Barcelona Spain,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+Passeig de Picasso 26 30 Ciutat Vella 08003 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Passeig de Sant Antoni 36 40 Sants Montju c 08014 Barcelona Spain,none,none,none,none,none,stayed_less_than_a_week,family_trip,city_view
+Passeig del Taulat 262 264 Sant Mart 08019 Barcelona Spain,lounge_access,none,none,none,king_room,stayed_less_than_a_week,family_trip,pool_view
+Pasteurgasse 1 09 Alsergrund 1090 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Pau Clar s 122 Eixample 08009 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,city_view
+Pau Claris 150 Eixample 08009 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Pau Claris 179 Eixample 08037 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,park_view
+Pelai 28 Ciutat Vella 08002 Barcelona Spain,private_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Pelayo 14 Ciutat Vella 08001 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Pelzgasse 1 15 Rudolfsheim F nfhaus 1150 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Peters Lane Cowcross Street Islington London EC1M 6DS United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,business_trip,none
+Petersplatz 9 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Philharmoniker Stra e 4 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+Piazza Della Repubblica 17 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Piazza Duca D Aosta 4 6 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Piazza Duca D Aosta 9 Central Station 20124 Milan Italy,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+Piazza Fontana 3 Milan City Center 20122 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Piazza Gerusalemme 12 Sempione 20154 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Piazza Gerusalemme 6 Sempione 20154 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Piazza Giuseppe Missori 1 Milan City Center 20123 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Piazza Lima 2 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Piazza Luigi di Savoia 20 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Piazza Luigi di Savoia 6 Central Station 20124 Milan Italy,spa_access,none,none,none,single_room,stayed_more_than_a_week,family_trip,none
+Piazza Oberdan 12 Milan City Center 20129 Milan Italy,none,none,none,none,twin_room,stayed_less_than_a_week,family_trip,room_with_view
+Piazza Quattro Novembre 3 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Piazza XXIV Maggio 8 Milan City Center 20123 Milan Italy,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+Piazza della Repubblica 13 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Piazza della Repubblica 20 Central Station 20124 Milan Italy,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+Piazzale Lugano 10 Bovisa 20158 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Piccadilly Westminster Borough London W1J 7BX United Kingdom,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+Piet Heinkade 11 Zeeburg 1019 BR Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,city_view
+Pintor Fortuny 13 Ciutat Vella 08001 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Pla a Antonio L pez 5 Ciutat Vella 08002 Barcelona Spain,none,accessibility,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Pla a Reial 1 Ciutat Vella 08001 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Pla a Rosa dels Vents 1 Passeig Joan de Borbo Ciutat Vella 08039 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Pla a Urquinaona 2 Eixample 08010 Barcelona Spain,none,none,none,suite,balcony_room,stayed_less_than_a_week,family_trip,room_with_view
+Pla a de Llevant s n Sant Mart 08019 Barcelona Spain,spa_access,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Place Andr Malraux 1st arr 75001 Paris France,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,room_with_view
+Place de l Op ra 4 rue Meyerbeer 9th arr 75009 Paris France,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Plaza Carlos Iba ez 3 Sants Montju c 08038 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Plaza Espa a 6 8 Sants Montju c 08014 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Plaza Paisos Catalans s n Sants Montju c 08014 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Plaza Parade Camden London NW6 5RP United Kingdom,lounge_access,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Plaza de Catalunya 19 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,room_with_view
+Portland Place Westminster Borough London W1B 1JA United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Poultry 27 City of London London EC2R 8AJ United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Praterstra e 1 02 Leopoldstadt 1020 Vienna Austria,none,none,none,suite,queen_room,stayed_less_than_a_week,business_trip,none
+Prins Hendrikkade 108 Amsterdam City Center 1011 AK Amsterdam Netherlands,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+Prins Hendrikkade 33 Amsterdam City Center 1012 TM Amsterdam Netherlands,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,room_with_view
+Prins Hendrikkade 59 72 Amsterdam City Center 1012 AD Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,room_with_view
+Prinsengracht 315 331 Amsterdam City Center 1016 GZ Amsterdam Netherlands,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+Prinsengracht 444 Amsterdam City Center 1017 KE Amsterdam Netherlands,none,none,none,penthouse_suite,double_room,stayed_more_than_a_week,group_trip,canal_view
+Prinsengracht 587 Amsterdam City Center 1067 HT Amsterdam Netherlands,none,none,none,none,king_room,stayed_more_than_a_week,group_trip,canal_view
+Prinsengracht 717 Amsterdam City Center 1017 JW Amsterdam Netherlands,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+Prinses Irenestraat 30 Zuideramstel 1077 WX Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Professor Tulpplein 1 Amsterdam City Center 1018 GX Amsterdam Netherlands,none,none,none,suite,none,stayed_less_than_a_week,family_trip,city_view
+Proven als 10 Sant Mart 08019 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Provenza 195 Eixample 08008 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Provincialeweg 38 Zuidoost 1108 AB Amsterdam Netherlands,none,none,none,none,twin_room,stayed_less_than_a_week,group_trip,none
+Putget 68 Sarri St Gervasi 08023 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rambla Catalunya 104 Eixample 08008 Barcelona Spain,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Rambla Catalunya 26 Eixample 08007 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rambla Catalunya 7 9 Eixample 08007 Barcelona Spain,none,none,none,none,balcony_room,stayed_less_than_a_week,family_trip,none
+Rambla de Catalunya 76 Eixample 08008 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Rambla del Raval 17 21 Ciutat Vella 08001 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Ramblas 111 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,room_with_view
+Ramon Turr 196 198 Sant Mart 08005 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rathausstra e 17 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,economy,stayed_less_than_a_week,family_trip,none
+Rathstra e 24 Neustift am Walde 19 D bling 1190 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Ratschkygasse 32 12 Meidling 1120 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Rec Comtal 16 18 Ciutat Vella 08003 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Rembrandtplein 19 Amsterdam City Center 1017 CT Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,room_with_view
+Rembrandtplein 26 36 Amsterdam City Center 1017 CV Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Rembrandtplein 44 Amsterdam City Center 1017 CV Amsterdam Netherlands,none,none,none,suite,twin_room,stayed_less_than_a_week,group_trip,none
+Rennweg 12 03 Landstra e 1030 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Rennweg 12a 03 Landstra e 1030 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,room_with_view
+Rennweg 16 03 Landstra e 1030 Vienna Austria,none,none,none,suite,deluxe_room,stayed_more_than_a_week,family_trip,none
+Rennweg 99 Rinnboeckstrasse 1 03 Landstra e 1030 Vienna Austria,none,none,none,none,twin_room,stayed_less_than_a_week,group_trip,none
+Richmond Way Hammersmith and Fulham London W14 0AX United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Riemergasse 8 01 Innere Stadt 1010 Vienna Austria,none,none,none,studio,more_than_one_room,stayed_more_than_a_week,family_trip,none
+Rilke Platz 7 04 Wieden 1040 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Riudarenes 7 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+Robert Stolz Platz 1 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,more_than_one_room,stayed_more_than_a_week,family_trip,courtyard_view
+Roelof Hartstraat 1 Oud Zuid 1071 VE Amsterdam Netherlands,none,none,none,suite,superior_room,stayed_more_than_a_week,family_trip,none
+Roemer Visscherstraat 8 10 Oud West 1054 EV Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Roger De Lluria 21 Esq Gran Via 662 Eixample 08037 Barcelona Spain,none,none,none,none,bigger_room,stayed_less_than_a_week,family_trip,none
+Roger de Ll ria 17 Eixample 08010 Barcelona Spain,spa_access,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Roger de Ll ria 60 Eixample 08009 Barcelona Spain,private_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Roger de Lluria 16 18 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Roger de Lluria 28 Eixample 08010 Barcelona Spain,private_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Ronda Sant Pau 14 Ciutat Vella 08001 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Ronda Sant Pere 32 Eixample 08010 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Ronda Sant Pere 9 Eixample 08010 Barcelona Spain,private_access,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Ronda Universitat 21 Eixample 08007 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rooseveltplatz 15 09 Alsergrund 1090 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rosell n 174 176 Eixample 08036 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rossell 249 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Rossell 265 Eixample 08008 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Rossell 390 Eixample 08025 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,room_with_view
+Rossello 191 Eixample 08036 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Rotensterngasse 10 02 Leopoldstadt 1020 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Rotensterngasse 7a 02 Leopoldstadt 1020 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Rotenturmstra e 15 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Royal Victoria Dock Western Gateway Newham London E16 1AL United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Rudolfsplatz 11 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Rusland 17 Amsterdam City Center 1012 CK Amsterdam Netherlands,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Sabino de Arana 22 24 Les Corts 08028 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+San Sever 5 Ciutat Vella 08002 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Sancho de vila 32 34 Sant Mart 08018 Barcelona Spain,none,none,none,none,deluxe_room,stayed_less_than_a_week,family_trip,none
+Sant Pau 9 11 Ciutat Vella 08001 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Santa Rosa Esplugues 33 08950 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Santal 8 Sarri St Gervasi 08021 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Sarphatistraat 104 Amsterdam City Center 1018 GV Amsterdam Netherlands,none,none,none,none,king_room,stayed_less_than_a_week,group_trip,room_with_view
+Savoyenstra e 2 16 Ottakring 1160 Vienna Austria,none,none,none,suite,economy,stayed_more_than_a_week,group_trip,none
+Scarsdale Place Kensington Kensington and Chelsea London W8 5SY United Kingdom,none,accessibility,none,none,twin_room,stayed_more_than_a_week,family_trip,none
+Sch nbrunner Schlossstra e 38 40 12 Meidling 1120 Vienna Austria,none,none,breakfast_included,none,double_room,stayed_less_than_a_week,family_trip,none
+Sch nbrunner Stra e 41 05 Margareten 1050 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Schepenbergweg 50 Zuidoost 1105 AT Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Schlossallee 8 14 Penzing 1140 Vienna Austria,none,none,none,none,deluxe_room,stayed_more_than_a_week,family_trip,none
+Schottenfeldgasse 74 07 Neubau 1070 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Schottenring 11 01 Innere Stadt 1010 Vienna Austria,none,none,none,penthouse_suite,king_room,stayed_less_than_a_week,family_trip,none
+Schottenring 24 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,deluxe_room,stayed_less_than_a_week,family_trip,none
+Schottenring 3 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Schubertring 10 12 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Schubertring 11 01 Innere Stadt 1010 Vienna Austria,none,none,none,studio,economy,stayed_more_than_a_week,group_trip,none
+Schubertring 5 7 01 Innere Stadt 1010 Vienna Austria,lounge_access,none,none,suite,deluxe_room,stayed_more_than_a_week,family_trip,none
+Schulerstra e 10 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,other_room,stayed_less_than_a_week,family_trip,none
+Schulerstra e 14 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Schwedenplatz 3 4 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,balcony_room,stayed_less_than_a_week,group_trip,none
+Sep lveda 180 Eixample 08011 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Sieveringer Stra e 4 19 D bling 1190 Vienna Austria,none,none,none,apartment,double_room,stayed_more_than_a_week,family_trip,none
+Silvio Pellico 4 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Simmeringer Hauptstra e 55 57 11 Simmering 1110 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Singel 303 309 Amsterdam City Center 1012 WJ Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,canal_view
+Singerstra e 3 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Sloane Square Kensington and Chelsea London SW1W 8EG United Kingdom,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Slotermeerlaan 80 Geuzenveld Slotermeer 1064 HD Amsterdam Netherlands,none,none,none,none,twin_room,stayed_less_than_a_week,group_trip,none
+Sonnenhofgasse 8 10 05 Margareten 1050 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Sonnwendgasse 15 10 Favoriten 1100 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Sonnwendgasse 8 10 Favoriten 1100 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+South Quay Marsh Wall Tower Hamlets London E14 9SH United Kingdom,lounge_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Southampton Row Bloomsbury Camden London WC1B 4AR United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Spaarndammerdijk 304 Westerpark 1013 ZX Amsterdam Netherlands,none,none,none,suite,bigger_room,stayed_less_than_a_week,family_trip,none
+Spuistraat 175 Amsterdam City Center 1012 VN Amsterdam Netherlands,none,none,none,suite,king_room,stayed_more_than_a_week,group_trip,canal_view
+Spuistraat 288 292 Amsterdam City Center 1012 VX Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,room_with_view
+St James s Place Westminster Borough London SW1A 1NJ United Kingdom,none,none,none,suite,queen_room,stayed_more_than_a_week,family_trip,none
+St Katherines Way Tower Hamlets London E1W 1LD United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Staalmeesterslaan 410 Slotervaart 1057 PH Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,city_view
+Stadhouderskade 12 Oud West 1054 ES Amsterdam Netherlands,lounge_access,none,free_wifi,none,deluxe_room,stayed_more_than_a_week,family_trip,none
+Stadhouderskade 25 Oud Zuid 1071 ZD Amsterdam Netherlands,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Stadhouderskade 7 Oud West 1054 ES Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,room_with_view
+Stephansplatz 12 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,none,stayed_more_than_a_week,family_trip,city_view
+Stephansplatz 9 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Strand Westminster Borough London WC2R 0EU United Kingdom,none,none,none,suite,queen_room,stayed_less_than_a_week,family_trip,river_view
+Stratton Street Mayfair Westminster Borough London W1J 8LT United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+Stubenring 2 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Taborstra e 12 02 Leopoldstadt 1020 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,courtyard_view
+Taborstra e 8 A 02 Leopoldstadt 1020 Vienna Austria,none,none,none,apartment,single_room,stayed_less_than_a_week,family_trip,courtyard_view
+The Strand Westminster Borough London WC2N 5HX United Kingdom,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Tiefer Graben 14 20 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Tilling Road London NW2 1LP United Kingdom,none,accessibility,none,none,other_room,stayed_more_than_a_week,family_trip,none
+Tower Bridge Road Southwark London SE1 3UN United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Trabrennstra e 4 02 Leopoldstadt 1020 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Travessera de les Corts 150 152 Les Corts 08028 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Ungargasse 60 03 Landstra e 1030 Vienna Austria,lounge_access,none,breakfast_included,none,double_room,stayed_less_than_a_week,family_trip,none
+Uraniastra e 2 01 Innere Stadt 1010 Vienna Austria,none,none,none,studio,more_than_one_room,stayed_more_than_a_week,group_trip,city_view
+V a Augusta 127 Sarri St Gervasi 08006 Barcelona Spain,none,none,none,none,twin_room,stayed_less_than_a_week,family_trip,none
+V a Laietana 69 Ciutat Vella 08003 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,city_view
+Valencia 157 Eixample 08011 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Van Baerlestraat 27 Oud Zuid 1071 AN Amsterdam Netherlands,none,none,none,suite,deluxe_room,stayed_more_than_a_week,family_trip,none
+Van Leijenberghlaan 221 Zuideramstel 1082 GG Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via A de Tocqueville 7 D Garibaldi Station 20154 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Via Albricci 2 4 Milan City Center 20122 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Via Andegari 9 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Angelo Carlo Fumagalli 4 Navigli 20143 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Via Augusta 5 08006 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Baracchini 12 Milan City Center 20123 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Camperio 9 Milan City Center 20123 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Via Carlo Goldoni 33 Citt Studi 20129 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Cesare Correnti 13 Milan City Center 20123 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via Cimarosa 6 Fiera Milano City 20144 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Via Clerici 11 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Cusani 13 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Via De Amicis 32 Milan City Center 20123 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Dei Fontanili 26 Ripamonti Corvetto 20141 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Domenico Scarlatti 24 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Via Domenico Scarlatti 32 Central Station 20124 Milan Italy,none,none,none,none,single_room,stayed_more_than_a_week,business_trip,none
+Via Domodossola 16 Fiera Milano City 20145 Milan Italy,none,none,none,none,superior_room,stayed_less_than_a_week,business_trip,none
+Via Fabio Filzi 25 B Central Station 20124 Milan Italy,none,none,none,suite,more_than_one_room,stayed_more_than_a_week,family_trip,none
+Via Fabio Filzi 3 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Fatebenefratelli 21 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Felice Casati 18 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Feltre 19 B Citt Studi 20132 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,solo,none
+Via Forcella 6 Navigli 20144 Milan Italy,none,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+Via G Arimondi 12 Sempione 20155 Milan Italy,none,none,none,none,queen_room,stayed_less_than_a_week,group_trip,none
+Via G B Pirelli 7 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via G Silva 12 Fiera Milano City 20149 Milan Italy,none,none,none,none,single_room,stayed_more_than_a_week,family_trip,none
+Via Gaetano Airaghi 125 20153 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via Galileo Galilei 2 Central Station 20124 Milan Italy,none,none,none,suite,twin_room,stayed_more_than_a_week,group_trip,none
+Via Gerolamo Cardano 1 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Ges 6 8 Milan City Center 20121 Milan Italy,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+Via Giacomo Watt 13 Famagosta 20143 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Via Gian Battista Pirelli 20 Central Station 20124 Milan Italy,none,none,none,suite,twin_room,stayed_more_than_a_week,family_trip,none
+Via Giorgio Stephenson 55 20157 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Giovanni Battista Fauch Sempione 20154 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via Giovanni Nicotera 9 Niguarda 20161 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Hoepli 6 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via L Muratori 14 Porta Romana 20135 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via La Spezia 25 Famagosta 20142 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Laietana 17 Ciutat Vella 08003 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Laietana 30 Ciutat Vella 08003 Barcelona Spain,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+Via Laietana 42 Ciutat Vella 08003 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Via Laietana 49 Ciutat Vella 08003 Barcelona Spain,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Layetana 3 Ciutat Vella 08003 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Lazzaretto 5 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via Lazzaro Palazzi 18 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Lentasio 3 Milan City Center 20122 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Lodovico Il Moro 117 Navigli 20143 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Via Lorenteggio 278 Lorenteggio 20152 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Lucio Giunio Columella 36 Distretto Viale Monza 20128 Milan Italy,none,accessibility,none,none,king_room,stayed_less_than_a_week,family_trip,none
+Via Ludovico Di Breme 77 Certosa 20156 Milan Italy,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+Via Luigi Galvani 12 Central Station 20124 Milan Italy,lounge_access,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+Via M Buonarroti 13 Fiera Milano City 20149 Milan Italy,none,none,none,none,twin_room,stayed_less_than_a_week,family_trip,none
+Via Mac Mahon 45 Sempione 20155 Milan Italy,spa_access,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+Via Manin 7 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,park_view
+Via Manzoni 29 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Manzoni 31 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Via Masaccio 19 Fiera Milano City 20149 Milan Italy,lounge_access,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Mauro Macchi 1 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Mazzini 4 Milan City Center 20123 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Via Mecenate 121 20138 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Medici 3 Milan City Center 20123 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Via Melchiorre Gioia 6 Garibaldi Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Melchiorre Gioia 73 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Messina 10 Sempione 20154 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Molino Delle Armi 1 Angolo Corso Italia Milan City Center 20123 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Via Monte Rosa 90 Fiera Milano City 20149 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Via Morigi 2 Milan City Center 20123 Milan Italy,none,none,none,none,single_room,stayed_less_than_a_week,group_trip,none
+Via Murat 21 Niguarda 20159 Milan Italy,none,none,none,studio,double_room,stayed_less_than_a_week,business_trip,none
+Via Napo Torriani 18 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Napo Torriani 24 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Ozanam 12 Citt Studi 20129 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via Palmanova 153 20132 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,couple,none
+Via Panfilo Castaldi 7 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Pietro Calvi 32 P Vittoria 20129 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Pietro Gaggia 3 Ripamonti Corvetto 20139 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Pietro Orseolo 1 Navigli 20144 Milan Italy,none,none,none,none,king_room,stayed_less_than_a_week,family_trip,none
+Via Poliziano 11 Sempione 20154 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Privata Fratelli Gabba 7 B Milan City Center 20121 Milan Italy,none,none,none,suite,king_room,stayed_less_than_a_week,family_trip,none
+Via Privata Leopoldo Gasparotto 8 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Via Privata Polonia 10 20157 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Riccardo Lombardi 9 11 20153 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Via Roberto Lepetit 15 Central Station 20124 Milan Italy,none,none,none,none,single_room,stayed_less_than_a_week,solo,none
+Via Rubens 21 San Siro 20148 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Via San Raffaele 3 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via San Raffaele 6 Milan City Center 20121 Milan Italy,none,none,none,suite,king_room,stayed_less_than_a_week,group_trip,room_with_view
+Via San Tomaso 6 Milan City Center 20121 Milan Italy,none,none,none,suite,balcony_room,stayed_less_than_a_week,family_trip,none
+Via San Tomaso 8 b Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Santa Marta 4 Milan City Center 20123 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Santa Radegonda 14 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Santa Sofia 10 Milan City Center 20122 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,none
+Via Santo Spirito 20 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Senato 22 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,city_view
+Via Senato 5 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Senigallia 6 20161 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,group_trip,none
+Via Silvio Pellico 2 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,room_with_view
+Via Silvio Pellico 8 Milan City Center 20121 Milan Italy,none,none,none,suite,balcony_room,stayed_more_than_a_week,family_trip,courtyard_view
+Via Spadari 11 Milan City Center 20123 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,city_view
+Via Spallanzani 40 Central Station 20129 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Stamira D Ancona 27 Distretto Viale Monza 20127 Milan Italy,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+Via Tarchetti 2 Milan City Center 20121 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via Tazzoli 2 Garibaldi Station 20154 Milan Italy,none,none,none,none,none,stayed_less_than_a_week,group_trip,city_view
+Via Tiziano 6 Fiera Milano City 20145 Milan Italy,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,park_view
+Via Tommaso Grossi 1 Milan City Center 20121 Milan Italy,none,none,none,suite,king_room,stayed_more_than_a_week,group_trip,none
+Via Tortona 35 Navigli 20144 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,business_trip,none
+Via Ugo Bassi 1 A Ang Via C Farini Garibaldi Station 20159 Milan Italy,none,accessibility,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Via Varesina 124 Certosa 20156 Milan Italy,private_access,none,none,suite,more_than_one_room,stayed_less_than_a_week,family_trip,none
+Via Venezia Giulia 8 20157 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Via Villapizzone 24 Certosa 20156 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via Washington 66 Fiera Milano City 20146 Milan Italy,lounge_access,none,none,none,queen_room,stayed_less_than_a_week,family_trip,none
+Via dell Orso 7 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Via della Giustizia 10 D Bicocca Zara 20125 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Via delle Erbe 1 Milan City Center 20121 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+Viale Andrea Doria 22 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,business_trip,none
+Viale Andrea Doria 4 Central Station 20124 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Viale Bianca Maria 4 Milan City Center 20129 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Viale Bligny 23 Milan City Center 20136 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Viale Certosa 104 106 Certosa 20156 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Viale Certosa 108 Certosa 20156 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Viale Certosa 68 Certosa 20155 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Viale Fulvio Testi 300 Bicocca Zara 20126 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Viale Isonzo 14 Porta Romana 20135 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Viale Isonzo 2 Porta Romana 20135 Milan Italy,spa_access,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Viale Lombardia 74 76 Citt Studi 20131 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Viale Monte Grappa 12 Garibaldi Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,business_trip,none
+Viale Monza 132 Distretto Viale Monza 20127 Milan Italy,none,none,none,none,twin_room,stayed_more_than_a_week,group_trip,none
+Viale Monza 139 Distretto Viale Monza 20125 Milan Italy,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+Viale Murillo 9 Fiera Milano City 20149 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,solo,none
+Viale Piave 42 Milan City Center 20129 Milan Italy,none,none,none,suite,double_room,stayed_less_than_a_week,group_trip,room_with_view
+Viale Sarca 336 Bicocca Zara 20125 Milan Italy,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Viale Suzzani 13 Bicocca Zara 20162 Milan Italy,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,none
+Viale Tunisia 9 Central Station 20124 Milan Italy,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Vijzelstraat 4 Amsterdam City Center 1017 HK Amsterdam Netherlands,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Vijzelstraat 49 Amsterdam City Center 1017 HE Amsterdam Netherlands,none,none,none,studio,double_room,stayed_more_than_a_week,family_trip,none
+Vilamari 34 36 Eixample 08015 Barcelona Spain,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Vilana 7 Sarri St Gervasi 08017 Barcelona Spain,none,none,none,none,double_room,stayed_less_than_a_week,solo,none
+Villarroel 106 Eixample 08011 Barcelona Spain,spa_access,none,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Viriotgasse 5 09 Alsergrund 1090 Vienna Austria,none,none,none,none,single_room,stayed_less_than_a_week,business_trip,none
+Vondelstraat 18 30 Oud West 1054 GE Amsterdam Netherlands,spa_access,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+W hringer Stra e 12 09 Alsergrund 1090 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+W hringer Stra e 33 35 09 Alsergrund 1090 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,family_trip,none
+Wagramer Stra e 16 18 22 Donaustadt 1220 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Wagramer Stra e 21 22 Donaustadt 1220 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Wagramer Stra e 51 22 Donaustadt 1220 Vienna Austria,none,none,none,apartment,double_room,stayed_less_than_a_week,business_trip,park_view
+Wagramer Stra e 8 22 Donaustadt 1220 Vienna Austria,none,none,none,suite,double_room,stayed_more_than_a_week,family_trip,none
+Wallgasse 23 06 Mariahilf 1060 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Webgasse 23 06 Mariahilf 1060 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Webgasse 26 06 Mariahilf 1060 Vienna Austria,none,none,none,none,economy,stayed_more_than_a_week,family_trip,none
+Weihburggasse 3 01 Innere Stadt 1010 Vienna Austria,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,none
+Westeinde 26 Amsterdam City Center 1017 ZP Amsterdam Netherlands,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,canal_view
+Western Avenue Ealing London W5 1HG United Kingdom,lounge_access,accessibility,none,none,double_room,stayed_more_than_a_week,family_trip,none
+Western Gateway Newham London E16 1FA United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,group_trip,river_view
+Westminster Bridge Road Lambeth London SE1 7UT United Kingdom,none,accessibility,none,studio,king_room,stayed_more_than_a_week,family_trip,room_with_view
+Westside Wimbledon Common Wimbledon London SW19 4UE United Kingdom,none,none,none,none,double_room,stayed_less_than_a_week,business_trip,park_view
+Weteringschans 251 Amsterdam City Center 1017 XJ Amsterdam Netherlands,none,none,none,none,none,stayed_less_than_a_week,group_trip,canal_view
+Whitcomb Street Trafalgar Square Westminster Borough London WC2H 7HG United Kingdom,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Whitehall Place Westminster Borough London SW1A 2BD United Kingdom,none,none,none,suite,king_room,stayed_more_than_a_week,family_trip,none
+Wibautstraat 129 Oost 1091 GL Amsterdam Netherlands,none,none,none,suite,queen_room,stayed_less_than_a_week,group_trip,none
+Wiedner G rtel 14 04 Wieden 1040 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,group_trip,none
+Wiedner Hauptstr 27 29 04 Wieden 1040 Vienna Austria,none,none,none,none,queen_room,stayed_less_than_a_week,family_trip,courtyard_view
+Wiedner Hauptstra e 12 04 Wieden 1040 Vienna Austria,none,none,none,suite,double_room,stayed_less_than_a_week,family_trip,none
+Wiedner Hauptstra e 44 04 Wieden 1040 Vienna Austria,none,none,none,studio,single_room,stayed_less_than_a_week,family_trip,none
+Wildpretmarkt 5 01 Innere Stadt 1010 Vienna Austria,none,none,none,suite,single_room,stayed_more_than_a_week,family_trip,none
+Wilton Place Knightsbridge Westminster Borough London SW1X 7RL United Kingdom,none,none,none,none,king_room,stayed_more_than_a_week,family_trip,none
+Wrights Lane Kensington and Chelsea London W8 5SP United Kingdom,none,accessibility,none,none,economy,stayed_more_than_a_week,family_trip,none
+Wurzbachgasse 21 15 Rudolfsheim F nfhaus 1150 Vienna Austria,none,none,none,none,double_room,stayed_more_than_a_week,family_trip,park_view

@@ -1,0 +1,64 @@
+---
+title: "EDA SA"
+author: "Saurabh Annadate"
+date: "1/28/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#Clearing workspace
+rm(list = ls())
+
+# Reading in the data
+Hotel_Reviews <- read.csv('../00Data/Hotel_Reviews_v2.csv', stringsAsFactors = FALSE)
+summary(Hotel_Reviews)
+head(Hotel_Reviews$Reviewer_Nationality)
+table(Hotel_Reviews$Reviewer_Nationality)
+
+# Reading the mapping file
+countryRegMap <- readxl::read_xlsx('../00Data/CountrytoRegionMapping.xlsx')
+
+
+```
+
+#Creating nationality feature
+```{r}
+
+#Merging in the sub region details
+countryRegMap$`sub-region` <- NULL 
+
+colnames(countryRegMap) <- c('Reviewer_Nationality', 'Reviewer_sub_region')
+
+Hotel_Reviews$Reviewer_Nationality <- gsub("\\s","",Hotel_Reviews$Reviewer_Nationality)
+
+countryRegMap$Reviewer_Nationality <- gsub("\\s","",countryRegMap$Reviewer_Nationality)
+
+Hotel_Reviews <- merge(Hotel_Reviews, countryRegMap, by = 'Reviewer_Nationality', all.x = TRUE, all.y = FALSE)
+
+Hotel_Reviews$Reviewer_sub_region[(is.na(Hotel_Reviews$Reviewer_sub_region))] <- "NA"
+
+Hotel_Reviews$Reviewer_sub_region <- as.factor(Hotel_Reviews$Reviewer_sub_region)
+
+Hotel_Reviews_Nat <- Hotel_Reviews[,c(2,19)]
+
+write.csv(Hotel_Reviews_Nat, 'Reviewer_Nationality.csv')
+
+```
+
+#Creating Bad Words vs good words feature
+
+```{r}
+
+Hotel_Reviews$Prop_Pos_Words <- Hotel_Reviews$Review_Total_Positive_Word_Counts /
+  (Hotel_Reviews$Review_Total_Positive_Word_Counts + Hotel_Reviews$Review_Total_Negative_Word_Counts)
+
+Hotel_Reviews$Prop_Pos_Words[is.na(Hotel_Reviews$Prop_Pos_Words)] <- -9999 
+
+summary(Hotel_Reviews$Prop_Pos_Words)
+
+```
+

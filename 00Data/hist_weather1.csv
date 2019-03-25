@@ -1,0 +1,387 @@
+,City,Date,TempHigh,TempLow,Summary
+0,Amsterdam,2017-08-03,70.79,61.57,Partly cloudy throughout the day.
+1,Amsterdam,2017-07-31,71.5,58.4,Partly cloudy throughout the day.
+2,Amsterdam,2017-07-24,66.61,55.75,Partly cloudy throughout the day.
+3,Amsterdam,2017-07-17,73.33,56.73,Mostly cloudy throughout the day.
+4,Amsterdam,2017-07-09,72.67,52.88,Mostly cloudy starting in the evening.
+5,Amsterdam,2017-07-08,72.36,61.07,Partly cloudy throughout the day.
+6,Amsterdam,2017-07-07,75.2,63.71,Mostly cloudy throughout the day.
+7,Amsterdam,2017-07-06,78.03,57.52,Rain overnight.
+8,Amsterdam,2017-07-04,71.0,58.11,Partly cloudy throughout the day.
+9,Amsterdam,2017-07-03,69.43,53.09,Partly cloudy throughout the day.
+10,Amsterdam,2017-06-30,66.32,56.4,Rain overnight.
+11,Amsterdam,2017-06-29,67.84,59.3,Mostly cloudy throughout the day.
+12,Amsterdam,2017-06-20,76.82,64.32,Mostly cloudy throughout the day.
+13,Amsterdam,2017-06-19,85.31,63.77,Overcast starting in the evening.
+14,Amsterdam,2017-06-12,64.15,58.19,Partly cloudy throughout the day.
+15,Amsterdam,2017-06-10,74.87,55.29,Partly cloudy until afternoon.
+16,Amsterdam,2017-05-29,80.27,60.7,Partly cloudy throughout the day.
+17,Amsterdam,2017-05-27,87.75,62.77,Mostly cloudy starting in the evening.
+18,Amsterdam,2017-05-25,71.77,51.2,Partly cloudy in the morning.
+19,Amsterdam,2017-05-22,76.13,51.63,Mostly cloudy throughout the day.
+20,Amsterdam,2017-05-21,66.81,48.04,Partly cloudy until evening.
+21,Amsterdam,2017-05-16,77.21,61.72,Mostly cloudy throughout the day.
+22,Amsterdam,2017-05-11,73.0,44.22,Mostly cloudy starting in the afternoon.
+23,Amsterdam,2017-05-09,53.61,40.13,Mostly cloudy throughout the day.
+24,Amsterdam,2017-05-02,57.6,48.07,Light rain overnight.
+25,Amsterdam,2017-04-27,49.25,35.75,Mostly cloudy throughout the day.
+26,Amsterdam,2017-04-26,49.59,35.05,Partly cloudy throughout the day.
+27,Amsterdam,2017-04-20,52.96,32.44,Mostly cloudy throughout the day.
+28,Amsterdam,2017-04-19,47.22,34.17,Partly cloudy throughout the day.
+29,Amsterdam,2017-04-18,51.14,38.38,Partly cloudy until afternoon.
+30,Amsterdam,2017-04-16,49.75,44.89,Light rain overnight.
+31,Amsterdam,2017-04-14,54.72,43.31,Mostly cloudy throughout the day.
+32,Amsterdam,2017-04-10,57.97,45.38,Partly cloudy throughout the day.
+33,Amsterdam,2017-04-05,53.18,45.81,Partly cloudy throughout the day.
+34,Amsterdam,2017-03-29,56.45,50.56,Mostly cloudy throughout the day.
+35,Amsterdam,2017-03-22,53.69,36.5,Mostly cloudy starting in the afternoon.
+36,Amsterdam,2017-03-20,51.21,47.88,"Light rain until afternoon, starting again in the evening."
+37,Amsterdam,2017-03-19,54.61,48.39,Mostly cloudy throughout the day.
+38,Amsterdam,2017-03-18,50.34,45.46,Mostly cloudy throughout the day.
+39,Amsterdam,2017-03-16,60.96,39.62,Partly cloudy throughout the day.
+40,Amsterdam,2017-03-06,48.49,38.57,Mostly cloudy throughout the day.
+41,Amsterdam,2017-02-20,50.08,44.93,"Light rain until afternoon, starting again in the evening."
+42,Amsterdam,2017-02-17,46.34,42.85,Foggy starting in the evening.
+43,Amsterdam,2017-02-14,47.17,31.83,Clear throughout the day.
+44,Amsterdam,2017-02-09,30.34,28.68,Mostly cloudy throughout the day.
+45,Amsterdam,2017-02-06,42.25,37.25,Mostly cloudy throughout the day.
+46,Amsterdam,2017-01-29,42.57,39.11,Light rain overnight.
+47,Amsterdam,2017-01-27,39.53,26.0,Mostly cloudy throughout the day.
+48,Amsterdam,2017-01-25,33.02,27.85,Foggy in the morning.
+49,Amsterdam,2017-01-19,38.76,25.17,Mostly cloudy until afternoon.
+50,Amsterdam,2017-01-08,43.13,38.62,Mostly cloudy throughout the day.
+51,Amsterdam,2016-12-29,32.72,28.1,Foggy throughout the day.
+52,Amsterdam,2016-12-28,40.6,32.93,Foggy until evening.
+53,Amsterdam,2016-12-21,43.28,33.32,Light rain in the evening.
+54,Amsterdam,2016-12-20,36.35,30.83,Foggy starting in the afternoon.
+55,Amsterdam,2016-12-19,45.37,37.3,Foggy in the morning.
+56,Amsterdam,2016-12-15,44.7,42.31,Foggy until afternoon.
+57,Amsterdam,2016-12-14,47.33,44.32,Foggy in the morning.
+58,Amsterdam,2016-12-13,45.04,42.37,Foggy throughout the day.
+59,Amsterdam,2016-12-12,46.38,38.93,Mostly cloudy throughout the day.
+60,Amsterdam,2016-12-11,49.23,45.9,Mostly cloudy throughout the day.
+61,Amsterdam,2016-12-10,48.69,45.2,Rain starting in the evening.
+62,Amsterdam,2016-12-07,48.16,36.13,Overcast throughout the day.
+63,Amsterdam,2016-11-15,55.04,45.84,"Light rain starting in the afternoon, continuing until evening."
+64,Amsterdam,2016-11-07,43.08,36.24,Mostly cloudy throughout the day.
+65,Amsterdam,2016-11-06,47.9,41.76,Light rain until afternoon.
+66,Amsterdam,2016-11-02,50.91,42.71,Light rain in the afternoon.
+67,Amsterdam,2016-10-31,60.02,43.05,Foggy in the morning.
+68,Amsterdam,2016-10-30,58.24,44.54,Mostly cloudy throughout the day.
+69,Amsterdam,2016-10-26,54.92,43.9,Foggy overnight.
+70,Amsterdam,2016-10-25,49.95,45.64,Overcast throughout the day.
+71,Amsterdam,2016-10-24,47.91,41.32,Mostly cloudy throughout the day.
+72,Amsterdam,2016-10-13,51.34,46.99,Mostly cloudy throughout the day.
+73,Amsterdam,2016-10-12,51.6,46.9,Mostly cloudy throughout the day.
+74,Amsterdam,2016-10-11,55.52,38.87,Mostly cloudy throughout the day.
+75,Amsterdam,2016-10-06,55.22,43.18,Mostly cloudy throughout the day.
+76,Amsterdam,2016-10-04,62.34,53.67,Partly cloudy until afternoon.
+77,Amsterdam,2016-09-27,69.57,47.69,Mostly cloudy starting in the afternoon.
+78,Amsterdam,2016-09-19,66.98,57.95,Mostly cloudy throughout the day.
+79,Amsterdam,2016-09-18,68.96,60.71,Partly cloudy throughout the day.
+80,Amsterdam,2016-09-12,82.28,63.7,Mostly cloudy in the morning.
+81,Amsterdam,2016-09-09,73.1,57.28,Partly cloudy in the afternoon.
+82,Amsterdam,2016-08-31,76.8,55.61,Mostly cloudy until afternoon.
+83,Amsterdam,2016-08-13,67.78,60.23,Mostly cloudy throughout the day.
+84,Amsterdam,2016-07-30,70.58,62.23,Mostly cloudy throughout the day.
+85,Amsterdam,2016-07-27,69.08,62.67,Light rain starting in the evening.
+86,Amsterdam,2016-07-26,74.03,58.84,Mostly cloudy throughout the day.
+87,Amsterdam,2016-07-20,91.34,68.25,Mostly cloudy starting in the afternoon.
+88,Amsterdam,2016-07-17,72.54,62.87,Partly cloudy throughout the day.
+89,Amsterdam,2016-07-14,65.3,53.89,Partly cloudy until evening.
+90,Amsterdam,2016-07-09,71.49,58.67,Mostly cloudy throughout the day.
+91,Amsterdam,2016-07-05,62.79,57.14,Mostly cloudy throughout the day.
+92,Amsterdam,2016-07-02,63.66,56.42,Light rain overnight.
+93,Amsterdam,2016-06-29,66.86,56.43,Mostly cloudy throughout the day.
+94,Amsterdam,2016-06-27,64.84,56.59,Light rain in the afternoon.
+95,Amsterdam,2016-06-17,66.62,56.61,Light rain in the morning.
+96,Amsterdam,2016-06-16,68.58,53.8,Light rain overnight.
+97,Amsterdam,2016-06-05,74.67,58.4,Mostly cloudy in the morning.
+98,Amsterdam,2016-06-01,74.32,58.32,Foggy in the morning.
+99,Amsterdam,2016-05-28,72.18,53.7,Foggy in the morning.
+100,Amsterdam,2016-05-22,65.04,55.59,Rain in the morning and overnight.
+101,Amsterdam,2016-05-17,62.03,47.26,Partly cloudy until afternoon.
+102,Amsterdam,2016-05-07,79.92,55.05,Partly cloudy starting in the afternoon.
+103,Amsterdam,2016-05-03,54.84,45.84,Partly cloudy in the morning.
+104,Amsterdam,2016-05-01,56.4,37.23,Partly cloudy in the morning.
+105,Amsterdam,2016-04-26,44.18,37.46,Light rain in the morning and afternoon.
+106,Amsterdam,2016-04-24,46.96,37.41,Partly cloudy throughout the day.
+107,Amsterdam,2016-04-23,48.02,40.83,Partly cloudy throughout the day.
+108,Amsterdam,2016-04-22,53.01,43.29,Partly cloudy throughout the day.
+109,Amsterdam,2016-04-19,54.46,44.71,Partly cloudy throughout the day.
+110,Amsterdam,2016-04-17,50.81,39.18,Partly cloudy until evening.
+111,Amsterdam,2016-04-12,61.07,49.12,Partly cloudy throughout the day.
+112,Amsterdam,2016-04-07,49.2,43.62,Partly cloudy throughout the day.
+113,Amsterdam,2016-04-05,53.97,48.2,Mostly cloudy throughout the day.
+114,Amsterdam,2016-03-29,50.95,43.99,Light rain overnight.
+115,Amsterdam,2016-03-23,48.35,43.71,Mostly cloudy throughout the day.
+116,Amsterdam,2016-03-20,47.06,41.14,Mostly cloudy throughout the day.
+117,Amsterdam,2016-03-17,51.83,34.55,Mostly cloudy overnight.
+118,Amsterdam,2016-03-16,48.25,34.73,Partly cloudy in the morning.
+119,Amsterdam,2016-03-15,46.98,36.07,Foggy in the morning.
+120,Amsterdam,2016-03-12,48.97,31.14,Clear throughout the day.
+121,Amsterdam,2016-03-02,47.12,35.47,Rain in the morning and evening.
+122,Amsterdam,2016-03-01,46.26,29.75,"Rain starting in the afternoon, continuing until evening."
+123,Amsterdam,2016-02-29,43.93,32.88,Partly cloudy in the morning.
+124,Amsterdam,2016-02-20,50.08,41.39,Light rain starting in the afternoon.
+125,Amsterdam,2016-02-16,43.35,27.27,Clear throughout the day.
+126,Amsterdam,2016-02-15,42.48,32.7,Partly cloudy until afternoon.
+127,Amsterdam,2016-02-10,44.82,39.38,Mostly cloudy throughout the day.
+128,Amsterdam,2016-02-09,46.4,40.19,"Rain starting in the afternoon, continuing until evening."
+129,Amsterdam,2016-02-08,48.72,44.62,Rain in the morning and evening.
+130,Amsterdam,2016-02-07,51.84,44.76,Light rain in the morning and overnight.
+131,Amsterdam,2016-02-04,44.63,39.72,Light rain until afternoon.
+132,Amsterdam,2016-02-03,44.45,40.03,Partly cloudy throughout the day.
+133,Amsterdam,2016-02-02,51.07,45.28,Partly cloudy throughout the day.
+134,Amsterdam,2016-02-01,52.57,49.14,Mostly cloudy throughout the day.
+135,Amsterdam,2016-01-26,51.44,43.81,Rain starting in the evening.
+136,Amsterdam,2016-01-23,48.71,41.7,Mostly cloudy throughout the day.
+137,Amsterdam,2016-01-19,35.79,23.39,Mostly cloudy throughout the day.
+138,Amsterdam,2016-01-15,38.73,34.58,Partly cloudy throughout the day.
+139,Amsterdam,2016-01-12,45.45,42.0,Light rain in the evening and overnight.
+140,Amsterdam,2016-01-05,44.81,40.26,Foggy overnight.
+141,Amsterdam,2016-01-03,46.04,41.94,Light rain in the morning and evening.
+142,Amsterdam,2016-01-02,42.85,40.65,Foggy overnight.
+143,Amsterdam,2015-12-31,50.04,43.38,Light rain in the morning.
+144,Amsterdam,2015-12-26,57.49,53.6,Mostly cloudy throughout the day.
+145,Amsterdam,2015-12-22,56.36,49.94,Light rain in the morning.
+146,Amsterdam,2015-12-15,47.37,41.89,Mostly cloudy throughout the day.
+147,Amsterdam,2015-12-13,52.66,41.97,Foggy overnight.
+148,Amsterdam,2015-12-08,52.08,46.92,"Light rain starting in the afternoon, continuing until evening."
+149,Amsterdam,2015-12-03,51.8,48.22,Mostly cloudy throughout the day.
+150,Amsterdam,2015-11-29,53.68,46.74,Rain in the afternoon and evening.
+151,Amsterdam,2015-11-24,44.17,38.9,Light rain throughout the day.
+152,Amsterdam,2015-11-17,58.66,51.51,Rain in the morning and evening.
+153,Amsterdam,2015-11-15,58.01,54.9,Rain until afternoon.
+154,Amsterdam,2015-11-14,51.7,48.02,Rain starting in the evening.
+155,Amsterdam,2015-11-11,56.93,54.67,Mostly cloudy throughout the day.
+156,Amsterdam,2015-11-10,59.33,56.74,Light rain in the evening and overnight.
+157,Amsterdam,2015-11-06,61.11,56.95,Light rain in the evening.
+158,Amsterdam,2015-11-03,59.18,40.39,Foggy in the morning.
+159,Amsterdam,2015-11-01,53.2,41.3,Foggy throughout the day.
+160,Amsterdam,2015-10-30,58.3,46.0,Mostly cloudy throughout the day.
+161,Amsterdam,2015-10-29,59.34,47.37,Foggy in the morning.
+162,Amsterdam,2015-10-26,60.5,43.53,Mostly cloudy in the morning.
+163,Amsterdam,2015-10-25,56.73,44.59,Partly cloudy starting in the evening.
+164,Amsterdam,2015-10-23,56.77,49.34,Mostly cloudy throughout the day.
+165,Amsterdam,2015-10-22,58.07,52.13,Foggy in the morning.
+166,Amsterdam,2015-10-21,53.8,44.57,Foggy starting in the evening.
+167,Amsterdam,2015-10-19,55.28,48.77,Mostly cloudy throughout the day.
+168,Amsterdam,2015-10-18,52.71,41.24,Mostly cloudy throughout the day.
+169,Amsterdam,2015-10-17,49.51,46.68,Mostly cloudy throughout the day.
+170,Amsterdam,2015-10-14,47.66,41.54,Light rain in the evening.
+171,Amsterdam,2015-10-04,62.53,47.92,Foggy until afternoon.
+172,Amsterdam,2015-09-30,63.99,48.19,Clear throughout the day.
+173,Amsterdam,2015-09-29,63.59,47.64,Partly cloudy starting in the evening.
+174,Amsterdam,2015-09-28,62.33,47.95,Partly cloudy in the morning.
+175,Amsterdam,2015-09-26,61.97,44.24,"Partly cloudy starting in the afternoon, continuing until evening."
+176,Amsterdam,2015-09-25,62.08,49.63,Partly cloudy until afternoon.
+177,Amsterdam,2015-09-20,63.99,50.68,Partly cloudy throughout the day.
+178,Amsterdam,2015-09-18,62.73,51.92,Partly cloudy starting in the afternoon.
+179,Amsterdam,2015-09-12,67.4,54.36,Mostly cloudy throughout the day.
+180,Amsterdam,2015-09-11,67.89,51.4,Mostly cloudy overnight.
+181,Amsterdam,2015-09-07,62.28,55.46,Mostly cloudy throughout the day.
+182,Amsterdam,2015-09-05,60.86,53.33,Light rain in the morning.
+183,Amsterdam,2015-09-03,60.09,50.68,Rain in the afternoon.
+184,Amsterdam,2015-09-01,65.24,57.63,Partly cloudy until evening.
+185,Amsterdam,2015-08-30,76.03,60.09,Rain overnight.
+186,Amsterdam,2015-08-27,63.92,58.96,"Rain starting in the afternoon, continuing until evening."
+187,Amsterdam,2015-08-26,75.57,60.62,Heavy rain starting in the evening.
+188,Amsterdam,2015-08-25,66.24,58.15,Light rain in the morning and evening.
+189,Amsterdam,2015-08-20,76.52,56.88,Mostly cloudy starting in the evening.
+190,Amsterdam,2015-08-18,60.89,57.86,Light rain in the morning.
+191,Amsterdam,2015-08-14,76.41,66.71,Light rain in the morning.
+192,Amsterdam,2015-08-11,74.93,63.12,Partly cloudy throughout the day.
+193,Amsterdam,2015-08-06,79.8,61.44,Mostly cloudy until afternoon.
+194,Amsterdam,2015-08-04,68.14,61.64,Rain in the morning and afternoon.
+195,Amsterdam,2017-07-22,76.17,62.2,Partly cloudy throughout the day.
+196,Amsterdam,2017-07-19,84.28,64.09,Mostly cloudy throughout the day.
+197,Amsterdam,2017-07-12,64.21,57.95,Rain until afternoon.
+198,Amsterdam,2017-07-10,77.21,61.03,Mostly cloudy throughout the day.
+199,Amsterdam,2017-06-25,64.44,62.04,Light rain overnight.
+200,Amsterdam,2017-06-24,66.31,61.77,Light rain in the morning.
+201,Amsterdam,2017-06-17,72.49,57.91,Mostly cloudy until evening.
+202,Amsterdam,2017-06-13,67.52,57.42,Partly cloudy until evening.
+203,Amsterdam,2017-06-05,69.79,54.12,Mostly cloudy throughout the day.
+204,Amsterdam,2017-05-15,69.25,47.58,Mostly cloudy throughout the day.
+205,Amsterdam,2017-05-04,54.18,47.49,Mostly cloudy throughout the day.
+206,Amsterdam,2017-05-03,57.85,46.42,Mostly cloudy throughout the day.
+207,Amsterdam,2017-05-01,56.93,51.06,Mostly cloudy throughout the day.
+208,Amsterdam,2017-04-28,51.61,43.25,Light rain in the morning.
+209,Amsterdam,2017-04-24,52.97,43.9,Light rain overnight.
+210,Amsterdam,2017-04-11,55.61,42.83,Mostly cloudy throughout the day.
+211,Amsterdam,2017-04-04,60.27,42.65,Partly cloudy starting in the afternoon.
+212,Amsterdam,2017-03-13,52.71,36.51,Partly cloudy throughout the day.
+213,Amsterdam,2017-03-10,51.95,35.51,Mostly cloudy throughout the day.
+214,Amsterdam,2017-03-07,47.52,42.13,Mostly cloudy throughout the day.
+215,Amsterdam,2017-03-04,54.6,44.85,Light rain overnight.
+216,Amsterdam,2017-02-15,55.11,35.32,Partly cloudy starting in the afternoon.
+217,Amsterdam,2017-02-13,41.62,29.65,Clear throughout the day.
+218,Amsterdam,2017-02-08,33.2,30.68,Foggy until afternoon.
+219,Amsterdam,2017-02-05,42.21,38.34,Foggy in the morning.
+220,Amsterdam,2017-02-03,51.7,43.55,Mostly cloudy throughout the day.
+221,Amsterdam,2017-02-02,53.49,42.01,Mostly cloudy throughout the day.
+222,Amsterdam,2017-01-30,43.39,38.02,Light rain in the morning.
+223,Amsterdam,2017-01-24,36.01,33.08,Foggy throughout the day.
+224,Amsterdam,2017-01-22,38.52,22.82,Mostly cloudy starting in the afternoon.
+225,Amsterdam,2017-01-21,39.98,29.93,Partly cloudy in the morning.
+226,Amsterdam,2017-01-04,45.53,40.41,Partly cloudy throughout the day.
+227,Amsterdam,2017-01-03,44.75,36.26,Mostly cloudy throughout the day.
+228,Amsterdam,2016-12-27,48.7,41.96,Mostly cloudy throughout the day.
+229,Amsterdam,2016-12-06,40.68,25.51,Mostly cloudy starting in the afternoon.
+230,Amsterdam,2016-11-28,40.44,30.38,Clear throughout the day.
+231,Amsterdam,2016-11-27,49.28,39.59,Mostly cloudy until evening.
+232,Amsterdam,2016-10-19,53.75,45.3,Rain in the morning.
+233,Amsterdam,2016-10-18,54.68,48.54,Rain starting in the afternoon.
+234,Amsterdam,2016-10-03,64.93,54.26,Light rain in the morning.
+235,Amsterdam,2016-08-28,73.03,66.09,Mostly cloudy throughout the day.
+236,Amsterdam,2016-08-27,77.88,62.67,Partly cloudy starting in the evening.
+237,Amsterdam,2016-08-26,76.37,65.75,Mostly cloudy starting in the afternoon.
+238,Amsterdam,2016-08-14,69.52,57.14,Partly cloudy until evening.
+239,Amsterdam,2016-08-09,64.34,53.49,Rain in the morning and overnight.
+240,Amsterdam,2016-08-08,67.13,59.28,Mostly cloudy throughout the day.
+241,Amsterdam,2016-08-07,72.39,57.07,Mostly cloudy throughout the day.
+242,Amsterdam,2016-08-02,65.27,57.96,Light rain in the morning and evening.
+243,Amsterdam,2016-07-29,68.27,61.21,Mostly cloudy throughout the day.
+244,Amsterdam,2016-07-23,75.73,65.66,Partly cloudy until evening.
+245,Amsterdam,2016-07-19,85.16,57.13,Clear throughout the day.
+246,Amsterdam,2016-07-07,71.09,52.29,Mostly cloudy throughout the day.
+247,Amsterdam,2016-06-26,64.35,55.08,Partly cloudy throughout the day.
+248,Amsterdam,2016-06-04,80.36,57.66,Foggy in the morning.
+249,Amsterdam,2016-06-03,67.88,54.84,Foggy overnight.
+250,Amsterdam,2016-05-30,64.63,58.58,Rain overnight.
+251,Amsterdam,2016-05-29,68.93,58.01,Mostly cloudy throughout the day.
+252,Amsterdam,2016-05-21,71.63,52.94,Mostly cloudy throughout the day.
+253,Amsterdam,2016-05-19,62.02,52.78,Mostly cloudy throughout the day.
+254,Amsterdam,2016-05-13,68.7,50.11,Partly cloudy starting in the evening.
+255,Amsterdam,2016-04-30,51.14,41.25,Partly cloudy throughout the day.
+256,Amsterdam,2016-04-25,45.56,37.9,"Light rain starting in the afternoon, continuing until evening."
+257,Amsterdam,2016-04-14,60.77,44.34,Foggy in the morning.
+258,Amsterdam,2016-04-10,57.34,44.32,Light rain in the morning.
+259,Amsterdam,2016-03-31,52.51,41.61,Partly cloudy throughout the day.
+260,Amsterdam,2016-03-27,54.54,44.1,Light rain in the morning.
+261,Amsterdam,2016-03-26,58.58,36.72,Foggy in the morning.
+262,Amsterdam,2016-03-13,47.29,32.28,Mostly cloudy in the morning.
+263,Amsterdam,2016-03-08,44.44,35.5,Partly cloudy throughout the day.
+264,Amsterdam,2016-03-03,46.07,35.52,Partly cloudy throughout the day.
+265,Amsterdam,2016-02-27,43.27,31.81,Mostly cloudy in the morning.
+266,Amsterdam,2016-02-25,41.3,33.26,Light rain until afternoon.
+267,Amsterdam,2016-02-22,50.62,41.49,Light rain in the morning.
+268,Amsterdam,2016-01-22,39.42,29.59,Light rain in the evening.
+269,Amsterdam,2016-01-16,41.24,33.64,Partly cloudy throughout the day.
+270,Amsterdam,2016-01-11,43.72,37.77,Mostly cloudy throughout the day.
+271,Amsterdam,2016-01-08,47.29,37.45,"Partly cloudy starting in the afternoon, continuing until evening."
+272,Amsterdam,2015-12-30,49.07,43.02,Mostly cloudy starting in the afternoon.
+273,Amsterdam,2015-12-14,48.31,43.78,Foggy in the morning.
+274,Amsterdam,2015-12-10,45.87,42.84,Light rain overnight.
+275,Amsterdam,2015-11-26,48.8,38.73,Mostly cloudy starting in the evening.
+276,Amsterdam,2015-11-21,43.9,38.42,Rain in the morning and evening.
+277,Amsterdam,2015-11-19,55.64,48.22,Light rain in the evening.
+278,Amsterdam,2015-11-12,58.96,53.7,Partly cloudy throughout the day.
+279,Amsterdam,2015-10-28,54.73,46.12,Mostly cloudy throughout the day.
+280,Amsterdam,2015-10-27,61.15,45.66,Mostly cloudy starting in the evening.
+281,Amsterdam,2015-10-20,55.29,45.87,Mostly cloudy throughout the day.
+282,Amsterdam,2015-10-13,46.61,39.32,Mostly cloudy throughout the day.
+283,Amsterdam,2015-10-05,61.79,47.85,Foggy in the morning.
+284,Amsterdam,2015-10-02,63.09,45.46,Foggy in the morning.
+285,Amsterdam,2015-10-01,62.86,47.77,Clear throughout the day.
+286,Amsterdam,2015-09-19,63.01,53.63,Partly cloudy until evening.
+287,Amsterdam,2015-09-16,63.93,52.08,Light rain until afternoon.
+288,Amsterdam,2015-09-15,58.76,50.4,Rain in the afternoon and evening.
+289,Amsterdam,2015-09-09,65.67,51.04,Clear throughout the day.
+290,Amsterdam,2015-09-06,60.14,52.76,Mostly cloudy throughout the day.
+291,Amsterdam,2015-09-04,59.4,54.02,Rain throughout the day.
+292,Amsterdam,2015-08-23,79.33,61.57,Light rain overnight.
+293,Amsterdam,2015-08-22,80.79,63.24,Mostly cloudy until afternoon.
+294,Amsterdam,2015-08-17,59.87,55.68,Rain throughout the day.
+295,Amsterdam,2015-08-16,63.81,56.71,Light rain overnight.
+296,Amsterdam,2015-08-09,75.43,55.99,Mostly cloudy starting in the evening.
+297,London,2017-08-03,69.25,59.7,Mostly cloudy throughout the day.
+298,London,2017-08-02,65.16,58.73,"Rain starting in the afternoon, continuing until evening."
+299,London,2017-07-20,68.31,58.98,Mostly cloudy until evening.
+300,London,2017-07-19,71.87,64.43,Mostly cloudy until evening.
+301,London,2017-07-18,78.58,60.69,Partly cloudy until evening.
+302,London,2017-07-10,77.32,60.44,Partly cloudy throughout the day.
+303,London,2017-07-06,85.5,63.6,Partly cloudy in the morning.
+304,London,2017-06-30,70.67,56.26,Mostly cloudy throughout the day.
+305,London,2017-06-27,68.89,59.13,Rain starting in the evening.
+306,London,2017-06-25,71.74,58.85,Mostly cloudy throughout the day.
+307,London,2017-06-24,71.7,62.38,Mostly cloudy throughout the day.
+308,London,2017-06-23,74.28,56.48,Mostly cloudy throughout the day.
+309,London,2017-06-11,72.77,58.85,Mostly cloudy until afternoon.
+310,London,2017-06-07,67.21,51.46,Mostly cloudy throughout the day.
+311,London,2017-06-05,64.25,52.68,Light rain overnight.
+312,London,2017-05-31,71.46,54.95,Mostly cloudy throughout the day.
+313,London,2017-05-26,79.55,54.93,Clear throughout the day.
+314,London,2017-05-13,63.72,53.26,Mostly cloudy throughout the day.
+315,London,2017-05-09,56.25,44.1,Mostly cloudy throughout the day.
+316,London,2017-05-05,59.08,47.38,Mostly cloudy throughout the day.
+317,London,2017-04-23,59.37,45.72,Mostly cloudy until evening.
+318,London,2017-04-09,76.41,45.6,Partly cloudy starting in the evening.
+319,London,2017-03-31,60.84,49.92,Partly cloudy until evening.
+320,London,2017-03-27,58.93,43.33,Foggy in the morning.
+321,London,2017-03-26,58.73,41.67,"Partly cloudy starting in the afternoon, continuing until evening."
+322,London,2017-03-11,62.44,49.29,Mostly cloudy until evening.
+323,London,2017-03-09,61.14,46.8,Partly cloudy throughout the day.
+324,London,2017-03-08,57.01,45.96,Mostly cloudy throughout the day.
+325,London,2017-03-02,52.26,41.73,Mostly cloudy until afternoon.
+326,London,2017-02-28,45.68,34.51,Mostly cloudy throughout the day.
+327,London,2017-02-19,53.42,39.94,Mostly cloudy throughout the day.
+328,London,2017-02-14,51.72,37.32,Mostly cloudy throughout the day.
+329,London,2017-02-13,48.54,39.12,Mostly cloudy in the morning.
+330,London,2017-02-12,42.06,34.8,Foggy starting in the evening.
+331,London,2017-02-10,35.5,34.03,Foggy until afternoon.
+332,London,2017-02-09,36.44,35.02,Foggy starting in the evening.
+333,London,2017-02-04,47.88,37.53,Partly cloudy until afternoon.
+334,London,2017-02-03,50.47,41.18,Light rain in the evening.
+335,London,2017-01-30,49.81,42.63,Overcast throughout the day.
+336,London,2017-01-27,43.03,29.48,Foggy in the morning.
+337,London,2017-01-25,38.11,31.54,Foggy until evening.
+338,London,2017-01-24,48.55,32.6,Foggy in the morning.
+339,London,2017-01-23,39.48,26.95,Foggy until afternoon.
+340,London,2017-01-18,40.17,26.11,Clear throughout the day.
+341,London,2017-01-16,45.04,39.23,Foggy in the morning.
+342,London,2017-01-15,47.4,34.31,Light rain until afternoon.
+343,London,2017-01-13,41.87,33.34,Mostly cloudy until evening.
+344,London,2017-01-09,49.2,39.63,Mostly cloudy until evening.
+345,London,2017-01-03,41.39,29.09,Mostly cloudy throughout the day.
+346,London,2016-12-30,38.31,32.01,Foggy throughout the day.
+347,London,2016-12-28,41.62,30.34,Foggy in the morning.
+348,London,2016-12-26,53.64,36.41,Clear throughout the day.
+349,London,2016-12-22,49.46,37.62,Foggy in the morning.
+350,London,2016-12-21,52.29,40.22,Mostly cloudy throughout the day.
+351,London,2016-12-19,44.43,41.12,Foggy in the morning.
+352,London,2016-12-18,46.1,42.45,Foggy until afternoon.
+353,London,2016-12-16,49.88,47.03,Foggy overnight.
+354,London,2016-12-13,54.53,46.21,Mostly cloudy throughout the day.
+355,London,2016-12-10,55.2,46.83,Light rain starting in the evening.
+356,London,2016-12-08,55.51,50.82,Mostly cloudy throughout the day.
+357,London,2016-12-07,55.64,48.94,Mostly cloudy throughout the day.
+358,London,2016-12-03,46.34,37.53,Mostly cloudy until evening.
+359,London,2016-12-02,46.17,38.98,Mostly cloudy throughout the day.
+360,London,2016-11-28,47.1,35.04,Mostly cloudy in the morning.
+361,London,2016-11-27,47.09,40.64,Foggy in the morning.
+362,London,2016-11-23,49.9,41.96,Mostly cloudy throughout the day.
+363,London,2016-11-16,56.03,48.96,Mostly cloudy throughout the day.
+364,London,2016-11-14,54.32,40.44,Mostly cloudy throughout the day.
+365,London,2016-11-13,50.86,40.27,Partly cloudy throughout the day.
+366,London,2016-11-12,50.17,41.82,Light rain until afternoon.
+367,London,2016-11-08,42.58,33.1,Light rain overnight.
+368,London,2016-11-05,47.37,35.91,Mostly cloudy until evening.
+369,London,2016-11-03,52.22,33.65,Mostly cloudy throughout the day.
+370,London,2016-11-02,51.07,36.49,"Mostly cloudy starting in the afternoon, continuing until evening."
+371,London,2016-10-31,64.86,48.33,Foggy in the morning.
+372,London,2016-10-30,54.41,48.38,Foggy throughout the day.
+373,London,2016-10-26,60.44,49.25,Foggy in the morning.
+374,London,2016-10-24,56.03,49.0,Partly cloudy throughout the day.
+375,London,2016-10-23,55.35,42.1,Partly cloudy in the morning.
+376,London,2016-10-22,56.4,44.01,Mostly cloudy until evening.
+377,London,2016-10-21,55.57,47.72,Mostly cloudy throughout the day.
+378,London,2016-10-16,62.09,47.61,Light rain in the morning.
+379,London,2016-10-15,62.19,48.89,Rain in the evening.
+380,London,2016-10-08,60.14,53.03,Mostly cloudy throughout the day.
+381,London,2016-09-29,66.35,54.98,Mostly cloudy throughout the day.
+382,London,2016-09-28,71.36,54.15,Mostly cloudy throughout the day.
+383,London,2016-09-27,65.76,50.79,Mostly cloudy throughout the day.
+384,London,2016-09-25,66.78,53.39,Partly cloudy until afternoon.
+385,London,2016-09-19,67.26,57.08,Mostly cloudy throughout the day.

@@ -1,0 +1,122 @@
+---
+title: "Hotel Review EDA"
+author: "Michel LeRoy"
+date: "January 30, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+## Set working directory
+#setwd("~/Class Notes/Predictive Analytics 2/Project/MSiA420ProjectTeamCL/01EDA")
+library(tidyverse)
+library(dplyr)
+```
+
+
+## Read in Data
+```{r}
+hotel_reviews <- read.csv("../00Data/Hotel_Reviews_v2.csv")
+head(hotel_reviews)
+```
+
+Reviewing 4 different variables - Hotel Name, Hotel Address, Latitude and Longitude
+
+Making sure each hotel has the same address
+```{r}
+table(length(unique(hotel_reviews$Hotel_Name))) #1,492 hotel names
+check_name <- group_by(hotel_reviews, Hotel_Name)
+table(length(unique(check_name$Hotel_Address))) #1,493 Addresses - doesn't match
+
+
+check <- hotel_reviews %>%
+    group_by(Hotel_Address, Hotel_Name) %>%
+    tally()
+check <- check[order(check$Hotel_Name, check$Hotel_Address),]
+table(duplicated(check$Hotel_Name))
+duplicated(check$Hotel_Name)
+check[c(761,762),]
+
+#Two hotels have the same name - need to use address as unique identifier
+```
+
+Making sure latitude and Longitude are the same for each address
+```{r}
+check <- hotel_reviews %>%
+     group_by(lat, lng, Hotel_Address) %>%
+     tally()
+table(duplicated(check$lat, check$lng))
+check$dup <- duplicated(check$lat, check$lng)
+check2 <- filter(check, dup==TRUE)
+head(check2)
+```
+
+#Splitting Hotel Address to get Hotel_City and Hotel_Country
+```{r}
+library(stringr)
+hotel_reviews$Hotel_Country <- word(hotel_reviews$Hotel_Address,-1)
+hotel_reviews$Hotel_City <- word(hotel_reviews$Hotel_Address,-2)
+look <- filter(hotel_reviews, Hotel_City == "United")
+head(look$Hotel_Address)
+look$city <- word(look$Hotel_Address,-5)
+table(look$city) #all of these are london
+
+hotel_reviews$Hotel_Country[hotel_reviews$Hotel_Country == "Kingdom"] <- "United Kingdom"
+hotel_reviews$Hotel_City[hotel_reviews$Hotel_City == "United"] <- "London"
+table(hotel_reviews$Hotel_Country)
+table(hotel_reviews$Hotel_City)
+prop.table(table(hotel_reviews$Hotel_Country))
+prop.table(table(hotel_reviews$Hotel_City))
+```
+
+#Adding in the trend of reviews for each hotel
+ - Is the hotel getting better or worse over time?
+ 
+```{r}
+library(lubridate)
+#library(plyr)
+hotel_reviews$Review_Date <- str_replace_all(hotel_reviews$Review_Date, '-','/')
+hotel_reviews$Review_Date2 = mdy(hotel_reviews$Review_Date)
+summary(hotel_reviews$Review_Date2) # min for all data is 08/4/2015 and max is 08/03/2017
+
+hotel_reviews$days_since_beg <- word(hotel_reviews$days_since_review,1)
+hotel_reviews$days_since_beg <- as.numeric(hotel_reviews$days_since_beg)
+hotel_reviews$days_since_beg <- (730 - hotel_reviews$days_since_beg)
+
+#foreach hotel :
+#  keep hotel
+# lm(review ~ days since beg, data = hotel_data)
+# keep B1
+# or corr(review and days since beg)
+# keep corr
+# }
+tmp <-  hotel_reviews %>% group_by(Hotel_Address)  %>% do(mod = lm(Reviewer_Score ~ days_since_beg, data=.))
+#tmp[mod[1]]
+#tmp$mod[2][[1]][[1]]
+
+
+corr <- hotel_reviews %>% 
+  group_by(Hotel_Address) %>%
+  summarize(COR=cor(Reviewer_Score,days_since_beg))
+hotel_reviews <- merge(hotel_reviews, corr, by = "Hotel_Address")
+
+hotel_reviews_cor <- hotel_reviews[,c(2,23)]
+
+write.csv(hotel_reviews_cor, 'hotel_cor_details.csv')
+```
+ 
+#Adding in historical weather data for the city on the review date
+```{r}
+#outputting a csv file with all the locations and dates
+cities_for_weather <- hotel_reviews[, c("Hotel_City", "Review_Date2")]
+cities_for_weather <- unique(cities_for_weather)
+#write.csv(cities_for_weather, "cities_for_weather.csv")
+
+write.csv(hotel_reviews[, c("ID","Hotel_City", "Review_Date2")], 'weather_base_info.csv')
+
+```
+

@@ -1,0 +1,1001 @@
+,City,Date,TempHigh,TempLow,Summary
+0,Milan,2015-08-11,90.67,68.76,Mostly cloudy in the morning.
+1,Milan,2015-08-04,88.55,71.76,"Partly cloudy starting in the afternoon, continuing until evening."
+2,Milan,2017-07-30,86.23,68.47,Rain starting in the evening.
+3,Milan,2017-06-29,76.41,62.16,Partly cloudy throughout the day.
+4,Milan,2017-06-27,82.15,68.19,Partly cloudy throughout the day.
+5,Milan,2017-06-17,91.35,73.8,Partly cloudy overnight.
+6,Milan,2017-04-29,64.39,43.35,Clear throughout the day.
+7,Milan,2017-04-17,66.53,51.13,Partly cloudy until evening.
+8,Milan,2017-01-31,41.1,37.49,Foggy throughout the day.
+9,Milan,2017-01-03,47.31,33.65,Clear throughout the day.
+10,Milan,2016-12-16,41.78,34.53,Foggy until afternoon.
+11,Milan,2016-11-20,49.01,46.2,Rain in the evening and overnight.
+12,Milan,2016-11-03,59.35,46.04,Foggy in the morning.
+13,Milan,2016-10-06,61.86,52.12,Partly cloudy until evening.
+14,Milan,2016-10-05,69.14,52.39,Mostly cloudy starting in the afternoon.
+15,Milan,2016-09-18,73.85,60.49,Partly cloudy throughout the day.
+16,Milan,2016-09-16,73.22,63.51,Partly cloudy throughout the day.
+17,Milan,2016-09-05,88.21,70.27,Partly cloudy until evening.
+18,Milan,2016-09-03,88.48,70.35,Partly cloudy until afternoon.
+19,Milan,2016-08-14,86.55,65.75,Clear throughout the day.
+20,Milan,2016-08-12,77.86,60.45,Clear throughout the day.
+21,Milan,2016-07-26,88.62,70.47,Partly cloudy throughout the day.
+22,Milan,2016-07-25,90.58,69.64,Mostly cloudy starting in the evening.
+23,Milan,2016-07-09,91.77,70.71,Clear throughout the day.
+24,Milan,2016-06-24,91.7,72.77,Clear throughout the day.
+25,Milan,2016-06-21,83.31,67.44,Partly cloudy throughout the day.
+26,Milan,2016-06-07,82.78,63.73,Partly cloudy starting in the evening.
+27,Milan,2016-05-17,70.33,50.29,Partly cloudy in the morning.
+28,Milan,2016-05-13,66.62,54.18,Mostly cloudy throughout the day.
+29,Milan,2016-05-01,54.1,48.14,Light rain in the morning and afternoon.
+30,Milan,2016-04-19,72.13,48.83,Partly cloudy in the morning.
+31,Milan,2016-04-05,64.29,53.89,Foggy in the morning.
+32,Milan,2016-03-18,63.11,38.21,Clear throughout the day.
+33,Milan,2016-02-21,61.84,39.04,Partly cloudy overnight.
+34,Milan,2016-02-08,50.28,41.49,Mostly cloudy throughout the day.
+35,Milan,2015-12-04,41.32,34.25,Foggy throughout the day.
+36,Milan,2015-12-01,58.5,35.88,Clear throughout the day.
+37,Milan,2015-11-29,48.22,32.55,Clear throughout the day.
+38,Milan,2015-11-10,69.72,47.68,Foggy overnight.
+39,Milan,2015-11-06,67.35,48.95,Partly cloudy in the morning.
+40,Milan,2015-11-05,65.83,46.79,Clear throughout the day.
+41,Milan,2015-10-26,64.45,47.23,Foggy starting in the evening.
+42,Milan,2015-10-23,63.15,45.39,Partly cloudy overnight.
+43,Milan,2015-10-11,70.0,53.73,Partly cloudy in the morning.
+44,Milan,2015-10-01,61.18,50.43,Mostly cloudy throughout the day.
+45,Milan,2015-09-25,75.99,52.84,Partly cloudy in the morning.
+46,Milan,2015-09-23,65.0,52.99,"Rain until afternoon, starting again in the evening."
+47,Milan,2015-09-16,69.49,64.29,Light rain until afternoon.
+48,Milan,2015-09-11,71.08,60.8,Mostly cloudy throughout the day.
+49,Milan,2015-09-09,74.87,58.93,Partly cloudy starting in the evening.
+50,Milan,2015-09-04,78.64,64.09,Light rain overnight.
+51,Milan,2015-09-02,82.76,67.64,Partly cloudy throughout the day.
+52,Milan,2015-08-27,86.06,65.9,Mostly cloudy in the evening.
+53,Milan,2015-08-25,79.3,66.3,Foggy in the morning.
+54,Milan,2015-08-19,76.68,62.61,Light rain in the morning.
+55,Milan,2015-08-12,92.81,74.14,Partly cloudy starting in the evening.
+56,Milan,2015-08-10,81.48,67.92,Heavy rain in the morning.
+57,Vienna,2017-07-20,91.45,60.47,Rain overnight.
+58,Vienna,2017-07-18,87.38,61.12,Partly cloudy until afternoon.
+59,Vienna,2017-07-17,82.58,55.97,Partly cloudy starting in the afternoon.
+60,Vienna,2017-07-14,73.78,52.1,Light rain overnight.
+61,Vienna,2017-07-10,86.67,65.01,Mostly cloudy throughout the day.
+62,Vienna,2017-06-29,77.59,65.83,Mostly cloudy throughout the day.
+63,Vienna,2017-06-21,86.98,70.33,Partly cloudy throughout the day.
+64,Vienna,2017-06-19,84.32,57.35,Clear throughout the day.
+65,Vienna,2017-06-01,79.97,65.17,Mostly cloudy throughout the day.
+66,Vienna,2017-05-08,67.39,52.18,Mostly cloudy throughout the day.
+67,Vienna,2017-05-06,71.57,49.93,Mostly cloudy throughout the day.
+68,Vienna,2017-05-02,63.78,43.66,Mostly cloudy until evening.
+69,Vienna,2017-04-27,46.68,42.11,Light rain in the morning.
+70,Vienna,2017-04-21,53.85,34.49,Mostly cloudy throughout the day.
+71,Vienna,2017-04-13,55.94,48.58,Mostly cloudy throughout the day.
+72,Vienna,2017-04-07,48.44,43.26,"Rain starting in the afternoon, continuing until evening."
+73,Vienna,2017-04-05,57.02,48.98,Mostly cloudy throughout the day.
+74,Vienna,2017-03-25,57.62,37.64,Mostly cloudy throughout the day.
+75,Vienna,2017-02-24,57.12,40.01,Mostly cloudy throughout the day.
+76,Vienna,2017-02-16,39.79,27.61,Foggy throughout the day.
+77,Vienna,2017-02-12,37.91,32.59,Mostly cloudy throughout the day.
+78,Vienna,2017-01-14,37.37,31.86,Mostly cloudy throughout the day.
+79,Vienna,2017-01-01,29.65,18.98,Foggy throughout the day.
+80,Vienna,2016-12-25,48.04,43.36,Mostly cloudy throughout the day.
+81,Vienna,2016-12-23,33.81,27.05,Foggy until afternoon.
+82,Vienna,2016-12-12,45.44,31.91,Mostly cloudy throughout the day.
+83,Vienna,2016-12-10,55.77,44.32,Mostly cloudy until evening.
+84,Vienna,2016-11-15,38.12,23.69,Mixed precipitation overnight.
+85,Vienna,2016-11-13,38.51,32.69,Mostly cloudy throughout the day.
+86,Vienna,2016-11-12,40.02,34.47,Mixed precipitation in the morning.
+87,Vienna,2016-11-08,40.49,31.39,Mostly cloudy throughout the day.
+88,Vienna,2016-10-26,57.23,48.65,Mostly cloudy throughout the day.
+89,Vienna,2016-10-20,48.93,42.02,Rain in the morning.
+90,Vienna,2016-10-10,52.06,44.61,Mostly cloudy throughout the day.
+91,Vienna,2016-10-04,53.45,48.16,Rain until afternoon.
+92,Vienna,2016-09-27,71.18,47.74,Partly cloudy until afternoon.
+93,Vienna,2016-09-07,78.07,57.43,Mostly cloudy until afternoon.
+94,Vienna,2016-08-23,78.94,58.13,"Partly cloudy starting in the afternoon, continuing until evening."
+95,Vienna,2016-08-17,74.86,60.32,Partly cloudy until afternoon.
+96,Vienna,2016-08-16,77.6,58.41,Light rain starting in the evening.
+97,Vienna,2016-08-08,83.18,57.63,Clear throughout the day.
+98,Vienna,2016-07-26,84.55,69.36,Partly cloudy throughout the day.
+99,Vienna,2016-07-21,86.2,60.44,Mostly cloudy throughout the day.
+100,Vienna,2016-07-18,81.24,64.4,Partly cloudy throughout the day.
+101,Vienna,2016-07-15,68.36,54.95,Mostly cloudy throughout the day.
+102,Vienna,2016-07-11,93.33,67.96,Partly cloudy throughout the day.
+103,Vienna,2016-07-10,87.13,61.6,Mostly cloudy in the morning.
+104,Vienna,2016-06-26,76.06,65.31,Mostly cloudy throughout the day.
+105,Vienna,2016-06-21,80.0,55.16,Partly cloudy throughout the day.
+106,Vienna,2016-06-14,74.79,59.61,Mostly cloudy throughout the day.
+107,Vienna,2016-06-03,73.54,59.26,Mostly cloudy throughout the day.
+108,Vienna,2016-05-31,71.95,60.75,Light rain in the afternoon.
+109,Vienna,2016-05-22,79.17,53.25,"Partly cloudy starting in the afternoon, continuing until evening."
+110,Vienna,2016-05-16,55.35,44.03,Mostly cloudy throughout the day.
+111,Vienna,2016-05-15,56.69,46.5,Mostly cloudy until evening.
+112,Vienna,2016-05-09,72.31,48.26,Partly cloudy starting in the afternoon.
+113,Vienna,2016-05-01,62.83,44.9,Mostly cloudy throughout the day.
+114,Vienna,2016-04-19,60.47,45.75,Mostly cloudy throughout the day.
+115,Vienna,2016-04-11,55.53,41.26,Mostly cloudy throughout the day.
+116,Vienna,2016-03-29,61.48,43.68,Mostly cloudy throughout the day.
+117,Vienna,2016-03-28,60.12,37.41,Mostly cloudy throughout the day.
+118,Vienna,2016-03-22,49.37,42.23,Mostly cloudy throughout the day.
+119,Vienna,2016-03-03,44.0,36.5,Light rain overnight.
+120,Vienna,2016-02-14,46.79,35.01,Rain in the evening.
+121,Vienna,2016-02-09,55.64,44.42,Mostly cloudy throughout the day.
+122,Vienna,2016-01-23,31.77,15.82,Snow (1–2 in.) starting in the afternoon.
+123,Vienna,2016-01-19,27.85,17.87,Mostly cloudy throughout the day.
+124,Vienna,2016-01-07,34.39,25.12,Foggy in the morning.
+125,Vienna,2015-12-15,40.56,37.2,Foggy until afternoon.
+126,Vienna,2015-11-10,66.54,60.38,Mostly cloudy throughout the day.
+127,Vienna,2015-11-05,56.6,32.6,Foggy overnight.
+128,Vienna,2015-11-03,51.57,32.53,Partly cloudy until evening.
+129,Vienna,2015-10-22,52.96,45.99,Mostly cloudy throughout the day.
+130,Vienna,2015-09-22,72.96,47.0,Partly cloudy throughout the day.
+131,Vienna,2015-08-18,70.69,60.81,Light rain in the morning.
+132,Vienna,2015-08-17,69.3,63.27,Rain in the morning.
+133,Vienna,2015-08-08,96.67,71.32,Partly cloudy in the afternoon.
+134,Vienna,2015-08-06,95.11,66.9,Partly cloudy in the afternoon.
+135,Vienna,2015-08-04,90.12,63.88,Partly cloudy in the afternoon.
+136,Vienna,2017-08-03,99.32,68.28,Mostly cloudy throughout the day.
+137,Vienna,2017-07-30,89.48,63.25,Partly cloudy throughout the day.
+138,Vienna,2017-07-27,69.05,57.97,Light rain in the morning.
+139,Vienna,2017-07-26,66.69,58.86,Light rain overnight.
+140,Vienna,2017-07-23,84.52,68.17,Mostly cloudy throughout the day.
+141,Vienna,2017-07-11,82.8,67.88,Mostly cloudy throughout the day.
+142,Vienna,2017-06-25,84.65,66.96,"Rain starting in the afternoon, continuing until evening."
+143,Vienna,2017-06-07,66.88,58.0,Mostly cloudy throughout the day.
+144,Vienna,2017-06-06,81.41,60.28,Mostly cloudy throughout the day.
+145,Vienna,2017-05-28,77.03,52.01,Clear throughout the day.
+146,Vienna,2017-05-23,76.76,58.51,Mostly cloudy throughout the day.
+147,Vienna,2017-05-22,74.43,52.38,Partly cloudy throughout the day.
+148,Vienna,2017-05-19,81.14,59.62,Partly cloudy in the evening.
+149,Vienna,2017-05-15,70.33,59.0,Mostly cloudy throughout the day.
+150,Vienna,2017-05-12,74.26,52.66,Mostly cloudy throughout the day.
+151,Vienna,2017-05-10,60.97,33.16,Mostly cloudy until evening.
+152,Vienna,2017-05-09,51.69,39.62,Light rain in the morning.
+153,Vienna,2017-05-05,62.76,49.78,Mostly cloudy throughout the day.
+154,Vienna,2017-04-28,43.48,40.23,Light rain in the morning.
+155,Vienna,2017-04-26,60.63,46.88,Mostly cloudy throughout the day.
+156,Vienna,2017-04-25,70.99,39.76,Mostly cloudy throughout the day.
+157,Vienna,2017-04-24,61.72,37.0,Partly cloudy throughout the day.
+158,Vienna,2017-04-20,41.31,35.54,Mostly cloudy throughout the day.
+159,Vienna,2017-04-17,53.12,41.96,Rain starting in the evening.
+160,Vienna,2017-04-14,59.22,48.31,Mostly cloudy throughout the day.
+161,Vienna,2017-03-28,70.33,35.23,Clear throughout the day.
+162,Vienna,2017-03-14,55.13,36.14,Mostly cloudy throughout the day.
+163,Vienna,2017-02-05,51.87,35.58,Mostly cloudy starting in the afternoon.
+164,Vienna,2017-01-22,34.8,19.2,Foggy in the morning.
+165,Vienna,2017-01-21,28.52,14.12,Foggy until afternoon.
+166,Vienna,2017-01-17,31.03,25.56,Mostly cloudy until evening.
+167,Vienna,2017-01-15,36.73,30.08,Partly cloudy until evening.
+168,Vienna,2017-01-12,43.75,24.87,Mostly cloudy throughout the day.
+169,Vienna,2017-01-07,22.81,14.4,Mostly cloudy throughout the day.
+170,Vienna,2016-12-24,42.28,31.7,Foggy until afternoon.
+171,Vienna,2016-12-19,33.14,30.56,Foggy until afternoon.
+172,Vienna,2016-11-28,38.2,31.22,Partly cloudy until evening.
+173,Vienna,2016-11-18,43.76,37.24,Foggy in the morning.
+174,Vienna,2016-11-16,38.25,34.83,Light rain throughout the day.
+175,Vienna,2016-11-14,39.7,27.94,Partly cloudy until afternoon.
+176,Vienna,2016-11-07,45.18,36.15,Mostly cloudy throughout the day.
+177,Vienna,2016-11-01,59.17,43.63,Mostly cloudy throughout the day.
+178,Vienna,2016-10-31,54.5,38.23,Partly cloudy throughout the day.
+179,Vienna,2016-10-25,62.79,48.14,Light rain overnight.
+180,Vienna,2016-10-17,52.64,44.24,Mostly cloudy throughout the day.
+181,Vienna,2016-10-16,65.58,49.49,Mostly cloudy until evening.
+182,Vienna,2016-10-13,51.6,45.93,Mostly cloudy throughout the day.
+183,Vienna,2016-10-09,54.6,44.72,Mostly cloudy throughout the day.
+184,Vienna,2016-09-25,72.42,46.78,Partly cloudy throughout the day.
+185,Vienna,2016-09-22,65.64,49.5,Partly cloudy throughout the day.
+186,Vienna,2016-09-15,82.02,58.37,Clear throughout the day.
+187,Vienna,2016-09-08,81.92,57.93,Partly cloudy in the afternoon.
+188,Vienna,2016-09-06,61.81,56.17,Rain until afternoon.
+189,Vienna,2016-09-01,82.12,54.01,Partly cloudy overnight.
+190,Vienna,2016-08-19,78.74,59.17,Mostly cloudy until evening.
+191,Vienna,2016-08-06,73.16,60.2,Mostly cloudy until evening.
+192,Vienna,2016-08-02,79.7,58.15,Mostly cloudy throughout the day.
+193,Vienna,2016-07-27,82.09,68.18,Rain overnight.
+194,Vienna,2016-07-23,85.49,67.15,Mostly cloudy throughout the day.
+195,Vienna,2016-07-12,84.42,67.04,Heavy rain in the evening and overnight.
+196,Vienna,2016-07-07,76.83,56.92,Partly cloudy in the morning.
+197,Vienna,2016-07-05,84.04,59.41,Partly cloudy throughout the day.
+198,Vienna,2016-06-24,91.21,67.56,Clear throughout the day.
+199,Vienna,2016-06-23,87.72,64.1,Clear throughout the day.
+200,Vienna,2016-06-06,76.41,57.33,Partly cloudy starting in the afternoon.
+201,Vienna,2016-06-02,71.35,56.71,Mostly cloudy throughout the day.
+202,Vienna,2016-05-08,69.08,48.88,Partly cloudy until evening.
+203,Vienna,2016-05-03,61.84,51.1,Light rain overnight.
+204,Vienna,2016-05-02,64.37,51.2,Mostly cloudy throughout the day.
+205,Vienna,2016-04-26,60.68,32.42,Mostly cloudy throughout the day.
+206,Vienna,2016-04-24,51.75,39.63,Mostly cloudy throughout the day.
+207,Vienna,2016-04-14,57.52,50.84,Mostly cloudy throughout the day.
+208,Vienna,2016-04-12,61.32,47.97,Foggy in the morning.
+209,Vienna,2016-03-26,48.31,42.29,Light rain in the morning.
+210,Vienna,2016-03-24,49.08,39.54,Mostly cloudy throughout the day.
+211,Vienna,2016-03-20,54.67,40.69,Mostly cloudy until afternoon.
+212,Vienna,2016-03-15,39.94,34.35,Mixed precipitation in the morning.
+213,Vienna,2016-03-04,47.18,36.0,Mostly cloudy until afternoon.
+214,Vienna,2016-02-29,46.76,43.8,Rain until afternoon.
+215,Vienna,2016-02-28,50.73,40.09,Mostly cloudy throughout the day.
+216,Vienna,2016-02-11,43.96,35.35,Mostly cloudy throughout the day.
+217,Vienna,2016-02-10,52.22,38.91,Light rain until afternoon.
+218,Vienna,2016-01-11,45.46,33.95,Light rain in the evening.
+219,Vienna,2015-12-31,32.52,23.76,Partly cloudy throughout the day.
+220,Vienna,2015-12-20,40.03,37.66,Foggy until afternoon.
+221,Vienna,2015-12-17,39.32,37.82,Light rain in the afternoon.
+222,Vienna,2015-12-13,49.28,32.97,Mostly cloudy throughout the day.
+223,Vienna,2015-12-06,37.93,35.5,Foggy throughout the day.
+224,Vienna,2015-12-01,54.25,45.36,Breezy in the morning and light rain starting in the evening.
+225,Vienna,2015-11-12,59.27,44.0,Partly cloudy throughout the day.
+226,Vienna,2015-10-31,59.17,40.01,Foggy in the morning.
+227,Vienna,2015-10-23,57.89,46.56,Mostly cloudy until evening.
+228,Vienna,2015-10-13,46.0,33.26,Foggy overnight.
+229,Vienna,2015-09-16,82.76,55.07,Mostly cloudy throughout the day.
+230,Vienna,2015-08-16,84.72,66.83,Rain overnight.
+231,Vienna,2015-08-09,96.45,69.17,Partly cloudy starting in the evening.
+232,Vienna,2015-08-05,91.64,72.14,Partly cloudy in the morning.
+233,Vienna,2017-03-11,50.44,40.31,Mostly cloudy throughout the day.
+234,Vienna,2017-02-17,40.63,28.25,Foggy until afternoon.
+235,Vienna,2017-02-04,42.5,32.97,Mostly cloudy throughout the day.
+236,Vienna,2017-01-30,21.3,18.45,Foggy until evening.
+237,Vienna,2017-01-03,36.98,31.57,Mostly cloudy throughout the day.
+238,Vienna,2016-12-21,26.87,25.74,Foggy until afternoon.
+239,Vienna,2016-11-21,60.08,49.87,Partly cloudy until afternoon.
+240,Vienna,2016-09-18,70.27,58.98,Mostly cloudy throughout the day.
+241,Vienna,2016-09-16,81.55,60.85,Mostly cloudy throughout the day.
+242,Vienna,2016-08-07,78.33,60.13,Partly cloudy until evening.
+243,Vienna,2016-07-19,82.46,60.86,Partly cloudy throughout the day.
+244,Vienna,2016-06-05,76.01,60.91,Light rain starting in the evening.
+245,Vienna,2016-05-10,65.26,52.05,Mostly cloudy throughout the day.
+246,Vienna,2016-03-10,49.74,30.92,Foggy in the morning.
+247,Vienna,2016-02-02,53.67,42.29,Mostly cloudy throughout the day.
+248,Vienna,2016-01-02,32.78,24.0,Foggy until afternoon.
+249,Vienna,2015-12-24,47.35,37.65,Foggy starting in the evening.
+250,Vienna,2015-09-17,91.24,60.83,Mostly cloudy throughout the day.
+251,Vienna,2015-09-12,75.77,54.27,Mostly cloudy until afternoon.
+252,Vienna,2015-09-01,92.4,63.32,Partly cloudy overnight.
+253,Vienna,2017-07-09,86.38,67.16,Rain overnight.
+254,Vienna,2017-06-28,90.51,65.73,Mostly cloudy throughout the day.
+255,Vienna,2017-04-16,54.26,45.36,Mostly cloudy throughout the day.
+256,Vienna,2017-04-08,58.49,49.11,Mostly cloudy throughout the day.
+257,Vienna,2017-03-29,71.01,50.17,Partly cloudy until evening.
+258,Vienna,2017-03-08,52.59,37.18,Partly cloudy until afternoon.
+259,Vienna,2016-11-03,47.63,34.21,Partly cloudy throughout the day.
+260,Vienna,2016-11-02,52.22,42.92,Light rain in the afternoon.
+261,Vienna,2016-10-05,51.47,42.2,Rain overnight.
+262,Vienna,2016-10-03,59.97,52.88,Mostly cloudy throughout the day.
+263,Vienna,2016-10-01,74.39,51.45,Partly cloudy throughout the day.
+264,Vienna,2016-09-20,63.4,54.86,Mostly cloudy throughout the day.
+265,Vienna,2016-09-02,80.68,62.09,Partly cloudy throughout the day.
+266,Vienna,2016-08-30,77.98,63.46,Partly cloudy until evening.
+267,Vienna,2016-08-18,79.08,53.55,Partly cloudy throughout the day.
+268,Vienna,2016-07-25,82.79,67.2,Mostly cloudy throughout the day.
+269,Vienna,2016-07-17,71.58,56.47,Light rain in the morning.
+270,Vienna,2016-07-16,65.13,57.79,Mostly cloudy throughout the day.
+271,Vienna,2016-06-15,70.66,58.42,Light rain in the morning and afternoon.
+272,Vienna,2016-05-27,79.16,54.75,Mostly cloudy throughout the day.
+273,Vienna,2016-05-17,58.13,45.27,Mostly cloudy throughout the day.
+274,Vienna,2016-04-30,66.33,36.02,Mostly cloudy starting in the evening.
+275,Vienna,2016-04-18,55.44,48.86,Light rain in the morning.
+276,Vienna,2016-04-04,72.59,46.54,Mostly cloudy throughout the day.
+277,Vienna,2016-03-16,44.43,33.78,Mostly cloudy until evening.
+278,Vienna,2015-12-10,46.64,30.8,Partly cloudy in the morning.
+279,Vienna,2015-11-24,41.89,26.53,Clear throughout the day.
+280,Vienna,2015-10-30,56.45,44.79,Foggy overnight.
+281,Vienna,2015-10-29,52.01,47.28,Foggy in the morning.
+282,Vienna,2015-10-02,66.2,43.26,Clear throughout the day.
+283,Vienna,2015-09-28,63.88,50.43,Partly cloudy throughout the day.
+284,Vienna,2015-09-15,69.08,56.05,Mostly cloudy throughout the day.
+285,Vienna,2015-09-05,63.68,56.01,Mostly cloudy throughout the day.
+286,Vienna,2015-08-26,79.06,51.52,"Partly cloudy starting in the afternoon, continuing until evening."
+287,Vienna,2015-08-11,95.09,66.28,Mostly cloudy throughout the day.
+288,Vienna,2017-07-31,91.32,66.72,Partly cloudy until evening.
+289,Vienna,2017-07-28,79.41,63.11,Mostly cloudy throughout the day.
+290,Vienna,2017-07-25,71.41,59.99,Mostly cloudy throughout the day.
+291,Vienna,2017-07-21,85.56,65.13,Partly cloudy throughout the day.
+292,Vienna,2017-07-19,88.58,65.62,Mostly cloudy throughout the day.
+293,Vienna,2017-07-16,75.5,55.41,Partly cloudy starting in the afternoon.
+294,Vienna,2017-07-15,67.15,57.29,Rain in the evening.
+295,Vienna,2017-07-07,86.97,65.31,Mostly cloudy throughout the day.
+296,Vienna,2017-06-24,89.33,64.88,Partly cloudy throughout the day.
+297,Vienna,2017-06-22,93.5,65.21,Partly cloudy throughout the day.
+298,Vienna,2017-06-13,83.9,64.38,Partly cloudy starting in the evening.
+299,Vienna,2017-06-05,76.37,55.6,Partly cloudy throughout the day.
+300,Vienna,2017-05-31,81.29,67.06,Mostly cloudy throughout the day.
+301,Vienna,2017-05-30,89.44,63.25,Partly cloudy throughout the day.
+302,Vienna,2017-05-25,63.77,52.72,Mostly cloudy throughout the day.
+303,Vienna,2017-04-30,61.0,35.74,Mostly cloudy starting in the afternoon.
+304,Vienna,2017-04-19,38.31,33.62,"Snow (1–2 in.) starting in the afternoon, continuing until evening."
+305,Vienna,2017-04-15,61.86,42.84,Mostly cloudy throughout the day.
+306,Vienna,2017-04-12,62.17,40.03,Mostly cloudy throughout the day.
+307,Vienna,2017-03-21,64.56,44.63,Mostly cloudy throughout the day.
+308,Vienna,2017-03-18,51.84,45.94,"Rain in the morning and overnight and breezy starting in the afternoon, continuing until evening."
+309,Vienna,2017-03-15,54.94,43.88,Mostly cloudy until evening.
+310,Vienna,2017-03-04,66.99,40.66,Mostly cloudy throughout the day.
+311,Vienna,2017-02-26,50.59,32.86,Mostly cloudy throughout the day.
+312,Vienna,2017-02-22,58.12,42.75,Mostly cloudy throughout the day.
+313,Vienna,2017-02-15,49.8,26.47,Foggy in the morning.
+314,Vienna,2017-02-03,35.09,31.21,Foggy throughout the day.
+315,Vienna,2017-02-01,30.81,25.24,Foggy in the morning.
+316,Vienna,2017-01-31,24.97,18.52,Foggy throughout the day.
+317,Vienna,2017-01-29,23.19,21.37,Foggy until evening.
+318,Vienna,2017-01-26,35.47,27.66,Mostly cloudy until evening.
+319,Vienna,2017-01-23,26.44,21.62,Foggy until evening.
+320,Vienna,2017-01-16,31.7,22.26,Mostly cloudy throughout the day.
+321,Vienna,2017-01-11,24.97,9.26,Mostly cloudy starting in the evening.
+322,Vienna,2017-01-06,23.51,18.26,Mostly cloudy throughout the day.
+323,Vienna,2017-01-05,35.88,22.47,Mostly cloudy until evening.
+324,Vienna,2017-01-04,40.5,35.72,Mostly cloudy throughout the day and breezy in the afternoon.
+325,Vienna,2016-12-31,37.86,19.79,Clear throughout the day.
+326,Vienna,2016-12-29,37.32,28.01,Partly cloudy in the afternoon.
+327,Vienna,2016-12-28,41.73,33.38,Rain in the morning.
+328,Vienna,2016-12-26,53.66,46.42,Mostly cloudy throughout the day.
+329,Vienna,2016-12-22,27.19,25.79,Foggy in the morning.
+330,Vienna,2016-11-29,36.78,27.9,Partly cloudy in the afternoon.
+331,Vienna,2016-11-25,45.37,43.65,Foggy throughout the day.
+332,Vienna,2016-11-20,57.09,44.14,Mostly cloudy throughout the day.
+333,Vienna,2016-11-17,41.29,37.74,Foggy until afternoon.
+334,Vienna,2016-10-30,52.86,44.15,Mostly cloudy until evening.
+335,Vienna,2016-10-28,58.72,43.02,Light rain overnight.
+336,Vienna,2016-10-22,55.25,37.61,Partly cloudy in the morning.
+337,Vienna,2016-10-19,52.34,47.08,Light rain starting in the afternoon.
+338,Vienna,2016-10-14,58.16,45.91,Mostly cloudy throughout the day.
+339,Vienna,2016-10-07,50.26,39.13,Partly cloudy throughout the day.
+340,Vienna,2016-09-28,74.47,48.62,Mostly cloudy throughout the day.
+341,Vienna,2016-09-26,69.71,49.39,Mostly cloudy throughout the day.
+342,Vienna,2016-09-12,86.89,61.04,Partly cloudy in the morning.
+343,Vienna,2016-08-31,77.83,53.88,Clear throughout the day.
+344,Vienna,2016-08-26,81.97,59.87,Clear throughout the day.
+345,Vienna,2016-08-15,76.91,63.42,Partly cloudy throughout the day.
+346,Vienna,2016-08-14,84.14,58.61,Partly cloudy throughout the day.
+347,Vienna,2016-08-12,65.11,48.57,Mostly cloudy throughout the day.
+348,Vienna,2016-07-31,90.4,65.35,Rain in the evening and overnight.
+349,Vienna,2016-07-28,79.55,66.05,Mostly cloudy throughout the day.
+350,Vienna,2016-07-06,76.61,64.46,Partly cloudy in the morning.
+351,Vienna,2016-06-28,78.65,57.85,Partly cloudy until evening.
+352,Vienna,2016-06-12,69.78,58.64,Mostly cloudy throughout the day.
+353,Vienna,2016-06-09,75.11,58.33,Light rain overnight.
+354,Vienna,2016-06-07,73.72,55.96,Partly cloudy in the evening.
+355,Vienna,2016-06-01,72.07,57.03,Mostly cloudy throughout the day.
+356,Vienna,2016-05-25,69.56,54.82,Mostly cloudy until evening.
+357,Vienna,2016-05-24,61.17,49.27,Rain in the morning.
+358,Vienna,2016-05-21,74.74,55.35,Partly cloudy throughout the day.
+359,Vienna,2016-05-20,66.82,52.51,Mostly cloudy throughout the day.
+360,Vienna,2016-05-13,61.22,52.92,Rain in the morning.
+361,Vienna,2016-05-12,59.8,56.07,Rain in the morning and evening.
+362,Vienna,2016-04-20,59.73,45.5,Partly cloudy until afternoon.
+363,Vienna,2016-04-10,53.03,45.26,Mostly cloudy throughout the day.
+364,Vienna,2016-04-09,48.11,45.42,Light rain in the morning.
+365,Vienna,2016-01-30,40.68,33.61,Foggy throughout the day.
+366,Vienna,2016-01-26,53.77,36.78,Foggy overnight.
+367,Vienna,2016-01-10,38.17,33.55,Light rain in the morning.
+368,Vienna,2016-01-06,27.99,22.6,Foggy throughout the day.
+369,Vienna,2016-01-05,22.25,19.0,Foggy until evening.
+370,Vienna,2016-01-03,23.73,21.35,Mostly cloudy throughout the day.
+371,Vienna,2016-01-01,32.87,24.23,Foggy in the afternoon.
+372,Vienna,2015-12-29,39.1,33.75,Foggy until evening.
+373,Vienna,2015-12-28,45.02,30.33,Foggy in the morning.
+374,Vienna,2015-12-23,53.37,35.55,Foggy until afternoon.
+375,Vienna,2015-12-08,37.25,35.03,Foggy until evening.
+376,Vienna,2015-11-22,40.93,36.43,Mostly cloudy throughout the day.
+377,Vienna,2015-11-21,46.34,38.67,Light rain in the morning.
+378,Vienna,2015-11-15,58.22,47.1,"Light rain until afternoon, starting again in the evening."
+379,Vienna,2015-11-11,65.03,54.48,Partly cloudy until evening.
+380,Vienna,2015-11-04,47.29,34.74,Foggy until afternoon.
+381,Vienna,2015-10-24,59.19,37.84,Foggy in the morning.
+382,Vienna,2015-10-21,51.84,45.97,Mostly cloudy throughout the day.
+383,Vienna,2015-10-11,47.69,40.44,Light rain in the morning.
+384,Vienna,2015-10-04,62.58,50.99,Mostly cloudy throughout the day.
+385,Vienna,2015-09-13,75.56,55.78,Partly cloudy until evening.
+386,Vienna,2015-09-02,77.84,61.59,Light rain in the evening.
+387,Vienna,2015-08-31,94.94,64.47,Clear throughout the day.
+388,Vienna,2015-08-30,95.53,66.69,Partly cloudy until afternoon.
+389,Vienna,2015-08-25,71.02,60.38,Mostly cloudy throughout the day.
+390,Vienna,2015-08-20,66.97,58.4,Light rain in the morning.
+391,Vienna,2015-08-19,66.82,57.0,Light rain overnight.
+392,Vienna,2017-08-02,93.51,77.35,Mostly cloudy throughout the day.
+393,Vienna,2017-07-06,85.78,62.77,Partly cloudy in the evening.
+394,Vienna,2017-06-30,79.13,64.29,Mostly cloudy in the morning.
+395,Vienna,2017-06-27,85.72,63.98,Mostly cloudy throughout the day.
+396,Vienna,2017-06-20,92.53,58.74,Partly cloudy starting in the evening.
+397,Vienna,2017-06-18,76.59,59.02,Partly cloudy throughout the day.
+398,Vienna,2017-06-17,68.3,57.33,Mostly cloudy throughout the day.
+399,Vienna,2017-06-16,82.28,62.32,Rain in the morning.
+400,Vienna,2017-06-15,83.14,54.93,Partly cloudy until afternoon.
+401,Vienna,2017-06-14,79.71,58.75,Partly cloudy until evening.
+402,Vienna,2017-06-10,75.78,60.62,Rain in the morning.
+403,Vienna,2017-06-03,83.41,61.4,Partly cloudy until evening.
+404,Vienna,2017-05-29,83.61,55.4,Partly cloudy throughout the day.
+405,Vienna,2017-05-27,77.21,55.77,Partly cloudy until evening.
+406,Vienna,2017-05-26,74.09,51.85,Partly cloudy throughout the day.
+407,Vienna,2017-05-20,61.55,56.37,Rain overnight.
+408,Vienna,2017-05-18,79.97,54.42,Partly cloudy until evening.
+409,Vienna,2017-05-13,71.14,53.88,Mostly cloudy throughout the day.
+410,Vienna,2017-05-03,60.15,43.03,Rain in the evening.
+411,Vienna,2017-04-06,54.03,44.51,Light rain in the morning.
+412,Vienna,2017-03-01,51.31,39.79,Mostly cloudy until evening.
+413,Vienna,2017-02-18,43.18,34.71,Light rain in the morning.
+414,Vienna,2017-02-10,35.62,31.97,Mostly cloudy throughout the day.
+415,Vienna,2017-01-28,23.95,21.75,Foggy until afternoon.
+416,Vienna,2017-01-24,24.91,21.07,Foggy in the morning.
+417,Vienna,2017-01-19,27.0,16.58,Mostly cloudy in the morning.
+418,Vienna,2017-01-13,42.73,33.93,Mostly cloudy throughout the day.
+419,Vienna,2017-01-09,27.44,21.37,Mostly cloudy throughout the day.
+420,Vienna,2017-01-08,24.15,18.8,Light snow (< 1 in.) in the morning.
+421,Vienna,2017-01-02,34.28,20.28,Foggy until afternoon.
+422,Vienna,2016-12-27,45.39,39.45,"Mostly cloudy throughout the day and breezy starting in the afternoon, continuing until evening."
+423,Vienna,2016-12-20,30.25,26.34,Foggy throughout the day.
+424,Vienna,2016-12-15,39.42,34.42,Mostly cloudy throughout the day.
+425,Vienna,2016-12-14,38.49,28.63,Mostly cloudy throughout the day.
+426,Vienna,2016-12-11,49.07,37.57,Mostly cloudy throughout the day.
+427,Vienna,2016-12-06,33.76,26.94,Foggy in the morning.
+428,Vienna,2016-12-03,39.45,26.24,Partly cloudy overnight.
+429,Vienna,2016-11-27,49.13,38.93,Mostly cloudy until evening.
+430,Vienna,2016-11-24,46.19,43.18,Foggy throughout the day.
+431,Vienna,2016-11-22,62.64,49.35,Partly cloudy until evening.
+432,Vienna,2016-10-15,61.74,48.39,Mostly cloudy throughout the day.
+433,Vienna,2016-10-08,54.65,35.57,Mostly cloudy throughout the day.
+434,Vienna,2016-10-06,48.72,44.33,Rain in the morning and afternoon.
+435,Vienna,2016-09-29,80.69,60.4,Mostly cloudy until evening.
+436,Vienna,2016-09-24,72.43,48.5,"Mostly cloudy starting in the afternoon, continuing until evening."
+437,Vienna,2016-09-23,70.94,43.12,Mostly cloudy throughout the day.
+438,Vienna,2016-09-13,85.17,61.09,Partly cloudy starting in the evening.
+439,Vienna,2016-09-04,86.02,61.19,Mostly cloudy throughout the day.
+440,Vienna,2016-09-03,83.16,58.15,Mostly cloudy throughout the day.
+441,Vienna,2016-08-28,88.03,63.57,Clear throughout the day.
+442,Vienna,2016-08-25,80.87,57.08,Clear throughout the day.
+443,Vienna,2016-08-24,79.19,60.84,Partly cloudy until evening.
+444,Vienna,2016-08-21,71.64,60.67,"Rain until afternoon, starting again in the evening."
+445,Vienna,2016-08-20,83.17,59.51,Foggy in the morning.
+446,Vienna,2016-08-11,67.19,51.94,Mostly cloudy until evening.
+447,Vienna,2016-08-09,81.25,59.41,Light rain in the evening.
+448,Vienna,2016-08-04,87.86,63.53,Mostly cloudy until evening.
+449,Vienna,2016-07-24,84.06,67.99,Rain in the morning.
+450,Vienna,2016-07-14,63.89,55.07,Rain in the morning.
+451,Vienna,2016-07-08,83.54,55.41,Mostly cloudy throughout the day.
+452,Vienna,2016-06-30,85.71,64.48,Light rain overnight.
+453,Vienna,2016-06-22,83.21,60.4,Partly cloudy until afternoon.
+454,Vienna,2016-06-19,77.05,58.77,Rain overnight.
+455,Vienna,2016-06-16,77.92,56.8,Mostly cloudy throughout the day.
+456,Vienna,2016-06-11,73.57,56.8,Light rain overnight.
+457,Vienna,2016-05-29,81.74,62.78,Mostly cloudy throughout the day.
+458,Vienna,2016-05-19,69.07,48.84,Mostly cloudy throughout the day.
+459,Vienna,2016-05-18,65.59,49.21,Mostly cloudy throughout the day.
+460,Vienna,2016-05-14,68.38,55.94,Mostly cloudy throughout the day.
+461,Vienna,2016-05-07,72.59,46.35,"Partly cloudy starting in the afternoon, continuing until evening."
+462,Vienna,2016-05-05,63.58,46.9,Mostly cloudy throughout the day.
+463,Vienna,2016-04-07,64.21,50.9,Mostly cloudy throughout the day.
+464,Vienna,2016-04-05,75.36,46.78,Partly cloudy throughout the day.
+465,Vienna,2016-03-31,73.05,46.96,Mostly cloudy throughout the day.
+466,Vienna,2016-03-23,51.2,36.47,Mostly cloudy throughout the day.
+467,Vienna,2016-03-19,48.53,37.98,Mostly cloudy throughout the day.
+468,Vienna,2016-03-13,44.03,39.6,Mostly cloudy throughout the day.
+469,Vienna,2016-02-16,44.75,38.48,Mostly cloudy throughout the day.
+470,Vienna,2016-02-06,49.34,32.9,Mostly cloudy starting in the afternoon.
+471,Vienna,2016-01-31,47.66,35.72,Rain overnight.
+472,Vienna,2016-01-18,31.04,19.64,Partly cloudy until afternoon.
+473,Vienna,2016-01-16,35.31,31.48,Mostly cloudy throughout the day.
+474,Vienna,2016-01-14,44.57,33.91,Mostly cloudy throughout the day.
+475,Vienna,2016-01-12,49.28,42.48,Mostly cloudy throughout the day.
+476,Vienna,2015-12-26,49.49,32.89,Foggy starting in the evening.
+477,Vienna,2015-12-22,55.28,36.52,Foggy overnight.
+478,Vienna,2015-12-21,39.71,36.86,Mostly cloudy throughout the day.
+479,Vienna,2015-12-19,40.96,36.77,Foggy throughout the day.
+480,Vienna,2015-12-07,37.62,33.0,Foggy throughout the day.
+481,Vienna,2015-12-04,49.53,35.71,Foggy overnight.
+482,Vienna,2015-12-02,53.88,42.58,Mostly cloudy throughout the day.
+483,Vienna,2015-11-08,69.11,50.36,Foggy overnight.
+484,Vienna,2015-10-28,51.39,47.6,Mostly cloudy throughout the day.
+485,Vienna,2015-10-27,57.22,48.67,Partly cloudy throughout the day.
+486,Vienna,2015-10-20,50.77,45.19,Light rain in the morning.
+487,Vienna,2015-10-17,52.99,41.9,Mostly cloudy throughout the day.
+488,Vienna,2015-10-06,65.78,49.99,Foggy in the morning.
+489,Vienna,2015-09-21,65.79,48.77,"Mostly cloudy starting in the afternoon, continuing until evening."
+490,Vienna,2015-09-10,66.73,50.68,Mostly cloudy throughout the day.
+491,Vienna,2015-09-08,65.45,51.14,Partly cloudy throughout the day.
+492,Vienna,2015-09-06,63.0,55.67,Mostly cloudy until evening.
+493,Vienna,2015-09-03,73.04,56.77,Rain overnight.
+494,Vienna,2015-08-28,89.01,62.34,Foggy in the morning.
+495,Vienna,2015-08-27,86.1,57.61,Partly cloudy throughout the day.
+496,Vienna,2015-08-24,83.66,61.04,Partly cloudy throughout the day.
+497,Vienna,2015-08-22,76.2,55.81,Partly cloudy throughout the day.
+498,Vienna,2015-08-14,95.99,69.96,"Partly cloudy starting in the afternoon, continuing until evening."
+499,Barcelona,2017-08-03,92.62,78.18,Humid throughout the day and partly cloudy in the afternoon.
+500,Barcelona,2017-07-15,85.54,74.36,Mostly cloudy in the morning.
+501,Barcelona,2017-07-04,82.93,67.55,Clear throughout the day.
+502,Barcelona,2017-06-23,88.29,74.78,Clear throughout the day.
+503,Barcelona,2017-06-15,91.67,72.08,Clear throughout the day.
+504,Barcelona,2017-05-21,73.81,56.92,Clear throughout the day.
+505,Barcelona,2017-05-03,62.14,57.21,"Light rain starting in the afternoon, continuing until evening."
+506,Barcelona,2017-05-02,67.91,51.21,"Partly cloudy starting in the afternoon, continuing until evening."
+507,Barcelona,2017-04-20,62.93,47.27,Clear throughout the day.
+508,Barcelona,2017-03-19,68.36,50.92,Clear throughout the day.
+509,Barcelona,2017-03-15,66.93,49.32,Clear throughout the day.
+510,Barcelona,2017-03-07,65.09,51.9,"Partly cloudy starting in the afternoon, continuing until evening."
+511,Barcelona,2017-02-27,62.85,50.16,Mostly cloudy in the morning.
+512,Barcelona,2017-02-15,62.93,51.88,Partly cloudy starting in the afternoon.
+513,Barcelona,2017-02-07,64.82,53.08,Partly cloudy starting in the evening.
+514,Barcelona,2017-01-09,54.65,42.19,Partly cloudy until afternoon.
+515,Barcelona,2017-01-07,53.78,36.96,Clear throughout the day.
+516,Barcelona,2016-12-08,61.67,46.87,Clear throughout the day.
+517,Barcelona,2016-12-06,64.5,48.55,Partly cloudy starting in the evening.
+518,Barcelona,2016-12-03,57.34,41.73,Partly cloudy throughout the day.
+519,Barcelona,2016-12-02,60.43,40.73,Clear throughout the day.
+520,Barcelona,2016-11-30,58.2,47.69,Partly cloudy until afternoon.
+521,Barcelona,2016-11-12,62.28,53.39,Mostly cloudy until afternoon.
+522,Barcelona,2016-09-30,77.84,63.41,"Partly cloudy starting in the afternoon, continuing until evening."
+523,Barcelona,2016-09-20,76.48,65.33,Partly cloudy starting in the evening.
+524,Barcelona,2016-09-15,76.06,59.73,Partly cloudy overnight.
+525,Barcelona,2016-09-03,90.62,73.31,Clear throughout the day.
+526,Barcelona,2016-09-01,88.07,72.92,Clear throughout the day.
+527,Barcelona,2016-08-30,78.38,72.51,Mostly cloudy throughout the day.
+528,Barcelona,2016-08-27,85.48,67.49,Clear throughout the day.
+529,Barcelona,2016-08-09,84.19,71.7,Partly cloudy starting in the afternoon.
+530,Barcelona,2016-08-07,83.28,69.85,Partly cloudy in the morning.
+531,Barcelona,2016-08-06,84.03,73.08,Mostly cloudy until afternoon.
+532,Barcelona,2016-07-26,89.45,72.79,Clear throughout the day.
+533,Barcelona,2016-07-03,77.09,72.44,Mostly cloudy until evening.
+534,Barcelona,2016-06-28,82.76,67.52,Clear throughout the day.
+535,Barcelona,2016-06-16,76.09,65.02,Partly cloudy in the afternoon.
+536,Barcelona,2016-06-10,80.19,70.13,Clear throughout the day.
+537,Barcelona,2016-05-25,72.19,58.56,Mostly cloudy overnight.
+538,Barcelona,2016-05-10,66.79,54.39,Rain starting in the evening.
+539,Barcelona,2016-04-26,64.51,49.54,Partly cloudy starting in the evening.
+540,Barcelona,2016-04-24,64.62,51.75,Mostly cloudy starting in the evening.
+541,Barcelona,2016-04-18,63.59,54.72,Partly cloudy in the afternoon.
+542,Barcelona,2016-04-14,72.21,53.19,Clear throughout the day.
+543,Barcelona,2016-04-07,63.7,52.77,Partly cloudy in the evening.
+544,Barcelona,2016-04-02,62.4,50.95,Mostly cloudy until evening.
+545,Barcelona,2016-03-30,68.04,53.82,Mostly cloudy until afternoon.
+546,Barcelona,2016-03-29,72.3,53.95,"Partly cloudy starting in the afternoon, continuing until evening."
+547,Barcelona,2016-03-23,65.81,47.32,Clear throughout the day.
+548,Barcelona,2016-03-22,65.14,49.9,Clear throughout the day.
+549,Barcelona,2016-03-16,56.89,46.48,Rain starting in the evening.
+550,Barcelona,2016-02-20,60.04,38.9,Clear throughout the day.
+551,Barcelona,2016-01-11,64.41,55.52,Partly cloudy until afternoon.
+552,Barcelona,2016-01-05,58.35,48.54,"Partly cloudy starting in the afternoon, continuing until evening."
+553,Barcelona,2015-12-23,59.99,50.95,Mostly cloudy throughout the day.
+554,Barcelona,2015-11-17,68.86,49.25,Clear throughout the day.
+555,Barcelona,2015-11-10,71.22,56.34,Clear throughout the day.
+556,Barcelona,2015-10-24,68.48,56.11,Clear throughout the day.
+557,Barcelona,2015-10-20,65.67,60.86,Mostly cloudy throughout the day.
+558,Barcelona,2015-09-28,75.49,61.84,Clear throughout the day.
+559,Barcelona,2015-09-05,75.55,61.55,"Partly cloudy starting in the afternoon, continuing until evening."
+560,Barcelona,2015-09-03,76.43,69.7,Mostly cloudy until afternoon.
+561,Barcelona,2015-09-01,83.36,72.38,Mostly cloudy overnight.
+562,Barcelona,2015-08-31,86.11,71.87,Mostly cloudy until afternoon and humid throughout the day.
+563,Barcelona,2015-08-06,86.19,73.17,Humid throughout the day and partly cloudy starting in the evening.
+564,Barcelona,2015-08-04,86.83,76.52,Partly cloudy in the morning.
+565,Barcelona,2017-07-25,81.67,70.88,Mostly cloudy throughout the day.
+566,Barcelona,2017-07-24,83.82,69.01,Partly cloudy overnight.
+567,Barcelona,2017-07-16,84.89,74.48,Partly cloudy in the afternoon.
+568,Barcelona,2017-07-14,80.85,76.96,Mostly cloudy throughout the day.
+569,Barcelona,2017-06-30,80.66,62.71,Partly cloudy until afternoon.
+570,Barcelona,2017-06-22,88.46,73.87,Clear throughout the day.
+571,Barcelona,2017-06-16,89.97,74.91,Clear throughout the day.
+572,Barcelona,2017-05-22,75.08,61.93,Partly cloudy in the morning.
+573,Barcelona,2017-05-17,79.28,62.55,Clear throughout the day.
+574,Barcelona,2017-05-09,68.05,56.02,Partly cloudy in the morning.
+575,Barcelona,2017-05-06,77.82,60.31,Partly cloudy in the morning.
+576,Barcelona,2017-05-01,64.17,52.06,Partly cloudy until evening.
+577,Barcelona,2017-04-28,60.13,42.69,Clear throughout the day.
+578,Barcelona,2016-12-31,58.34,43.79,Partly cloudy in the afternoon.
+579,Barcelona,2016-12-28,60.27,42.06,Clear throughout the day.
+580,Barcelona,2016-12-24,59.02,45.62,Clear throughout the day.
+581,Barcelona,2016-12-19,51.53,45.95,Rain starting in the afternoon.
+582,Barcelona,2016-12-04,61.01,51.69,Mostly cloudy throughout the day.
+583,Barcelona,2016-11-06,60.87,52.82,Partly cloudy until evening.
+584,Barcelona,2016-11-05,72.05,59.83,Light rain in the morning.
+585,Barcelona,2016-10-26,73.63,62.75,Clear throughout the day.
+586,Barcelona,2016-10-16,74.31,57.2,Partly cloudy in the morning.
+587,Barcelona,2016-10-02,75.38,67.51,Partly cloudy throughout the day.
+588,Barcelona,2016-09-27,77.09,66.05,Partly cloudy throughout the day.
+589,Barcelona,2016-09-10,82.71,69.3,Rain in the morning.
+590,Barcelona,2016-08-11,78.97,67.01,Partly cloudy in the morning.
+591,Barcelona,2016-08-08,89.46,70.93,Clear throughout the day.
+592,Barcelona,2016-08-02,85.51,74.48,Partly cloudy in the morning.
+593,Barcelona,2016-07-27,84.08,72.29,Partly cloudy in the afternoon.
+594,Barcelona,2016-07-19,86.39,66.63,Clear throughout the day.
+595,Barcelona,2016-07-18,81.69,66.13,Clear throughout the day.
+596,Barcelona,2016-07-05,84.12,73.07,Partly cloudy in the afternoon.
+597,Barcelona,2016-06-29,83.7,71.3,Clear throughout the day.
+598,Barcelona,2016-06-05,78.54,63.42,Partly cloudy in the afternoon.
+599,Barcelona,2016-05-31,72.21,58.62,Partly cloudy in the evening.
+600,Barcelona,2016-05-22,70.89,59.51,Rain in the evening.
+601,Barcelona,2016-05-07,66.46,57.93,Partly cloudy throughout the day.
+602,Barcelona,2016-04-29,63.52,53.1,Partly cloudy throughout the day.
+603,Barcelona,2016-04-03,62.46,47.65,Mostly cloudy throughout the day.
+604,Barcelona,2016-02-27,54.06,45.05,Heavy rain in the morning and evening.
+605,Barcelona,2016-01-28,63.1,48.41,Clear throughout the day.
+606,Barcelona,2016-01-26,60.91,52.71,Mostly cloudy until afternoon.
+607,Barcelona,2016-01-21,57.64,42.33,Clear throughout the day.
+608,Barcelona,2016-01-14,58.98,48.71,Partly cloudy starting in the afternoon.
+609,Barcelona,2016-01-12,59.54,50.77,Clear throughout the day.
+610,Barcelona,2016-01-04,58.12,52.84,Light rain in the evening.
+611,Barcelona,2015-12-22,61.24,47.15,Mostly cloudy starting in the evening.
+612,Barcelona,2015-11-24,56.53,37.59,Clear throughout the day.
+613,Barcelona,2015-11-22,55.7,45.48,Partly cloudy overnight.
+614,Barcelona,2015-10-31,69.66,55.52,Partly cloudy overnight.
+615,Barcelona,2015-09-26,73.54,63.67,Partly cloudy throughout the day.
+616,Barcelona,2015-09-13,81.11,66.36,Clear throughout the day.
+617,Barcelona,2015-09-12,80.54,70.37,Partly cloudy until evening.
+618,Barcelona,2015-08-15,77.75,64.88,Light rain in the evening.
+619,Amsterdam,2017-07-26,73.04,59.76,Partly cloudy throughout the day.
+620,Amsterdam,2017-07-02,66.0,56.84,Mostly cloudy until evening.
+621,Amsterdam,2017-05-14,66.77,48.82,Partly cloudy until evening.
+622,Amsterdam,2017-04-29,54.89,38.78,"Partly cloudy starting in the afternoon, continuing until evening."
+623,Amsterdam,2017-04-06,51.28,44.01,Mostly cloudy throughout the day.
+624,Amsterdam,2017-04-03,55.73,45.79,Overcast until afternoon.
+625,Amsterdam,2017-03-08,48.94,39.82,Rain until afternoon.
+626,Amsterdam,2017-03-03,46.71,36.33,Mostly cloudy throughout the day.
+627,Amsterdam,2017-01-14,40.89,34.59,Mixed precipitation in the afternoon.
+628,Amsterdam,2016-12-26,51.77,44.64,Partly cloudy until evening.
+629,Amsterdam,2016-11-14,45.37,33.02,Light rain in the afternoon and evening.
+630,Amsterdam,2016-10-09,58.0,40.79,Partly cloudy throughout the day.
+631,Amsterdam,2016-09-10,77.31,58.46,Mostly cloudy starting in the afternoon.
+632,Amsterdam,2016-08-29,70.16,58.77,Partly cloudy until evening.
+633,Amsterdam,2016-08-18,74.48,55.68,Partly cloudy in the evening.
+634,Amsterdam,2016-08-15,70.09,52.78,Mostly cloudy starting in the evening.
+635,Amsterdam,2016-07-16,69.27,62.32,Mostly cloudy throughout the day.
+636,Amsterdam,2016-07-08,68.19,59.27,Rain in the afternoon.
+637,Amsterdam,2016-06-10,68.11,52.88,Mostly cloudy throughout the day.
+638,Amsterdam,2016-06-09,65.79,53.94,Partly cloudy in the morning.
+639,Amsterdam,2016-05-06,75.01,51.69,Mostly cloudy until evening.
+640,Amsterdam,2016-04-21,58.79,39.68,Mostly cloudy starting in the evening.
+641,Amsterdam,2016-03-19,46.14,41.49,Mostly cloudy throughout the day.
+642,Amsterdam,2016-03-06,43.17,33.89,Mostly cloudy throughout the day.
+643,Amsterdam,2016-03-04,37.29,33.33,Rain until afternoon.
+644,Amsterdam,2016-01-10,46.44,42.05,Partly cloudy throughout the day.
+645,Amsterdam,2015-12-29,49.49,42.99,"Mostly cloudy starting in the afternoon, continuing until evening."
+646,Amsterdam,2015-12-16,54.21,47.8,Light rain in the morning.
+647,Amsterdam,2015-10-15,46.95,40.46,Rain starting in the evening.
+648,Amsterdam,2017-07-11,68.92,61.87,Rain overnight.
+649,Amsterdam,2017-03-17,49.01,44.72,Rain overnight.
+650,Amsterdam,2017-02-10,29.23,25.75,Foggy overnight.
+651,Amsterdam,2017-02-04,44.42,38.59,Light rain starting in the evening.
+652,Amsterdam,2017-01-06,31.64,23.66,Mostly cloudy throughout the day.
+653,Amsterdam,2016-12-17,47.26,39.67,Foggy overnight.
+654,Amsterdam,2016-12-16,45.67,40.02,Mostly cloudy throughout the day.
+655,Amsterdam,2016-11-30,46.54,27.65,Mostly cloudy throughout the day.
+656,Amsterdam,2016-11-13,40.89,35.51,Foggy in the morning.
+657,Amsterdam,2016-08-24,87.84,64.53,Mostly cloudy in the evening.
+658,Amsterdam,2016-08-05,69.86,59.44,Partly cloudy throughout the day.
+659,Amsterdam,2016-06-06,74.03,53.74,Mostly cloudy starting in the evening.
+660,Amsterdam,2016-05-11,78.22,61.58,Mostly cloudy throughout the day.
+661,Amsterdam,2016-04-09,58.47,40.84,Mostly cloudy throughout the day.
+662,Amsterdam,2016-03-05,45.18,29.03,Partly cloudy throughout the day.
+663,Amsterdam,2016-01-25,56.77,47.48,Mostly cloudy throughout the day.
+664,Amsterdam,2016-01-18,32.63,25.15,Mostly cloudy starting in the evening.
+665,Amsterdam,2016-01-17,37.12,27.53,Partly cloudy in the morning.
+666,Amsterdam,2015-12-18,55.55,51.05,Mostly cloudy throughout the day.
+667,Amsterdam,2015-08-08,72.35,60.71,Partly cloudy in the morning.
+668,Barcelona,2017-07-08,84.42,76.49,Partly cloudy until evening.
+669,Barcelona,2017-06-11,86.92,68.3,Clear throughout the day.
+670,Barcelona,2016-11-11,64.72,49.65,Mostly cloudy starting in the evening.
+671,Barcelona,2016-09-25,78.18,63.94,Rain starting in the evening.
+672,Barcelona,2016-09-18,74.4,59.94,Partly cloudy in the morning.
+673,Barcelona,2016-09-04,91.62,74.13,Humid throughout the day.
+674,Barcelona,2016-07-31,86.49,74.7,Mostly cloudy throughout the day.
+675,Barcelona,2016-06-27,78.73,69.7,"Partly cloudy starting in the afternoon, continuing until evening."
+676,Barcelona,2016-05-24,70.99,55.76,Clear throughout the day.
+677,Barcelona,2016-05-17,68.16,57.89,Partly cloudy until evening.
+678,Barcelona,2016-04-01,56.7,48.79,Rain until afternoon.
+679,Barcelona,2015-12-31,62.09,47.79,Clear throughout the day.
+680,Barcelona,2015-11-15,71.56,50.82,Clear throughout the day.
+681,Barcelona,2015-11-03,68.4,58.3,Partly cloudy throughout the day.
+682,Barcelona,2015-09-17,81.76,69.93,Clear throughout the day.
+683,Barcelona,2015-09-15,77.14,63.32,"Partly cloudy starting in the afternoon, continuing until evening."
+684,Barcelona,2015-08-22,83.63,73.64,Partly cloudy until afternoon and humid throughout the day.
+685,Barcelona,2017-07-29,85.43,71.69,Partly cloudy in the morning.
+686,Barcelona,2017-05-16,78.56,64.38,Clear throughout the day.
+687,Barcelona,2017-04-17,69.64,55.85,Mostly cloudy until afternoon.
+688,Barcelona,2017-01-12,61.87,48.34,Mostly cloudy until afternoon.
+689,Barcelona,2017-01-05,54.04,41.59,Partly cloudy until evening.
+690,Barcelona,2016-11-25,57.96,44.96,Partly cloudy in the afternoon.
+691,Barcelona,2016-11-20,65.45,54.19,Partly cloudy starting in the evening.
+692,Barcelona,2016-10-24,75.1,62.79,"Partly cloudy starting in the afternoon, continuing until evening."
+693,Barcelona,2016-09-28,79.58,64.76,Clear throughout the day.
+694,Barcelona,2016-09-16,78.99,60.97,Clear throughout the day.
+695,Barcelona,2016-09-07,83.64,72.16,Clear throughout the day.
+696,Barcelona,2016-08-29,81.37,75.49,Mostly cloudy throughout the day.
+697,Barcelona,2016-06-23,85.22,66.84,Clear throughout the day.
+698,Barcelona,2016-05-08,62.62,56.67,Mostly cloudy throughout the day.
+699,Barcelona,2016-04-28,58.05,52.27,Light rain until afternoon.
+700,Barcelona,2016-04-23,66.33,54.26,Light rain in the evening.
+701,Barcelona,2016-03-06,55.96,43.37,Partly cloudy in the afternoon.
+702,Barcelona,2016-02-17,53.07,37.74,Clear throughout the day.
+703,Barcelona,2016-01-02,61.36,50.74,Partly cloudy in the morning.
+704,Barcelona,2015-12-16,66.39,50.11,Clear throughout the day.
+705,Barcelona,2015-11-21,65.15,49.32,Partly cloudy until afternoon.
+706,Barcelona,2015-10-17,66.47,53.74,Mostly cloudy throughout the day.
+707,Barcelona,2015-09-29,68.76,63.99,Mostly cloudy until evening.
+708,Barcelona,2015-09-09,77.49,62.51,Clear throughout the day.
+709,Barcelona,2015-09-04,73.4,64.98,Light rain in the evening.
+710,Barcelona,2015-09-02,76.56,69.3,Rain until afternoon.
+711,Barcelona,2015-08-25,79.84,66.23,"Partly cloudy starting in the afternoon, continuing until evening."
+712,Amsterdam,2017-05-20,61.67,48.98,Partly cloudy throughout the day.
+713,Amsterdam,2017-03-25,55.66,39.03,Mostly cloudy throughout the day.
+714,Vienna,2017-06-12,87.43,57.0,Mostly cloudy throughout the day.
+715,Vienna,2017-05-04,60.42,46.09,Foggy in the morning.
+716,Vienna,2017-03-22,53.3,42.53,Mostly cloudy throughout the day.
+717,Vienna,2017-03-20,61.63,48.55,Mostly cloudy until evening.
+718,Vienna,2017-03-07,49.92,38.64,Mostly cloudy throughout the day.
+719,Vienna,2017-03-05,57.71,45.34,Mostly cloudy throughout the day.
+720,Vienna,2017-02-19,45.06,30.44,Mostly cloudy throughout the day.
+721,Vienna,2017-02-11,36.24,31.34,Mostly cloudy throughout the day.
+722,Vienna,2017-02-02,33.0,29.43,Foggy throughout the day.
+723,Vienna,2016-10-02,64.16,54.1,Light rain overnight.
+724,Vienna,2016-06-29,85.44,57.52,"Partly cloudy starting in the afternoon, continuing until evening."
+725,Vienna,2016-06-18,74.49,55.87,Mostly cloudy throughout the day.
+726,Vienna,2016-05-30,72.04,61.68,Partly cloudy throughout the day.
+727,Vienna,2016-04-29,59.39,31.7,Clear throughout the day.
+728,Vienna,2016-04-28,50.64,32.79,Mostly cloudy until evening.
+729,Vienna,2016-04-21,64.57,36.87,Clear throughout the day.
+730,Vienna,2016-04-06,64.24,54.33,Mostly cloudy throughout the day.
+731,Vienna,2016-03-21,53.87,41.18,Mostly cloudy throughout the day.
+732,Vienna,2016-03-17,53.27,30.58,Foggy in the morning.
+733,Vienna,2016-03-05,55.26,34.94,Mostly cloudy throughout the day.
+734,Vienna,2016-02-23,58.24,39.04,Light rain starting in the evening.
+735,Vienna,2015-12-25,41.76,35.28,Foggy throughout the day.
+736,Vienna,2015-11-30,54.23,46.93,"Light rain starting in the afternoon, continuing until evening."
+737,Vienna,2015-11-17,60.43,49.63,Mostly cloudy throughout the day.
+738,Vienna,2015-10-25,57.54,40.95,Foggy in the morning.
+739,Vienna,2015-10-01,62.05,41.28,Clear throughout the day.
+740,Vienna,2015-09-29,60.82,45.1,Partly cloudy throughout the day.
+741,Vienna,2015-08-23,75.05,56.0,Partly cloudy throughout the day.
+742,Vienna,2017-06-23,87.95,66.75,Light rain in the morning.
+743,Vienna,2017-06-02,81.42,60.35,Partly cloudy in the morning.
+744,Vienna,2017-05-17,74.4,57.81,Partly cloudy until afternoon.
+745,Vienna,2017-04-22,55.26,42.15,Light rain in the evening.
+746,Vienna,2017-04-10,72.33,41.95,Partly cloudy starting in the evening.
+747,Vienna,2017-04-09,65.57,41.07,Partly cloudy in the afternoon.
+748,Vienna,2017-03-23,51.69,40.46,Mostly cloudy until evening.
+749,Vienna,2016-12-16,37.99,28.36,Mostly cloudy until afternoon.
+750,Vienna,2016-12-08,32.36,28.3,Foggy throughout the day.
+751,Vienna,2016-12-04,33.49,21.52,Mostly cloudy until evening.
+752,Vienna,2016-12-02,43.49,33.72,Breezy in the morning and rain until afternoon.
+753,Vienna,2016-11-06,46.87,39.4,Rain in the morning and afternoon.
+754,Vienna,2016-10-24,54.83,46.22,Foggy in the morning.
+755,Vienna,2016-10-11,47.75,43.7,Mostly cloudy throughout the day.
+756,Vienna,2016-09-14,82.27,60.15,Partly cloudy in the morning.
+757,Vienna,2016-09-05,72.57,60.55,Light rain in the morning and afternoon.
+758,Vienna,2016-08-01,75.31,64.92,Mostly cloudy throughout the day.
+759,Vienna,2016-07-13,73.45,63.33,Light rain in the morning and evening.
+760,Vienna,2016-07-03,71.59,59.58,Mostly cloudy throughout the day.
+761,Vienna,2016-06-27,67.74,60.42,Rain in the morning.
+762,Vienna,2016-06-17,72.58,61.67,Mostly cloudy throughout the day.
+763,Vienna,2016-05-26,75.29,55.77,Partly cloudy throughout the day.
+764,Vienna,2016-05-06,71.76,48.28,Mostly cloudy in the morning.
+765,Vienna,2016-04-22,69.03,42.78,Mostly cloudy throughout the day.
+766,Vienna,2016-04-13,68.58,42.06,Rain starting in the evening.
+767,Vienna,2016-04-03,70.56,45.43,Mostly cloudy throughout the day.
+768,Vienna,2016-03-12,45.82,40.29,Mostly cloudy throughout the day.
+769,Vienna,2016-03-08,42.98,35.08,Mixed precipitation in the morning.
+770,Vienna,2016-02-25,41.68,32.46,Mostly cloudy throughout the day.
+771,Vienna,2016-02-20,49.42,38.88,Light rain overnight.
+772,Vienna,2016-02-18,40.73,38.01,Light rain starting in the evening.
+773,Vienna,2016-02-17,40.82,37.07,Mostly cloudy throughout the day.
+774,Vienna,2016-01-27,53.57,31.39,Foggy in the morning.
+775,Vienna,2015-12-27,39.3,30.25,Foggy in the morning.
+776,Vienna,2015-11-16,63.55,48.75,Mostly cloudy throughout the day.
+777,Vienna,2015-11-07,60.2,43.12,Foggy in the morning.
+778,Vienna,2015-11-02,54.32,33.8,Partly cloudy until afternoon.
+779,Vienna,2015-10-09,60.17,52.0,Mostly cloudy throughout the day.
+780,Vienna,2015-10-08,57.52,55.41,Light rain in the morning.
+781,Vienna,2015-09-30,56.62,45.29,Mostly cloudy throughout the day.
+782,Vienna,2015-09-20,68.17,56.66,Mostly cloudy throughout the day.
+783,Vienna,2015-08-13,96.95,70.71,Partly cloudy starting in the evening.
+784,Vienna,2015-08-12,98.18,67.94,Partly cloudy throughout the day.
+785,Vienna,2017-07-08,88.1,69.33,Partly cloudy throughout the day.
+786,Vienna,2017-06-09,80.77,51.61,Partly cloudy in the afternoon.
+787,Vienna,2017-05-24,68.77,58.16,Mostly cloudy throughout the day.
+788,Vienna,2017-03-13,51.82,31.6,Partly cloudy starting in the evening.
+789,Vienna,2016-10-23,51.97,37.73,Foggy in the morning.
+790,Vienna,2016-07-29,83.39,64.95,Partly cloudy until evening.
+791,Vienna,2016-05-04,51.1,47.5,Light rain in the morning.
+792,Vienna,2016-04-17,70.55,46.96,Mostly cloudy throughout the day.
+793,Vienna,2016-04-02,58.82,37.6,Partly cloudy throughout the day.
+794,Vienna,2016-03-14,49.16,33.43,Partly cloudy throughout the day.
+795,Vienna,2016-02-27,45.98,32.18,Mostly cloudy throughout the day.
+796,Vienna,2016-02-21,57.45,42.06,Mostly cloudy throughout the day.
+797,Vienna,2015-12-09,41.44,35.66,Light rain starting in the evening.
+798,Vienna,2015-11-01,56.88,42.21,Clear throughout the day.
+799,Vienna,2015-09-27,61.72,52.4,Mostly cloudy throughout the day.
+800,Vienna,2015-09-19,71.98,56.85,Light rain overnight.
+801,Vienna,2015-08-10,94.43,66.15,Partly cloudy until evening.
+802,Vienna,2017-08-01,95.55,71.7,Clear throughout the day.
+803,Vienna,2017-06-26,85.62,67.68,Partly cloudy until evening.
+804,Vienna,2017-06-08,74.73,52.31,Partly cloudy throughout the day.
+805,Vienna,2017-05-16,74.13,54.24,Mostly cloudy throughout the day.
+806,Vienna,2017-04-29,56.33,39.1,Partly cloudy throughout the day.
+807,Vienna,2017-03-10,47.35,41.02,Mostly cloudy throughout the day.
+808,Vienna,2017-02-25,48.92,32.81,Partly cloudy throughout the day.
+809,Vienna,2016-11-23,49.9,44.14,Mostly cloudy throughout the day.
+810,Vienna,2016-11-05,48.7,36.29,Foggy in the afternoon.
+811,Vienna,2016-08-29,80.44,65.36,Mostly cloudy throughout the day.
+812,Vienna,2016-07-30,89.09,62.85,Partly cloudy starting in the afternoon.
+813,Vienna,2016-07-02,87.77,62.84,Rain starting in the evening.
+814,Vienna,2016-07-01,85.3,63.86,Mostly cloudy until afternoon.
+815,Vienna,2016-06-20,63.24,59.63,Rain until afternoon.
+816,Vienna,2016-05-28,81.91,59.75,Mostly cloudy throughout the day.
+817,Vienna,2016-05-23,79.89,54.79,Mostly cloudy throughout the day.
+818,Vienna,2016-03-18,58.03,31.82,Partly cloudy starting in the afternoon.
+819,Vienna,2016-03-09,44.33,32.04,Partly cloudy until evening.
+820,Vienna,2016-03-01,43.88,36.6,Mostly cloudy throughout the day.
+821,Vienna,2016-02-24,45.94,33.85,Partly cloudy throughout the day.
+822,Vienna,2015-11-28,41.98,33.97,Mostly cloudy throughout the day.
+823,Vienna,2015-11-27,39.29,36.44,Mostly cloudy throughout the day.
+824,Vienna,2015-11-26,38.09,32.07,Mostly cloudy throughout the day.
+825,Vienna,2015-10-26,58.01,44.6,Foggy in the morning.
+826,Vienna,2015-10-18,48.22,40.16,Foggy in the morning.
+827,Vienna,2015-10-15,53.45,47.72,Light rain in the morning and overnight.
+828,Vienna,2015-10-14,48.16,45.48,Rain in the morning and overnight.
+829,Vienna,2015-10-03,70.87,52.43,Mostly cloudy until evening.
+830,Vienna,2015-09-14,72.01,60.56,Mostly cloudy throughout the day.
+831,Vienna,2015-09-07,61.47,53.14,Mostly cloudy throughout the day.
+832,Vienna,2015-08-29,91.75,65.59,Partly cloudy starting in the evening.
+833,Amsterdam,2016-04-01,55.61,36.87,Mostly cloudy starting in the afternoon.
+834,Amsterdam,2015-12-24,54.23,44.99,Partly cloudy throughout the day.
+835,Amsterdam,2016-12-03,45.63,32.17,Mostly cloudy until evening.
+836,Amsterdam,2016-11-20,50.29,40.68,Rain until afternoon.
+837,Amsterdam,2016-10-01,64.04,52.5,Light rain in the evening.
+838,Amsterdam,2016-07-22,77.19,65.13,Mostly cloudy throughout the day.
+839,Amsterdam,2016-07-13,64.45,55.99,Partly cloudy until evening.
+840,Amsterdam,2016-01-30,49.4,42.42,Rain until afternoon.
+841,Amsterdam,2015-11-18,57.15,51.95,Rain starting in the evening.
+842,Amsterdam,2017-04-02,59.88,45.08,Mostly cloudy starting in the evening.
+843,Amsterdam,2017-02-12,35.5,29.68,Mostly cloudy until afternoon.
+844,Amsterdam,2016-11-19,45.01,39.0,Light rain in the morning.
+845,Amsterdam,2016-09-07,79.83,59.78,Partly cloudy until afternoon.
+846,Amsterdam,2016-05-14,51.7,45.44,Partly cloudy throughout the day.
+847,Amsterdam,2017-07-23,66.22,58.41,Light rain in the afternoon and overnight.
+848,Amsterdam,2016-01-06,39.24,34.9,Foggy throughout the day.
+849,Amsterdam,2015-11-28,47.09,41.59,Rain in the morning and evening.
+850,Amsterdam,2015-08-28,68.47,55.96,Partly cloudy until afternoon.
+851,Amsterdam,2017-01-10,44.26,39.81,Mostly cloudy throughout the day.
+852,Amsterdam,2016-11-24,46.81,40.1,Mostly cloudy throughout the day.
+853,Amsterdam,2016-11-17,51.15,45.96,Rain starting in the evening.
+854,Amsterdam,2016-02-12,42.27,34.18,Foggy in the morning.
+855,Amsterdam,2016-02-05,50.22,41.37,Mostly cloudy throughout the day.
+856,Amsterdam,2017-03-26,52.64,41.06,Mostly cloudy until morning.
+857,Amsterdam,2016-12-04,38.33,29.06,Clear throughout the day.
+858,Amsterdam,2016-11-23,50.0,42.96,Mostly cloudy throughout the day.
+859,Amsterdam,2016-10-21,55.49,39.57,Partly cloudy starting in the afternoon.
+860,Amsterdam,2016-12-02,48.87,35.44,Mostly cloudy until afternoon.
+861,Amsterdam,2016-06-19,66.06,54.34,Partly cloudy throughout the day.
+862,Amsterdam,2016-06-12,69.44,58.43,Light rain overnight.
+863,Amsterdam,2015-12-05,49.08,46.7,Partly cloudy throughout the day.
+864,Barcelona,2017-07-31,85.84,74.5,Partly cloudy starting in the evening and humid throughout the day.
+865,Barcelona,2017-07-10,82.89,71.38,Partly cloudy in the morning.
+866,Barcelona,2017-07-03,82.96,65.17,Clear throughout the day.
+867,Barcelona,2017-06-28,86.87,69.69,Partly cloudy until evening.
+868,Barcelona,2017-06-13,88.3,71.75,Clear throughout the day.
+869,Barcelona,2017-04-30,64.78,55.96,Mostly cloudy throughout the day.
+870,Barcelona,2017-04-26,61.0,54.37,Rain in the afternoon.
+871,Barcelona,2017-04-12,71.03,54.69,Clear throughout the day.
+872,Barcelona,2017-04-07,67.78,51.98,Clear throughout the day.
+873,Barcelona,2017-03-29,69.88,50.87,Clear throughout the day.
+874,Barcelona,2017-03-24,52.78,47.02,Heavy rain in the afternoon and evening.
+875,Barcelona,2017-03-21,64.5,50.47,Mostly cloudy throughout the day.
+876,Barcelona,2017-02-24,58.53,51.29,Rain until afternoon.
+877,Barcelona,2017-02-21,65.07,46.03,Clear throughout the day.
+878,Barcelona,2017-02-11,57.07,44.77,Mostly cloudy throughout the day.
+879,Barcelona,2017-02-08,61.84,46.13,Mostly cloudy in the morning.
+880,Barcelona,2017-02-06,61.84,46.92,Clear throughout the day.
+881,Barcelona,2017-01-24,54.76,43.93,Clear throughout the day.
+882,Barcelona,2017-01-19,52.11,36.5,Partly cloudy starting in the afternoon.
+883,Barcelona,2016-11-23,65.61,55.52,Heavy rain starting in the evening.
+884,Barcelona,2016-11-21,65.68,60.16,Light rain in the morning.
+885,Barcelona,2016-11-19,62.88,52.13,Mostly cloudy starting in the afternoon.
+886,Barcelona,2016-11-17,63.95,46.7,Clear throughout the day.
+887,Barcelona,2016-11-15,60.63,46.39,Clear throughout the day.
+888,Barcelona,2016-11-09,65.58,47.99,Partly cloudy overnight.
+889,Barcelona,2016-11-07,56.63,46.25,Partly cloudy until evening.
+890,Barcelona,2016-11-04,68.69,55.08,Mostly cloudy in the morning.
+891,Barcelona,2016-11-02,69.57,56.99,Clear throughout the day.
+892,Barcelona,2016-11-01,71.37,57.07,Mostly cloudy in the morning.
+893,Barcelona,2016-10-27,71.51,61.61,Mostly cloudy throughout the day.
+894,Barcelona,2016-10-20,64.49,61.08,Mostly cloudy throughout the day.
+895,Barcelona,2016-10-18,73.12,61.57,Partly cloudy starting in the evening.
+896,Barcelona,2016-10-08,71.79,64.96,Mostly cloudy throughout the day.
+897,Barcelona,2016-10-04,74.64,65.3,Mostly cloudy throughout the day.
+898,Barcelona,2016-09-29,77.26,62.06,"Partly cloudy starting in the afternoon, continuing until evening."
+899,Barcelona,2016-09-24,76.94,63.87,Partly cloudy throughout the day.
+900,Barcelona,2016-09-22,76.98,63.43,Partly cloudy throughout the day.
+901,Barcelona,2016-09-08,82.7,70.5,Partly cloudy overnight.
+902,Barcelona,2016-08-28,85.9,72.38,Partly cloudy until afternoon.
+903,Barcelona,2016-08-26,84.16,67.7,Clear throughout the day.
+904,Barcelona,2016-08-05,81.51,75.58,Mostly cloudy throughout the day.
+905,Barcelona,2016-07-20,88.91,69.53,Partly cloudy in the evening.
+906,Barcelona,2016-07-16,80.39,65.44,Partly cloudy in the morning.
+907,Barcelona,2016-07-14,77.0,66.46,Partly cloudy starting in the afternoon.
+908,Barcelona,2016-07-13,80.87,69.68,Mostly cloudy in the morning.
+909,Barcelona,2016-07-11,86.09,75.83,Partly cloudy in the evening.
+910,Barcelona,2016-07-10,89.64,75.83,Clear throughout the day.
+911,Barcelona,2016-06-26,79.35,69.35,Partly cloudy starting in the evening.
+912,Barcelona,2016-06-25,83.7,69.75,Clear throughout the day.
+913,Barcelona,2016-06-21,81.77,64.53,Clear throughout the day.
+914,Barcelona,2016-06-19,75.9,57.05,Clear throughout the day.
+915,Barcelona,2016-06-18,70.56,58.75,Rain in the evening.
+916,Barcelona,2016-06-17,73.05,62.09,Partly cloudy until evening.
+917,Barcelona,2016-06-11,75.63,68.25,Partly cloudy until afternoon.
+918,Barcelona,2016-06-09,82.23,67.33,Clear throughout the day.
+919,Barcelona,2016-05-19,70.52,59.69,Partly cloudy starting in the evening.
+920,Barcelona,2016-04-17,74.66,60.35,Partly cloudy in the afternoon.
+921,Barcelona,2016-04-05,59.24,55.94,Rain in the morning.
+922,Barcelona,2016-03-21,59.47,48.75,Partly cloudy until evening.
+923,Barcelona,2016-03-20,60.9,50.07,Rain in the morning.
+924,Barcelona,2016-03-19,56.97,51.39,Mostly cloudy throughout the day.
+925,Barcelona,2016-03-17,53.93,45.57,Mostly cloudy until evening.
+926,Barcelona,2016-03-10,59.2,40.13,Clear throughout the day.
+927,Barcelona,2016-03-09,50.67,43.48,Partly cloudy starting in the afternoon.
+928,Barcelona,2016-03-05,59.92,47.41,Partly cloudy in the morning.
+929,Barcelona,2016-03-03,64.2,48.75,"Partly cloudy starting in the afternoon, continuing until evening."
+930,Barcelona,2016-02-22,68.25,53.44,Partly cloudy in the morning.
+931,Barcelona,2016-02-21,64.29,42.16,Clear throughout the day.
+932,Barcelona,2016-02-12,66.09,51.01,Mostly cloudy in the morning.
+933,Barcelona,2016-02-03,63.24,52.79,Partly cloudy in the morning.
+934,Barcelona,2016-01-20,58.96,43.06,Clear throughout the day.
+935,Barcelona,2015-12-17,63.3,51.67,Clear throughout the day.
+936,Barcelona,2015-11-20,68.37,53.43,Clear throughout the day.
+937,Barcelona,2015-11-18,68.54,49.16,Clear throughout the day.
+938,Barcelona,2015-11-08,68.01,57.24,Foggy in the morning.
+939,Barcelona,2015-11-07,72.25,57.75,Foggy overnight.
+940,Barcelona,2015-11-04,71.05,56.88,Partly cloudy in the morning.
+941,Barcelona,2015-10-27,69.8,62.14,Mostly cloudy throughout the day.
+942,Barcelona,2015-10-23,69.73,56.23,Clear throughout the day.
+943,Barcelona,2015-10-21,66.11,54.82,Mostly cloudy starting in the evening.
+944,Barcelona,2015-10-13,68.42,62.87,Mostly cloudy throughout the day.
+945,Barcelona,2015-09-23,72.95,64.41,Mostly cloudy throughout the day.
+946,Barcelona,2015-09-22,75.32,62.25,Partly cloudy starting in the afternoon.
+947,Barcelona,2015-09-20,74.86,65.9,Partly cloudy until afternoon.
+948,Barcelona,2015-09-11,75.94,64.82,Mostly cloudy throughout the day.
+949,Barcelona,2015-09-10,70.74,65.64,Heavy rain in the afternoon.
+950,Barcelona,2015-09-08,75.98,64.97,Partly cloudy in the afternoon.
+951,Barcelona,2015-08-23,85.71,73.2,Partly cloudy until evening.
+952,Barcelona,2015-08-21,84.29,72.24,Humid and partly cloudy throughout the day.
+953,Barcelona,2015-08-10,83.19,70.43,Partly cloudy in the morning.
+954,Barcelona,2015-08-09,81.79,70.0,Mostly cloudy until afternoon.
+955,Barcelona,2017-07-01,75.1,63.93,Partly cloudy starting in the afternoon.
+956,Barcelona,2017-06-24,85.16,72.66,Clear throughout the day.
+957,Barcelona,2017-06-18,86.16,72.55,Clear throughout the day.
+958,Barcelona,2017-06-14,91.33,71.84,Clear throughout the day.
+959,Barcelona,2017-06-12,85.42,70.04,Clear throughout the day.
+960,Barcelona,2017-06-02,78.38,65.63,Clear throughout the day.
+961,Barcelona,2017-06-01,77.74,64.34,Clear throughout the day.
+962,Barcelona,2017-05-27,77.28,65.57,Mostly cloudy until afternoon.
+963,Barcelona,2017-05-24,83.09,65.33,Clear throughout the day.
+964,Barcelona,2017-05-07,70.77,56.13,"Partly cloudy starting in the afternoon, continuing until evening."
+965,Barcelona,2017-04-24,69.1,52.23,Clear throughout the day.
+966,Barcelona,2017-04-19,62.4,53.95,Mostly cloudy until evening.
+967,Barcelona,2017-04-01,57.7,51.37,Rain in the evening.
+968,Barcelona,2017-02-22,66.89,47.28,Clear throughout the day.
+969,Barcelona,2017-02-16,60.65,51.49,"Partly cloudy starting in the afternoon, continuing until evening."
+970,Barcelona,2017-01-31,60.14,46.47,Partly cloudy starting in the afternoon.
+971,Barcelona,2017-01-10,55.13,40.38,Clear throughout the day.
+972,Barcelona,2017-01-01,53.68,40.43,Mostly cloudy in the morning.
+973,Barcelona,2016-12-25,58.93,45.24,Clear throughout the day.
+974,Barcelona,2016-12-23,60.65,46.64,Clear throughout the day.
+975,Barcelona,2016-12-15,57.16,46.23,Partly cloudy starting in the evening.
+976,Barcelona,2016-11-27,62.3,53.87,Partly cloudy throughout the day.
+977,Barcelona,2016-11-22,64.3,59.05,Rain in the morning.
+978,Barcelona,2016-11-14,64.38,52.39,Partly cloudy in the morning.
+979,Barcelona,2016-10-31,67.56,56.63,Mostly cloudy until evening.
+980,Barcelona,2016-10-25,70.72,65.38,Partly cloudy until evening.
+981,Barcelona,2016-10-21,60.52,55.49,Mostly cloudy throughout the day.
+982,Barcelona,2016-10-17,72.48,60.65,Clear throughout the day.
+983,Barcelona,2016-10-14,68.99,56.99,Partly cloudy starting in the afternoon.
+984,Barcelona,2016-10-13,69.1,60.81,Rain in the morning and evening.
+985,Barcelona,2016-09-26,77.12,62.55,"Partly cloudy starting in the afternoon, continuing until evening."
+986,Barcelona,2016-09-19,80.81,62.21,Clear throughout the day.
+987,Barcelona,2016-09-14,78.94,63.4,Rain in the morning.
+988,Barcelona,2016-09-06,88.97,73.26,Clear throughout the day.
+989,Barcelona,2016-08-31,82.29,70.18,Partly cloudy in the morning.
+990,Barcelona,2016-08-24,88.53,67.24,Clear throughout the day.
+991,Barcelona,2016-08-23,85.33,69.43,Clear throughout the day.
+992,Barcelona,2016-08-22,84.86,71.12,Partly cloudy in the morning.
+993,Barcelona,2016-08-21,83.77,73.19,Partly cloudy starting in the evening.
+994,Barcelona,2016-08-18,83.53,72.82,Partly cloudy throughout the day.
+995,Barcelona,2016-08-16,84.35,72.26,Partly cloudy until evening.
+996,Barcelona,2016-08-04,90.8,75.23,Clear throughout the day.
+997,Barcelona,2016-07-28,84.95,72.25,Partly cloudy in the afternoon.
+998,Barcelona,2016-07-24,85.04,69.82,Clear throughout the day.
+999,Barcelona,2016-07-22,84.3,69.24,Rain starting in the evening.

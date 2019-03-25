@@ -1,0 +1,89 @@
+---
+title: "Analysis_LinearReg"
+author: "Dhansree Suraj"
+date: "2/15/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##libraries
+```{r}
+library(MASS)
+```
+
+# Loading all the data and the libraries
+```{r}
+
+source('dataLoad.R', chdir = T)
+
+```
+
+
+# Creating the final dataset for analysis
+```{r}
+
+
+train$CommonScore <- as.factor(train$CommonScore)
+test$CommonScore <- as.factor(test$CommonScore)
+
+```
+
+
+# Linear Regression Model
+
+## Fitting the full model - (3.1.1)
+```{r}
+lm2_fit <- lm(Reviewer_Score ~ . - ID - City, data = train)
+
+## NOTE: Response ^ 2 has been modeled as this provides better model diagnostics
+
+summary(lm2_fit)
+
+```
+
+
+## Checking model diagnostics
+```{r}
+plot(lm2_fit)
+
+hist(lm2_fit$residuals)
+```
+
+
+
+##Running stepwise AIC on Model (3.1.2)
+```{r}
+test2 <- stepAIC(lm2_fit, trace = 0)
+```
+
+##Find best model
+```{r}
+test2$anova
+```
+
+##fit best model (3.1.3)
+```{r}
+fin2 <- lm(Reviewer_Score ~ Hotel_Country + distance + log_review_neg_word_count + 
+    log_review_pos_word_count + log_review_word_count + log_num_reviews_given + 
+    pct_positive + Reviewer_sub_region + TempLow + weather_summary + 
+    access_type + accessibility + other_room_types + room_type + 
+    time_of_stay + trip_type + view_type + access_type_cust + 
+    accessibility_cust + free_cust + other_cust + other_room_types_cust + 
+    room_type_cust + trip_type_cust + CommonScore + tourists , data = train)
+
+summary(fin2)
+```
+
+##Test R2 (3.1.4)
+```{r}
+yhat <- predict(fin2, newdata=test)
+y <- test$Reviewer_Score
+
+e <- yhat-y
+
+1-(var(e)/var(y))
+```
+

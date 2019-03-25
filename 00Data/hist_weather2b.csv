@@ -1,0 +1,301 @@
+,City,Date,TempHigh,TempLow,Summary
+0,London,2017-07-29,68.91,60.14,Mostly cloudy in the morning.
+1,London,2017-07-25,71.68,56.53,Mostly cloudy until evening.
+2,London,2017-07-22,64.41,55.29,Light rain in the morning.
+3,London,2017-07-21,71.01,54.66,Light rain overnight.
+4,London,2017-05-20,59.93,43.88,Partly cloudy throughout the day.
+5,London,2017-05-18,62.21,49.64,Light rain starting in the evening.
+6,London,2017-05-06,59.61,48.94,Mostly cloudy throughout the day.
+7,London,2017-04-03,62.47,42.28,Foggy in the morning.
+8,London,2017-03-22,48.9,42.33,Light rain until afternoon.
+9,London,2017-03-16,57.5,42.76,Foggy in the morning.
+10,London,2017-02-26,53.17,48.52,Rain overnight.
+11,London,2016-10-07,58.53,52.81,Mostly cloudy throughout the day.
+12,London,2016-06-13,63.92,56.95,Mostly cloudy throughout the day.
+13,London,2017-06-03,70.35,59.04,Partly cloudy throughout the day.
+14,London,2017-05-21,68.25,47.46,Partly cloudy until evening.
+15,London,2017-04-04,58.45,48.16,Mostly cloudy throughout the day.
+16,London,2017-01-05,41.27,29.07,Clear throughout the day.
+17,London,2016-09-21,70.79,56.82,Partly cloudy until evening.
+18,London,2016-09-14,80.52,63.24,Partly cloudy in the evening.
+19,London,2017-05-12,64.25,54.46,Foggy in the morning.
+20,Paris,2017-06-28,73.43,62.48,Mostly cloudy throughout the day.
+21,Paris,2017-06-17,80.79,54.96,"Partly cloudy starting in the afternoon, continuing until evening."
+22,Paris,2017-05-02,61.44,45.38,Mostly cloudy throughout the day.
+23,Paris,2017-04-30,65.25,43.93,Light rain starting in the evening.
+24,Paris,2017-04-11,62.14,40.97,Partly cloudy throughout the day.
+25,Paris,2017-03-20,54.15,49.89,Overcast throughout the day.
+26,Paris,2017-03-07,49.99,40.49,Mostly cloudy throughout the day.
+27,Paris,2017-02-16,55.51,43.74,Foggy overnight.
+28,Paris,2017-01-24,34.64,26.69,Foggy throughout the day.
+29,Paris,2016-12-07,51.65,34.36,Mostly cloudy until evening.
+30,Paris,2016-10-08,61.31,49.25,Mostly cloudy until evening.
+31,Paris,2016-10-02,63.81,49.37,Mostly cloudy until evening.
+32,Paris,2016-10-01,64.14,54.09,Mostly cloudy throughout the day.
+33,Paris,2016-09-16,69.48,57.95,Light rain in the evening.
+34,Paris,2016-08-17,86.81,61.47,Mostly cloudy starting in the evening.
+35,Paris,2016-08-09,71.67,55.64,"Partly cloudy starting in the afternoon, continuing until evening."
+36,Paris,2016-07-31,75.88,61.75,Mostly cloudy throughout the day.
+37,Paris,2016-07-28,76.33,64.67,Mostly cloudy throughout the day.
+38,Paris,2016-07-26,75.34,58.95,Mostly cloudy throughout the day.
+39,Paris,2016-07-24,81.8,60.35,Mostly cloudy starting in the afternoon.
+40,Paris,2016-07-21,77.88,64.51,Mostly cloudy throughout the day.
+41,Paris,2016-07-15,74.24,50.77,Mostly cloudy throughout the day.
+42,Paris,2016-07-13,65.59,54.3,Mostly cloudy throughout the day.
+43,Paris,2016-07-12,71.25,58.1,Light rain overnight.
+44,Paris,2016-07-07,83.09,54.34,Partly cloudy starting in the evening.
+45,Paris,2016-06-29,73.91,57.08,Mostly cloudy throughout the day.
+46,Paris,2016-06-28,71.97,58.4,Mostly cloudy throughout the day.
+47,Paris,2016-06-26,70.91,54.01,Mostly cloudy throughout the day.
+48,Paris,2016-05-25,67.23,46.16,Partly cloudy throughout the day.
+49,Paris,2016-05-24,58.07,47.34,Mostly cloudy throughout the day.
+50,Paris,2016-05-12,65.16,56.05,Foggy in the morning.
+51,Paris,2016-05-08,77.74,55.63,Mostly cloudy throughout the day.
+52,Paris,2016-05-03,61.49,46.57,Mostly cloudy throughout the day.
+53,Paris,2016-05-01,60.29,37.23,Clear throughout the day.
+54,Paris,2016-04-17,51.5,39.36,Mostly cloudy throughout the day.
+55,Paris,2016-03-23,50.78,39.63,Mostly cloudy throughout the day.
+56,Paris,2016-03-15,54.9,32.81,Mostly cloudy starting in the afternoon.
+57,Paris,2015-11-29,55.47,46.43,Mostly cloudy throughout the day.
+58,Paris,2015-09-29,66.4,49.28,Clear throughout the day.
+59,Paris,2015-09-08,65.28,53.91,Mostly cloudy until evening.
+60,Paris,2015-08-25,67.9,52.6,Mostly cloudy throughout the day.
+61,Paris,2015-08-06,87.37,65.2,Mostly cloudy until evening.
+62,Paris,2017-07-28,73.78,59.28,Mostly cloudy throughout the day.
+63,Paris,2017-07-13,75.11,58.88,Mostly cloudy throughout the day.
+64,Paris,2017-07-02,73.84,56.05,Mostly cloudy throughout the day.
+65,Paris,2017-06-30,66.2,57.74,Mostly cloudy throughout the day.
+66,Paris,2017-06-23,76.0,62.01,Mostly cloudy until evening.
+67,Paris,2017-06-20,93.49,63.35,Partly cloudy throughout the day.
+68,Paris,2017-06-18,85.26,63.21,Clear throughout the day.
+69,Paris,2017-06-14,84.13,58.95,Partly cloudy until evening.
+70,Paris,2017-06-13,75.28,50.13,Mostly cloudy throughout the day.
+71,Paris,2017-05-29,83.37,66.19,Mostly cloudy throughout the day.
+72,Paris,2017-05-07,56.85,50.5,Mostly cloudy throughout the day.
+73,Paris,2017-04-20,55.77,31.15,Partly cloudy until evening.
+74,Paris,2017-04-16,56.85,42.84,Mostly cloudy throughout the day.
+75,Paris,2017-03-31,64.69,55.3,Mostly cloudy throughout the day.
+76,Paris,2017-03-28,64.9,42.91,Mostly cloudy until evening.
+77,Paris,2017-03-27,66.18,41.17,Partly cloudy until evening.
+78,Paris,2017-02-13,50.15,36.8,Mostly cloudy overnight.
+79,Paris,2017-02-11,33.86,30.72,Mostly cloudy throughout the day.
+80,Paris,2017-01-30,52.0,44.94,Foggy in the evening.
+81,Paris,2017-01-25,32.55,26.12,Overcast throughout the day.
+82,Paris,2017-01-11,51.0,40.57,Overcast throughout the day.
+83,Paris,2016-12-25,51.53,45.83,Overcast throughout the day.
+84,Paris,2016-12-22,47.77,43.19,Foggy overnight.
+85,Paris,2016-12-21,44.51,34.39,Mostly cloudy throughout the day.
+86,Paris,2016-12-04,41.79,29.61,Mostly cloudy in the morning.
+87,Paris,2016-11-28,45.07,34.88,Clear throughout the day.
+88,Paris,2016-11-04,45.61,37.72,Overcast throughout the day.
+89,Paris,2016-10-24,57.55,50.79,Foggy in the morning.
+90,Paris,2016-10-19,56.54,44.79,Mostly cloudy throughout the day.
+91,Paris,2016-10-16,69.68,48.46,Mostly cloudy throughout the day.
+92,Paris,2016-10-14,55.36,48.9,Mostly cloudy throughout the day.
+93,Paris,2016-09-27,73.64,51.17,Mostly cloudy starting in the afternoon.
+94,Paris,2016-09-25,67.5,56.39,Partly cloudy throughout the day.
+95,Paris,2016-09-22,73.82,50.9,Mostly cloudy throughout the day.
+96,Paris,2016-08-30,79.24,57.66,"Partly cloudy starting in the afternoon, continuing until evening."
+97,Paris,2016-08-14,81.37,58.18,Partly cloudy throughout the day.
+98,Paris,2016-06-14,66.57,57.48,Mostly cloudy throughout the day.
+99,Paris,2016-06-09,75.08,55.16,Partly cloudy throughout the day.
+100,Paris,2016-06-07,80.1,59.39,Foggy in the morning.
+101,Paris,2016-06-03,56.62,51.95,Overcast throughout the day.
+102,Paris,2016-05-29,63.5,58.87,Foggy in the morning.
+103,Paris,2016-05-18,61.23,51.6,Mostly cloudy throughout the day.
+104,Paris,2016-05-05,68.72,45.22,Mostly cloudy starting in the afternoon.
+105,Paris,2016-05-04,65.47,39.18,Partly cloudy in the morning.
+106,Paris,2016-04-24,46.49,34.78,Mostly cloudy throughout the day.
+107,Paris,2016-04-06,57.26,44.19,Mostly cloudy starting in the afternoon.
+108,Paris,2016-01-25,56.2,40.38,Mostly cloudy starting in the afternoon.
+109,Paris,2016-01-09,52.39,39.56,Foggy in the morning.
+110,Paris,2015-12-30,51.65,42.62,Mostly cloudy throughout the day.
+111,Paris,2015-12-22,58.35,52.87,Mostly cloudy throughout the day.
+112,Paris,2015-11-15,62.55,52.75,Mostly cloudy throughout the day.
+113,Paris,2015-10-25,56.94,46.87,Mostly cloudy throughout the day.
+114,Paris,2015-09-22,61.12,52.77,Mostly cloudy throughout the day.
+115,Paris,2015-09-17,64.67,56.39,Mostly cloudy throughout the day.
+116,Paris,2015-09-01,70.54,60.14,Mostly cloudy until evening.
+117,Paris,2015-08-21,84.08,60.4,"Partly cloudy starting in the afternoon, continuing until evening."
+118,Paris,2015-08-18,71.03,55.12,Mostly cloudy throughout the day.
+119,Paris,2015-08-13,84.7,67.42,Mostly cloudy throughout the day.
+120,Paris,2015-08-11,85.36,64.33,Mostly cloudy throughout the day.
+121,Paris,2017-08-02,85.15,61.04,Mostly cloudy throughout the day.
+122,Paris,2017-07-26,73.69,52.67,Mostly cloudy throughout the day.
+123,Paris,2017-07-25,71.76,60.23,Mostly cloudy throughout the day.
+124,Paris,2017-07-17,85.53,62.41,Partly cloudy until evening.
+125,Paris,2017-07-12,71.99,62.38,Mostly cloudy throughout the day.
+126,Paris,2017-07-10,72.21,62.26,Mostly cloudy throughout the day.
+127,Paris,2017-07-06,94.78,67.72,Mostly cloudy throughout the day.
+128,Paris,2017-06-24,77.98,57.83,Mostly cloudy throughout the day.
+129,Paris,2017-06-21,97.8,67.82,Partly cloudy throughout the day.
+130,Paris,2017-06-06,64.12,53.42,Mostly cloudy throughout the day.
+131,Paris,2017-06-05,73.84,52.4,Mostly cloudy throughout the day.
+132,Paris,2017-06-03,68.6,56.52,Mostly cloudy throughout the day.
+133,Paris,2017-06-01,81.78,57.53,"Partly cloudy starting in the afternoon, continuing until evening."
+134,Paris,2017-05-28,88.46,62.95,Mostly cloudy throughout the day.
+135,Paris,2017-05-23,75.78,57.22,Mostly cloudy throughout the day.
+136,Paris,2017-05-19,60.73,48.31,Mostly cloudy throughout the day.
+137,Paris,2017-05-16,81.95,58.93,Mostly cloudy throughout the day.
+138,Paris,2017-05-06,56.13,52.23,Overcast throughout the day.
+139,Paris,2017-05-05,64.65,45.94,Foggy in the morning.
+140,Paris,2017-05-03,52.59,48.52,Mostly cloudy throughout the day.
+141,Paris,2017-04-22,60.68,45.26,Mostly cloudy throughout the day.
+142,Paris,2017-04-21,64.82,33.38,Partly cloudy in the evening.
+143,Paris,2017-04-14,62.25,48.98,Mostly cloudy throughout the day.
+144,Paris,2017-04-12,66.16,38.86,Partly cloudy until evening.
+145,Paris,2017-04-05,59.75,46.74,Mostly cloudy throughout the day.
+146,Paris,2017-04-04,62.61,44.63,Mostly cloudy overnight.
+147,Paris,2017-03-23,56.19,42.3,Light rain starting in the evening.
+148,Paris,2017-03-22,54.97,40.12,Mostly cloudy throughout the day.
+149,Paris,2017-03-18,57.35,44.89,Overcast throughout the day.
+150,Paris,2017-03-17,56.51,45.86,Mostly cloudy throughout the day.
+151,Paris,2017-03-14,60.08,38.11,Mostly cloudy throughout the day.
+152,Paris,2017-03-10,52.45,41.98,Foggy in the morning.
+153,Paris,2017-03-03,59.21,42.19,Overcast throughout the day.
+154,Paris,2017-02-15,61.86,43.26,Mostly cloudy throughout the day.
+155,Paris,2017-02-05,51.76,40.92,Mostly cloudy throughout the day.
+156,Paris,2017-01-27,47.52,29.97,Mostly cloudy in the morning.
+157,Paris,2017-01-20,34.18,23.89,Clear throughout the day.
+158,Paris,2017-01-04,42.23,32.26,Mostly cloudy throughout the day.
+159,Paris,2017-01-03,34.1,32.08,Foggy throughout the day.
+160,Paris,2017-01-01,31.7,24.69,Foggy throughout the day.
+161,Paris,2016-12-29,37.73,28.41,Foggy starting in the evening.
+162,Paris,2016-12-28,46.24,31.76,Partly cloudy throughout the day.
+163,Paris,2016-12-12,42.73,39.02,Foggy in the morning.
+164,Paris,2016-12-11,51.06,40.34,Foggy overnight.
+165,Paris,2016-11-27,48.29,40.59,Mostly cloudy throughout the day.
+166,Paris,2016-11-24,55.59,48.77,Mostly cloudy throughout the day.
+167,Paris,2016-11-01,59.11,40.57,Mostly cloudy throughout the day.
+168,Paris,2016-10-31,64.4,44.14,Partly cloudy in the morning.
+169,Paris,2016-10-27,59.03,46.63,Foggy in the morning.
+170,Paris,2016-10-21,56.17,49.01,Mostly cloudy throughout the day.
+171,Paris,2016-09-20,68.09,59.02,Mostly cloudy throughout the day.
+172,Paris,2016-09-17,62.83,55.09,Mostly cloudy throughout the day.
+173,Paris,2016-09-15,67.98,60.28,Mostly cloudy throughout the day.
+174,Paris,2016-08-24,96.61,65.81,Partly cloudy starting in the evening.
+175,Paris,2016-08-23,90.06,62.49,Clear throughout the day.
+176,Paris,2016-08-19,73.4,62.96,Mostly cloudy throughout the day.
+177,Paris,2016-07-25,78.8,69.54,Mostly cloudy throughout the day.
+178,Paris,2016-07-23,81.46,60.97,Partly cloudy until evening.
+179,Paris,2016-07-20,84.4,71.04,Mostly cloudy throughout the day.
+180,Paris,2016-07-05,71.88,60.71,Mostly cloudy until evening.
+181,Paris,2016-07-02,67.79,57.13,Mostly cloudy throughout the day.
+182,Paris,2016-06-27,71.45,59.64,Mostly cloudy throughout the day.
+183,Paris,2016-06-19,70.29,55.87,Mostly cloudy throughout the day.
+184,Paris,2016-06-15,68.63,53.78,Mostly cloudy throughout the day.
+185,Paris,2016-06-05,67.34,57.21,Foggy in the morning.
+186,Paris,2016-05-27,75.77,55.72,Partly cloudy throughout the day.
+187,Paris,2016-05-17,66.04,43.0,Mostly cloudy throughout the day.
+188,Paris,2016-04-30,50.2,42.68,Mostly cloudy throughout the day.
+189,Paris,2016-03-27,56.12,44.42,Mostly cloudy throughout the day.
+190,Paris,2016-03-09,47.68,40.44,Rain in the morning.
+191,Paris,2016-02-11,47.13,37.36,Mostly cloudy throughout the day.
+192,Paris,2016-02-02,53.57,44.21,Mostly cloudy throughout the day.
+193,Paris,2016-01-16,42.59,30.77,Mostly cloudy throughout the day.
+194,Paris,2016-01-13,44.59,38.0,Mostly cloudy throughout the day.
+195,Paris,2016-01-03,46.68,42.95,"Rain starting in the afternoon, continuing until evening."
+196,Paris,2017-08-01,80.03,60.42,Mostly cloudy throughout the day.
+197,Paris,2017-07-31,75.61,57.56,Mostly cloudy throughout the day.
+198,Paris,2017-07-24,68.7,56.57,Mostly cloudy throughout the day.
+199,Paris,2017-07-23,70.72,56.62,Mostly cloudy throughout the day.
+200,Paris,2017-07-18,92.39,66.09,Clear throughout the day.
+201,Paris,2017-07-11,75.46,58.78,Mostly cloudy throughout the day.
+202,Paris,2017-06-26,83.27,60.49,Mostly cloudy throughout the day.
+203,Paris,2017-05-14,67.89,52.52,Mostly cloudy throughout the day.
+204,Paris,2017-05-11,68.32,55.2,Mostly cloudy throughout the day.
+205,Paris,2017-05-10,70.55,40.71,Mostly cloudy starting in the afternoon.
+206,Paris,2017-05-08,53.66,48.16,Mostly cloudy throughout the day.
+207,Paris,2017-05-01,60.08,45.66,Mostly cloudy throughout the day.
+208,Paris,2017-04-27,52.02,33.99,Mostly cloudy throughout the day.
+209,Paris,2017-04-24,64.02,35.2,Mostly cloudy throughout the day.
+210,Paris,2017-04-01,62.46,48.31,Mostly cloudy throughout the day.
+211,Paris,2017-03-29,69.0,44.13,Mostly cloudy until afternoon.
+212,Paris,2017-03-25,65.56,44.89,Clear throughout the day.
+213,Paris,2017-03-13,59.54,42.93,Mostly cloudy starting in the afternoon.
+214,Paris,2017-03-11,63.37,36.09,Mostly cloudy throughout the day.
+215,Paris,2017-03-04,54.59,44.3,Light rain in the afternoon.
+216,Paris,2017-02-25,53.09,29.41,Mostly cloudy throughout the day.
+217,Paris,2017-02-04,45.61,39.34,Light rain in the morning.
+218,Paris,2017-01-23,32.77,25.53,Foggy throughout the day.
+219,Paris,2017-01-22,41.24,21.1,"Partly cloudy starting in the afternoon, continuing until evening."
+220,Paris,2017-01-06,35.79,24.76,Partly cloudy until evening.
+221,Paris,2016-12-18,40.65,36.85,Foggy until evening.
+222,Paris,2016-12-13,47.83,41.74,Overcast throughout the day.
+223,Paris,2016-12-10,43.27,35.18,Foggy throughout the day.
+224,Paris,2016-11-21,60.31,52.8,Mostly cloudy throughout the day.
+225,Paris,2016-11-20,55.05,47.13,Mostly cloudy throughout the day and breezy in the morning.
+226,Paris,2016-11-16,54.9,53.59,Overcast throughout the day.
+227,Paris,2016-11-13,49.88,43.35,Foggy in the morning.
+228,Paris,2016-11-09,49.46,41.89,Mostly cloudy throughout the day.
+229,Paris,2016-10-10,57.85,35.51,Mostly cloudy throughout the day.
+230,Paris,2016-10-05,63.26,49.09,Partly cloudy in the morning.
+231,Paris,2016-09-29,71.33,57.19,Mostly cloudy throughout the day.
+232,Paris,2016-09-08,76.84,57.48,"Partly cloudy starting in the afternoon, continuing until evening."
+233,Paris,2016-08-16,86.7,59.09,Partly cloudy starting in the evening.
+234,Paris,2016-07-04,70.96,59.21,Mostly cloudy throughout the day.
+235,Paris,2016-06-25,69.97,59.23,Mostly cloudy throughout the day.
+236,Paris,2016-06-13,64.35,54.75,Mostly cloudy throughout the day.
+237,Paris,2016-05-30,60.43,54.97,Rain in the morning and afternoon.
+238,Paris,2016-05-21,76.36,55.9,Mostly cloudy throughout the day.
+239,Paris,2016-05-15,59.8,38.69,Mostly cloudy throughout the day.
+240,Paris,2016-05-13,72.69,57.35,Foggy until afternoon.
+241,Paris,2016-05-10,64.36,58.54,Foggy overnight.
+242,Paris,2016-04-21,70.28,51.35,Mostly cloudy throughout the day.
+243,Paris,2016-03-28,57.41,45.28,Mostly cloudy throughout the day.
+244,Paris,2016-03-22,54.98,43.23,Partly cloudy until evening.
+245,Paris,2016-02-23,50.13,36.88,Mostly cloudy until evening.
+246,Paris,2016-02-09,54.5,38.13,Rain in the morning.
+247,Paris,2016-02-08,52.32,45.86,Mostly cloudy throughout the day.
+248,Paris,2016-01-26,53.4,45.12,Mostly cloudy throughout the day.
+249,Paris,2016-01-24,52.19,42.32,Mostly cloudy throughout the day.
+250,Paris,2016-01-23,45.25,42.87,Foggy in the morning.
+251,Paris,2016-01-20,31.32,24.32,Foggy until afternoon.
+252,Paris,2016-01-04,49.92,42.67,Mostly cloudy throughout the day.
+253,Paris,2017-08-03,80.13,65.4,Mostly cloudy throughout the day.
+254,Paris,2017-07-22,69.92,58.65,Mostly cloudy throughout the day.
+255,Paris,2017-07-20,72.55,62.46,Mostly cloudy throughout the day.
+256,Paris,2017-07-14,73.95,56.58,Mostly cloudy throughout the day.
+257,Paris,2017-07-08,87.19,64.39,Partly cloudy throughout the day.
+258,Paris,2017-07-07,92.3,68.2,Partly cloudy throughout the day.
+259,Paris,2017-07-04,83.23,54.88,Mostly cloudy starting in the evening.
+260,Paris,2017-07-03,77.12,54.93,Mostly cloudy until evening.
+261,Paris,2017-06-27,76.38,66.38,Mostly cloudy throughout the day.
+262,Paris,2017-06-22,94.36,70.72,Mostly cloudy throughout the day.
+263,Paris,2017-06-12,70.9,57.19,Mostly cloudy until evening.
+264,Paris,2017-06-07,67.91,50.39,Mostly cloudy throughout the day.
+265,Paris,2017-05-15,75.95,50.59,Mostly cloudy throughout the day.
+266,Paris,2017-04-19,52.48,35.64,Partly cloudy until afternoon.
+267,Paris,2017-03-16,69.04,39.24,Clear throughout the day.
+268,Paris,2017-02-18,53.14,34.96,Foggy in the morning.
+269,Paris,2017-02-17,51.56,39.38,Foggy until afternoon.
+270,Paris,2017-01-15,38.12,31.1,Foggy overnight.
+271,Paris,2016-12-26,52.17,37.9,Mostly cloudy until evening.
+272,Paris,2016-11-02,53.9,39.0,Mostly cloudy throughout the day.
+273,Paris,2016-10-17,64.31,50.99,Mostly cloudy throughout the day.
+274,Paris,2016-09-09,79.35,52.69,Clear throughout the day.
+275,Paris,2016-07-17,83.75,60.97,"Partly cloudy starting in the afternoon, continuing until evening."
+276,Paris,2016-06-30,71.78,61.68,Mostly cloudy throughout the day.
+277,Paris,2016-06-20,63.26,58.45,"Rain starting in the afternoon, continuing until evening."
+278,Paris,2016-06-02,56.61,53.45,Overcast throughout the day.
+279,Paris,2016-05-22,65.49,54.09,"Rain starting in the afternoon, continuing until evening."
+280,Paris,2016-05-20,69.12,51.4,Mostly cloudy throughout the day.
+281,Paris,2016-04-26,47.46,37.69,Mostly cloudy throughout the day.
+282,Paris,2016-02-16,43.63,30.3,Clear throughout the day.
+283,Paris,2016-02-07,55.08,44.69,Mostly cloudy throughout the day.
+284,Paris,2016-01-27,53.97,50.07,Mostly cloudy throughout the day.
+285,Paris,2016-01-01,46.44,39.25,Foggy in the morning.
+286,Paris,2015-12-20,56.76,51.19,Mostly cloudy throughout the day.
+287,Paris,2015-12-16,58.26,52.41,Mostly cloudy throughout the day.
+288,Paris,2015-10-30,61.79,47.04,Mostly cloudy until evening.
+289,Paris,2015-10-16,45.87,39.39,Foggy until afternoon.
+290,Paris,2015-09-30,65.64,47.73,Clear throughout the day.
+291,Paris,2015-09-25,64.57,52.83,Mostly cloudy throughout the day.
+292,Paris,2015-09-24,62.81,48.89,Foggy overnight.
+293,Paris,2015-09-09,73.41,50.58,Clear throughout the day.
+294,Paris,2015-08-22,87.35,61.81,Partly cloudy starting in the evening.
+295,Paris,2015-08-12,91.36,67.88,Mostly cloudy throughout the day.
+296,Paris,2017-07-27,72.22,62.9,Mostly cloudy throughout the day.
+297,Paris,2017-07-19,84.59,73.42,Mostly cloudy throughout the day.
+298,Paris,2017-06-25,80.08,64.16,Mostly cloudy throughout the day.
+299,Paris,2017-06-08,80.85,53.77,Mostly cloudy throughout the day.

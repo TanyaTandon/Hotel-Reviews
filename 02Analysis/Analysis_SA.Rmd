@@ -1,0 +1,51 @@
+---
+title: "Analysis_SA"
+author: "Saurabh Annadate"
+date: "2/15/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Loading all the data and the libraries
+```{r}
+
+source('dataLoad.R', chdir = T)
+
+```
+
+
+# Creating the final dataset for analysis
+```{r}
+
+summary(Hotel_pred_df)
+str(Hotel_pred_df)
+lm_fit <- lm((Reviewer_Score^2) ~ ., data =train)
+summary(lm_fit)
+```
+
+
+# Linear Regression Model
+
+## Fitting the model
+```{r}
+lm_fit <- lm((Reviewer_Score^2) ~ ., data = train[ c(1,2,3,4,5,7,10,15,16, 19,20, 23,24,25,26,27,28,29,31,39,42,43,44,4)])
+
+## NOTE: Response ^ 2 has been modeled as this provides better model diagnostics
+
+summary(lm_fit)
+
+```
+
+
+## Checking model diagnostics
+```{r}
+plot(lm_fit)
+
+hist(lm_fit$residuals)
+```
+
+
+

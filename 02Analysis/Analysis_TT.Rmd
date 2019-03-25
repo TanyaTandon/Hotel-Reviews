@@ -1,0 +1,101 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Loading all the data and the libraries
+```{r}
+
+source('dataLoad.R', chdir = T)
+
+```
+
+
+# Creating the final dataset for analysis
+
+```{r}
+
+summary(Hotel_pred_df)
+str(Hotel_pred_df)
+
+```
+
+
+```{r}
+
+library(ggplot2)   # plotting
+library(earth)     # fit MARS models
+library(caret)     # automating the tuning process
+library(vip)       # variable importance
+library(pdp)      # variable relationships
+```
+```{r}
+Hotel_pred_df <- Hotel_pred_df[,-c(1)]
+test <- test[,-c(1)]
+train <- train[,-c(1)]
+
+Hotel_pred_df <- Hotel_pred_df[,-c(2)]
+test <- test[,-c(2)]
+train <- train[,-c(2)]
+
+Hotel_pred_df$other_cust <- as.factor(Hotel_pred_df$other_cus)
+test$other_cust <- as.factor(test$other_cus)
+train$other_cust <- as.factor(train$other_cus)
+
+Hotel_pred_df$CommonScore <- as.factor(Hotel_pred_df$CommonScore)
+test$CommonScore <- as.factor(test$CommonScore)
+train$CommonScore <- as.factor(train$CommonScore)
+
+Hotel_pred_df$tourists <- as.factor(Hotel_pred_df$tourists)
+test$tourists <- as.factor(test$tourists)
+train$tourists <- as.factor(train$tourists)
+train$log_review_neg_word_count <- NULL
+train$log_review_pos_word_count<- NULL
+
+test$log_review_neg_word_count <- NULL
+test$log_review_pos_word_count<- NULL
+```
+
+
+
+
+```{r}
+m1 <- earth( (Reviewer_Score) ~ ., data= train,  degree = 1)
+print(m1)
+yhat <- predict( m1, test)
+y <- as.matrix(test$Reviewer_Score)
+yhat <- as.matrix(as.numeric(yhat))
+
+MSE <- sum((y-yhat)^2)/nrow(y)
+r2<-1-MSE/var(y);
+r2
+plot(m1, which=1)
+summary(m1) %>% .$coefficients %>% head(10)
+
+
+p2 <- vip(m1, num_features = 40, bar = FALSE)
+p2
+
+```
+
+
+
+#Trying other degrees
+```{r}
+#hyper_grid <- expand.grid(
+ # degree = 1:3, 
+#  nprune = seq(20, 80, length.out = 3) %>% floor()
+#  )
+
+
+#for (i in 1:9) {
+ # print(" degree  ---->" )
+#  print(hyper_grid$degree[i])
+ # print( "nprune ---->")
+#  print(hyper_grid$nprune[i])
+
+ # m5 <- earth( (Reviewer_Score) ~ ., nprune=  hyper_grid$nprune[i] , data= train,  degree = hyper_grid$degree[i])
+#  print(m5)
+ #}
+
+```

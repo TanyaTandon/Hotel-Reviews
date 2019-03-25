@@ -1,0 +1,127 @@
+---
+title: "PA2 Project Data Exploration"
+author: "Tony Colucci"
+date: "February 1, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+# Read in Data
+```{r}
+reviewDf <- read.csv("../00Data/Hotel_Reviews_v2.csv", stringsAsFactors = FALSE)
+str(reviewDf)
+```
+
+## Feature for total review length
+```{r}
+reviewDf <- reviewDf %>%
+  mutate(Review_Total_Word_Count = Review_Total_Negative_Word_Counts + Review_Total_Positive_Word_Counts)
+```
+
+## Check NAs and 0 count
+```{r}
+# sapply(reviewDf, function(y) sum(length(which(is.na(y)))))
+sapply(select(reviewDf, Review_Total_Negative_Word_Counts, 
+                        Review_Total_Positive_Word_Counts, 
+                        Total_Number_of_Reviews_Reviewer_Has_Given, 
+                        Review_Total_Word_Count), 
+              function(y) sum(length(which(y == 0))))
+sum(length(filter(reviewDf, Review_Total_Negative_Word_Counts == 0 & Review_Total_Positive_Word_Counts == 0)))
+```
+127890 reviews with no negative part, 35946 reviews with no positive part, 21 reviews with no positive or negative
+
+## Create log count variables
+```{r}
+reviewLogDf <- mutate(reviewDf,
+                   log_review_neg_word_count = log(Review_Total_Negative_Word_Counts + 1),
+                   log_review_pos_word_count = log(Review_Total_Positive_Word_Counts + 1),
+                   log_review_word_count = log(Review_Total_Word_Count + 1),
+                   log_num_reviews_given = log(Total_Number_of_Reviews_Reviewer_Has_Given + 1))
+```
+
+## Histogram our log counts
+```{r}
+# summary(select(reviewDf, Review_Total_Negative_Word_Counts, Review_Total_Positive_Word_Counts, Total_Number_of_Reviews_Reviewer_Has_Given))
+ggplot(reviewLogDf, aes(log_review_neg_word_count)) +
+  geom_histogram(binwidth = 0.5)
+# ggplot(filter(reviewLogDf, Review_Total_Negative_Word_Counts > 0 & Review_Total_Negative_Word_Counts < 11), aes(Review_Total_Negative_Word_Counts)) +
+#   geom_histogram(binwidth = 1)
+# head(filter(reviewLogDf, Review_Total_Negative_Word_Counts == 2))
+```
+
+Outside of zero-length reviews, close to a normal distribution for the log-transformed count, with a slightly longer right tail
+
+
+```{r}
+ggplot(reviewLogDf, aes(log_review_pos_word_count)) +
+  geom_histogram(binwidth = 0.5)
+# head(filter(reviewLogDf, Review_Total_Positive_Word_Counts == 2))
+```
+Close to a normal distribution, with a slightly longer right tail
+
+```{r}
+ggplot(reviewLogDf, aes(log_review_word_count)) +
+  geom_histogram(binwidth = 0.5)
+# head(filter(reviewLogDf, Review_Total_Positive_Word_Counts == 2))
+```
+
+```{r}
+ggplot(reviewLogDf, aes(log_num_reviews_given)) +
+  geom_histogram(binwidth = 0.5)
+```
+Still very right skewed
+
+## Generate feature for percent positive of total review
+```{r}
+reviewLogDf <- reviewLogDf %>%
+  mutate(pct_positive =
+         ifelse(Review_Total_Word_Count > 50, Review_Total_Positive_Word_Counts / Review_Total_Word_Count,
+            ifelse(Review_Total_Word_Count >= 1, (((Review_Total_Positive_Word_Counts / Review_Total_Word_Count) - 0.5) * Review_Total_Word_Count /                50) + 0.5, 0.5)) 
+         
+         )
+
+# select(filter(reviewLogDf, Review_Total_Word_Count > 0), pct_positive)  <- (((Review_Total_Positive_Word_Counts / Review_Total_Word_Count) - 0.5) * Review_Total_Word_Count / 50) + 0.5
+# select(filter(reviewLogDf, Review_Total_Word_Count > 50), pct_positive) <- Review_Total_Positive_Word_Counts / Review_Total_Word_Count
+
+  #           
+  #          {
+  #            Review_Total_Positive_Word_Counts / Review_Total_Word_Count
+  #          }
+  #          ifelse(reviewLogDf$Review_Total_Word_Count >= 1) 
+  #          {
+  #            (((Review_Total_Positive_Word_Counts / Review_Total_Word_Count) - 0.5) * Review_Total_Word_Count / 50) + 0.5
+  #          }
+  #          else {0.5}
+  # )
+
+sum(is.na(reviewLogDf$pct_positive))
+
+ggplot(reviewLogDf, aes(pct_positive)) +
+  geom_histogram(binwidth = 0.01)
+```
+
+## Scatter Plots/Covariance
+```{r}
+cor(select(reviewLogDf, log_review_neg_word_count, log_review_pos_word_count, log_num_reviews_given))
+# pairs(select(reviewDf, log_review_neg_word_count, log_review_pos_word_count, log_num_reviews_given))
+```
+Essentially no linear relationship between these features.
+
+```{r}
+ggplot(reviewLogDf, aes(pct_positive, Reviewer_Score)) +
+  geom_jitter()
+```
+
+```{r}
+head(reviewLogDf)
+reviewLogDf_rev_det <- reviewLogDf[,c(1,20:24)]
+write.csv(reviewLogDf_rev_det, 'review_details.csv')
+```
+

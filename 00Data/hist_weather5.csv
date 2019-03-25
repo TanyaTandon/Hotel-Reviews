@@ -1,0 +1,1001 @@
+,City,Date,TempHigh,TempLow,Summary
+0,Barcelona,2016-07-21,82.96,74.87,Partly cloudy in the morning.
+1,Barcelona,2016-07-09,89.52,75.5,Clear throughout the day.
+2,Barcelona,2016-07-07,84.4,73.01,Clear throughout the day.
+3,Barcelona,2016-07-06,84.64,74.54,Clear throughout the day.
+4,Barcelona,2016-07-04,81.0,69.79,Clear throughout the day.
+5,Barcelona,2016-06-24,82.34,66.43,Clear throughout the day.
+6,Barcelona,2016-05-16,69.53,59.56,Partly cloudy in the morning.
+7,Barcelona,2016-05-01,68.9,47.26,Clear throughout the day.
+8,Barcelona,2016-04-21,65.38,54.38,Heavy rain until afternoon.
+9,Barcelona,2016-04-20,69.19,58.27,Light rain overnight.
+10,Barcelona,2016-04-13,71.85,55.3,Partly cloudy in the morning.
+11,Barcelona,2016-04-11,67.99,54.59,Partly cloudy in the morning.
+12,Barcelona,2016-04-06,67.54,53.35,Partly cloudy in the morning.
+13,Barcelona,2016-03-15,56.26,47.47,Partly cloudy until evening.
+14,Barcelona,2016-03-13,57.36,43.18,Partly cloudy starting in the afternoon.
+15,Barcelona,2016-03-12,58.03,44.01,Clear throughout the day.
+16,Barcelona,2016-03-08,55.77,45.6,Partly cloudy in the morning.
+17,Barcelona,2016-03-07,56.25,44.36,Partly cloudy starting in the afternoon.
+18,Barcelona,2016-03-04,61.9,46.33,Partly cloudy overnight.
+19,Barcelona,2016-03-01,65.23,44.94,Clear throughout the day.
+20,Barcelona,2016-02-16,56.16,38.96,Clear throughout the day.
+21,Barcelona,2016-02-11,56.68,51.09,Light rain in the morning.
+22,Barcelona,2016-02-06,57.84,47.1,Mostly cloudy throughout the day.
+23,Barcelona,2016-01-31,61.99,47.29,Clear throughout the day.
+24,Barcelona,2016-01-30,62.06,49.64,Clear throughout the day.
+25,Barcelona,2016-01-16,54.86,40.74,Clear throughout the day.
+26,Barcelona,2016-01-13,57.0,43.92,Partly cloudy until evening.
+27,Barcelona,2016-01-07,67.48,51.44,Clear throughout the day.
+28,Barcelona,2015-12-27,61.97,46.32,Mostly cloudy in the morning.
+29,Barcelona,2015-12-26,61.38,44.67,Clear throughout the day.
+30,Barcelona,2015-12-20,57.8,53.96,Mostly cloudy throughout the day.
+31,Barcelona,2015-12-18,61.3,47.63,Mostly cloudy overnight.
+32,Barcelona,2015-12-13,59.67,46.88,Clear throughout the day.
+33,Barcelona,2015-12-09,65.04,52.54,Partly cloudy in the afternoon.
+34,Barcelona,2015-12-08,64.48,54.98,Mostly cloudy until afternoon.
+35,Barcelona,2015-12-05,59.48,50.54,Mostly cloudy starting in the evening.
+36,Barcelona,2015-12-04,60.58,46.44,Foggy in the morning.
+37,Barcelona,2015-12-03,60.0,46.81,Mostly cloudy in the morning.
+38,Barcelona,2015-12-01,61.84,45.68,Clear throughout the day.
+39,Barcelona,2015-11-29,58.29,44.91,Partly cloudy in the morning.
+40,Barcelona,2015-11-28,61.95,44.98,Clear throughout the day.
+41,Barcelona,2015-11-26,60.5,45.98,Partly cloudy starting in the evening.
+42,Barcelona,2015-11-25,60.63,45.42,Clear throughout the day.
+43,Barcelona,2015-11-23,55.87,39.84,Partly cloudy in the morning.
+44,Barcelona,2015-11-05,70.11,57.35,Mostly cloudy overnight.
+45,Barcelona,2015-11-01,68.17,59.64,Partly cloudy starting in the evening.
+46,Barcelona,2015-10-29,71.07,53.54,Clear throughout the day.
+47,Barcelona,2015-10-25,66.94,58.91,Partly cloudy in the afternoon.
+48,Barcelona,2015-10-10,74.02,57.49,Clear throughout the day.
+49,Barcelona,2015-10-09,71.01,59.35,Partly cloudy until evening.
+50,Barcelona,2015-10-08,70.94,61.29,Partly cloudy throughout the day.
+51,Barcelona,2015-10-06,82.9,68.03,Clear throughout the day.
+52,Barcelona,2015-10-03,73.6,63.31,Heavy rain in the morning.
+53,Barcelona,2015-09-30,65.66,63.7,Rain until evening.
+54,Barcelona,2015-09-24,74.65,61.53,Mostly cloudy in the morning.
+55,Barcelona,2015-09-06,75.12,64.28,Partly cloudy throughout the day.
+56,Barcelona,2015-08-27,84.44,72.08,Partly cloudy until afternoon.
+57,Barcelona,2015-08-26,83.12,68.97,"Partly cloudy starting in the afternoon, continuing until evening."
+58,Barcelona,2015-08-18,74.47,64.36,Rain until afternoon.
+59,Barcelona,2015-08-17,77.69,70.25,Partly cloudy throughout the day.
+60,Barcelona,2015-08-16,79.99,63.72,Partly cloudy until afternoon.
+61,Barcelona,2015-08-13,85.99,76.66,Partly cloudy until evening and humid throughout the day.
+62,Amsterdam,2017-06-03,71.71,59.47,Partly cloudy throughout the day.
+63,Amsterdam,2016-03-11,41.64,34.89,Foggy in the morning.
+64,Amsterdam,2016-09-28,68.89,61.89,Partly cloudy throughout the day.
+65,Barcelona,2017-07-28,84.37,74.71,Partly cloudy until afternoon.
+66,Barcelona,2017-05-19,70.06,53.82,"Partly cloudy starting in the afternoon, continuing until evening."
+67,Barcelona,2017-05-04,67.04,53.82,Partly cloudy in the morning.
+68,Barcelona,2017-03-31,64.93,52.42,Partly cloudy starting in the evening.
+69,Barcelona,2017-02-20,62.73,46.93,Clear throughout the day.
+70,Barcelona,2017-02-19,61.6,50.01,Partly cloudy starting in the evening.
+71,Barcelona,2017-02-17,62.55,47.04,Partly cloudy in the morning.
+72,Barcelona,2017-01-25,45.57,42.67,Mostly cloudy throughout the day.
+73,Barcelona,2017-01-16,55.04,39.63,Clear throughout the day.
+74,Barcelona,2017-01-15,55.24,38.86,Clear throughout the day.
+75,Barcelona,2016-12-27,61.41,45.12,Clear throughout the day.
+76,Barcelona,2016-12-13,59.9,44.92,Mostly cloudy until afternoon.
+77,Barcelona,2016-12-07,62.7,44.87,Clear throughout the day.
+78,Barcelona,2016-12-01,58.6,43.71,Clear throughout the day.
+79,Barcelona,2016-11-29,59.13,48.59,Mostly cloudy throughout the day.
+80,Barcelona,2016-11-28,59.77,49.39,Partly cloudy starting in the afternoon.
+81,Barcelona,2016-11-18,66.5,49.81,Partly cloudy overnight.
+82,Barcelona,2016-11-13,63.52,50.78,Partly cloudy overnight.
+83,Barcelona,2016-10-03,74.85,68.1,Mostly cloudy throughout the day.
+84,Barcelona,2016-09-21,78.75,63.63,Partly cloudy in the morning.
+85,Barcelona,2016-09-05,89.6,75.81,Clear throughout the day.
+86,Barcelona,2016-08-25,86.05,68.45,Clear throughout the day.
+87,Barcelona,2016-08-20,83.31,73.59,Partly cloudy until afternoon.
+88,Barcelona,2016-08-17,86.39,71.76,Partly cloudy in the evening.
+89,Barcelona,2016-08-14,82.42,66.37,Clear throughout the day.
+90,Barcelona,2016-07-30,87.6,73.52,Clear throughout the day.
+91,Barcelona,2016-07-25,86.84,71.73,Partly cloudy in the afternoon.
+92,Barcelona,2016-07-15,78.6,65.44,Partly cloudy in the morning.
+93,Barcelona,2016-07-12,82.38,74.26,Partly cloudy until afternoon.
+94,Barcelona,2016-07-08,88.27,77.23,Partly cloudy in the evening.
+95,Barcelona,2016-07-01,83.69,70.5,Partly cloudy in the morning.
+96,Barcelona,2016-06-14,82.55,67.54,Partly cloudy in the morning.
+97,Barcelona,2016-06-12,78.62,65.99,Partly cloudy starting in the evening.
+98,Barcelona,2016-06-04,75.5,62.33,Clear throughout the day.
+99,Barcelona,2016-05-30,71.57,59.69,Partly cloudy throughout the day.
+100,Barcelona,2016-05-27,75.24,59.91,Clear throughout the day.
+101,Barcelona,2016-05-26,73.62,61.67,Mostly cloudy in the morning.
+102,Barcelona,2016-05-12,70.32,53.78,"Partly cloudy starting in the afternoon, continuing until evening."
+103,Barcelona,2016-05-04,70.92,54.15,Clear throughout the day.
+104,Barcelona,2016-04-30,62.07,54.46,Light rain in the morning.
+105,Barcelona,2016-04-25,62.69,49.86,Partly cloudy until afternoon.
+106,Barcelona,2016-03-26,65.31,50.71,Partly cloudy until afternoon.
+107,Barcelona,2016-03-24,61.63,47.26,Clear throughout the day.
+108,Barcelona,2016-03-14,57.86,45.37,Partly cloudy throughout the day.
+109,Barcelona,2016-03-02,67.03,49.37,"Partly cloudy starting in the afternoon, continuing until evening."
+110,Barcelona,2016-02-15,57.18,44.85,Partly cloudy starting in the evening.
+111,Barcelona,2016-01-27,63.71,47.93,Partly cloudy starting in the evening.
+112,Barcelona,2016-01-25,61.64,53.21,Mostly cloudy throughout the day.
+113,Barcelona,2016-01-09,65.74,57.14,Clear throughout the day.
+114,Barcelona,2016-01-01,59.63,49.04,Partly cloudy throughout the day.
+115,Barcelona,2015-12-24,62.18,52.31,Mostly cloudy until evening.
+116,Barcelona,2015-12-07,60.51,54.21,Foggy in the morning.
+117,Barcelona,2015-10-19,69.04,62.61,Mostly cloudy until evening.
+118,Barcelona,2015-10-18,70.53,60.97,Mostly cloudy until evening.
+119,Barcelona,2015-10-02,73.21,59.05,Partly cloudy until afternoon.
+120,Barcelona,2015-10-01,69.59,60.39,Rain overnight.
+121,Barcelona,2015-08-20,82.64,68.66,Partly cloudy throughout the day.
+122,Barcelona,2017-07-22,84.63,71.85,Partly cloudy until afternoon.
+123,Barcelona,2017-07-18,86.78,72.97,Clear throughout the day.
+124,Barcelona,2017-06-29,80.53,65.38,"Partly cloudy starting in the afternoon, continuing until evening."
+125,Barcelona,2017-06-27,81.67,72.88,Partly cloudy until evening.
+126,Barcelona,2017-05-25,84.94,66.84,Clear throughout the day.
+127,Barcelona,2017-05-14,74.01,61.93,Clear throughout the day.
+128,Barcelona,2017-04-15,68.01,56.96,Clear throughout the day.
+129,Barcelona,2017-04-04,72.47,51.97,Partly cloudy in the evening.
+130,Barcelona,2017-03-18,67.68,50.28,Clear throughout the day.
+131,Barcelona,2017-02-25,57.85,43.76,Partly cloudy in the morning.
+132,Barcelona,2017-02-02,57.54,50.13,Mostly cloudy until afternoon.
+133,Barcelona,2017-01-21,53.38,48.03,Mostly cloudy throughout the day.
+134,Barcelona,2017-01-17,46.2,35.32,Clear throughout the day.
+135,Barcelona,2017-01-14,53.14,39.87,Clear throughout the day.
+136,Barcelona,2017-01-13,56.21,44.49,Clear throughout the day.
+137,Barcelona,2017-01-11,56.59,39.21,Mostly cloudy starting in the evening.
+138,Barcelona,2017-01-06,53.59,35.96,Clear throughout the day.
+139,Barcelona,2017-01-04,56.9,45.63,Mostly cloudy until afternoon.
+140,Barcelona,2017-01-02,56.83,40.44,Clear throughout the day.
+141,Barcelona,2016-12-20,55.94,48.46,Light rain starting in the evening.
+142,Barcelona,2016-12-11,60.88,47.66,Clear throughout the day.
+143,Barcelona,2016-11-26,59.89,47.69,Light rain in the evening.
+144,Barcelona,2016-11-08,59.99,43.12,Clear throughout the day.
+145,Barcelona,2016-11-03,67.75,53.3,Partly cloudy starting in the afternoon.
+146,Barcelona,2016-10-28,69.97,58.74,Partly cloudy throughout the day.
+147,Barcelona,2016-10-23,73.21,60.37,Mostly cloudy throughout the day.
+148,Barcelona,2016-10-12,66.96,55.44,Heavy rain starting in the afternoon.
+149,Barcelona,2016-10-10,64.18,61.56,Mostly cloudy throughout the day.
+150,Barcelona,2016-10-09,67.85,63.42,Mostly cloudy throughout the day.
+151,Barcelona,2016-10-05,75.66,62.98,Clear throughout the day.
+152,Barcelona,2016-09-12,85.24,71.64,Partly cloudy in the afternoon.
+153,Barcelona,2016-09-11,86.54,70.4,Clear throughout the day.
+154,Barcelona,2016-09-09,83.93,73.76,Partly cloudy until evening.
+155,Barcelona,2016-08-10,78.65,69.36,Partly cloudy throughout the day.
+156,Barcelona,2016-07-23,82.34,68.34,"Partly cloudy starting in the afternoon, continuing until evening."
+157,Barcelona,2016-06-08,80.27,66.63,Clear throughout the day.
+158,Barcelona,2016-06-03,75.22,60.25,Clear throughout the day.
+159,Barcelona,2016-06-02,72.43,59.24,Clear throughout the day.
+160,Barcelona,2016-05-23,70.36,54.01,Clear throughout the day.
+161,Barcelona,2016-05-13,68.44,54.75,"Partly cloudy starting in the afternoon, continuing until evening."
+162,Barcelona,2016-05-05,67.93,53.98,Partly cloudy starting in the evening.
+163,Barcelona,2016-05-02,74.47,50.38,Clear throughout the day.
+164,Barcelona,2016-04-16,74.28,54.15,Clear throughout the day.
+165,Barcelona,2016-04-09,65.15,47.72,Clear throughout the day.
+166,Barcelona,2016-03-27,60.78,52.49,Partly cloudy until morning.
+167,Barcelona,2016-03-18,57.58,43.81,"Partly cloudy starting in the afternoon, continuing until evening."
+168,Barcelona,2016-01-17,53.24,37.33,Clear throughout the day.
+169,Barcelona,2015-12-15,65.64,46.02,Clear throughout the day.
+170,Barcelona,2015-12-11,60.83,47.6,Clear throughout the day.
+171,Barcelona,2015-11-30,61.97,44.45,Clear throughout the day.
+172,Barcelona,2015-11-16,70.92,50.61,Clear throughout the day.
+173,Barcelona,2015-11-12,66.2,54.61,Mostly cloudy throughout the day.
+174,Barcelona,2015-11-06,72.78,57.18,Foggy in the morning.
+175,Barcelona,2015-11-02,66.53,61.78,Heavy rain starting in the afternoon.
+176,Barcelona,2015-10-22,68.66,51.14,Partly cloudy in the morning.
+177,Barcelona,2015-10-14,67.18,58.56,Partly cloudy throughout the day.
+178,Barcelona,2015-10-05,82.45,66.55,Partly cloudy in the morning.
+179,Barcelona,2015-09-19,75.31,61.42,Partly cloudy starting in the afternoon.
+180,Barcelona,2015-09-07,75.45,63.59,Partly cloudy starting in the evening.
+181,Barcelona,2015-08-30,84.8,70.09,Partly cloudy in the afternoon.
+182,Barcelona,2015-08-07,88.03,75.51,Humid throughout the day and partly cloudy starting in the evening.
+183,Barcelona,2017-05-28,79.15,62.56,Clear throughout the day.
+184,Barcelona,2017-03-25,57.91,41.41,Heavy rain in the morning.
+185,Barcelona,2016-10-29,71.65,55.98,Foggy in the morning.
+186,Barcelona,2016-08-15,85.23,68.59,Clear throughout the day.
+187,Barcelona,2015-09-16,83.36,69.48,Partly cloudy in the morning.
+188,Barcelona,2017-02-09,56.23,40.21,Clear throughout the day.
+189,Barcelona,2016-10-06,68.74,58.87,Rain in the morning and evening.
+190,Barcelona,2016-02-28,57.61,45.29,Mostly cloudy until evening.
+191,Barcelona,2016-02-10,62.5,52.52,Partly cloudy starting in the afternoon.
+192,Barcelona,2015-11-11,70.24,56.72,Partly cloudy starting in the evening.
+193,Barcelona,2015-09-18,74.79,61.93,Partly cloudy starting in the evening.
+194,Barcelona,2015-09-14,79.75,68.16,Clear throughout the day.
+195,Amsterdam,2016-11-12,40.69,30.76,Light rain overnight.
+196,Amsterdam,2016-01-13,43.69,37.58,Light rain in the afternoon.
+197,Amsterdam,2017-02-11,33.03,28.72,Foggy starting in the evening.
+198,Amsterdam,2016-12-25,52.56,47.74,Mostly cloudy throughout the day.
+199,Amsterdam,2016-09-11,70.67,62.13,Mostly cloudy throughout the day.
+200,Amsterdam,2016-04-13,59.66,44.52,Partly cloudy throughout the day.
+201,Amsterdam,2016-01-27,53.07,49.65,Rain in the morning and evening.
+202,Vienna,2017-04-23,51.92,41.02,Mostly cloudy throughout the day.
+203,Vienna,2016-11-09,44.7,30.15,Partly cloudy starting in the afternoon.
+204,Vienna,2016-09-19,68.45,58.5,Mostly cloudy throughout the day.
+205,Vienna,2016-09-10,84.43,59.65,Partly cloudy until afternoon.
+206,Vienna,2016-07-20,82.31,63.2,Partly cloudy until evening.
+207,Vienna,2016-06-08,77.16,50.79,Partly cloudy throughout the day.
+208,Vienna,2016-02-15,46.43,42.06,Mostly cloudy throughout the day.
+209,Vienna,2016-01-24,43.59,34.32,Mostly cloudy throughout the day.
+210,Vienna,2015-11-13,55.9,38.48,Mostly cloudy throughout the day.
+211,Vienna,2015-09-09,63.08,48.01,Mostly cloudy throughout the day.
+212,Vienna,2017-07-02,72.98,60.48,Mostly cloudy throughout the day.
+213,Vienna,2016-10-29,54.36,50.36,Mostly cloudy throughout the day.
+214,Vienna,2016-10-27,54.25,45.19,Mostly cloudy throughout the day.
+215,Vienna,2016-08-27,85.76,59.08,Clear throughout the day.
+216,Vienna,2016-07-22,83.92,66.36,Mostly cloudy throughout the day.
+217,Vienna,2016-03-30,61.79,46.92,Mostly cloudy throughout the day.
+218,Vienna,2016-03-27,58.67,33.73,"Mostly cloudy starting in the afternoon, continuing until morning."
+219,Vienna,2016-02-04,43.23,37.12,Mostly cloudy throughout the day.
+220,Vienna,2016-01-08,48.61,30.39,Foggy overnight.
+221,Vienna,2017-07-22,87.08,68.01,Mostly cloudy throughout the day.
+222,Vienna,2017-03-26,53.13,39.6,Partly cloudy in the morning.
+223,Vienna,2017-03-12,46.63,37.19,Mostly cloudy throughout the day.
+224,Vienna,2016-07-09,80.24,67.18,Mostly cloudy throughout the day.
+225,Vienna,2016-06-25,90.48,71.72,Rain overnight.
+226,Vienna,2016-06-13,73.45,59.49,Mostly cloudy throughout the day.
+227,Vienna,2016-04-25,48.47,38.19,Mostly cloudy throughout the day.
+228,Vienna,2016-04-16,72.64,46.2,Partly cloudy starting in the afternoon.
+229,Vienna,2016-02-08,52.91,45.21,Mostly cloudy throughout the day.
+230,Vienna,2016-01-17,31.54,25.62,Mostly cloudy until evening.
+231,Vienna,2015-12-30,36.49,28.6,Foggy in the morning.
+232,Vienna,2015-09-18,76.48,59.39,Mostly cloudy throughout the day.
+233,Vienna,2017-05-21,66.32,54.23,Rain in the morning.
+234,Vienna,2017-03-31,71.75,45.97,Partly cloudy until afternoon.
+235,Vienna,2017-01-25,31.39,25.02,Mostly cloudy throughout the day.
+236,Vienna,2017-01-20,27.22,12.33,Foggy in the morning.
+237,Vienna,2016-11-26,49.79,44.06,Foggy in the morning.
+238,Vienna,2016-10-21,50.94,41.02,Mostly cloudy throughout the day.
+239,Vienna,2016-09-11,86.15,59.98,Partly cloudy until evening.
+240,Vienna,2016-08-13,76.56,60.39,Mostly cloudy until evening.
+241,Vienna,2016-08-05,74.98,61.74,Rain starting in the evening.
+242,Vienna,2016-04-23,62.01,45.31,Mostly cloudy throughout the day.
+243,Vienna,2016-02-22,66.24,54.77,Mostly cloudy throughout the day.
+244,Vienna,2016-02-07,56.83,36.84,Mostly cloudy throughout the day.
+245,Vienna,2016-01-04,23.02,18.96,Light snow overnight.
+246,Vienna,2015-12-16,40.06,36.42,Foggy starting in the afternoon.
+247,Vienna,2015-12-12,49.85,33.29,Mostly cloudy throughout the day.
+248,Vienna,2015-12-03,52.64,37.64,Mostly cloudy until evening.
+249,Vienna,2015-11-25,37.08,23.93,Mostly cloudy throughout the day.
+250,Vienna,2015-11-20,62.78,46.98,Light rain starting in the afternoon.
+251,Vienna,2015-11-18,66.59,53.43,Partly cloudy until afternoon.
+252,Vienna,2015-09-24,59.09,52.07,Mostly cloudy throughout the day.
+253,Barcelona,2017-07-17,84.89,73.15,Partly cloudy in the morning.
+254,Barcelona,2017-07-05,81.14,66.56,Partly cloudy in the afternoon.
+255,Barcelona,2017-07-19,86.34,73.05,Mostly cloudy overnight.
+256,Barcelona,2017-07-09,84.19,71.66,"Partly cloudy starting in the afternoon, continuing until evening."
+257,Barcelona,2017-04-25,68.76,53.46,Partly cloudy starting in the afternoon.
+258,Barcelona,2017-03-23,61.51,51.45,Partly cloudy until evening.
+259,Barcelona,2017-03-22,64.69,51.17,"Partly cloudy starting in the afternoon, continuing until evening."
+260,Barcelona,2017-03-12,63.43,51.35,Partly cloudy throughout the day.
+261,Barcelona,2017-01-23,51.62,46.89,Light rain in the morning.
+262,Barcelona,2016-12-18,57.05,46.46,Partly cloudy throughout the day.
+263,Barcelona,2016-11-24,59.34,48.2,Partly cloudy in the morning.
+264,Barcelona,2016-11-10,64.61,49.34,Partly cloudy in the morning.
+265,Barcelona,2016-10-22,64.94,57.22,Rain in the morning.
+266,Barcelona,2016-10-11,66.19,57.99,Partly cloudy throughout the day.
+267,Barcelona,2016-09-23,77.81,65.5,Rain overnight.
+268,Barcelona,2016-09-13,83.84,70.99,Heavy rain overnight.
+269,Barcelona,2016-08-19,85.82,71.85,Partly cloudy in the morning and humid throughout the day.
+270,Barcelona,2016-06-06,77.31,63.97,Partly cloudy in the afternoon.
+271,Barcelona,2016-01-10,64.89,55.18,Clear throughout the day.
+272,Barcelona,2015-10-26,66.16,60.88,Mostly cloudy throughout the day.
+273,Barcelona,2015-08-19,80.1,66.48,Partly cloudy until evening.
+274,Barcelona,2015-08-05,88.85,72.92,Clear throughout the day.
+275,Barcelona,2017-03-16,66.86,48.61,Clear throughout the day.
+276,Barcelona,2017-01-27,55.65,46.1,Rain in the afternoon and evening.
+277,Barcelona,2016-12-26,61.69,44.45,Partly cloudy in the evening.
+278,Barcelona,2016-12-09,64.68,46.62,Clear throughout the day.
+279,Barcelona,2016-08-03,87.54,74.27,Clear throughout the day.
+280,Barcelona,2016-08-01,84.62,75.37,Mostly cloudy throughout the day.
+281,Barcelona,2016-06-15,74.91,66.33,Partly cloudy until afternoon.
+282,Barcelona,2016-06-01,71.65,59.35,Clear throughout the day.
+283,Barcelona,2016-03-28,68.59,50.87,Mostly cloudy in the morning.
+284,Barcelona,2016-01-29,59.17,52.23,Clear throughout the day.
+285,Barcelona,2016-01-06,56.1,46.25,Clear throughout the day.
+286,Barcelona,2015-12-10,59.87,47.66,Partly cloudy until evening.
+287,Barcelona,2015-11-19,68.51,50.82,Clear throughout the day.
+288,Barcelona,2015-11-13,63.98,56.34,Mostly cloudy until afternoon.
+289,Barcelona,2015-08-28,84.91,71.78,Partly cloudy until afternoon and humid throughout the day.
+290,Barcelona,2017-07-06,85.52,70.6,Partly cloudy until evening.
+291,Barcelona,2017-06-10,83.37,65.81,Clear throughout the day.
+292,Barcelona,2017-06-04,74.74,67.0,Partly cloudy until evening.
+293,Barcelona,2017-05-11,70.24,59.58,Heavy rain until afternoon.
+294,Barcelona,2017-05-05,69.78,56.73,Partly cloudy in the morning.
+295,Barcelona,2017-04-29,63.17,47.03,Partly cloudy throughout the day.
+296,Barcelona,2017-04-27,53.56,45.93,Rain until afternoon.
+297,Barcelona,2017-03-02,64.22,46.61,Mostly cloudy overnight.
+298,Barcelona,2017-02-01,60.43,46.86,Foggy overnight.
+299,Barcelona,2017-01-26,50.78,40.32,Light rain in the morning.
+300,Barcelona,2017-01-08,58.86,38.84,Clear throughout the day.
+301,Barcelona,2016-12-14,59.68,46.52,Mostly cloudy starting in the evening.
+302,Barcelona,2016-12-10,63.76,49.04,Clear throughout the day.
+303,Barcelona,2016-11-16,60.73,44.86,Clear throughout the day.
+304,Barcelona,2016-10-15,73.65,56.24,Partly cloudy in the morning.
+305,Barcelona,2016-10-07,74.91,58.66,"Partly cloudy starting in the afternoon, continuing until evening."
+306,Barcelona,2016-07-02,81.02,69.73,"Partly cloudy starting in the afternoon, continuing until evening."
+307,Barcelona,2016-06-13,76.89,68.22,Partly cloudy until afternoon.
+308,Barcelona,2016-05-14,69.86,56.17,Partly cloudy starting in the evening.
+309,Barcelona,2016-05-09,63.26,60.83,"Light rain starting in the afternoon, continuing until evening."
+310,Barcelona,2016-04-22,64.81,54.77,Foggy in the morning.
+311,Barcelona,2016-03-25,61.25,47.96,Partly cloudy starting in the afternoon.
+312,Barcelona,2016-02-05,64.07,46.06,Clear throughout the day.
+313,Barcelona,2016-02-02,61.53,47.81,Partly cloudy overnight.
+314,Barcelona,2015-12-28,60.54,49.47,Mostly cloudy throughout the day.
+315,Barcelona,2015-11-09,71.41,56.25,Partly cloudy in the morning.
+316,Barcelona,2015-08-08,86.67,71.4,Light rain in the evening.
+317,Barcelona,2017-07-27,84.59,68.86,"Partly cloudy starting in the afternoon, continuing until evening, and humid throughout the day."
+318,Barcelona,2017-05-26,75.87,64.93,Partly cloudy starting in the evening.
+319,Barcelona,2017-05-10,69.73,58.58,Partly cloudy throughout the day.
+320,Barcelona,2017-04-11,74.9,55.36,Partly cloudy in the evening.
+321,Barcelona,2017-04-03,70.5,49.4,Clear throughout the day.
+322,Barcelona,2017-03-26,63.19,46.65,Partly cloudy until afternoon.
+323,Barcelona,2017-03-03,58.92,52.15,Heavy rain overnight.
+324,Barcelona,2017-02-28,64.47,53.04,Partly cloudy in the afternoon.
+325,Barcelona,2017-02-03,61.3,48.24,"Partly cloudy starting in the afternoon, continuing until evening."
+326,Barcelona,2017-01-29,56.94,43.46,Partly cloudy overnight.
+327,Barcelona,2016-12-30,58.01,43.65,Partly cloudy until afternoon.
+328,Barcelona,2016-12-22,61.49,47.28,Clear throughout the day.
+329,Barcelona,2016-12-17,58.33,49.23,Mostly cloudy in the morning.
+330,Barcelona,2016-10-19,67.97,60.32,Partly cloudy throughout the day.
+331,Barcelona,2016-10-01,78.73,64.11,Partly cloudy starting in the evening.
+332,Barcelona,2016-09-02,87.06,71.2,Clear throughout the day.
+333,Barcelona,2016-08-13,80.83,68.89,Clear throughout the day.
+334,Barcelona,2016-08-12,82.73,67.92,Partly cloudy in the morning.
+335,Barcelona,2016-05-15,72.31,58.66,Partly cloudy in the afternoon.
+336,Barcelona,2016-04-27,59.09,55.94,Rain overnight.
+337,Barcelona,2016-04-15,69.44,54.18,Mostly cloudy in the morning.
+338,Barcelona,2016-04-04,61.34,53.46,Rain overnight.
+339,Barcelona,2016-03-11,57.84,42.16,Clear throughout the day.
+340,Barcelona,2015-12-25,60.08,45.98,Clear throughout the day.
+341,Barcelona,2015-11-27,61.02,45.75,Clear throughout the day.
+342,Barcelona,2015-10-28,70.06,58.08,Mostly cloudy in the morning.
+343,Barcelona,2016-02-18,53.28,41.13,"Partly cloudy starting in the afternoon, continuing until evening."
+344,Barcelona,2015-08-14,81.98,71.64,Mostly cloudy overnight.
+345,Barcelona,2017-06-17,86.72,75.86,Clear throughout the day.
+346,Barcelona,2016-02-24,62.88,49.1,Mostly cloudy starting in the evening.
+347,Barcelona,2015-12-30,62.69,49.92,Clear throughout the day.
+348,Barcelona,2015-12-19,59.32,48.17,Foggy until afternoon.
+349,Barcelona,2016-02-29,63.59,47.21,Clear throughout the day.
+350,Barcelona,2016-01-23,63.14,48.95,Partly cloudy in the morning.
+351,Barcelona,2015-10-04,71.53,61.22,Mostly cloudy until afternoon.
+352,Barcelona,2017-04-08,71.6,52.58,Clear throughout the day.
+353,Barcelona,2017-03-30,71.33,51.8,Clear throughout the day.
+354,Barcelona,2016-02-25,63.79,48.87,"Partly cloudy starting in the afternoon, continuing until evening."
+355,Barcelona,2015-12-12,59.26,46.1,Partly cloudy in the afternoon.
+356,Barcelona,2015-11-14,66.46,54.05,Clear throughout the day.
+357,Barcelona,2015-12-06,59.92,50.76,Partly cloudy throughout the day.
+358,Barcelona,2015-12-21,62.56,52.51,Mostly cloudy in the morning.
+359,Barcelona,2016-05-28,71.99,61.28,Partly cloudy throughout the day.
+360,Barcelona,2016-04-08,56.46,47.9,Light rain in the morning.
+361,Barcelona,2017-02-05,58.58,48.68,Partly cloudy until evening.
+362,Barcelona,2016-01-18,55.6,43.39,Partly cloudy until evening.
+363,Barcelona,2017-02-18,59.86,45.49,Partly cloudy starting in the afternoon.
+364,Barcelona,2015-08-12,85.44,75.9,Humid and partly cloudy throughout the day.
+365,Barcelona,2016-01-22,58.33,42.79,Mostly cloudy until evening.
+366,Barcelona,2016-01-08,72.56,58.47,Clear throughout the day.
+367,Barcelona,2017-01-18,48.86,32.25,Clear throughout the day.
+368,Barcelona,2016-09-17,74.16,63.94,Partly cloudy throughout the day.
+369,Barcelona,2016-02-26,58.54,48.88,Partly cloudy overnight.
+370,Barcelona,2016-02-19,55.86,41.0,"Partly cloudy starting in the afternoon, continuing until evening."
+371,Barcelona,2017-02-14,62.49,51.15,Mostly cloudy starting in the evening.
+372,Barcelona,2016-02-01,66.6,53.35,Clear throughout the day.
+373,Barcelona,2016-05-06,65.38,57.79,Mostly cloudy starting in the afternoon.
+374,Barcelona,2016-05-18,70.59,56.91,Mostly cloudy overnight.
+375,Barcelona,2015-09-25,73.71,60.25,Partly cloudy overnight.
+376,Barcelona,2017-03-01,60.59,44.94,Clear throughout the day.
+377,Barcelona,2015-12-14,57.24,41.63,Mostly cloudy in the evening.
+378,Vienna,2017-05-11,71.91,40.09,Mostly cloudy throughout the day.
+379,Vienna,2016-12-18,35.11,30.48,Mostly cloudy throughout the day.
+380,Vienna,2015-09-25,58.77,54.78,Rain starting in the afternoon.
+381,Amsterdam,2015-12-04,51.6,47.14,Light rain in the morning.
+382,Amsterdam,2015-10-10,58.82,48.59,Mostly cloudy in the morning.
+383,Vienna,2016-07-04,76.67,57.83,Partly cloudy throughout the day.
+384,Vienna,2016-04-08,54.24,46.48,Rain starting in the afternoon.
+385,Vienna,2015-09-04,72.8,59.37,Mostly cloudy throughout the day.
+386,Vienna,2016-09-17,68.22,60.36,Mostly cloudy throughout the day.
+387,Vienna,2016-03-07,42.21,37.81,Mostly cloudy throughout the day.
+388,Vienna,2017-06-11,79.27,55.31,Partly cloudy starting in the afternoon.
+389,Vienna,2017-04-04,63.63,48.78,Mostly cloudy throughout the day.
+390,Vienna,2017-03-09,56.25,37.55,Light rain in the morning and overnight.
+391,Vienna,2016-09-21,65.08,51.06,Mostly cloudy throughout the day.
+392,Vienna,2016-04-27,45.02,39.19,Rain in the morning.
+393,Vienna,2016-04-15,65.58,41.24,Mostly cloudy throughout the day.
+394,Vienna,2016-03-02,48.72,32.77,Light rain overnight.
+395,Vienna,2016-02-19,43.81,36.97,Light rain until afternoon.
+396,Vienna,2016-02-01,56.17,39.98,Light rain in the morning.
+397,Vienna,2016-01-25,46.48,32.99,Light rain in the morning.
+398,Vienna,2016-01-21,32.35,21.44,Mostly cloudy throughout the day.
+399,Vienna,2016-01-15,41.65,32.53,Mostly cloudy throughout the day.
+400,Vienna,2015-12-18,39.25,37.01,Foggy until evening.
+401,Vienna,2015-11-09,62.66,46.65,Foggy in the morning.
+402,Vienna,2015-10-19,48.23,43.56,Rain starting in the afternoon.
+403,Vienna,2015-10-12,47.51,34.31,Partly cloudy until afternoon.
+404,Vienna,2015-09-26,62.05,54.7,Mostly cloudy throughout the day.
+405,Vienna,2017-02-08,29.78,27.04,Mostly cloudy throughout the day.
+406,Vienna,2016-10-18,53.35,46.66,Rain until afternoon.
+407,Vienna,2016-05-11,66.38,54.03,Mostly cloudy throughout the day.
+408,Vienna,2016-03-06,50.51,42.44,Mostly cloudy throughout the day.
+409,Vienna,2015-12-05,51.81,37.03,Foggy overnight.
+410,Vienna,2015-11-29,49.16,37.82,Mostly cloudy throughout the day.
+411,Vienna,2015-11-14,54.35,49.3,Mostly cloudy throughout the day.
+412,Vienna,2015-09-23,63.6,51.97,Mostly cloudy throughout the day.
+413,Vienna,2015-09-11,67.56,55.23,Mostly cloudy throughout the day.
+414,Vienna,2015-08-07,96.17,68.06,Partly cloudy in the afternoon.
+415,Vienna,2017-03-30,67.26,52.75,Mostly cloudy until evening.
+416,Vienna,2016-03-11,44.9,42.04,Overcast throughout the day.
+417,Vienna,2016-01-13,45.55,40.11,Partly cloudy throughout the day.
+418,Vienna,2015-11-06,58.01,35.06,Foggy in the morning.
+419,Vienna,2016-09-30,80.37,53.01,Partly cloudy throughout the day.
+420,Vienna,2016-01-29,50.74,40.66,Light rain in the morning.
+421,Vienna,2015-10-05,68.79,53.96,Mostly cloudy until afternoon.
+422,Vienna,2015-12-11,36.01,25.44,Foggy in the evening.
+423,Milan,2017-07-20,87.21,70.31,Partly cloudy in the morning.
+424,Milan,2017-07-19,89.43,69.07,Partly cloudy starting in the evening.
+425,Milan,2017-06-30,77.04,61.39,Light rain in the evening.
+426,Milan,2017-06-20,90.31,68.67,Clear throughout the day.
+427,Milan,2017-06-13,90.26,70.48,Partly cloudy in the morning.
+428,Milan,2017-05-30,88.05,66.08,Clear throughout the day.
+429,Milan,2017-05-29,87.62,68.42,Clear throughout the day.
+430,Milan,2017-05-27,83.86,65.32,Partly cloudy in the morning.
+431,Milan,2017-05-14,76.45,59.44,Partly cloudy throughout the day.
+432,Milan,2017-05-08,72.42,52.42,Partly cloudy throughout the day.
+433,Milan,2017-05-03,59.89,49.14,Light rain overnight.
+434,Milan,2017-05-01,56.85,46.93,"Rain starting in the afternoon, continuing until evening."
+435,Milan,2017-04-30,65.16,46.21,Partly cloudy starting in the afternoon.
+436,Milan,2017-04-28,62.71,45.98,Partly cloudy until evening.
+437,Milan,2017-04-16,75.62,52.32,Partly cloudy in the evening.
+438,Milan,2017-03-27,61.61,48.31,Mostly cloudy until afternoon.
+439,Milan,2017-03-21,60.9,55.24,Foggy until afternoon.
+440,Milan,2017-03-20,64.91,50.52,Mostly cloudy throughout the day.
+441,Milan,2017-03-08,61.23,42.15,Clear throughout the day.
+442,Milan,2017-03-06,55.91,41.23,Partly cloudy throughout the day.
+443,Milan,2017-03-05,56.64,45.41,Partly cloudy throughout the day.
+444,Milan,2017-02-20,47.78,36.46,Foggy throughout the day.
+445,Milan,2017-02-06,51.37,39.3,Mostly cloudy throughout the day.
+446,Milan,2017-02-03,46.01,42.41,Rain until afternoon.
+447,Milan,2017-01-30,42.91,33.5,Foggy until evening.
+448,Milan,2017-01-28,41.96,32.28,Foggy overnight.
+449,Milan,2017-01-25,47.49,32.84,Partly cloudy in the afternoon.
+450,Milan,2017-01-24,52.64,32.32,Partly cloudy starting in the evening.
+451,Milan,2017-01-23,49.31,32.28,Clear throughout the day.
+452,Milan,2017-01-16,42.47,28.61,Partly cloudy in the morning.
+453,Milan,2017-01-11,32.66,30.3,Mostly cloudy throughout the day.
+454,Milan,2017-01-10,33.43,29.89,Mostly cloudy throughout the day.
+455,Milan,2016-12-26,55.42,37.03,Clear throughout the day.
+456,Milan,2016-12-23,53.91,34.86,Foggy in the morning.
+457,Milan,2016-12-22,51.45,38.11,Foggy in the morning.
+458,Milan,2016-12-19,39.41,32.14,Foggy in the morning.
+459,Milan,2016-12-15,37.79,33.67,Foggy throughout the day.
+460,Milan,2016-12-14,37.83,34.59,Foggy throughout the day.
+461,Milan,2016-12-06,51.23,30.08,Foggy in the morning.
+462,Milan,2016-12-05,48.97,38.63,Foggy throughout the day.
+463,Milan,2016-12-02,58.82,38.55,Mostly cloudy overnight.
+464,Milan,2016-11-25,56.71,54.82,"Rain until evening, starting again overnight."
+465,Milan,2016-11-14,49.74,41.49,Partly cloudy throughout the day.
+466,Milan,2016-11-11,50.67,41.55,Foggy in the morning.
+467,Milan,2016-10-13,52.61,48.25,Light rain in the evening.
+468,Milan,2016-10-12,61.46,40.5,Partly cloudy overnight.
+469,Milan,2016-10-04,73.27,55.3,Partly cloudy in the morning.
+470,Milan,2016-09-26,76.54,58.2,Partly cloudy in the morning.
+471,Milan,2016-09-25,76.79,57.51,Clear throughout the day.
+472,Milan,2016-09-21,68.57,60.79,Light rain in the morning.
+473,Milan,2016-09-13,87.57,68.08,Partly cloudy overnight.
+474,Milan,2016-09-06,85.71,63.83,Partly cloudy starting in the evening.
+475,Milan,2016-09-04,85.44,70.6,Partly cloudy until evening.
+476,Milan,2016-09-01,86.22,67.77,Clear throughout the day.
+477,Milan,2016-08-30,78.07,67.57,Light rain in the morning.
+478,Milan,2016-08-28,90.04,68.16,Clear throughout the day.
+479,Milan,2016-08-25,85.55,67.26,Partly cloudy overnight.
+480,Milan,2016-08-23,83.53,63.59,Clear throughout the day.
+481,Milan,2016-08-22,81.52,64.79,Mostly cloudy in the morning.
+482,Milan,2016-08-21,84.73,68.73,Mostly cloudy until evening.
+483,Milan,2016-08-20,76.82,70.67,Mostly cloudy throughout the day.
+484,Milan,2016-08-16,87.2,70.99,Partly cloudy throughout the day.
+485,Milan,2016-08-15,87.87,70.3,Partly cloudy in the morning.
+486,Milan,2016-08-11,76.63,59.4,Partly cloudy until evening.
+487,Milan,2016-07-14,81.22,60.42,Partly cloudy starting in the evening.
+488,Milan,2016-07-06,89.84,68.3,Partly cloudy in the morning.
+489,Milan,2016-07-05,85.76,69.96,Partly cloudy until evening.
+490,Milan,2016-07-03,87.69,66.89,Partly cloudy overnight.
+491,Milan,2016-06-28,84.74,67.83,Partly cloudy until evening.
+492,Milan,2016-06-26,86.57,68.55,Rain overnight.
+493,Milan,2016-06-20,82.38,58.24,Partly cloudy overnight.
+494,Milan,2016-06-16,74.12,63.94,Rain in the evening.
+495,Milan,2016-06-15,75.48,58.42,Partly cloudy throughout the day.
+496,Milan,2016-06-14,75.78,61.12,Heavy rain overnight.
+497,Milan,2016-06-12,75.74,62.98,Mostly cloudy until afternoon.
+498,Milan,2016-06-10,77.9,59.54,Partly cloudy throughout the day.
+499,Milan,2016-06-08,82.44,63.58,Rain overnight.
+500,Milan,2016-06-05,76.22,60.52,Partly cloudy throughout the day.
+501,Milan,2016-06-03,73.59,59.85,Mostly cloudy throughout the day.
+502,Milan,2016-05-30,65.4,60.25,Light rain until afternoon.
+503,Milan,2016-05-28,82.7,65.51,Partly cloudy starting in the evening.
+504,Milan,2016-05-25,75.28,54.82,Partly cloudy in the evening.
+505,Milan,2016-05-16,66.64,52.7,Partly cloudy throughout the day.
+506,Milan,2016-05-10,63.87,56.75,Rain in the morning.
+507,Milan,2016-03-29,66.49,48.58,Partly cloudy throughout the day.
+508,Milan,2016-03-28,56.18,50.25,Foggy until afternoon.
+509,Milan,2016-03-22,60.69,47.45,Foggy in the morning.
+510,Milan,2016-03-20,62.81,43.05,Partly cloudy starting in the evening.
+511,Milan,2016-03-01,61.6,43.15,Mostly cloudy in the morning.
+512,Milan,2016-02-18,52.25,37.56,Partly cloudy until evening.
+513,Milan,2016-02-13,46.57,33.79,Foggy in the morning.
+514,Milan,2016-02-11,52.31,34.21,Partly cloudy starting in the evening.
+515,Milan,2016-02-09,47.57,45.37,Rain starting in the afternoon.
+516,Milan,2016-02-02,49.41,44.21,Foggy throughout the day.
+517,Milan,2016-01-30,48.17,46.36,Foggy throughout the day.
+518,Milan,2016-01-19,40.15,24.5,Mostly cloudy in the morning.
+519,Milan,2016-01-18,40.94,27.37,Mostly cloudy starting in the afternoon.
+520,Milan,2016-01-17,46.99,36.66,Clear throughout the day.
+521,Milan,2016-01-14,42.72,35.5,Mostly cloudy throughout the day.
+522,Milan,2016-01-10,44.66,39.23,Foggy starting in the evening.
+523,Milan,2016-01-06,47.48,37.1,Mostly cloudy until afternoon.
+524,Milan,2015-12-21,47.65,45.2,Foggy throughout the day.
+525,Milan,2015-12-07,48.29,41.09,Foggy throughout the day.
+526,Milan,2015-11-24,48.58,33.73,Mostly cloudy overnight.
+527,Milan,2015-11-13,62.86,45.13,Foggy starting in the evening.
+528,Milan,2015-11-04,64.16,48.47,Mostly cloudy in the morning.
+529,Milan,2015-11-03,58.03,43.54,Foggy in the morning.
+530,Milan,2015-10-30,66.91,51.05,Foggy in the morning.
+531,Milan,2015-10-14,63.43,55.17,Mostly cloudy throughout the day.
+532,Milan,2015-10-08,72.49,58.91,Partly cloudy until afternoon.
+533,Milan,2015-09-20,79.24,59.62,Partly cloudy in the morning.
+534,Milan,2015-09-13,67.35,63.61,"Heavy rain until afternoon, starting again overnight."
+535,Milan,2015-09-12,75.34,62.76,Mostly cloudy throughout the day.
+536,Milan,2015-09-05,74.34,60.96,Rain in the morning.
+537,Milan,2015-08-30,90.76,70.3,Partly cloudy overnight.
+538,Milan,2015-08-21,79.88,65.42,Partly cloudy throughout the day.
+539,Milan,2015-08-18,79.07,64.9,Rain starting in the evening.
+540,Milan,2015-08-17,83.19,64.3,Partly cloudy throughout the day.
+541,Milan,2015-08-15,77.26,67.32,Mostly cloudy throughout the day.
+542,Milan,2015-08-14,81.01,71.06,Partly cloudy throughout the day.
+543,Milan,2015-08-13,93.44,76.04,Partly cloudy in the morning.
+544,Milan,2017-08-02,96.16,75.47,Clear throughout the day.
+545,Milan,2017-07-27,85.54,67.02,Clear throughout the day.
+546,Milan,2017-07-26,86.24,61.61,Partly cloudy until evening.
+547,Milan,2017-07-23,89.28,69.88,Partly cloudy overnight.
+548,Milan,2017-06-25,87.51,67.16,Heavy rain in the morning.
+549,Milan,2017-06-05,73.28,64.48,Light rain in the afternoon.
+550,Milan,2017-05-04,61.89,50.59,Light rain in the morning.
+551,Milan,2017-04-15,71.05,55.3,Partly cloudy throughout the day.
+552,Milan,2017-04-14,73.05,52.55,Partly cloudy until evening.
+553,Milan,2017-04-13,75.88,54.04,Clear throughout the day.
+554,Milan,2017-04-05,63.37,52.39,Partly cloudy throughout the day.
+555,Milan,2017-03-24,60.01,51.27,Foggy overnight.
+556,Milan,2017-03-22,59.66,52.74,Foggy until afternoon.
+557,Milan,2017-03-13,59.53,40.74,Partly cloudy overnight.
+558,Milan,2017-03-12,59.96,43.87,Clear throughout the day.
+559,Milan,2017-03-01,61.3,39.86,Partly cloudy starting in the evening.
+560,Milan,2017-02-18,52.8,39.8,Foggy throughout the day.
+561,Milan,2017-02-17,58.53,40.0,Partly cloudy in the morning.
+562,Milan,2017-02-16,60.45,38.08,Clear throughout the day.
+563,Milan,2017-02-13,46.56,38.09,Foggy in the morning.
+564,Milan,2017-02-12,48.85,41.2,Foggy overnight.
+565,Milan,2017-02-09,44.6,39.74,Mostly cloudy throughout the day.
+566,Milan,2017-01-27,42.14,29.92,Partly cloudy throughout the day.
+567,Milan,2017-01-20,44.88,28.93,Clear throughout the day.
+568,Milan,2017-01-17,44.3,32.4,Partly cloudy throughout the day.
+569,Milan,2017-01-13,41.7,31.19,Foggy in the morning.
+570,Milan,2017-01-08,36.11,25.3,Partly cloudy until afternoon.
+571,Milan,2017-01-05,48.08,37.88,Clear throughout the day.
+572,Milan,2017-01-04,50.36,29.41,Partly cloudy in the evening.
+573,Milan,2017-01-02,45.51,32.67,Partly cloudy throughout the day.
+574,Milan,2016-12-31,46.73,28.79,Clear throughout the day.
+575,Milan,2016-12-30,46.37,30.59,Clear throughout the day.
+576,Milan,2016-12-29,45.99,37.17,Partly cloudy throughout the day.
+577,Milan,2016-12-27,64.71,41.88,Clear throughout the day.
+578,Milan,2016-12-25,50.9,34.49,Clear throughout the day.
+579,Milan,2016-12-24,51.62,35.05,Foggy in the morning.
+580,Milan,2016-12-21,53.22,41.31,Mostly cloudy until afternoon.
+581,Milan,2016-12-20,45.68,39.5,Mostly cloudy throughout the day.
+582,Milan,2016-12-18,40.87,28.3,Foggy throughout the day.
+583,Milan,2016-12-12,39.78,36.26,Foggy throughout the day.
+584,Milan,2016-11-22,54.74,51.54,Rain throughout the day.
+585,Milan,2016-11-16,50.52,34.96,Partly cloudy overnight.
+586,Milan,2016-11-06,52.18,46.09,Foggy until afternoon.
+587,Milan,2016-11-05,52.2,48.95,"Rain until afternoon, starting again in the evening."
+588,Milan,2016-11-04,57.91,49.59,Mostly cloudy throughout the day.
+589,Milan,2016-10-30,61.82,47.02,Foggy starting in the evening.
+590,Milan,2016-10-29,65.47,46.36,Foggy in the morning.
+591,Milan,2016-10-27,66.24,55.61,Partly cloudy throughout the day.
+592,Milan,2016-10-26,61.42,55.67,Mostly cloudy throughout the day.
+593,Milan,2016-10-21,61.85,47.59,Mostly cloudy in the morning.
+594,Milan,2016-10-08,65.19,50.82,Partly cloudy throughout the day.
+595,Milan,2016-10-02,73.56,62.22,Partly cloudy throughout the day.
+596,Milan,2016-09-27,76.32,59.38,Clear throughout the day.
+597,Milan,2016-09-23,74.21,59.28,Partly cloudy until evening.
+598,Milan,2016-09-08,84.6,67.17,Partly cloudy starting in the evening.
+599,Milan,2016-09-02,87.35,70.7,Partly cloudy in the morning.
+600,Milan,2016-08-29,88.53,69.68,Partly cloudy overnight.
+601,Milan,2016-08-26,84.1,69.3,Mostly cloudy in the morning.
+602,Milan,2016-08-18,83.46,67.22,Partly cloudy throughout the day.
+603,Milan,2016-08-02,84.18,69.27,Partly cloudy in the morning.
+604,Milan,2016-08-01,84.75,65.37,Partly cloudy until afternoon.
+605,Milan,2016-07-31,82.15,68.0,Rain in the morning and overnight.
+606,Milan,2016-07-24,86.37,68.15,Partly cloudy until evening.
+607,Milan,2016-07-20,91.87,72.34,Clear throughout the day.
+608,Milan,2016-07-18,90.28,67.07,Clear throughout the day.
+609,Milan,2016-07-17,85.39,62.21,Clear throughout the day.
+610,Milan,2016-07-16,82.8,60.21,Clear throughout the day.
+611,Milan,2016-07-10,91.85,74.88,Partly cloudy until afternoon.
+612,Milan,2016-07-07,87.94,70.05,Partly cloudy in the afternoon.
+613,Milan,2016-06-27,86.91,65.94,Partly cloudy in the morning.
+614,Milan,2016-06-23,90.7,69.82,Clear throughout the day.
+615,Milan,2016-06-09,75.08,62.31,Light rain in the evening.
+616,Milan,2016-06-01,70.21,57.41,Mostly cloudy throughout the day.
+617,Milan,2016-05-31,69.17,59.8,Light rain in the afternoon.
+618,Milan,2016-05-14,74.01,55.68,Partly cloudy throughout the day.
+619,Milan,2016-05-08,73.44,57.66,Mostly cloudy throughout the day.
+620,Milan,2016-05-05,69.97,55.54,Partly cloudy until evening.
+621,Milan,2016-05-04,74.78,55.96,Clear throughout the day.
+622,Milan,2016-05-03,75.56,51.05,Partly cloudy in the morning.
+623,Milan,2016-04-21,70.42,54.92,Partly cloudy in the morning.
+624,Milan,2016-04-13,69.21,53.64,Rain overnight.
+625,Milan,2016-04-11,70.35,50.45,Partly cloudy until afternoon.
+626,Milan,2016-04-10,70.6,48.99,Partly cloudy in the morning.
+627,Milan,2016-04-06,72.27,51.42,Foggy in the morning.
+628,Milan,2016-04-04,63.12,55.04,Light rain overnight.
+629,Milan,2016-03-30,59.06,55.44,Mostly cloudy throughout the day.
+630,Milan,2016-03-27,63.6,45.64,Light rain overnight.
+631,Milan,2016-03-26,64.07,42.44,Clear throughout the day.
+632,Milan,2016-03-24,61.68,39.41,Clear throughout the day.
+633,Milan,2016-03-21,63.66,43.94,Partly cloudy until evening.
+634,Milan,2016-03-15,56.43,39.07,Rain overnight.
+635,Milan,2016-03-13,57.67,47.45,Mostly cloudy throughout the day.
+636,Milan,2016-03-06,42.86,35.76,Foggy in the morning.
+637,Milan,2016-03-03,58.79,42.84,Partly cloudy until evening.
+638,Milan,2016-02-16,46.95,44.6,Light rain in the afternoon.
+639,Milan,2016-01-31,55.73,43.46,Foggy in the morning.
+640,Milan,2016-01-28,53.91,45.9,Foggy until afternoon.
+641,Milan,2016-01-24,49.55,28.8,Partly cloudy in the evening.
+642,Milan,2016-01-05,40.44,35.98,Mostly cloudy throughout the day.
+643,Milan,2015-12-22,52.85,44.4,Mostly cloudy throughout the day.
+644,Milan,2015-11-27,52.95,32.96,Clear throughout the day.
+645,Milan,2015-11-25,43.76,35.52,Partly cloudy starting in the evening.
+646,Milan,2015-11-17,53.59,46.07,Foggy throughout the day.
+647,Milan,2015-11-09,67.65,46.42,Clear throughout the day.
+648,Milan,2015-11-08,70.23,48.11,Clear throughout the day.
+649,Milan,2015-10-24,65.96,46.12,Foggy in the morning.
+650,Milan,2015-10-15,56.55,53.93,"Rain until afternoon, starting again overnight."
+651,Milan,2015-10-07,71.33,57.35,Foggy in the morning.
+652,Milan,2015-10-04,67.85,58.1,Rain in the morning.
+653,Milan,2015-10-03,63.79,56.05,Rain in the morning and overnight.
+654,Milan,2015-09-27,69.16,61.3,Mostly cloudy throughout the day.
+655,Milan,2015-09-22,69.73,61.43,Mostly cloudy throughout the day.
+656,Milan,2015-09-17,81.29,65.21,Partly cloudy throughout the day.
+657,Milan,2015-09-10,72.98,62.5,Partly cloudy throughout the day.
+658,Milan,2015-09-08,74.89,62.58,Partly cloudy until afternoon.
+659,Milan,2015-09-06,76.41,55.35,Clear throughout the day.
+660,Milan,2015-09-03,79.69,67.04,Mostly cloudy throughout the day.
+661,Milan,2015-08-29,90.64,69.36,Clear throughout the day.
+662,Milan,2015-08-28,87.62,67.39,Partly cloudy in the evening.
+663,Milan,2015-08-24,70.81,63.42,Rain in the morning.
+664,Milan,2015-08-22,80.7,66.56,Partly cloudy until afternoon.
+665,Milan,2015-08-09,91.57,75.96,Rain overnight.
+666,Milan,2015-08-07,95.6,77.45,Mostly cloudy in the morning.
+667,Milan,2017-06-04,83.6,68.26,Partly cloudy throughout the day.
+668,Milan,2017-04-25,62.82,55.37,Mostly cloudy throughout the day.
+669,Milan,2017-04-09,74.04,51.57,Clear throughout the day.
+670,Milan,2017-03-23,57.31,52.42,Light rain in the evening.
+671,Milan,2017-03-02,61.01,40.52,Clear throughout the day.
+672,Milan,2017-02-22,53.14,38.63,Foggy throughout the day.
+673,Milan,2017-02-02,43.29,41.58,Light rain until afternoon.
+674,Milan,2017-02-01,43.55,37.54,Foggy throughout the day.
+675,Milan,2016-11-02,60.79,50.47,Partly cloudy until evening.
+676,Milan,2016-10-07,66.72,48.2,Partly cloudy in the morning.
+677,Milan,2016-09-28,76.49,58.86,Clear throughout the day.
+678,Milan,2016-08-27,87.43,67.32,Clear throughout the day.
+679,Milan,2016-07-01,86.87,69.3,Partly cloudy until afternoon.
+680,Milan,2016-06-30,84.93,71.46,Partly cloudy in the morning.
+681,Milan,2016-06-18,75.54,59.89,Partly cloudy throughout the day.
+682,Milan,2016-05-24,77.69,52.6,Mostly cloudy in the morning.
+683,Milan,2016-05-20,76.31,48.29,Clear throughout the day.
+684,Milan,2016-05-12,60.89,55.64,Rain until afternoon.
+685,Milan,2016-04-03,68.49,54.45,Mostly cloudy throughout the day.
+686,Milan,2016-02-28,47.58,43.06,"Rain until evening, starting again overnight."
+687,Milan,2016-01-26,58.26,35.46,Clear throughout the day.
+688,Milan,2016-01-15,51.09,33.21,Partly cloudy in the morning.
+689,Milan,2016-01-04,37.46,34.19,Foggy until afternoon.
+690,Milan,2015-11-23,43.2,39.59,Mostly cloudy throughout the day.
+691,Milan,2015-11-22,54.6,39.52,Mostly cloudy starting in the evening.
+692,Milan,2017-05-28,87.07,68.12,Clear throughout the day.
+693,Milan,2017-05-10,65.99,55.85,Mostly cloudy throughout the day.
+694,Milan,2017-04-26,59.1,51.92,Rain throughout the day.
+695,Milan,2017-04-22,71.42,43.8,Clear throughout the day.
+696,Milan,2017-04-04,72.91,50.58,Mostly cloudy starting in the evening.
+697,Milan,2017-03-17,70.26,44.92,Foggy in the morning.
+698,Milan,2017-03-11,61.81,43.4,Partly cloudy overnight.
+699,Milan,2017-03-10,72.32,45.6,Clear throughout the day.
+700,Milan,2017-02-24,55.04,46.42,Foggy until afternoon.
+701,Milan,2017-02-23,48.13,38.37,Foggy throughout the day.
+702,Milan,2017-02-15,58.33,37.09,Clear throughout the day.
+703,Milan,2017-01-29,45.51,30.97,Foggy until afternoon.
+704,Milan,2016-11-09,48.4,34.76,Partly cloudy throughout the day.
+705,Milan,2016-10-01,71.48,60.32,Mostly cloudy throughout the day.
+706,Milan,2016-09-15,75.82,66.11,Rain until afternoon.
+707,Milan,2016-07-12,81.28,71.81,Partly cloudy throughout the day.
+708,Milan,2016-06-19,73.76,59.79,Partly cloudy throughout the day.
+709,Milan,2016-06-02,71.1,60.36,Mostly cloudy throughout the day.
+710,Milan,2016-05-29,72.56,61.34,Heavy rain until evening.
+711,Milan,2016-05-21,79.91,55.88,Clear throughout the day.
+712,Milan,2016-04-22,73.16,54.96,Partly cloudy starting in the evening.
+713,Milan,2016-04-08,65.84,54.08,Partly cloudy throughout the day.
+714,Milan,2016-03-11,56.88,42.62,Partly cloudy throughout the day.
+715,Milan,2016-03-10,58.5,39.9,Partly cloudy in the morning.
+716,Milan,2016-02-27,43.54,40.17,Rain starting in the evening.
+717,Milan,2016-01-20,41.48,26.06,Partly cloudy starting in the afternoon.
+718,Milan,2015-12-20,54.75,37.25,Mostly cloudy starting in the evening.
+719,Milan,2017-07-06,91.55,70.98,Partly cloudy in the morning.
+720,Milan,2017-06-07,80.92,57.11,Clear throughout the day.
+721,Milan,2017-04-27,58.69,52.27,"Rain starting in the afternoon, continuing until evening."
+722,Milan,2017-04-20,64.42,39.82,Clear throughout the day.
+723,Milan,2017-01-21,46.07,27.89,Clear throughout the day.
+724,Milan,2016-11-28,53.62,45.9,Foggy in the morning.
+725,Milan,2016-10-16,67.36,51.92,Foggy in the morning.
+726,Milan,2016-10-10,60.69,48.5,Rain in the morning.
+727,Milan,2016-09-07,84.5,62.52,Partly cloudy in the morning.
+728,Milan,2016-06-06,79.1,61.32,Partly cloudy throughout the day.
+729,Milan,2016-06-04,72.41,61.36,Rain until afternoon.
+730,Milan,2016-05-19,60.78,52.86,Heavy rain until afternoon.
+731,Milan,2016-05-02,64.16,49.28,Partly cloudy throughout the day.
+732,Milan,2016-03-17,57.22,41.22,Partly cloudy until afternoon.
+733,Milan,2016-03-09,51.3,37.85,Partly cloudy throughout the day.
+734,Milan,2016-03-08,50.07,34.64,Partly cloudy throughout the day.
+735,Milan,2016-02-23,55.57,45.5,Foggy in the morning.
+736,Milan,2016-01-29,59.19,44.67,Mostly cloudy starting in the evening.
+737,Milan,2015-12-18,52.36,36.33,Foggy in the morning.
+738,Milan,2015-12-03,43.94,37.76,Foggy throughout the day.
+739,Milan,2015-11-02,62.57,44.7,Clear throughout the day.
+740,Milan,2015-10-06,64.3,59.76,Foggy in the morning.
+741,Milan,2015-09-29,64.46,57.15,Partly cloudy throughout the day.
+742,Milan,2015-08-26,83.26,64.69,Partly cloudy until evening.
+743,Milan,2015-08-06,95.23,75.44,Clear throughout the day.
+744,Milan,2017-07-17,84.49,69.01,Partly cloudy until afternoon.
+745,Milan,2017-07-16,82.53,68.01,Partly cloudy overnight.
+746,Milan,2017-05-13,75.99,54.67,Partly cloudy starting in the evening.
+747,Milan,2017-05-11,62.32,55.3,Rain starting in the evening.
+748,Milan,2017-03-29,73.62,46.44,Clear throughout the day.
+749,Milan,2017-02-19,50.17,38.16,Foggy until afternoon.
+750,Milan,2017-01-01,48.11,27.54,Partly cloudy starting in the evening.
+751,Milan,2016-11-13,52.62,39.63,Mostly cloudy throughout the day.
+752,Milan,2016-11-08,54.44,40.41,Partly cloudy in the morning.
+753,Milan,2016-11-01,58.56,48.05,Foggy until afternoon.
+754,Milan,2016-08-08,84.63,65.38,Clear throughout the day.
+755,Milan,2016-07-28,86.39,65.92,Partly cloudy starting in the evening.
+756,Milan,2016-07-11,92.46,76.75,Partly cloudy throughout the day.
+757,Milan,2016-05-15,74.41,54.66,Partly cloudy in the morning.
+758,Milan,2016-04-30,68.25,51.99,Rain overnight.
+759,Milan,2016-03-19,66.52,40.98,Clear throughout the day.
+760,Milan,2016-01-21,41.66,25.63,Clear throughout the day.
+761,Milan,2015-12-08,52.82,39.3,Foggy throughout the day.
+762,Milan,2015-12-06,44.91,41.19,Foggy throughout the day.
+763,Milan,2015-12-02,52.11,36.27,Foggy starting in the afternoon.
+764,Milan,2015-11-28,47.21,32.25,Mostly cloudy until afternoon.
+765,Milan,2015-10-25,63.68,48.81,Foggy in the morning.
+766,Milan,2015-10-19,62.6,46.9,Foggy in the morning.
+767,Milan,2015-10-18,56.02,51.36,Mostly cloudy throughout the day.
+768,Milan,2015-10-17,58.45,45.03,Partly cloudy throughout the day.
+769,Milan,2015-09-30,65.04,54.29,Partly cloudy throughout the day.
+770,Milan,2015-08-31,90.59,69.98,Partly cloudy in the morning.
+771,Milan,2015-08-05,93.0,73.18,Clear throughout the day.
+772,Milan,2017-06-21,91.34,70.77,Clear throughout the day.
+773,Milan,2017-06-09,80.18,61.11,"Partly cloudy starting in the afternoon, continuing until evening."
+774,Milan,2017-05-09,71.74,52.92,Partly cloudy throughout the day.
+775,Milan,2017-02-28,49.05,44.32,Light rain in the morning.
+776,Milan,2017-01-14,47.05,31.14,Partly cloudy starting in the afternoon.
+777,Milan,2016-12-10,47.94,31.03,Foggy throughout the day.
+778,Milan,2016-10-15,58.55,51.61,Light rain in the morning.
+779,Milan,2016-09-20,77.82,59.37,Partly cloudy throughout the day.
+780,Milan,2016-08-13,81.28,62.53,Clear throughout the day.
+781,Milan,2016-08-04,88.86,71.95,Partly cloudy throughout the day.
+782,Milan,2016-07-13,80.83,62.58,Rain starting in the evening.
+783,Milan,2016-04-25,62.8,41.86,Partly cloudy in the morning.
+784,Milan,2016-03-31,63.79,52.99,Mostly cloudy throughout the day.
+785,Milan,2016-01-03,37.02,33.87,Light rain overnight.
+786,Milan,2015-12-24,47.52,43.95,Foggy until evening.
+787,Milan,2015-12-23,50.19,45.45,Foggy overnight.
+788,Milan,2015-09-24,71.39,47.66,Partly cloudy starting in the afternoon.
+789,Milan,2015-09-21,76.73,57.82,Partly cloudy overnight.
+790,Milan,2015-09-15,76.62,65.68,Partly cloudy throughout the day.
+791,Milan,2017-05-20,76.13,55.72,Partly cloudy until evening.
+792,Milan,2017-05-19,71.0,58.36,Partly cloudy throughout the day.
+793,Milan,2017-05-06,61.32,52.99,Light rain starting in the evening.
+794,Milan,2017-03-09,67.91,40.73,Clear throughout the day.
+795,Milan,2017-02-11,44.38,38.61,Mostly cloudy throughout the day.
+796,Milan,2017-01-26,43.03,29.25,Partly cloudy starting in the evening.
+797,Milan,2017-01-15,47.66,33.8,Partly cloudy in the morning.
+798,Milan,2016-10-09,59.83,51.42,Rain overnight.
+799,Milan,2016-09-29,77.38,59.59,Clear throughout the day.
+800,Milan,2016-07-23,80.45,71.78,Light rain until afternoon.
+801,Milan,2016-07-22,82.13,73.39,Rain until afternoon.
+802,Milan,2016-07-19,90.34,68.99,Clear throughout the day.
+803,Milan,2016-06-13,78.97,62.37,Rain overnight.
+804,Milan,2016-04-15,67.1,51.24,Mostly cloudy throughout the day.
+805,Milan,2016-03-16,47.71,40.13,Rain in the morning.
+806,Milan,2016-03-05,46.63,37.3,Heavy rain until evening.
+807,Milan,2016-02-26,48.12,33.73,Light rain overnight.
+808,Milan,2016-02-24,54.39,42.23,Partly cloudy starting in the afternoon.
+809,Milan,2016-02-19,56.77,37.22,Partly cloudy starting in the evening.
+810,Milan,2016-02-07,43.95,41.18,Rain throughout the day.
+811,Milan,2015-12-29,45.33,29.73,Foggy until afternoon.
+812,Milan,2015-12-26,46.71,35.41,Foggy throughout the day.
+813,Milan,2015-12-10,47.37,35.33,Foggy throughout the day.
+814,Milan,2015-11-21,53.79,42.52,Foggy in the morning.
+815,Milan,2015-11-18,50.88,45.6,Foggy throughout the day.
+816,Milan,2015-09-28,66.72,60.65,Mostly cloudy throughout the day.
+817,Milan,2015-09-14,75.62,63.12,Heavy rain in the morning.
+818,Milan,2015-08-08,95.42,77.84,Partly cloudy starting in the evening.
+819,Milan,2017-03-15,64.79,46.47,Partly cloudy in the morning.
+820,Milan,2016-10-25,57.23,54.6,Light rain in the afternoon and evening.
+821,Milan,2016-02-14,42.26,40.33,"Light rain starting in the afternoon, continuing until evening."
+822,Milan,2015-12-15,50.35,37.93,Foggy in the morning.
+823,Milan,2016-11-24,57.19,54.47,Rain starting in the evening.
+824,Milan,2016-11-17,46.67,40.32,Foggy until evening.
+825,Milan,2016-09-17,74.56,60.24,Partly cloudy throughout the day.
+826,Milan,2016-08-07,84.24,67.42,Partly cloudy in the morning.
+827,Milan,2016-08-05,77.21,64.9,Rain until afternoon.
+828,Milan,2016-07-29,88.46,70.04,Partly cloudy until evening.
+829,Milan,2016-04-17,68.0,58.38,Mostly cloudy throughout the day.
+830,Milan,2015-12-05,46.98,40.13,Foggy starting in the afternoon.
+831,Milan,2015-10-31,64.81,48.97,Clear throughout the day.
+832,Milan,2015-09-19,78.24,59.35,Partly cloudy starting in the evening.
+833,Milan,2015-08-20,83.1,62.22,Partly cloudy starting in the evening.
+834,Milan,2017-02-26,57.26,36.29,Clear throughout the day.
+835,Milan,2017-02-08,45.24,40.88,Mostly cloudy throughout the day.
+836,Milan,2016-12-13,41.0,35.06,Foggy throughout the day.
+837,Milan,2016-12-08,48.62,30.58,Foggy in the morning.
+838,Milan,2016-09-24,76.1,60.34,Partly cloudy in the morning.
+839,Milan,2016-09-22,70.81,60.42,Partly cloudy throughout the day.
+840,Milan,2016-09-14,86.79,67.51,Partly cloudy overnight.
+841,Milan,2016-08-19,82.27,68.27,Partly cloudy until evening.
+842,Milan,2016-08-17,86.77,66.28,"Partly cloudy starting in the afternoon, continuing until evening."
+843,Milan,2016-07-27,86.01,67.84,Rain overnight.
+844,Milan,2016-05-18,70.97,52.93,Partly cloudy throughout the day.
+845,Milan,2016-04-23,66.68,56.54,Light rain overnight.
+846,Milan,2016-04-09,65.78,53.29,Partly cloudy throughout the day.
+847,Milan,2015-11-20,56.22,49.17,Mostly cloudy throughout the day.
+848,Milan,2015-11-14,50.73,48.16,Foggy throughout the day.
+849,Milan,2015-10-10,68.67,57.49,Partly cloudy throughout the day.
+850,Milan,2017-07-29,87.56,69.96,Partly cloudy throughout the day.
+851,Milan,2017-06-24,91.66,72.94,Partly cloudy overnight.
+852,Milan,2017-05-25,79.18,67.06,Partly cloudy until afternoon.
+853,Milan,2017-02-05,41.22,36.83,Rain starting in the afternoon.
+854,Milan,2017-02-04,44.55,41.77,Light rain in the afternoon.
+855,Milan,2017-01-18,44.55,27.41,Partly cloudy starting in the evening.
+856,Milan,2016-12-07,51.18,28.96,Foggy overnight.
+857,Milan,2016-12-01,53.56,34.11,Partly cloudy in the morning.
+858,Milan,2016-11-26,59.87,48.6,Mostly cloudy until afternoon.
+859,Milan,2016-11-18,47.83,44.47,Light rain starting in the evening.
+860,Milan,2016-09-09,87.36,67.6,Partly cloudy in the morning.
+861,Milan,2016-06-29,86.65,70.14,Partly cloudy in the morning.
+862,Milan,2016-04-18,71.56,55.78,Partly cloudy throughout the day.
+863,Milan,2016-04-16,67.65,54.81,Mostly cloudy throughout the day.
+864,Milan,2016-03-02,57.53,41.5,Heavy rain starting in the evening.
+865,Milan,2016-02-25,49.95,39.92,Mostly cloudy until evening.
+866,Milan,2015-12-17,53.69,38.12,Foggy overnight.
+867,Milan,2015-11-12,66.04,46.15,Foggy in the morning.
+868,Milan,2015-10-02,60.39,56.0,Light rain in the afternoon and evening.
+869,Milan,2015-09-07,75.99,57.88,Partly cloudy overnight.
+870,Milan,2017-07-31,89.53,68.92,"Partly cloudy starting in the afternoon, continuing until evening."
+871,Milan,2017-05-24,89.41,64.35,Partly cloudy in the morning.
+872,Milan,2016-11-12,58.6,39.0,Foggy in the morning.
+873,Milan,2016-10-17,63.12,54.66,Foggy overnight.
+874,Milan,2016-09-11,86.98,68.85,Partly cloudy throughout the day.
+875,Milan,2016-04-27,63.83,48.74,Mostly cloudy in the morning.
+876,Milan,2016-04-01,63.6,53.86,Mostly cloudy throughout the day.
+877,Milan,2016-02-04,55.57,40.01,Clear throughout the day.
+878,Milan,2015-12-09,46.98,39.85,Foggy throughout the day.
+879,Milan,2015-11-16,52.18,46.96,Foggy throughout the day.
+880,Milan,2015-10-22,60.68,43.46,Partly cloudy overnight.
+881,Milan,2015-10-20,61.35,48.97,Partly cloudy until evening.
+882,Milan,2017-07-07,92.0,71.51,Clear throughout the day.
+883,Milan,2017-06-14,87.81,74.08,Partly cloudy throughout the day.
+884,Milan,2017-05-23,85.54,60.3,Clear throughout the day.
+885,Milan,2017-03-03,48.7,44.69,Mostly cloudy throughout the day.
+886,Milan,2017-02-14,54.94,41.58,Mostly cloudy until afternoon.
+887,Milan,2017-01-12,36.14,30.75,Foggy overnight.
+888,Milan,2017-01-07,36.74,23.55,Clear throughout the day.
+889,Milan,2016-12-09,46.72,31.46,Foggy throughout the day.
+890,Milan,2016-11-27,56.25,43.46,Foggy starting in the evening.
+891,Milan,2016-11-23,57.69,53.39,Foggy in the morning.
+892,Milan,2016-07-08,86.57,73.05,Partly cloudy until evening.
+893,Milan,2016-07-04,81.86,71.25,Mostly cloudy until afternoon.
+894,Milan,2016-04-28,61.17,47.88,Partly cloudy throughout the day.
+895,Milan,2016-04-24,67.39,49.61,Partly cloudy starting in the afternoon.
+896,Milan,2016-04-02,66.14,55.88,Partly cloudy throughout the day.
+897,Milan,2015-12-31,42.9,37.55,Mostly cloudy throughout the day.
+898,Milan,2015-12-27,47.58,33.33,Foggy throughout the day.
+899,Milan,2015-12-11,46.85,32.85,Foggy in the morning.
+900,Milan,2015-09-18,80.61,64.94,"Partly cloudy starting in the afternoon, continuing until evening."
+901,Milan,2016-10-23,53.14,51.4,Foggy in the afternoon.
+902,Milan,2015-11-01,63.91,45.34,Clear throughout the day.
+903,Milan,2015-10-28,55.4,52.35,Rain in the morning and evening.
+904,Milan,2017-02-27,52.87,41.3,Light rain overnight.
+905,Milan,2016-04-20,70.63,51.2,Mostly cloudy starting in the evening.
+906,Milan,2015-10-27,60.12,45.03,Foggy in the morning.
+907,Milan,2017-07-28,87.61,65.41,Partly cloudy starting in the evening.
+908,Milan,2017-04-12,71.55,57.53,Partly cloudy until afternoon.
+909,Milan,2017-03-30,75.09,49.93,Clear throughout the day.
+910,Milan,2016-06-22,88.09,66.15,Clear throughout the day.
+911,Milan,2016-02-01,50.36,39.51,Foggy starting in the evening.
+912,Milan,2016-01-13,54.51,39.82,Clear throughout the day.
+913,Milan,2015-11-19,53.72,49.05,Foggy until evening.
+914,Milan,2015-10-16,58.8,47.19,Partly cloudy throughout the day.
+915,Milan,2017-05-12,68.88,56.06,Mostly cloudy throughout the day.
+916,Milan,2017-01-19,45.19,29.07,Clear throughout the day.
+917,Milan,2016-10-19,60.54,54.27,Foggy throughout the day.
+918,Milan,2016-05-27,82.2,60.85,Clear throughout the day.
+919,Milan,2016-03-12,60.21,46.58,Partly cloudy throughout the day.
+920,Milan,2016-02-12,46.33,38.54,Light rain in the evening.
+921,Milan,2015-12-16,53.12,41.47,Partly cloudy until afternoon.
+922,Milan,2015-10-29,58.8,53.03,Mostly cloudy throughout the day.
+923,Milan,2017-03-04,51.83,46.86,Rain in the afternoon.
+924,Milan,2016-10-20,62.06,51.32,Foggy in the morning.
+925,Milan,2016-05-09,63.74,56.61,Light rain in the morning.
+926,Milan,2015-11-11,66.68,47.89,Foggy in the morning.
+927,Milan,2017-03-31,74.29,52.67,Mostly cloudy starting in the evening.
+928,Milan,2017-01-22,49.27,30.36,Clear throughout the day.
+929,Milan,2016-10-31,57.56,47.38,Foggy throughout the day.
+930,Milan,2016-05-06,73.46,51.39,"Partly cloudy starting in the afternoon, continuing until evening."
+931,Milan,2015-12-13,48.86,41.33,Mostly cloudy throughout the day.
+932,Milan,2016-11-21,51.43,48.23,Rain starting in the afternoon.
+933,Milan,2016-11-15,45.54,36.92,Mostly cloudy until evening.
+934,Milan,2016-09-10,87.26,69.02,"Partly cloudy starting in the afternoon, continuing until evening."
+935,Milan,2016-04-14,74.0,50.3,Partly cloudy in the morning.
+936,Milan,2015-11-26,49.84,32.86,Foggy in the morning.
+937,Milan,2017-07-03,87.0,66.36,Partly cloudy in the morning.
+938,Milan,2017-01-06,40.1,28.26,Clear throughout the day.
+939,Milan,2016-04-29,64.96,50.98,Partly cloudy throughout the day.
+940,Milan,2015-12-14,47.53,40.9,Mostly cloudy throughout the day.
+941,Milan,2015-11-30,58.32,34.91,Clear throughout the day.
+942,Milan,2017-03-16,66.54,44.47,Clear throughout the day.
+943,Milan,2016-10-28,63.71,51.92,Mostly cloudy until evening.
+944,Milan,2016-01-23,46.94,30.52,Clear throughout the day.
+945,Milan,2016-01-08,42.74,32.67,Mostly cloudy throughout the day.
+946,Milan,2016-01-02,36.11,33.67,Light rain in the afternoon and evening.
+947,Milan,2017-03-19,67.95,50.97,Partly cloudy until evening.
+948,Milan,2016-05-23,69.21,55.76,Rain until afternoon.
+949,Milan,2017-06-10,86.51,63.95,Clear throughout the day.
+950,Milan,2017-06-01,85.34,64.53,Partly cloudy in the evening.
+951,Milan,2017-02-21,58.64,36.67,Foggy in the morning.
+952,Milan,2017-02-07,53.69,39.87,Partly cloudy starting in the evening.
+953,Milan,2016-07-15,79.67,61.05,Mostly cloudy in the morning.
+954,Milan,2016-01-16,51.06,32.99,Clear throughout the day.
+955,Milan,2017-02-25,55.57,41.81,Partly cloudy in the morning.
+956,Milan,2016-11-30,47.57,31.17,Clear throughout the day.
+957,Milan,2016-03-25,59.39,45.99,Partly cloudy overnight.
+958,Milan,2017-04-01,69.53,54.37,Partly cloudy throughout the day.
+959,Milan,2016-12-03,47.89,43.05,Mostly cloudy throughout the day.
+960,Milan,2016-09-30,75.91,60.58,Partly cloudy throughout the day.
+961,Amsterdam,2015-08-12,71.2,64.03,Mostly cloudy until evening.
+962,Amsterdam,2016-03-25,48.73,39.14,Light rain in the morning.
+963,Amsterdam,2015-12-25,55.93,44.67,Light rain in the evening.
+964,Amsterdam,2015-09-23,61.15,49.7,Partly cloudy throughout the day.
+965,Amsterdam,2015-11-13,56.3,48.49,"Rain starting in the afternoon, continuing until evening."
+966,Amsterdam,2016-04-15,53.23,48.5,Light rain in the morning and evening.
+967,Vienna,2017-02-09,32.65,26.07,Mostly cloudy throughout the day.
+968,Vienna,2016-11-30,39.35,23.87,Mostly cloudy throughout the day.
+969,Vienna,2016-11-10,48.43,31.58,Mostly cloudy throughout the day.
+970,Vienna,2016-08-22,70.49,60.24,Mostly cloudy throughout the day.
+971,Vienna,2016-08-10,62.73,55.78,Light rain until afternoon.
+972,Vienna,2016-06-10,76.24,59.36,Partly cloudy throughout the day.
+973,Vienna,2016-02-12,42.81,29.58,Mostly cloudy throughout the day.
+974,Vienna,2015-10-16,52.29,45.44,Rain in the afternoon.
+975,Vienna,2015-10-10,51.48,45.0,Light rain starting in the evening.
+976,Vienna,2015-08-21,75.25,60.66,Mostly cloudy throughout the day.
+977,Vienna,2016-11-04,43.68,29.59,Mostly cloudy throughout the day.
+978,Vienna,2016-10-12,47.67,43.49,Mostly cloudy throughout the day.
+979,Vienna,2016-02-03,52.01,37.56,"Rain starting in the afternoon, continuing until evening."
+980,Vienna,2016-01-28,60.17,40.36,Mostly cloudy throughout the day.
+981,Vienna,2016-01-22,29.79,12.58,Clear throughout the day.
+982,Vienna,2015-11-23,43.19,29.49,Partly cloudy until evening.
+983,Vienna,2015-11-19,63.66,52.1,Mostly cloudy throughout the day.
+984,Vienna,2015-08-15,89.78,73.36,Light rain overnight.
+985,Vienna,2016-02-26,42.41,31.93,Mostly cloudy throughout the day.
+986,Vienna,2016-11-19,58.08,39.15,Foggy in the morning.
+987,Vienna,2016-11-11,40.7,34.65,Light rain overnight.
+988,Vienna,2016-06-04,77.04,58.17,Mostly cloudy throughout the day.
+989,Vienna,2017-04-03,70.79,47.76,Mostly cloudy starting in the evening.
+990,Vienna,2017-01-27,28.41,24.05,Mostly cloudy starting in the afternoon.
+991,Vienna,2016-08-03,82.71,64.74,Mostly cloudy throughout the day.
+992,Vienna,2016-01-09,34.82,30.83,Light rain in the evening.
+993,Vienna,2016-12-01,42.52,34.33,Mostly cloudy throughout the day and breezy overnight.
+994,Vienna,2015-12-14,42.89,38.62,Mostly cloudy throughout the day.
+995,Vienna,2016-01-20,33.23,18.24,Foggy overnight.
+996,Vienna,2015-10-07,59.84,57.15,Light rain in the afternoon.
+997,Milan,2016-11-19,48.23,45.85,Light rain in the morning.
+998,Milan,2016-01-27,53.2,37.5,Mostly cloudy throughout the day.
+999,Milan,2016-01-25,55.78,32.21,Clear throughout the day.

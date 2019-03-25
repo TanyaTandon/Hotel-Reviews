@@ -1,0 +1,244 @@
+---
+title: "Simple Trees"
+author: "Michel LeRoy"
+date: "3/1/2019"
+output: html_document
+editor_options: 
+chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Checking base R squared of just using average reviewer score for each hotel
+
+```{r}
+library(tidyverse)
+hotel_reviews <- read.csv("../00Data/Hotel_Reviews_v2.csv")
+
+mean_scores <- hotel_reviews %>% group_by(Hotel_Name) %>% summarize(mean_score = mean(Reviewer_Score))
+check <- hotel_reviews[, c("Reviewer_Score", "Hotel_Name")]
+check <- merge(check, mean_scores, by= "Hotel_Name", all.x = TRUE)
+
+check$error <- check$Reviewer_Score - check$mean_score
+SSE <- sum(check$error^2)
+MSE <- SSE/nrow(check)
+r2_base2 <- 1- (MSE/var(check$Reviewer_Score))
+```
+
+
+# Loading all the data and the libraries
+```{r}
+source('dataLoad.R', chdir = T)
+```
+
+
+# Creating the final dataset for analysis
+```{r}
+#remove Hotel ID
+Hotel_pred_df <- Hotel_pred_df[,-c(1)]
+test <- test[,-c(1)]
+train <- train[,-c(1)]
+
+#Remove Hotel Country
+Hotel_pred_df <- Hotel_pred_df[,-c(2)]
+test <- test[,-c(2)]
+train <- train[,-c(2)]
+
+#factor other_cust
+Hotel_pred_df$other_cust <- as.factor(Hotel_pred_df$other_cus)
+test$other_cust <- as.factor(test$other_cus)
+train$other_cust <- as.factor(train$other_cus)
+
+#factor common score
+Hotel_pred_df$CommonScore <- as.factor(Hotel_pred_df$CommonScore)
+test$CommonScore <- as.factor(test$CommonScore)
+train$CommonScore <- as.factor(train$CommonScore)
+
+#factor tourists
+Hotel_pred_df$tourists <- as.factor(Hotel_pred_df$tourists)
+test$tourists <- as.factor(test$tourists)
+train$tourists <- as.factor(train$tourists)
+
+#removing log_neg_word_count and log_pos_word_count
+Hotel_pred_df$log_review_neg_word_count <- NULL
+Hotel_pred_df$log_review_pos_word_count <- NULL
+train$log_review_neg_word_count <- NULL
+train$log_review_pos_word_count <- NULL
+test$log_review_neg_word_count <- NULL
+test$log_review_pos_word_count <- NULL
+
+```
+
+
+#Simple Regression Tree 
+
+```{r}
+#rename variables for pretty tree printing
+names(train)[3] <- "wc"
+names(train)[5] <- "pct_pos"
+names(train)[6] <- "rev_reg"
+
+names(test)[3] <- "wc"
+names(test)[5] <- "pct_pos"
+names(test)[6] <- "rev_reg"
+
+library(rpart)
+set.seed('72839')
+control <- rpart.control(minbucket = 5, cp = 0.001, maxsurrogate = 0, usesurrogate = 0, xval = 10)
+hotel.tr <- rpart(Reviewer_Score~., train, method = "anova", control = control)
+plotcp(hotel.tr)
+printcp(hotel.tr)  
+
+#Find best cp
+bestcp <- hotel.tr$cptable[which.min(hotel.tr$cptable[,"xerror"]),"CP"] # cp with minimal deviance
+bestsplit <- hotel.tr$cptable[which.min(hotel.tr$cptable[,"xerror"]),"nsplit"] # cp with minimal deviance
+bestcp 
+bestsplit
+
+#Prune the tree and fit the best model
+hotel.tr1<-prune(hotel.tr, cp=bestcp)
+plot(hotel.tr1)
+text(hotel.tr1,digits=3)
+
+#Calculate training r squared
+hotel.tr1$cptable[nrow(hotel.tr1$cptable),] 
+cv_r2 <- 1 - hotel.tr1$cptable[nrow(hotel.tr1$cptable),4]
+train_r2 <- 1 - hotel.tr1$cptable[nrow(hotel.tr1$cptable),3]
+cv_r2
+train_r2
+
+hotel.tr1$variable.importance
+library(rpart.plot)
+rpart.plot(hotel.tr1, type = 5, extra = 101, fallen.leaves = TRUE, digits = 2)
+
+#Find test R-squared
+yhat <- predict(hotel.tr1, newdata = test)
+plot(yhat, test$Reviewer_Score)
+MSE <- mean((yhat - test$Reviewer_Score)^2)
+MSE
+rsq_test <- 1-(MSE/var(test$Reviewer_Score))
+rsq_test
+
+#Calculating training r squared on multiple replicates 
+r_squared <- matrix(0,3,1)
+for (i in 1:3) {
+    control <- rpart.control(minbucket = 5, cp = 0.001, maxsurrogate = 0, usesurrogate = 0, xval = 10)
+    hotel.tr <- rpart(Reviewer_Score~., train, method = "anova", control = control)
+    bestcp <- hotel.tr$cptable[which.min(hotel.tr$cptable[,"xerror"]),"CP"] # cp with minimal deviance
+    bestsplit <- hotel.tr$cptable[which.min(hotel.tr$cptable[,"xerror"]),"nsplit"] # cp with minimal deviance
+    hotel.tr1<-prune(hotel.tr, cp=bestcp)
+    hotel.tr1$cptable[nrow(hotel.tr1$cptable),] 
+    cv_r2 <- 1 - hotel.tr1$cptable[nrow(hotel.tr1$cptable),4]
+    train_r2 <- 1 - hotel.tr1$cptable[nrow(hotel.tr1$cptable),3]
+    cv_r2
+    r_squared[i,1] <- cv_r2
+}
+r_sq_ave<- apply(r_squared,2,mean); r_sq_ave
+
+
+```
+
+
+
+##Simple Tree with a lower complexity parameter
+
+```{r}
+#rename variables for pretty tree printing
+names(train)[3] <- "wc"
+names(train)[5] <- "pct_pos"
+names(train)[6] <- "rev_reg"
+
+names(test)[3] <- "wc"
+names(test)[5] <- "pct_pos"
+names(test)[6] <- "rev_reg"
+
+library(rpart)
+set.seed('72839')
+control <- rpart.control(minbucket = 5, cp = 0.001, maxsurrogate = 0, usesurrogate = 0, xval = 10)
+hotel.tr <- rpart(Reviewer_Score~., train, method = "anova", control = control)
+plotcp(hotel.tr)
+printcp(hotel.tr)  
+
+#Find best cp
+bestcp <- hotel.tr$cptable[which.min(hotel.tr$cptable[,"xerror"]),"CP"] # cp with minimal deviance
+bestsplit <- hotel.tr$cptable[which.min(hotel.tr$cptable[,"xerror"]),"nsplit"] # cp with minimal deviance
+bestcp 
+bestsplit
+
+#pruning manually to get an interpretable plot
+bestcp = .00036 
+
+#Prune the tree and fit the best model
+hotel.tr1<-prune(hotel.tr, cp=bestcp)
+plot(hotel.tr1)
+text(hotel.tr1,digits=3)
+
+#Calculate training r squared
+hotel.tr1$cptable[nrow(hotel.tr1$cptable),] 
+cv_r2 <- 1 - hotel.tr1$cptable[nrow(hotel.tr1$cptable),4]
+train_r2 <- 1 - hotel.tr1$cptable[nrow(hotel.tr1$cptable),3]
+cv_r2
+train_r2
+
+hotel.tr1$variable.importance
+library(rpart.plot)
+rpart.plot(hotel.tr1, type = 5, extra = 101, fallen.leaves = TRUE, digits = 2)
+
+#Find test R-squared
+yhat <- predict(hotel.tr1, newdata = test)
+plot(yhat, test$Reviewer_Score)
+MSE <- mean((yhat - test$Reviewer_Score)^2)
+MSE
+rsq_test <- 1-(MSE/var(test$Reviewer_Score))
+rsq_test
+```
+
+
+## Simple Tree Regression on Reviewer Score excluding Review Variables: Word Count, Num Reviews Given, Percent Positive
+```{r}
+train2 <- train[, -c(3, 4,5)]
+test2 <- test[, -c(3, 4,5)]
+
+library(rpart)
+set.seed('72839')
+control <- rpart.control(minbucket = 5, cp = 0.0001, maxsurrogate = 0, usesurrogate = 0, xval = 10)
+hotel.tr2 <- rpart(Reviewer_Score~., train2, method = "anova", control = control)
+plotcp(hotel.tr2)
+printcp(hotel.tr2)  
+
+#Find best cp
+bestcp <- hotel.tr2$cptable[which.min(hotel.tr2$cptable[,"xerror"]),"CP"] # cp with minimal deviance
+bestsplit <- hotel.tr2$cptable[which.min(hotel.tr2$cptable[,"xerror"]),"nsplit"] # cp with minimal deviance
+bestcp 
+bestsplit
+
+#Prune the tree and fit the best model
+hotel.tr2_best<-prune(hotel.tr2, cp=bestcp)
+plot(hotel.tr2_best)
+text(hotel.tr2_best,digits=3)
+
+#Calculate training r squared
+hotel.tr2_best$cptable[nrow(hotel.tr2_best$cptable),] 
+cv_r2 <- 1 - hotel.tr2_best$cptable[nrow(hotel.tr2_best$cptable),4]
+train_r2 <- 1 - hotel.tr2_best$cptable[nrow(hotel.tr2_best$cptable),3]
+cv_r2
+train_r2
+
+hotel.tr2$variable.importance
+
+
+#Find test R-squared
+yhat <- predict(hotel.tr2_best, newdata = test2)
+plot(yhat, test2$Reviewer_Score)
+MSE <- mean((yhat - test2$Reviewer_Score)^2)
+MSE
+rsq_test <- 1-(MSE/var(test2$Reviewer_Score))
+rsq_test
+```
+
+
+
+
